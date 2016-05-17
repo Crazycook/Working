@@ -11,10 +11,6 @@ http://veetle.com/index.php/hls/streamMbrFast/51e482fa02883_/stream.m3u
 http://veetle.com/index.php/hls/streamMbrfast/541c316fe8423_/stream.m3u8
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/ac/Stargate_SG-1_logo.svg/revision/latest/scale-to-width-down/250?cb=20160104235906" group-title="24/7",24/7 Stargate SG1
 https://video06-atl.streamup.com/app/stargate-sg1_aac/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/ce/TheVentureBros-tv-logo.png/revision/latest?cb=20160226152143" group-title="24/7",24/7 The Venture Bros.
-http://adultswim-lh.akamaihd.net/i/venturebros_1@318517/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/72/Tim_and_Eric%27s_Bedtime_Stories_intertitle.png/revision/latest/scale-to-width-down/250?cb=20150226215854" group-title="24/7",24/7 Tim and Eric
-http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/master.m3u8
 #EXTINF:0 tvg-name="Bruce Lee" tvg-logo="https://38.media.tumblr.com/avatar_fdd26d32e09d_128.png" group-title="24/7", Bruce Lee (24/7)
 
 http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8
@@ -34,17 +30,11 @@ rtsp://184.72.239.149/vod/mp4:BigBuckBunny_175k.mov
 
 #EXTINF:-1 tvg-logo="http://cdn4.aptoide.com/imgs/c/7/7/c773f47c9723cef48ba04b229895bafc.png" group-title="24/7",Camp Cartoon (classics)
 mms://72.13.93.186/campcartoon
-#EXTINF:-1 tvg-name="AS" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d3/Adult_Swim_Toonami_2014_logo.png/revision/latest/scale-to-width-down/170?cb=20151219163654" group-title="24/7",ADULT SWIM
-http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="AS" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d3/Adult_Swim_Toonami_2014_logo.png/revision/latest/scale-to-width-down/170?cb=20151219163654" group-title="24/7",ADULT SWIM Fish Center
 http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$
 
 #EXTINF:-1,[COLOR yellow]---------------------- USA----------------------[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:0 group-title="USA",Amazing Facts TV
-
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 
 #EXTINF:0 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H2_OtslAtFhN4elda9KrqTxTIwDEv54BGqet6LAHlmoJsKPA" group-title="USA",Family Friendly Entertainment
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
@@ -101,8 +91,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/19/Mello_2015.png/revision/latest/scale-to-width-down/200?cb=20150501190808" group-title="USA",MELLO TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1010732594_b614000_sleng.m3u8
-#EXTINF:-1 tvg-name="JIM JAM" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/00/Jimjam2011eveninglogo.png/revision/latest?cb=20120902165504" group-title="USA",JIM JAM TV
-http://77.120.118.235:8089
 #EXTINF:0 tvg-name="e/i" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6f/PBS_e-i_bug2.png/revision/latest?cb=20130830051240" group-title="USA",e/i
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 #EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9f/WGN9_Television_Chicago.svg/revision/latest/scale-to-width-down/200?cb=20130716225453" group-title="USA",WGN News Chicago
@@ -207,14 +195,8 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]---------------------- UK----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d1/Investigation_discovery_us_2012.png/revision/latest?cb=20120728162836&format=webp" group-title="UK",Discovery ID
-http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/178.ts
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cb/Discovery_Turbo_2009.png/revision/latest/scale-to-width-down/300?cb=20100413144122&format=webp" group-title="UK",Discovery Turbo
 http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/183.ts
-#EXTINF:-1 tvg-name="SKY 1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/91/Sky1_logo_2011.svg/revision/latest/scale-to-width-down/200?cb=20110205171207" group-title="UK",SKY 1
-http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/201.ts
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/47/Sky2_logo_2011.svg/revision/latest/scale-to-width-down/200?cb=20111031100604" group-title="UK",SKY 2
-http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/202.ts
 #EXTINF:-1  tvg-logo="http://etvix.com/wp-content/uploads/2016/01/Londonlive.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0 tvg-logo="http://bks.tv/upload/mute-tv-LOGO.jpg" group-title="UK", Mute TV 3D
@@ -244,8 +226,6 @@ http://spb1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
 
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 
-#EXTINF:0 tvg-logo="http://www.uitzinnig.nl/agenda/fotos/62d0141a2d72f3160837aadd.jpg" group-title="Music",Amsterdam Dance Event 2015 (Music) (US) (English)
-https://geo-live.beatport.com/streams/nbacb7zgivah/amsterdam/1444817891/1050.m3u8
 #EXTINF:-1 tvg-name="aMazing" tvg-logo="http://www.amazingtv.pl/resources/public/multimedia/css/plecakpelenwrazen/image/template/logo.png" group-title="Music", aMazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",ATOMIC TV
@@ -402,8 +382,6 @@ http://rtmp.one.by:1499
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music",ONE 4
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music", Radio Deejay  (solo audio)
-http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
 #EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Music",Power TV HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="Music",RADIO 538 TV
@@ -1189,23 +1167,9 @@ http://stream.infowars.com
 http://thedetour.us/player/talk.pls
 #EXTINF:-1 group-title="Radio and Digital Music",BG Radio
 http://91.187.113.181:8000/play/8t83
-#EXTINF:-1 group-title="Radio and Digital Music",Darik Radio
-http://91.187.113.181:8000/play/8t84
-#EXTINF:0 group-title="Radio and Digital Music",Abacus.fm Vintage One
-
-http://91.121.166.38:7310
-
 #EXTINF:0 group-title="Radio and Digital Music",Public Domain Jazz - Swiss Internet Radio - Shoutcast Streaming Technology by www.init7.net
 
 http://82.197.167.138:80
-
-#EXTINF:0 group-title="Radio and Digital Music",PlayMistyforMe
-
-http://streaming202.radionomy.com:80/Play-Misty-for-Me
-
-#EXTINF:0 group-title="Radio and Digital Music",RadioSkyMusic
-
-http://streaming202.radionomy.com:80/RadioSky-Music
 
 #EXTINF:0 group-title="Radio and Digital Music",Trancemission FM Radio
 
@@ -1908,31 +1872,9 @@ http://online-kissfm.tavrmedia.ua/KissFM_trance
 
 http://online-kissfm.tavrmedia.ua/KissFM
 
-
 #EXTINF:0 group-title="Radio and Digital Music",89.3 KPCC - Southern California Public Radio
 
 http://kpcclive1.publicradio.org:80/
-
-#EXTINF:0 group-title="Radio and Digital Music",A Pac
-
-mms://wm9.streaming.telstra.com/ucs-wh_APAC0Live2
-
-#EXTINF:0 group-title="Radio and Digital Music",A Radio 70's
-
-http://31.12.64.204:8000/A-RADIO-70s-JUICE
-
-#EXTINF:0 group-title="Radio and Digital Music",A Radio 80's
-
-http://31.12.64.204:8000/A-RADIO-80s-JUICE
-
-#EXTINF:0 group-title="Radio and Digital Music",A Radio 90's
-
-http://31.12.64.204:8000/A-RADIO-90s-JUICE
-
-#EXTINF:0 group-title="Radio and Digital Music",A Radio Top 40
-
-http://31.12.64.204:8000/A-RADIO-TOP-40
-
 #EXTINF:0 group-title="Radio and Digital Music",A90's
 
 http://streaming204.radionomy.com:80/A90-s
@@ -1998,11 +1940,6 @@ http://radionz-ice.streamguys.com/international.mp3
 #EXTINF:0 group-title="Radio and Digital Music",Smooth Jazz Radio
 
 http://s1.viastreaming.net:8100
-
-#EXTINF:0 group-title="Radio and Digital Music",Social Crime Radio
-
-http://173.192.224.123:8439/
-
 #EXTINF:-1 group-title="Radio and Digital Music",Metal Mania
 http://us2.internet-radio.com:8268/;stream
 #EXTINF:-1 group-title="Radio and Digital Music",Power Back
@@ -2034,8 +1971,6 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5extra_mf_pgroup-title="Radio 
 http://pub2.diforfree.org:8000/di_club_hi
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio and Digital Music",BBC World Service
 http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqyqWhUbNxVy4v19_dCTTfEgDzvbgCTu8GWM_WwpXtglOWA_Ee8oUBoA" group-title="Radio and Digital Music",CBC Radio One 102.5 FM 540 AM Regina 94.1 FM Saskatchewan
-http://www.streamingthe.net/CBC-Radio-One-102.5-FM-540-AM-Regina-94.1-FM-Saskatchewan/p/2134/live
 #EXTINF:-1 group-title="Radio and Digital Music",M2 Rock
 http://185.57.237.1:8000/m2rock
 #EXTINF:0 group-title="Radio and Digital Music",CBS HD (Radio) (US) (English)
@@ -2056,10 +1991,6 @@ http://108.61.73.120:8018/
 http://50.7.77.179:8022/
 #EXTINF:0 group-title="Radio and Digital Music",Classic Country 1630
 http://199.195.194.140:8303/stream
-#EXTINF:-1 tvg-name="93.7 PRAISE FM MEDICINE HAT AB" tvg-logo="http://cdn-radiotime-logos.tunein.com/p464999q.png" group-title="Radio and Digital Music",93.7 PRAISE FM MEDICINE HAT AB
-http://cdn.domtardif.info/m3u/radio/Alberta/Medicine%20Hat.m3u
-#EXTINF:0 tvg-name="CBC Radio 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/33/CBC_Radio_One.svg/revision/latest/scale-to-width-down/300?cb=20140915235420" group-title="Radio and Digital Music",CBC Radio 1 Saskatoon
-http://14533.live.streamtheworld.com/CBC_R1_SSK_H_SC
 #EXTINF:0 tvg-name="CFCK 103.9 FM Canoe Lake Saskatchewan" tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Radio and Digital Music",CFCK 103.9 FM Canoe Lake Saskatchewan
 http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
 #EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Radio and Digital Music",CJCQ Q98 97.9 FM North Battleford Saskatchewan
@@ -2683,8 +2614,6 @@ http://0.0.0.0:1234
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-name="NFL Now" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest/scale-to-width-down/200?cb=20150803005255" group-title="Sports",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:0 group-title="Sports",NFL Now 5000k
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 group-title="Sports",Fox Sports 502 HD
@@ -2817,18 +2746,8 @@ http://162.248.6.122:8080
 #EXTINF:0 group-title="Sports", FOX SPORTS AU 4 HD
 
 http://162.248.6.122:8084
-#EXTINF:0 group-title="Sports",Ten Cricket
-
-http://zeefamily2-i.akamaihd.net/hls/live/231616/tencricket_1500/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://storage.sunmedia.ca/v1/tvasports_prod/static/photo/a0cb61ad-0311-4e4e-956b-c41165cf8596_le_tva_sports_site.jpg" group-title="USA",TVA SPORTS (CAN)(FRE)
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg" group-title="Sports",MOTORSPORT USA
 http://motorsport.hopto.org:8080/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAcHr6iUvJEhowgFJuNJ0NOzZLKwPkU7OEyPU98C9mtFnqTG1-frrtRA" group-title="Sports",SBS GOLF
-http://218.38.29.238/sbsgolfpc/sbsgolf3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=&time=1454374137916
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Realmadrid-TV.jpg/220px-Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFjtcc2kUG6mW5_AqOXrIJzb9Q9nMinn5PyOUbWz5PaI4vyPqKoQJZt8" group-title="Sports",arriadia (Morocco)
 http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1900000-21736840.m3u8
 
@@ -2836,56 +2755,6 @@ http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1
 #EXTINF:-1,[COLOR yellow]---------Filmon---------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Channel4
-rtsp://live303.edge.filmon.com:1935/live/2.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Al Jazeera
-rtsp://live303.edge.filmon.com:1935/live/4.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Food Network
-rtsp://204.107.27.248:1935/live/20.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Channel5
-rtsp://live303.edge.filmon.com:1935/live/22.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c3
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",BBC News
-rtsp://live304.edge.filmon.com:1935/live/27.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",E4
-rtsp://live304.edge.filmon.com:1935/live/65.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c3
-#EXTINF:0 ,Dubai Sports
-rtsp://live300.edge.filmon.com:1935/live/79.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Bloomberg
-rtsp://live304.edge.filmon.com:1935/live/81.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",BBC 1 North Ireland
-rtsp://live304.edge.filmon.com:1935/live/361.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",MBC Action
-rtsp://live300.edge.filmon.com:1935/live/369.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Camera dei Deputati
-rtsp://live300.edge.filmon.com:1935/live/379.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Canale Italia
-rtsp://live300.edge.filmon.com:1935/live/445.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",QVC Italia
-rtsp://live300.edge.filmon.com:1935/live/463.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",5USA
-rtsp://204.107.27.248:1935/live/845.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",EuroNews
-rtsp://live300.edge.filmon.com:1935/live/1672.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",CCTV News
-rtsp://live300.edge.filmon.com:1935/live/1675.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",France2
-rtsp://live300.edge.filmon.com:1935/live/1717.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",CBS Drama
-rtsp://204.107.27.248:1935/live/1805.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",CBS Reality
-rtsp://204.107.27.248:1935/live/1808.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",CBS Reality+1
-rtsp://204.107.27.248:1935/live/1811.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",ITV+1
-rtsp://204.107.27.248:1935/live/1817.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",ITV2+1
-rtsp://204.107.27.248:1935/live/1820.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",ITV3+1
-rtsp://204.107.27.248:1935/live/1823.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",ITV4+1
-rtsp://204.107.27.248:1935/live/1826.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
-#EXTINF:0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAgPgzxmYG2ONp4vVWyFeMtiZkfcfCJPRDOufganw1IELff23" group-title="FilmOn",Food Network+1
-rtsp://204.107.27.248:1935/live/1829.high.stream/?id=0ad5aac39bb13fbe686a024bdbb93fc37a7a3b3ee3f19b0de71f0ce15e5e8279fedcb2b6ad03ab0645040fb54bb1674f6231bbd88467422ff959cb79579f446805a5c7fe803320e30e9bca883c40f600414cee861b84f410876153dedd89785be71c1aec5e7088965a3a59259843af361b051019b91ed2d34513c8a3566e22f4b54105213c538b38be0563400ac7e149b71e9fdf0b0a6c37
 
 #EXTINF:-1,[COLOR yellow]-----------Webcams---------[/COLOR]
 http://0.0.0.0:1234
@@ -3121,7 +2990,6 @@ http://cdn-03.whatsupcams.com/hls/hr_tkon05.m3u8
 http://cdn-03.whatsupcams.com/hls/hr_zagrUrl.m3u8
 #EXTINF:0 group-title="Webcams",zg zoo
 http://cdn-03.whatsupcams.com/hls/hr_zgzoo04.m3u8
-
 #EXTINF:-1 group-title="WEBCAM",vODAFON wEB CAM
 http://37.252.248.84/nokta_vodafone/nokta3/stml.m3u8
 #EXTINF:-1 group-title="WEBCAM",EXYUG-Zrenjanin
@@ -3132,122 +3000,6 @@ http://178.33.229.71:1935/parkkrasnala/parkkrasnala.stream/playlist.m3u8
 http://77.89.89.10:1935/rtplive/rynek.stream/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAM",EXYUG-Banja luka (trg krajine)
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Myrtle Beach, BeachCam -South Carolina
-http://video1.earthcam.com/fecnetwork/3635.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Miami, South Beach, Newscafe -Florida
-http://video1.earthcam.com/fecnetwork/3644newscafe.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Hamburg -Deutschland
-http://video1.earthcam.com/fecnetwork/3847fairmont.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Brooklyn Bridge
-http://video1.earthcam.com/fecnetwork/3983.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Times Square, South View
-http://video1.earthcam.com/fecnetwork/4017timessquare.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New Orleans, Bourbon Street -Louisiana
-http://video1.earthcam.com/fecnetwork/4280.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New Orleans, Bourbon St., Cats Meow Karaokebar -Louisiana
-http://video1.earthcam.com/fecnetwork/4281.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Taro Safari Park, Elephant-Cam BathingPool -Bali/Indonesien
-http://video1.earthcam.com/fecnetwork/4338.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",St. Croix -Virgin Islands
-http://video1.earthcam.com/fecnetwork/4480.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Corpus Christi -Texas
-http://video1.earthcam.com/fecnetwork/4496.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Hot Springs -Jordanien
-http://video1.earthcam.com/fecnetwork/4515.flv/hasbahca.m3u
-#EXTINF:-1 group-title="WEBCAM",Tara Suites -Aruba
-http://video1.earthcam.com/fecnetwork/4644.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Bucuti Beach Wing -Aruba
-http://video1.earthcam.com/fecnetwork/4646.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Times Square, Crossroads
-http://video1.earthcam.com/fecnetwork/4717.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Sante Fe -New Mexico
-http://video1.earthcam.com/fecnetwork/4831.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-City of Paterson, FallsCam -New Jersey
-http://video1.earthcam.com/fecnetwork/4918.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Steamtown-Cam, Scranton -Pennsylvania
-http://video1.earthcam.com/fecnetwork/5005.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Seattle, Skyline -Washington
-http://video1.earthcam.com/fecnetwork/5019.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Kauai, Surfcam Koloa -Hawaii
-http://video1.earthcam.com/fecnetwork/5204.flv/hasbahca.m3u
-#EXTINF:-1 group-title="WEBCAM",Cluj Napoca, Union Square -Rumänien
-http://video1.earthcam.com/fecnetwork/5206.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Algonquin Park -Canada
-http://video1.earthcam.com/fecnetwork/5230.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Valletta, Port -Malta
-http://video1.earthcam.com/fecnetwork/5245.flv/.m3u8
-#EXTINF:-1 group-title="WEBCAM",Hella, Hotel Ranga -Island(Polarlight
-http://video1.earthcam.com/fecnetwork/5299.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-El Paso -Texas
-http://video1.earthcam.com/fecnetwork/5307.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Midtown East
-http://video1.earthcam.com/fecnetwork/5321.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Las Vegas, Wedding chapel -Nevada(USA
-http://video1.earthcam.com/fecnetwork/5359.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Las Vegas, Wedding chapel -Nevada
-http://video1.earthcam.com/fecnetwork/5359.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Destin -Florida
-http://video1.earthcam.com/fecnetwork/5424.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Las Vegas, Plaza Park -New Mexico
-http://video1.earthcam.com/fecnetwork/5465.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Gettysburg, Battlefield-Cam -Pennsylvania
-http://video1.earthcam.com/fecnetwork/5536.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Sandestin Beach, Destin -Florida
-http://video1.earthcam.com/fecnetwork/5663.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-St. Joseph, Lighthouise Cam -Michigan
-http://video1.earthcam.com/fecnetwork/5665.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Snyder Square, Snyder -Texas
-http://video1.earthcam.com/fecnetwork/5666.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Daytona Beach -Florida
-http://video1.earthcam.com/fecnetwork/5718.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Fort Myers, Areal View -Florida
-http://video1.earthcam.com/fecnetwork/5719.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Wildwood -New Jersey
-http://video1.earthcam.com/fecnetwork/5732.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Sedona, Seven Arches -Arizona
-http://video1.earthcam.com/fecnetwork/5805.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-San Jacinto Monument -Texas
-http://video1.earthcam.com/fecnetwork/6081.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Oak Harbor -Washington
-http://video1.earthcam.com/fecnetwork/6172.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Santa Monica, Pier -California
-http://video1.earthcam.com/fecnetwork/6253.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",The Palm, Atlantis 2, Dubai Hotel und Resort View -UAE
-http://video1.earthcam.com/fecnetwork/6405.flv/hasbahca.m3u
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Columbus Circle
-http://video1.earthcam.com/fecnetwork/6427.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-San Francisco -California
-http://video1.earthcam.com/fecnetwork/6603.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Charging Bull, Wall Street
-http://video1.earthcam.com/fecnetwork/chargingbull.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Las Vegas -Nevada
-http://video1.earthcam.com/fecnetwork/eclasvegas.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Hampton Beach -New Hampshire
-http://video1.earthcam.com/fecnetwork/hampton-beach-cam.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Times Square, 47th and Broadway
-http://video1.earthcam.com/fecnetwork/hdtimes10.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Times Square, Street Cam
-http://video1.earthcam.com/fecnetwork/hdtimes11.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",Budapest -Ungarn
-http://video1.earthcam.com/fecnetwork/hotelvictoria2.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Los Angeles, Hollywood Blvd -California
-http://video1.earthcam.com/fecnetwork/lacitytours1.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-New York, Manhattan Skyline
-http://video1.earthcam.com/fecnetwork/libertyHD1.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Miami, Biscayne Bay -Florida
-http://video1.earthcam.com/fecnetwork/miamivishd4.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Panda-Cam, Zoo Atlanta -Georgia
-http://video1.earthcam.com/fecnetwork/pandacam.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Panama City, Beach -Florida
-http://video1.earthcam.com/fecnetwork/pinewill.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Sedona, Red Rock Cam -Arizona
-http://video1.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u
-#EXTINF:-1 group-title="WEBCAM",Tokyo -Japan
-http://video1.earthcam.com/fecnetwork/tokyo1.flv/hasbahca.m3u
-#EXTINF:-1 group-title="WEBCAM",USA-Los Angeles, Marina Del Rey -California
-http://video1.earthcam.com/fecnetwork/uscmarina.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",USA-Fort Lauderdale -Florida
-http://video1.earthcam.com/fecnetwork/windjammerHD2.flv/hasbahca.m3u8
 #EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 1
 http://vpiter.tv:8083/camera1/h264
 #EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 13
@@ -4881,22 +4633,10 @@ http://bit.ly/1Sezpw1
 #EXTINF:-1,[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Playboy" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/37/Playboy_TV_Logo.svg/revision/latest/scale-to-width-down/145?cb=20130325074908" group-title="XXX TV",Playboy
-http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
-#EXTINF:0 tvg-name="BRAZZERS TV Europe" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/BRAZZERS_TV_2015.png/revision/latest/scale-to-width-down/220?cb=20150309165828" group-title="XXX TV",BRAZZERS TV Europe
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1 tvg-name="Penthouse HD1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/56/PENTHOUSE_1.jpg/revision/latest?cb=201503151050218" group-title="XXX TV",Penthouse HD1
-http://195.228.11.89:4080/udp/225.255.255.75:10000
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", JAZMIN TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 tvg-name="PASSION XXX" tvg-logo="http://www.passionxxx.net/img/logo.png" group-title="XXX TV",PASSION XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.passionxxx.net/img/logo.png" group-title="XXX TV", PASSION XXX (opt2)
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://030.strelatelecom.ru/tv/channels/olala.jpg" group-title="XXX TV", O-LA-LA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",LATIN LIVE SEX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1 tvg-logo="http://i182.photobucket.com/albums/x283/paznit/th_babestation_logo.png" group-title="XXX TV",Babestation 1
@@ -4907,19 +4647,8 @@ http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
 http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",FRENCHLOVER TV LOVE
 http://178.46.154.106:8000/play/a01x
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",CANDY
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",PASSION XXX
 http://178.46.154.106:8000/play/a025
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",RUSSIAN NIGHT 18
-http://62.210.251.159/iptv/AZAZZ72ELRUM5G/147/index.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",Blue Hustler
-http://89.254.202.205:4022/udp/233.99.61.87:5000
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",privatetv
-http://5.135.139.145:80/Private_TV/mono.m3u8
-#EXTINF:-1 group-title="XXX TV",SuperOne +18 Adult
-http://91.226.241.210:4022/udp/239.1.0.16:1234 
-#EXTINF:0 group-title="XXX TV",Spice Tv 18+ (Adult) (US) (English)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
-
 
 #EXTINF:-1, [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
@@ -6040,28 +5769,6 @@ http://drainmainvein.com/media/videos/mp4/996.mp4
 http://drainmainvein.com/media/videos/mp4/997.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 998.mp4
 http://drainmainvein.com/media/videos/mp4/998.mp4
-#EXTINF:-1 tvg-name="Adult 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX-VOD +18", Adult 1
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/459.png" group-title="XXX-VOD +18", Adult 2
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/457.png" group-title="XXX-VOD +18", Adult 3
-http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Adult 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/449.png" group-title="XXX-VOD +18", Adult 6
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/451.png" group-title="XXX-VOD +18", Adult 7
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/297.png" group-title="XXX-VOD +18", Adult 8
-http://iptvnation.com/porn/video.mp4
-EXTINF:-1 tvg-name="Adult 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/447.png" group-title="XXX-VOD +18", Adult 10
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/473.png" group-title="XXX-VOD +18", Adult 11
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/485.png" group-title="XXX-VOD +18", Adult 17
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/593.png" group-title="XXX-VOD +18", Adult 20
-http://iptvnation.com/porn/video.mp4
-#EXTINF:-1 tvg-name="Adult 21" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/595.png" group-title="XXX-VOD +18", Adult 21
-http://iptvnation.com/porn/video.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",XXX1
 http://prostoporno.net/get_file/2/e79be289c0911d53b74e6c59cbc34375/82000/82603/82603.flv
 #EXTINF:-1 group-title="XXX-VOD +18",XXX2
