@@ -191,19 +191,47 @@ http://link.theplatform.com/s/dtjsEC/chjdYJxKb44V?manifest=m3u
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA", TWiT Live
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="USA",hbo family
+http://bit.do/b2tYr
+#EXTINF:-1 group-title="USA",hbo v2
+http://bit.do/b2n7h
+#EXTINF:-1 group-title="USA",comedy central
+http://iliketot.dyndns.tv/tot/web/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1 group-title="USA",fox news
+http://iliketot.dyndns.tv/tot/web/1e2041858ca543fa90ec95d28197e907.m3u8
+
 
 #EXTINF:-1,[COLOR yellow]---------------------- UK----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cb/Discovery_Turbo_2009.png/revision/latest/scale-to-width-down/300?cb=20100413144122&format=webp" group-title="UK",Discovery Turbo
 http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/183.ts
-#EXTINF:-1  tvg-logo="http://etvix.com/wp-content/uploads/2016/01/Londonlive.png" group-title="UK",London Live
+#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2016/01/Londonlive.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0 tvg-logo="http://bks.tv/upload/mute-tv-LOGO.jpg" group-title="UK", Mute TV 3D
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
 #EXTINF:0 tvg-logo="http://bks.tv/upload/mute-tv-LOGO.jpg" group-title="UK", Mute TV HD
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/229px-RT%C3%89_logo.svg.png" group-title="UK",rte 1 ireland
+http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RT%C3%89_logo.svg/229px-RT%C3%89_logo.svg.png" group-title="UK",rte 2 ireland
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",Sky Movies Family
+http://bit.do/SKYMOVIES-FAMILYYY
+#EXTINF:-1 tvg-logo="" group-title="UK",Baby TV
+http://bit.do/BABYTV-TVVVV
+#EXTINF:-1 group-title="UK",SHOW HD
+http://bit.do/h3EhkG4g6mst0l
+#EXTINF:-1 group-title="UK",sky movies action
+http://51.255.81.190:8080/UK-Sky-Movies-Action/mono.m3u8
+#EXTINF:-1 group-title="UK",sky movies comedy
+http://51.255.81.190:8080/UK-Sky-Movies-Comedy/mono.m3u8
+#EXTINF:-1 group-title="UK",sony six
+http://149.202.85.84:8080/SsNysX-Kutta-14May/local/index.m3u8
+#EXTINF:-1 group-title="UK",sky movies premier
+http://51.255.81.190:8080/UK-Sky-Movies-Premiere/mono.m3u8
+#EXTINF:-1 group-title="UK",sky movies showcase
+http://51.255.81.190:8080/UK-Sky-Movies-Showcase/mono.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------------------- Other Countries ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -231,6 +259,10 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",ATOMIC TV
 rtmp://5.154.185.153/live/live.flv
 
+#EXTINF:-1 group-title="Music",b4u music
+http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",Beatz HD
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bgmusic.tv/assets/img/logo.png" group-title="Music",BG MUSIC CHANNEL
 
 http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
@@ -279,6 +311,8 @@ http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="Music",English Knob Ch3 music mms
 mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
+#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/europa-plus.png" group-title="Music",EuropaPlus
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Best-Music-TV_o.jpg" group-title="Music",ESKA BEST MUSIC
 
 rtmp://stream.smcloud.net/live2/best/best_720p
@@ -296,8 +330,10 @@ rtmp://stream.smcloud.net/live2/wawa/wawa_720p
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",ESKA PARTY
 
 http://stream.smcloud.net/live2/eska_party/eska_party_720p/Eska&Party&TV.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",ESKA PARTY
+#EXTINF:-1 ,ESKA PARTY
 http://s4w.deb1.scdn.smcloud.net/live/_definst_/eska_party/chunklist_w608648097.m3u8
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",Eska Vox
+http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg" group-title="Music",POLO PARTY TV
 
 rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
@@ -322,11 +358,15 @@ rtmp://91.201.78.3:1935/live/jazzhd
 
 rtmp://91.201.78.3:1935/live/jazzhd
 
+#EXTINF:-1 tvg-logo="http://www.gruenderszene.de/jobboerse/uploads/logo_big/1379593916joiz_rgb_whiteonblack.jpg" group-title="Music",JOIZ
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8?sd=10&rebase=on&time=1451946826672
 #EXTINF:-1 tvg-name="JUC TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music", JUC TV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png" group-title="Music",KISS TV
 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHUyjdMaYxiAgw2bzinnf73xsqZo-Ys46GhMUXbVMjkweDWYFg" group-title="Music",Kronehit
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png" group-title="Music",Live Beatz
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.12767.13510798883206434.98db4425-a119-48b9-82a0-1abdf529cc3a.9eacf21b-cd34-4f09-8a42-2b47476d7c57?w=96&h=96&q=60" group-title="Music",M2O TV
@@ -349,18 +389,28 @@ http://74.208.152.93/music/stream3/stream.m3u8
 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 
+#EXTINF:-1 tvg-logo="http://rs1198.pbsrc.com/albums/aa444/kys666/italy-radio-monte-carlo.jpg~c20" group-title="Music",MONTECARLO MUSIC
+rtmp://fms.105.net/live/rmc1
 #EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UOuLKSfS_nFVfeLfkdVNYs_JBxNLy7DPhjBMXQJhh-_HDzYs" group-title="Music",My JAM TV
 http://108.61.159.243:1935/XStreamEngine-243/smil:MyJamTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-08Oqh6qSeEM/VcSVu3WiTJI/AAAAAAAABCA/2UmT8_qolMI/s1600/VOX%2BOlds%2BCool%2BTV%2BLive%2BStream%2BOnline.png" group-title="Music",Music Vox TV
 rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1 tvg-logo="http://i0.wp.com/www.canlitvde.com/wp-content/uploads/2015/03/musicbox.gif?resize=138%2C93" group-title="Music", Musicbox
+#EXTINF:-1 tvg-logo="http://i0.wp.com/www.canlitvde.com/wp-content/uploads/2015/03/musicbox.gif?resize=138%2C93" , Musicbox
 http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Music",mtunes
+http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/master.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9vSAj7vAjAQ/UP8G7a4y4aI/AAAAAAAAOVw/mt9Tfy5DWYw/s200/Muz_Tv.png" group-title="Music",MUZ TV
 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKEq0VNCYgLlcIcMd9WnMM95JOMJtdkUHxtAgPh1g-6lOIozO" group-title="Music",MUZZ ONE
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.believe-dance.dk/wp-content/uploads/2012/03/mtv-dance2.gif" group-title="Music",mtv dance
+http://62.210.251.159/iptv/LCCXW5PCPRZCUY/558/index.m3u8
+#EXTINF:-1 tvg-logo="https://pp.vk.me/c629103/v629103740/1e37b/o5ostP1-GOw.jpg" group-title="Music",mtv hits
+http://62.210.251.159/iptv/LCCXW5PCPRZCUY/153/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI8zpYWPSLLeWt-IRi139c_8PsEiBXdd69MNGg7TqdgI6M5ArXUg" group-title="Music",mtv live hd
+http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u
 #EXTINF:0 tvg-logo="http://w3.satkurier.pl/pliki/22492.png" group-title="Music",Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/toutquebectv/_/rsrc/1431248845137/tv-france/NRJ_Hits.jpg?height=193&width=200" group-title="Music",NRJ HITS
@@ -382,6 +432,8 @@ http://rtmp.one.by:1499
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music",ONE 4
 http://rtmp.one.by:2300
 
+#EXTINF:-1 group-title="Music",outv2 ?
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Music",Power TV HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="Music",RADIO 538 TV
@@ -421,6 +473,18 @@ http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sporttime.tv/r/img/logo.png" group-title="Music",Sport Music
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime2
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime3
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime4
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime5
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime6
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Music",Sportime7
+rtmp://streamer.a1.net/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 #EXTINF:0 tvg-logo="http://www.roomy-tv.com/images/681.png" group-title="Music",Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 
@@ -444,6 +508,8 @@ http://5.35.240.130:30005
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",TV Blast
 http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:-1 group-title="Music",UTV ?
+http://81.201.52.159:8016
 #EXTINF:-1 tvg-name="Vevo TV 1" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",Vevo TV 1 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1 tvg-logo=tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 1
@@ -533,6 +599,11 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 http://91.187.113.181:8000/play/a021
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",C Music World TV
 mmsh://streaming.cmusic.tv/cmusicworld-tv
+#EXTINF:-1 tvg-logo="http://texastravestyarchives.com/2003_09/images/vh1.gif" group-title="Music",vh1
+http://62.210.251.159/iptv/LCCXW5PCPRZCUY/536/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/120px-Xite_Logo_New.jpg" group-title="Music",Xite Ger
+http://highvolume02.streampartner.nl/vleugels2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-
 
 #EXTINF:-1,[COLOR yellow]------------ Radio and Digital Music----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2610,9 +2681,13 @@ http://afewbitsmore.com/albums/Beatles/Past%20Masters/Volume%202/The%20Beatles-P
 #EXTINF:-1,[COLOR yellow]---------------------- Sports ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 group-title="Sports",alkass 4
+http://alkass-i.akamaihd.net/hls/live/205534/4/live_30s20.m3u8
+#EXTINF:-1 tvg logo="http://axgig.com/images/68014214592348046057.png" group-title="Sports",at the races
+http://149.202.207.8:8080/attheraces-14May/sallu/index.m3u8
 #EXTINF:0 group-title="Sports",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-name="NFL Now" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest/scale-to-width-down/200?cb=20150803005255" group-title="Sports",NFL Now Live
+#EXTINF:-1 tvg logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/68/NFL_NOW_horz_RGB.jpg/revision/latest/scale-to-width-down/200?cb=20150803005255" group-title="Sports",NFL Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
@@ -2666,6 +2741,38 @@ http://37.187.24.177:80/2001/2001/712.ch
 http://37.187.24.177:80/2001/2001/713.ch
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Bein_16.png/revision/latest/scale-to-width-down/200?cb=20150715180507" group-title="Sports",beinHD_Sports_HD16
 http://37.187.24.177:80/2001/2001/714.ch
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 10
+http://bit.do/bZ9u6
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 11
+http://bit.do/bZ9uR
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 12
+http://bit.do/bZ9uE
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 3
+http://bit.do/bZ9ws
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 4
+http://bit.do/bZ9wh
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 5
+http://bit.do/bZ9vV
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 6
+http://bit.do/bZ9vJ
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 7
+http://bit.do/bZ9vr
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 8
+http://bit.do/bZ9ve
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/Bein_11.png/revision/latest?cb=20140323172853" group-title="Sports",bein 9
+http://bit.do/bZ9va
+#EXTINF:-1,cth 1
+http://149.202.207.8:8080/cth1-14May/sallu/index.m3u8
+#EXTINF:-1,cth 2
+http://149.202.207.8:8080/cth2-14May/sallu/index.m3u8
+#EXTINF:-1,cth 3
+http://149.202.207.8:8080/cth3-14May/sallu/index.m3u8
+#EXTINF:-1,cth 4
+http://149.202.207.8:8080/cth4-14May/sallu/index.m3u8
+#EXTINF:-1,cth 5
+http://149.202.207.8:8080/cth5-14May/sallu/index.m3u8
+#EXTINF:-1,cth 6
+http://149.202.207.8:8080/cth6-14May/sallu/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest/scale-to-width-down/200?cb=20140712174845" group-title="Sports",beinHD Sport 1 FR
 http://37.187.24.177:80/2001/2001/715.ch
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg/revision/latest/scale-to-width-down/200?cb=20140712174936" group-title="Sports",beinHD Sport 2 FR
@@ -2682,6 +2789,8 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport",Sky Sports 1
+http://bit.do/SKY-SPORT1AAAA
 #EXTINF:-1 group-title="Sports",SKY SPORTS 1 – UK
  http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
 #EXTINF:-1 group-title="Sports",SKY SPORTS 2 – UK
@@ -2748,9 +2857,14 @@ http://162.248.6.122:8080
 http://162.248.6.122:8084
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg" group-title="Sports",MOTORSPORT USA
 http://motorsport.hopto.org:8080/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFjtcc2kUG6mW5_AqOXrIJzb9Q9nMinn5PyOUbWz5PaI4vyPqKoQJZt8" group-title="Sports",arriadia (Morocco)
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Sports",arriadia (Morocco)
 http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1900000-21736840.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Sports",ORF SPORT + (Austria)
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8?wowzasessionid=4
+#EXTINF:-1 group-title="Sports",sky bundesliga 1
+http://51.255.81.190:8080/DE:Sky-Bundesliga-1-HD/mono.m3u8
+#EXTINF:-1 group-title="Sports",super tennis
+http://bit.do/b2tWA
 
 #EXTINF:-1,[COLOR yellow]---------Filmon---------[/COLOR]
 http://0.0.0.0:1234
@@ -4649,6 +4763,38 @@ http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
 http://178.46.154.106:8000/play/a01x
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",PASSION XXX
 http://178.46.154.106:8000/play/a025
+#EXTINF:-1 group-title="XXX TV",Erotik
+http://188.242.187.53:4022/udp/239.239.13.65:5239
+#EXTINF:-1 group-title="XXX TV",Frenchlover
+http://81.89.48.215:1935/xyz666wkz/xy6/chunklist.m3u8
+#EXTINF:-1 group-title="XXX TV",Olala
+http://188.242.187.53:4022/udp/239.239.13.1:5239
+#EXTINF:-1 group-title="XXX TV",XXX- HOT CLUB 2 HD
+http://195.154.207.145:8000/play/xxxhotclub2hd
+#EXTINF:-1 group-title="XXX TV",XXX- HOTCLUB 4 HD
+http://195.154.207.145:8000/play/xxxhotclub4hd
+#EXTINF:-1 group-title="XXX TV",XXX -PASSION
+http://195.154.207.145:8000/play/xxxpassion
+#EXTINF:-1 group-title="XXX TV",XXX-REDLIGHT HD
+http://195.154.207.145:8000/play/xxxredlighthd
+#EXTINF:-1 group-title="XXX TV",XXX-Dorcel club
+http://195.154.207.145:8000/play/xxxdorcelclub
+#EXTINF:-1 group-title="XXX TV",XXX- Jasmin TV
+http://195.154.207.145:8000/play/xxxjasmintv
+#EXTINF:-1 group-title="XXX TV",XXX-DORCEL
+http://195.154.207.145:8000/play/xxxdorcel
+#EXTINF:-1 group-title="XXX TV",XXX- HOT CLUB 1 HD
+http://195.154.207.145:8000/play/xxxhotclub1hd
+#EXTINF:-1 group-title="XXX TV",XXX- Hustler HD
+http://195.154.207.145:8000/play/xxxhustlerhd
+#EXTINF:-1 group-title="XXX TV",XXX-SCT SD
+http://195.154.207.145:8000/play/xxxsctsd
+#EXTINF:-1 group-title="XXX TV",XXX- Passion 18
+http://195.154.207.145:8000/play/xxxpassion18
+#EXTINF:-1 group-title="XXX TV",XXX - Playboy
+http://195.154.207.145:8000/play/xxxplayboy
+http://195.154.207.145:8000/play/xxxbrazzerstv
+
 
 #EXTINF:-1, [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
@@ -5839,6 +5985,140 @@ http://porn720.net/video/3970/720p.mp4
 http://porn720.net/video/3971/720p.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",video 10
 http://porn720.net/video/3972/720p.mp4
+
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (1) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14028.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (10) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14038.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (11) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14039.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (2) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14029.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (3) (new)
+http://213.136.90.30:8000/movie/sk3/sk3/14030.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (4) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14031.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (5) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14032.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (6) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14033.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (7) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14034.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (8) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14035.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Adulti (9) (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/14036.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 1 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13559.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 10 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13538.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 11 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13539.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 12 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13536.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 13 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13552.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 14 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13543.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 15 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13560.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 16 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13531.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 17 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13550.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 18 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13530.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 19 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13529.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 2 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13071.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 20 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13549.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 21 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13527.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 22 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13558.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 23 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13548.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 24 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13526.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 25 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13523.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 26 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13524.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",https://iptv.zone/en Hotclub 27 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13521.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",hotclub 28 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13520.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 29 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13518.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 3 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13493.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 30 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13515.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 31 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13511.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 32 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13547.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 33 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13502.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 34 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13501.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 35 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13556.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 36 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13510.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 37 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13506.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 38 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13505.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 39 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13504.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 4 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13554.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 40 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13508.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 41 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13492.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 42 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13555.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 43 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13494.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 44 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13507.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 45 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13546.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 46 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13500.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 47 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13540.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 48 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13545.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 49 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13467.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",hotclub 5 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13551.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 50 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13557.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 51 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13503.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 52 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13537.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 53 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13532.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 54 (new)
+http://213.136.90.30:8000/movie/sk3/sk3/13489.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 55 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13491.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 6 (NEw)
+http://213.136.90.30:8000/movie/sk3/sk3/13499.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 7 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13544.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 8 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13542.mp4
+#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 9 (NEW)
+http://213.136.90.30:8000/movie/sk3/sk3/13541.mp4
+
 
 #EXTINF:-1, [COLOR red]--- Uncensored Music Videos ---[/COLOR]
 http://0.0.0.0:1234
