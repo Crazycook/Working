@@ -3,18 +3,15 @@
 #EXTINF:-1,[COLOR yellow]---------------------- 24/7 ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 group-title=”24/7” tvg-logo=”http://channelpear.com/images/media/6677.jpg”, At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 group-title="24/7",Simpsons 24/7
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
-#EXTINF:-1 group-title="24/7",StarTrek TNG
-http://veetle.com/index.php/hls/streamMbrFast/51e482fa02883_/stream.m3u
 #EXTINF:-1 group-title="24/7",24/7 South Park
 http://veetle.com/index.php/hls/streamMbrfast/541c316fe8423_/stream.m3u8
 #EXTINF:0 tvg-name="Bruce Lee" tvg-logo="https://38.media.tumblr.com/avatar_fdd26d32e09d_128.png" group-title="24/7", Bruce Lee (24/7)
 
 http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8
-#EXTINF:0 tvg-name="SpongeBob" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/5c/2009Spongeboblogo.png/revision/latest/scale-to-width-down/200?cb=20121229103122&format=webp" group-title="24/7", SpongeBob (24/7)
-
-http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:0 tvg-logo"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef12b89daf22e0285520732c6ea717223d2bce0d_full.jpg" group-title="24/7",Toonami Aftermath
 #EXTINF:0 group-title="24/7",24/7 Mystery Science Theater 3000
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
@@ -243,6 +240,8 @@ http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1280.ts
 http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1450.ts
 #EXTINF:-1 group-title="UK",History
 http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1357.ts
+#EXTINF:-1 tvg-id="Sky_I508.391501.microsoft.com" tvg-name="Euronews508_Euronews508Euronews_(English)" group-title="UK",EuroNews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
 
 #EXTINF:-1,[COLOR yellow]---------------------- Other Countries ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -259,9 +258,7 @@ http://80.250.191.10:1935/live/livestream3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",24 Rock One
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/8fm-tv.jpg" group-title="Music", 8 FM TV
-http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A-One_Hip-Hop_Music_Channel.jpg/185px-A-One_Hip-Hop_Music_Channel.jpg" group-title="Music",A One Hip Hop (Music) (Russian)
-http://spb1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png" group-title="Music",AFRO MUSIC
 
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
@@ -450,6 +447,8 @@ http://rtmp.one.by:2300
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Music",Power TV HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Q Music Argentina
+mms://streamqm.uigc.net/qmusica
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="Music",RADIO 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 #EXTINF:0 tvg-logo="http://www1.rhn.tv/_RefFiles/logo.gif" group-title="Music",Real Hip Hop Network (Music) 
@@ -5881,140 +5880,6 @@ http://porn720.net/video/3970/720p.mp4
 http://porn720.net/video/3971/720p.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",video 10
 http://porn720.net/video/3972/720p.mp4
-
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (1) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14028.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (10) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14038.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (11) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14039.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (2) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14029.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (3) (new)
-http://213.136.90.30:8000/movie/sk3/sk3/14030.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (4) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14031.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (5) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14032.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (6) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14033.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (7) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14034.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (8) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14035.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Adulti (9) (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/14036.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 1 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13559.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 10 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13538.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 11 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13539.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 12 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13536.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 13 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13552.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 14 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13543.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 15 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13560.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 16 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13531.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 17 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13550.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 18 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13530.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 19 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13529.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 2 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13071.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 20 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13549.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 21 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13527.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 22 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13558.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 23 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13548.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 24 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13526.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 25 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13523.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 26 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13524.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",https://iptv.zone/en Hotclub 27 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13521.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",hotclub 28 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13520.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 29 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13518.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 3 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13493.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 30 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13515.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 31 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13511.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 32 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13547.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 33 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13502.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 34 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13501.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 35 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13556.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 36 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13510.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 37 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13506.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 38 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13505.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 39 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13504.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 4 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13554.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 40 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13508.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 41 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13492.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 42 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13555.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 43 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13494.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 44 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13507.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 45 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13546.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 46 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13500.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 47 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13540.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 48 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13545.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 49 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13467.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",hotclub 5 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13551.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 50 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13557.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 51 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13503.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 52 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13537.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 53 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13532.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 54 (new)
-http://213.136.90.30:8000/movie/sk3/sk3/13489.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 55 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13491.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 6 (NEw)
-http://213.136.90.30:8000/movie/sk3/sk3/13499.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 7 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13544.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 8 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13542.mp4
-#EXTINF:-1 group-title="XXX-VOD +18",Hotclub 9 (NEW)
-http://213.136.90.30:8000/movie/sk3/sk3/13541.mp4
-
 #EXTINF:-1 group-title="XXX-VOD +18",EXTINF:-1XXX
 http://ru-porn.Tv/videofile?id=41&hq=high&ex=mp4
 #EXTINF:-1 group-title="XXX-VOD +18",N/A
