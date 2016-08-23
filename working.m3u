@@ -1015,6 +1015,158 @@ http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 #EXTINF:0,tvg-name=”Telearena” tvg-language=”Italian” tvg-country=”IT” tvg-id=”Telearena” tvg-logo=”http://media.telearena.it/media/siti/ta/img/logo_TA.png” group-title="Italian",Telearena (Entertainment) (IT) (Italian)
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
+
+#EXTINF:-1 ,*****  Turkey*****
+http://0.0.0.0
+
+#EXTINF:-1 group-title="Turkey",24 TV m3u8
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",BENGÜ TÜRK 864*482
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
+#EXTINF:-1 group-title="Turkey",BEYAZ TV
+http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",BLOOMBERG HT m3u8
+http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",CNN TURK HD
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Turkey",HABERTÜRK m3u8
+http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",KANAL 7 HD 720*418
+http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Turkey",MEDENIYET TV 1280*720
+http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",POWER TV HD 1280*738
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",POWERTURK HD 1280*738 (music)
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",SEMERKAND HD m3u8
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",TRT 1 HD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Turkey",TRT ÇOCUK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Turkey",TRT HABER 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Turkey",TRT TÜRK 1024*578
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Turkey",TRT WORLD 1280*738
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Turkey",TV 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",24 TV
+http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",A9 TV rtmp 640*360 rtmp
+rtmp://live.harunyahya.tv/harunyahyalive/hytest1
+#EXTINF:-1 group-title="Turkey",B TV
+http://stream.taksimbilisim.com:1935/btv/bant1/BTV.m3u8
+#EXTINF:-1 group-title="Turkey",BAHARTURK
+http://stream.taksimbilisim.com:1935/baharturk/bant1/BAHARTURK.m3u8
+#EXTINF:-1 group-title="Turkey",BENGUTURK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",CNN TURK HD
+http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Turkey",DHA
+http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
+#EXTINF:-1 group-title="Turkey",DOCUMANTARY TR http
+http://188.165.239.200:7088/
+#EXTINF:-1 group-title="Turkey",DREAM TÜRK TV m3u8 -720*576 (music)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Turkey",DREAM TV m3u8 -720*576 (music)
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Turkey",FASHION ONE TV
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",FINEST TV
+http://62.153.171.60:1466
+#EXTINF:-1 group-title="Turkey",FLASH TV
+http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
+#EXTINF:-1,HISTORY DOCUMANTARY TR http
+http://proiptv.dyndns.tv:7088
+#EXTINF:-1 group-title="Turkey",KABE TV
+http://bit.do/kabetv
+#EXTINF:-1 group-title="Turkey",KANAL 7 AVRUPA
+http://livetr.gostream.nl/kanal7int/kanal7int/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/media_w65933969.m3u8
+#EXTINF:-1 group-title="Turkey",KANAL TEK
+http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",KUDUS TV rtmp
+rtmp://yayin8.canliyayin.org/kudustv/kudustv
+#EXTINF:-1 group-title="Turkey",MEKKE TV
+http://livede.gostream.nl/mekke/mekke/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",NRT 2
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",NUMBER ONE HD (music)
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",NUMBER ONE TURK (music)
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",PLANET ÇOCUK rtmp
+rtmp://77.223.146.117/live/planetc
+#EXTINF:-1 group-title="Turkey",PLANET PEMBE rtmp
+rtmp://77.223.146.117/live/planetp
+#EXTINF:-1 group-title="Turkey",PLANET TURK rtmp
+rtmp://77.223.146.117/live/planett
+#EXTINF:-1 group-title="Turkey",REHBER TV
+rtmp://yayin5.canliyayin.org:1935/live/rehbertv
+#EXTINF:-1 group-title="Turkey",SEMERKAND HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+#EXTINF:-1 group-title="Turkey",SHOW HD 960*546
+http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
+#EXTINF:-1 group-title="Turkey",Show Tv 816*610
+http://188.72.131.226/show.m3u8
+#EXTINF:-1 group-title="Turkey",SPORTS TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",TBMM TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 group-title="Turkey",TEMPO TV
+rtmp://91.93.118.165/tempotv/livestream
+#EXTINF:-1 group-title="Turkey",TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT ARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="Turkey",TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1 group-title="Turkey",TRT TURK
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
+#EXTINF:-1 group-title="Turkey",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="Turkey",TV 100
+http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
+#EXTINF:-1 group-title="Turkey",TV 4 KARAMEL
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",TV EM m3u8
+http://mn-l.mncdn.com/tvem_live/tvem3/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1 group-title="Turkey",VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",YASIN TV m3u8
+http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Turkey",YOL TV rtmp 720*576
+rtmp://178.254.20.205:2100/yol/yolstream.flv
+#EXTINF:-1 group-title="Turkey",zzz CNN TURK
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+
 #EXTINF:-1 ,*****  South Korea*****
 http://0.0.0.0
 
@@ -1027,12 +1179,7 @@ http://puu.sh/nOhRQ/64d5317575.m3u8
 
 #EXTINF:0,tvg-name=”TV7″ tvg-language=”Bulgarian” tvg-country=”BG” tvg-id=”TV7″ tvg-logo=”http://gledaibgtv.com/wp-content/themes/Galleria/timthumb.php?src=http://gledaibgtv.com/wp-content/uploads/2013/11/TV7-logo.png&h=350&w=580&zc=1″ group-title=”Entertainment”,TV7 (Entertainment) (BG) (Bulgarian)
 http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
-#EXTINF:-1 group-title=“World”,BTN1 (russia?)
-rtmp://193.43.26.198:1935/live/bnt1
-#EXTINF:-1 group-title=“World”,BTN2 (Russia?)
-rtmp://193.43.26.198:1935/live/bnt2
-#EXTINF:-1 group-title=“World”, ROMA TV
-http://185.46.161.3/hls/sd.m3u8 
+
 
 #EXTINF:-1,[COLOR yellow]---------------------- Hebrew----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -1144,105 +1291,111 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 #EXTINF:-1,[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title=Russia",9 Vollna TV
+#EXTINF:0 group-title="Russia",9 Vollna TV
 
 rtmp://176.9.127.102/live/myStream_1
 
-#EXTINF:0 group-title=Russia",AMTV
+#EXTINF:0 group-title="Russia",AMTV
 
 rtsp://mms.amtv.ru/BizOne
 
-#EXTINF:0 group-title=Russia",AutoMoto
+#EXTINF:0 group-title="Russia",AutoMoto
 
 rtmp://95.215.2.55/live/1autotv3
 
-#EXTINF:0 group-title=Russia",bnptv
+#EXTINF:0 group-title="Russia",bnptv
 
 mms://bnptv.info:10801/
-#EXTINF:0 group-title=Russia",OTV
+#EXTINF:0 group-title="Russia",OTV
 
 http://212.26.146.148/asxgen/wmtencoder/otv
 
-#EXTINF:0 group-title=Russia",Pik tv
+#EXTINF:0 group-title="Russia",Pik tv
 
 rtmp://fms.pik-tv.com/live/piktv2pik2tv
-#EXTINF:0 group-title=Russia",TS-TV.RU
+#EXTINF:0 group-title="Russia",TS-TV.RU
 
 mms://213.141.145.170/ts_tv11
 
-#EXTINF:0 group-title=Russia",Tugan Tel
+#EXTINF:0 group-title="Russia",Tugan Tel
 
 rtmp://streamer.rtcommufa.ru:1935/tugantel/tugantel1
 
-#EXTINF:0 group-title=Russia",TV gauranga
+#EXTINF:0 group-title="Russia",TV gauranga
 
 mms://195.62.63.238/tv_gauranga
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Animation
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Animation
 
 mms://213.141.145.170/ts_tv10
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Art
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Art
 
 mms://213.141.145.170/ts_tv8
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Documentary
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Documentary
 
 mms://213.141.145.170/ts_tv6
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Health
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Health
 
 mms://213.141.145.170/ts_tv5
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Music
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Music
 
 mms://213.141.145.170/ts_tv9
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Science
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Science
 
 mms://213.141.145.170/ts_tv4
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Shows
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Shows
 
 mms://213.141.145.170/ts_tv3
 
-#EXTINF:0 group-title=Russia",Tvoi Stroi TV Theme
+#EXTINF:0 group-title="Russia",Tvoi Stroi TV Theme
 
 mms://213.141.145.170/ts_tv7
 
-#EXTINF:0 group-title=Russia",Yurgan TV
+#EXTINF:0 group-title="Russia",Yurgan TV
 
 http://176.9.38.9:8080/video.flv
 
-#EXTINF:0 group-title=Russia",Zolotoy
+#EXTINF:0 group-title="Russia",Zolotoy
 
 rtsp://195.62.63.238/tv_zolotoy_vek
 
-#EXTINF:0 group-title=Russia",Канал Золотой Век
+#EXTINF:0 group-title="Russia",Канал Золотой Век
 
 mms://195.62.63.238/tv_zolotoy_vek
 
-#EXTINF:0 group-title=Russia",Королёв ТВ
+#EXTINF:0 group-title="Russia",Королёв ТВ
 
 mmsh://89.222.184.3
-#EXTINF:0 group-title=Russia",News 24 HD
+#EXTINF:0 group-title="Russia",News 24 HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
-#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title=Russia",NOVOROSSIA TV
+#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",NOVOROSSIA TV
 http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR 
-#EXTINF:0  tvg-logo="http://cdn.bulbagarden.net/upload/thumb/1/1e/Channel_One_Russia.png/250px-Channel_One_Russia.png" group-title=Russia",Channel 1
+#EXTINF:0  tvg-logo="http://cdn.bulbagarden.net/upload/thumb/1/1e/Channel_One_Russia.png/250px-Channel_One_Russia.png" group-title="Russia",Channel 1
 http://gourl.su/tl?m3u8 
-#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title=Russia",1REPUBLIC
+#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",1REPUBLIC
 http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8?1REPUBLIC.DNR
-#EXTINF:0 group-title=Russia",Russian language overdub movie channel
+#EXTINF:0 group-title="Russia",Russian language overdub movie channel
 http://rlu.ru/10fxY?m3u8 
-#EXTINF:0 group-title=Russia",notsure
+#EXTINF:0 group-title="Russia",notsure
 rtmp://77.243.11.114/live/live?mir
-#EXTINF:0 group-title=Russia",notsure
+#EXTINF:0 group-title="Russia",notsure
 http://hls.goodgame.ru/hls/33226.m3u8?version=2 
-#EXTINF:0 group-title=Russia",ANTIMAIDAN.TV.DNR
+#EXTINF:0 group-title="Russia",ANTIMAIDAN.TV.DNR
 http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR 
-#EXTINF:0 tvg-logo="http://www.elant.cz/Loga%20TV/meteotv.jpg" group-title=Russia",meteotv (armenian weather)
+#EXTINF:0 tvg-logo="http://www.elant.cz/Loga%20TV/meteotv.jpg" group-title="Russia",meteotv (armenian weather)
 http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp 
+#EXTINF:-1 group-title="Russia",BTN1
+rtmp://193.43.26.198:1935/live/bnt1
+#EXTINF:-1 group-title="Russia",BTN2
+rtmp://193.43.26.198:1935/live/bnt2
+#EXTINF:-1 group-title="Russia", ROMA TV
+http://185.46.161.3/hls/sd.m3u8 
 
 
 #EXTINF:-1,[COLOR yellow]---------------------- Spanish----------------------[/COLOR]
@@ -3945,7 +4098,28 @@ http://music.myradio.ua/shanson_news128.mp3
 
 http://music.myradio.ua/sheshory128.mp3
 
-
+#EXTINF:-1 group-title="Radio and Digital Music",RED.FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#EXTINF:-1 group-title="Radio and Digital Music",HITZ.FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 group-title="Radio and Digital Music",LITE.FM
+http://astro1.rastream.com/lite
+#EXTINF:-1 group-title="Radio and Digital Music",MY.FM
+http://astro1.rastream.com/myfm
+#EXTINF:-1 group-title="Radio and Digital Music",MIX.FM
+http://astro2.rastream.com/mix
+#EXTINF:-1 group-title="Radio and Digital Music",SINAR.FM
+http://astro2.rastream.com/sinar
+#EXTINF:-1 group-title="Radio and Digital Music",ERA.FM
+http://astro2.rastream.com/era
+#EXTINF:-1 group-title="Radio and Digital Music",OPUS.FM
+http://astro4.rastream.com/opus
+#EXTINF:-1 group-title="Radio and Digital Music",GOLD.FM
+http://astro4.rastream.com/gold
+#EXTINF:-1 group-title="Radio and Digital Music",JAZZ.FM
+http://astro4.rastream.com/jazz
+#EXTINF:-1 group-title="Radio and Digital Music",ROCK.FM
+http://astro4.rastream.com/rock
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Radio and Digital Music",Icecast Rainwave All
 http://relay-nyc.gameowls.com:8000/all.ogg
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Radio and Digital Music",Icecast Mutual Broadcast Network
@@ -4441,7 +4615,8 @@ http://174.36.206.197:8146
 
 #EXTINF:0 group-title="group-title="Radio"",WNYZ Korea 87.7 FM - 6 LP - New York City - NY New York
 rtmp://krblive.com:1935/877live/stream_aac
-
+#EXTINF:0 group-title="group-title="Radio",KALX 90.7 FM Berkeley
+http://icecast.media.berkeley.edu:8000/kalx-128.mp3
 #EXTINF:0 tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Radio", 94FM (Portugal)
 http://195.8.58.150:35022/;stream.nsv
 #EXTINF:0 tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Radio", ANTENA 1 (Portugal)
@@ -4480,6 +4655,36 @@ http://11073.live.streamtheworld.com/GR80SRFMAAC?
 http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
 #EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Radio", SUPER FM (Portugal)
 http://94.23.76.235:9956/
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg" group-title="Radio",Ria 89.7 Singapore 
+http://mediacorp.rastream.com/897fm
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM.jpg" group-title="Radio",Gold 90.5 FM Singapore| 
+http://mediacorp.rastream.com/905fm
+#EXTINF:0 group-title="Radio",91.3 Hot FM Singapore 
+http://sph.rastream.com/913fm
+#EXTINF:0 group-title="Radio",Kiss 92.0 Singapore 
+http://sph.rastream.com/sph-kiss92
+#EXTINF:0 group-title="Radio",Symphony 92.4 Singapore 
+http://mediacorp.rastream.com/924fm
+#EXTINF:0 group-title="Radio",Yes 93.3 Singapore
+http://mediacorp.rastream.com/933fm
+#EXTINF:0 group-title="Radio",93.8 Live Singapore 
+http://mediacorp.rastream.com/938fm
+#EXTINF:0 group-title="Radio",Warna 94.2 Singapore 
+http://mediacorp.rastream.com/942fm
+#EXTINF:0 group-title="Radio",Class 95.0 Singapore 
+http://mediacorp.rastream.com/950fm
+#EXTINF:0 group-title="Radio",95.8 Capital Singapore 
+http://mediacorp.rastream.com/958fm
+#EXTINF:0 group-title="Radio",XFM 96.3 Singapore 
+http://mediacorp.rastream.com/963fm
+#EXTINF:0 group-title="Radio",Love 97.2 Singapore 
+http://mediacorp.rastream.com/972fm
+#EXTINF:0 group-title="Radio",98.7 FM Singapore 
+http://mediacorp.rastream.com/987fm
+#EXTINF:0 group-title="Radio",Lush 99.5 Singapore 
+http://mediacorp.rastream.com/995fm
+#EXTINF:0 group-title="Radio",UFM 100.3 Singapore 
+http://sph.rastream.com/1003fm
 
 
 #EXTINF:0 group-title="Radio",Europe1
