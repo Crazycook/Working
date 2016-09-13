@@ -752,7 +752,9 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Estrellas.jpg/125px-Las_Estrellas.jpg" group-title="Mexico",Canaldelas Estrellas CANAL 2 XEWTV
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,CANAL 2 XEWTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Las_Estrellas.jpg/125px-Las_Estrellas.jpg" group-title="Mexico",Canal de las Estrellas (HD) 
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8? 
+#EXTINF:-1 group-title="Mexico",CANAL 2 XEWTV
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 group-title="Mexico",CANAL 53 MEXICO LATAM
 mms://streaming.uanl.mx/canal53bandaancha/
@@ -1065,7 +1067,7 @@ http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_zoom/playlist/cze/li
 #EXTINF:-1, [COLOR red]  *****France CHANNELS***** [/COLOR]
 http://0.0.0.0
 
-#EXTINF:0,tvg-name="TELE VESDRE" tvg-language="French" tvg-country="FR" tvg-id="TELE VESDRE" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="France",TELE VESDRE 
+#EXTINF:0 tvg-name="TELE VESDRE" tvg-language="French" tvg-country="FR" tvg-id="TELE VESDRE" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="France",TELE VESDRE 
 http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
 #EXTINF:-1 group-title="France",Assemblée Nationale
 http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
@@ -1971,26 +1973,6 @@ http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name=”HKS” tvg-language=”Mandarin/Cantonese” tvg-country=”MY” tvg-id=”HKS” tvg-logo=”https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRat17L7sM9BiFBvRujSX171EZFalZKX4UIOGYgoaM-ojFVt0R-VXPgDA” group-title="Mandarin",HKS(Mandarin/Cantonese)
 http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
-#EXTINF:0 tvg-name="Kirin Live" tvg-language="Mandarin" tvg-country="CH" tvg-id="Kirin Live" tvg-logo=”http://www.sofascore.com/images/team-logo/futsal_162472.png” group-title="Mandarin",Kirin Live (Lifestyle) (CH) (Mandarin)
-http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
-#EXTINF:0 tvg-name="Kirin Children" tvg-language="Mandarin" tvg-country="CH" tvg-id="Kirin Children" tvg-logo="http://wwwen.uni.lu/var/storage/images/recherche/flshase/education_culture_cognition_and_society_eccs/news_events/lecture_kirin_says_look_images_children_and_liberatory_pedagogy/928811-2-fre-FR/lecture_kirin_says_look_images_children_and_liberatory_pedagogy_medium.jpg" group-title="Mandarin",Kirin Children (Family) (CH) (Mandarin)
-http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
-#EXTINF:0 tvg-name="Room TV" tvg-language="Mandarin" tvg-country="CH" tvg-id="Room TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/The_Living_Room_TV_Logo.jpg" group-title="Mandarin",Room TV (Lifestyle) (CH) (Mandarin)
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
-#EXTINF:0 tvg-name="Tianjin TV" tvg-language="Mandarin" tvg-country="CH" tvg-id="Tianjin TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tianjin_tv.jpg" group-title="Mandarin",Tianjin TV (Entertainment) (CH) (Mandarin)
-http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
-#EXTINF:0 tvg-name="Xiamen TV" tvg-language="Mandarin" tvg-country="CH" tvg-id="Xiamen TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/xiamen_star.jpg" group-title="Mandarin",Xiamen TV (Entertainment) (CH) (Mandarin)
-http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
-#EXTINF:0 tvg-name="Yangtze River Theatre" tvg-language="Mandarin" tvg-country="CH" tvg-id="Yangtze River Theatre" tvg-logo="http://c3270052.r52.cf0.rackcdn.com/yangtze-river-basics.jpg" group-title="Mandarin",Yangtze River Theatre (Entertainment) (CH) (Mandarin)
-http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
-#EXTINF:0 tvg-name="Zhejiang TV" tvg-language="Mandarin" tvg-country="CH" tvg-id="Zhejiang TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Zhejiang-Satellite-TV.jpg" group-title="Mandarin",Zhejiang TV (Entertainment) (CH) (Mandarin)
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
-#EXTINF:0 tvg-name="Phoenix America" tvg-language="Mandarin" tvg-country="CH" tvg-id="phoenix America" tvg-logo="http://www.phoenixamerica.com/Images/Fort%2520Wayne(ak6a23).jpg" group-title="Mandarin",Phoenix America (Entertainment) (CH) (Mandarin)
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
-"#EXTINF:0 tvg-name="Television Champion" tvg-language="Mandarin" tvg-country="CH" tvg-id="Television Champion" tvg-logo="https://miqoazura.files.wordpress.com/2010/12/logo.gif" group-title="Entertainment",Television Champion (Entertainment) (CH) (Mandarin)
-http://27.100.64.99:1935/liveedge/smil:live_2_0_iphone.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Tianjin International" tvg-language="Mandarin" tvg-country="CH" tvg-id="Tianjin International" tvg-logo="http://www.internationalschool.info/listing/images/schoollogo/tis.jpg" group-title="Mandarin",Tianjin International (Lifestyle) (CH) (Mandarin)
-http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
 
 #EXTINF:-1 group-title="India", [COLOR blue]---------------------- India ---------------------[/COLOR]
 http://0.0.0.0
@@ -2042,7 +2024,7 @@ http://live.wmncdn.net/aonechannel/9ebf07878203332944aeabd987cb5d63.sdp/playlist
 http://soundview.viddillions.com/soundviewlive/smil:stream0001.smil/playlist.m3u8
 #EXTINF:0 tvg-name="Sanjh tv" tvg-language="English/Punjabi" tvg-country="US" tvg-id="Sanjh tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpCJQCuxgrCeYQdu-SH6nxWQNOLB1U-pA0FF0xKED5isacVKdYwo263I" group-title="Punjabi",Sanjh tv (Family) (US) (English/Punjabi)
 rtmp://live.wmncdn.net:1935/sanjhikhabar/a155af9adbb4b0c47fc9d90433555ca5.sdp
-#EXTINF:0 group-title="punjabi",karytv
+#EXTINF:0 group-title="Punjabi",karytv
 http://p.jwpcdn.com/6/6/jwplayer.flash.swf http://karytv.com/livetv/sanjh-tv-channel/
 
 #EXTINF:-1,[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
@@ -2079,7 +2061,96 @@ http://stream.onworldtv.com/edge/liveorigin/tinlanh/index.m3u8
 http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
 #EXTINF:0 tvg-name="Sai Gon TV" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemJj1haV0ecqiqbB94BOUhaTMUS5V9dwxz8u0U7VLchQ6GMJdL0hnoyw" group-title="Vietnam",Sai Gon TV (US) (Vietnamese)
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
-
+#EXTINF:-1 group-title="Vietnam", TH GIA LAI - Nhóm VTC02
+http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/gltv.m3u8
+#EXTINF:-1 group-title="Vietnam", HÀ NAM
+rtmp://113.160.198.111:8086/live//hanamtv
+#EXTINF:-1 group-title="Vietnam", AN GIANG
+rtmp://113.161.212.25/live//atv1
+#EXTINF:-1 group-title="Vietnam", CÀ MAU
+rtmp://113.161.220.254:1935/livepkgr/livestream2
+#EXTINF:-1 group-title="Vietnam", BÀ RỊA-VŨNG TÀU
+rtmp://113.163.216.24:1935/live/livestream
+#EXTINF:-1 group-title="Vietnam", KHÁNH HOÀ - Nhóm VTC03
+rtmp://118.69.198.109/live/video
+#EXTINF:-1 group-title="Vietnam", BẠC LIÊU
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:-1 group-title="Vietnam", TTXVN HD
+http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w1900411526_b1000000.m3u8?t=1473647556&token=3aaaf40b1ddde558a345a1b58d76c3e0
+#EXTINF:-1 group-title="Vietnam", HTV9   HD
+http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w991679017_b800000.m3u8?t=1473647587&token=8dd920059e6fb8598cee1564096d2471
+#EXTINF:-1 group-title="Vietnam", VTC1HD
+http://118.107.85.14:1935/tvnet/smil:vtc1.smil/chunklist_w913277753_b1000000.m3u8
+#EXTINF:-1 group-title="Vietnam", VTC10
+http://118.107.85.14:1935/tvnet/smil:vtc10.smil/chunklist_w1802754625_b1000000.m3u8
+#EXTINF:-1 group-title="Vietnam", VTC16
+http://118.107.85.14:1935/tvnet/smil:vtc16.smil/chunklist_w1265351202_b1000000.m3u8?t=1473647402&token=99e4121968c4d996ade6239a7a259d75
+#EXTINF:-1 group-title="Vietnam", VTV1HD
+http://118.107.85.14:1935/tvnet/smil:vtv1.smil/playlist.m3u8?t=1473306316&token=901ada578e40a59fbcc2a97d09aacf3b
+#EXTINF:-1 group-title="Vietnam", VTV2
+http://118.107.85.14:1935/tvnet/smil:vtv2.smil/playlist.m3u8?t=1473647172&token=aa5a87d98627d1d2ff72f51fb4dd523d
+#EXTINF:-1 group-title="Vietnam", VTV3 HD SV1
+http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w884148795_b800000.m3u8
+#EXTINF:-1 group-title="Vietnam", VTV3 HD SV2
+http://118.107.85.14:1935/tvnet/smil:vtv3.smil/media_w1682995622_b800000_194413.ts?t=1473514130&token=7471b697836b1a63daaf970baf67d68d
+#EXTINF:-1 group-title="Vietnam", VTV4
+http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w468174697_b1000000.m3u8
+#EXTINF:-1 group-title="Vietnam", BẮC KẠN
+http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam", CAO BẰNG
+http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Vietnam", ANTV - nhóm Hà Nội
+http://123.30.191.202/hls/antv.m3u8
+#EXTINF:-1 group-title="Vietnam", HANOI1
+http://123.30.191.202/hls/hanoi1.m3u8
+#EXTINF:-1 group-title="Vietnam", HÀ NỘI 2
+http://123.30.191.202/hls/hanoi2.m3u8
+#EXTINF:-1 group-title="Vietnam", LẠNG SƠN
+rtmp://123.18.206.40:1935/live/livestream
+#EXTINF:-1 group-title="Vietnam", QUẢNG NINH 1
+rtmp://123.29.68.44/hctv/vstv020
+#EXTINF:-1 group-title="Vietnam", QUẢNG NINH 2
+rtmp://123.29.68.44/hctv/vstv021
+#EXTINF:-1 group-title="Vietnam", HOÀ BÌNH
+http://123.30.191.202/hls/hoabinh.m3u8
+#EXTINF:-1 group-title="Vietnam", TIỀNG GIANG
+http://123.30.191.202/hls/tiengiang.m3u8
+#EXTINF:-1 group-title="Vietnam", TRÀ VINH
+http://123.30.191.202/hls/travinh.m3u8
+#EXTINF:-1 group-title="Vietnam", THANH HOÁ
+http://123.30.191.202/hls/ttv.m3u8
+#EXTINF:-1 group-title="Vietnam", VTC1
+http://123.30.191.202/hls/vtc1.m3u8
+#EXTINF:-1 group-title="Vietnam", VTC3
+http://123.30.191.202/hls/vtc3.m3u8
+#EXTINF:-1 group-title="Vietnam", VTV1
+http://123.30.191.202/hls/vtv1.m3u8
+#EXTINF:-1 group-title="Vietnam", VTV2
+http://123.30.191.202/hls/vtv2.m3u8
+#EXTINF:-1 group-title="Vietnam", VTV3
+http://123.30.191.202/hls/vtv3.m3u8
+#EXTINF:-1 group-title="Vietnam", VTV8HD - Nhóm OFFICIAL
+http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam", SÓC TRĂNG
+rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 group-title="Vietnam", VĨNH PHÚC
+rtmp://117.6.162.63/live/thvp
+#EXTINF:-1, VTC12
+http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam", HÀ TĨNH OFFICIAL
+http://hatinhtv.vn/liveevent.m3u8
+#EXTINF:-1 group-title="Vietnam", VOV
+rtmp://210.245.60.242:1935/vovtv/vovtv
+#EXTINF:-1 group-title="Vietnam", DAK NÔNG
+rtmp://222.255.158.22/live/truyenhinh
+#EXTINF:-1 group-title="Vietnam", ĐÀ NẴNG 3
+rtmp://drt.danang.vn/live/livestream
+#EXTINF:-1 group-title="Vietnam", TTXVN
+rtmp://live.vnanet.vn/Live/DRC
+#EXTINF:-1 group-title="Vietnam", QPVN HD OFFICIAL
+http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------------------- Isreal----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2502,46 +2573,23 @@ http://adtv.ercdn.net/adsport3/adsport3_360p.m3u8?v=3157566659
 http://adtv.ercdn.net/adsport4/adsport4_360p.m3u8?v=3157566659
 #EXTINF:-1 tvg-logo="http://scrat.hellocoton.fr/img/classic/abu-dhabi-sport-5-hd-live-10442536.jpg" group-title="Sports",ADSports5LOW @khz2020
 http://adtv.ercdn.net/adsport5/adsport5_360p.m3u8?v=3157566659
-#EXTINF:0  group-title="Sports",AFL2 LIVE
-http://198.179.31.181:1935/vodlast/3395.low.m4v/index.m3u8
-#EXTINF:0 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Sports",AFL3 LIVE
-http://198.179.31.181:1935/vodlast/3398.low.m4v/index.m3u8
-#EXTINF:0 group-title="Sports",AFL4 LIVE
-http://198.179.31.181:1935/vodlast/3401.low.m4v/index.m3u8
-#EXTINF:0 group-title="Sports",AFL5 LIVE
-http://198.179.31.181:1935/vodlast/3404.low.m4v/index.m3u
-#EXTINF:-1 group-title="Sports",alkass 4
-http://alkass-i.akamaihd.net/hls/live/205534/4/live_30s20.m3u8
-#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Sports",arriadia (Morocco)
-http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1900000-21736840.m3u8
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest/scale-to-width-down/200?cb=20140328172314" group-title="Sports",beIN_SPORTS_News (720p)
-http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest/scale-to-width-down/200?cb=20140328172314" group-title="Sports",beIN_SPORTS_News (1080p) By www.iptv4free.com
-http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/06.m3u8
-#EXTINF:0,tvg-name="BURSASPORT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BURSASPORT TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-Bursaspor-TV-Logo.jpg" group-title="Sports",BURSASPORT TV(Turkish)
+
+#EXTINF:0 tvg-name="BURSASPORT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BURSASPORT TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-Bursaspor-TV-Logo.jpg" group-title="Sports",BURSASPORT TV(Turkish)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:0 tvg-logo="http://hogar.movistar.cl/negocios/iptv/imagenes/logo_cdo_premium.png" roup-title="Sports",CDO Premium (Chile)
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:0,tvg-name="DeporTV" tvg-language="Spanish" tvg-country="AR" tvg-id="DXTV" tvg-logo="http://i.imgur.com/kpJJHfa.png" group-title="Sports",DeporTV (Sports) (AR) (Spanish)
+#EXTINF:0 tvg-name="DeporTV" tvg-language="Spanish" tvg-country="AR" tvg-id="DXTV" tvg-logo="http://i.imgur.com/kpJJHfa.png" group-title="Sports",DeporTV (Sports) (AR) (Spanish)
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:0,tvg-name="Dubai Sport" tvg-language="Arabic" tvg-country="AE" tvg-id="Dubai Sport" tvg-logo="http://www.peacetvconnection.com/images/dubaisports3-web.png" group-title="Sports",Dubai Sport (Sports) (AE) (Arabic)
+#EXTINF:0 tvg-name="Dubai Sport" tvg-language="Arabic" tvg-country="AE" tvg-id="Dubai Sport" tvg-logo="http://www.peacetvconnection.com/images/dubaisports3-web.png" group-title="Sports",Dubai Sport (Sports) (AE) (Arabic)
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,tvg-name="Eurosport FRANCE" tvg-language="French" tvg-country="FR" tvg-id="Eurosport FRANCE" tvg-logo="http://www.agenceblackboard.com/images/eurosport_fr.png" group-title="Sports",Eurosport FRANCE 
+#EXTINF:0 tvg-name="Eurosport FRANCE" tvg-language="French" tvg-country="FR" tvg-id="Eurosport FRANCE" tvg-logo="http://www.agenceblackboard.com/images/eurosport_fr.png" group-title="Sports",Eurosport FRANCE 
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0 group-title="Sports",Fight Sports
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:0 group-title="Sports",Football TELEKANAL
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telekanal_futbol_ru.png" group-title="Sports",Football TELEKANAL (russia)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Sports", FOX SPORTS 1 USA
-
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Sports",Fox Sports 1
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8
-#EXTINF:-1 group-title="Sports",Fox Sports 1 HD USA
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/220px-Fox_Sports_logo.svg.png" group-title="Sports", Fox Sports AU 1 HD
 
 http://162.248.6.122:8080
@@ -2549,24 +2597,16 @@ http://162.248.6.122:8080
 #EXTINF:0 group-title="Sports", Fox Sports AU 4 HD
 
 http://162.248.6.122:8084
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/220px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports 502 HD
-http://motorsport.hopto.org:8080/
-#EXTINF:0 group-title="Sports",goltv
+#EXTINF:0 tvg-logo="http://www.goltv.tv/images/misc/goltv_logo.png" group-title="Sports",goltv
 http://50.97.142.130/hls2/amlst:30001_ios/chunklist_b596000.m3u8
-#EXTINF:0,tvg-name="Fox Sports" tvg-language="Malayic" tvg-country="MY" tvg-id="Fox Sports" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdNwCUivFBNX6AgqnVnKuxZjFyeDInuiTxCMt9Y5keUJxCjNP9IkVRBQ" group-title="Sports",Fox Sports (Sports) (MY) (Malayic)
-http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Sports",idmantv
+#EXT-X-STREAM-INF:PROGRAM-ID=1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/idman_azerbaycan.jpg" group-title="Sports",idmantv
 http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,tvg-name="IRIB Varzesh Tv" tvg-language="Arabic" tvg-country="IR" tvg-id="IRIB Varzesh Tv" tvg-logo="http://www.sedaye-iran.com/images/emblems/iran-tv/irib_varzesh_tv.png" group-title="Sports",IRIB Varzesh Tv (Arabic)
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:0,tvg-name="Kuwait 3 Sport" tvg-language="Arabic" tvg-country="KW" tvg-id="Kuwait 3 Sport" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/03/Watch-KTV-3-Sport-Live-TV-from-Kuwait-150×150.jpg" group-title="Sports",Kuwait 3 Sport (Sports) (KW) (Arabic)
 http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
-#EXTINF:-1 group-title="Sports",Motorsport 1
-http://motorsport.hopto.org:8081/
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg" group-title="Sports",MOTORSPORT USA
 http://motorsport.hopto.org:8080/
-#EXTINF:0,tvg-name="MLS Soccer" tvg-language="English" tvg-country="US" tvg-id="MLS Soccer" tvg-logo="http://www.badgeunlock.com/wp-content/uploads/2012/03/RMOMRDYDDKJB3YNW.png" group-title="Sports",MLS Soccer (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0 tvg-logo="http://static.21cnimg.com/zt/auto/2015/nissanguangzhou/36.jpg" group-title="Sports", LETV GOLF
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gefmxs_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1%7CUser-Agent=Mozilla/5.0
 #EXTINF:0 tvg-name="NFL Now HD' tvg-language="English" tvg-country="US" tvg-id="NFL Now HD' tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="Sports",NFL Now HD (Sports) (US) (English)
@@ -2577,8 +2617,6 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0 tvg-name="Our Football Ukraine" tvg-language="Ukrainian" tvg-country="UA" tvg-id="Our Football Ukraine" tvg-logo="http://larussport.com/assets/images/logo_clubs/Logo_of_Football_Federation_of_Ukraine.svg.png" group-title="Sports",Our Football Ukraine (Sports) (UA) (Ukrainian)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sporttime.tv/themes/sporttime/images/logo.png" group-title="Sports",ORF SPORT + (Austria)
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8?wowzasessionid=4
 #EXTINF:0 group-title="Sports",Pac 12 Network National HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
@@ -2606,28 +2644,37 @@ http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
 #EXTINF:0 group-title="Sports",Pac 12 Network Moutain HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0 group-title="Sports",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+    
 #EXTINF:0 group-title="Sports",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:0,tvg-name="PTV Sports" tvg-language="Urdu" tvg-country="PK" tvg-id="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/PTV_Sports_Logo.PNG" group-title="Sports",PTV Sports (Sports) (PK) (Urdu)
-http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
 #EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0 tvg-name="Rete Sport" tvg-language="Italian" tvg-country="IT" tvg-id="Rete Sport" tvg-logo="http://4.bp.blogspot.com/-zwPV_-4P5Gs/VP99tr1_hPI/AAAAAAAADfg/DDnO6QJ9hu0/s1600/rete8_sport.png" group-title="Sports",Rete Sport (Sports) (IT) (Italian)
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 #EXTINF:0 group-title="Sports",REV´N - NTV - Chattanooga - TN Tennesse
 http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-country="US" tvg-id="Sharjah Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2cBJPryRUXK1zdLkLgPoCHS5RMAQv8y7jAzph8ck_-ii2yr24g-myw" group-title="Sports",Sharjah Sports (US) (Arabic)
-rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/03/Skysport3hd-ita_new.png/revision/latest?cb=20150805103949" group-title="Sports",Sky Sports 3
- http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8
-#EXTINF:-1 vg-logo="http://tv-tv.in/wp-content/uploads/2014/11/Sky-Sports-4-live-stream.jpg" group-title="Sports",Sky Sports 4 – UK 
- http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8
-#EXTINF:-1 vg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfN2jJzx1uxEmPAkrYXjP25UJIIhrapTYCAr1Hk9EmTks7lYnG" group-title="Sports",Sky Sports 5 – UK 
- http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8
-#EXTINF:-1 vg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfN2jJzx1uxEmPAkrYXjP25UJIIhrapTYCAr1Hk9EmTks7lYnG" group-title="Sports",Sky Sports 5 – UK 
-http://vsd6.mycdn.me/hls/131157986013.m3u8
 #EXTINF:0 tvg-name="Sportal TV" tvg-language="Russian" tvg-country='RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports",Sportal TV (Sports) (RU) (Russian)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 #EXTINF:0 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sports TV" tvg-logo="http://bmilan.elpo.sk/New_logos_2006/sports_tv_tr.jpg" group-title="Sports",Sports TV(TR) (Turkish)
@@ -2638,8 +2685,6 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-super-sports-4.png" group-title="Sports",Super Sports 4 (Albania)
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:-1 group-title="Sports",super tennis
-http://bit.do/b2tWA
 #EXTINF:0 tvg-name="TILESPORT" tvg-language="Greek" tvg-country="GR' tvg-id="TILESPORT" tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports",TILESPORT (Sports) (GR) (Greek)
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0 tvg-name="Tribuna Channel" tvg-language="Amharic" tvg-country="AL" tvg-id="Tribuna Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tribuna-Channel-Kosovo_o.jpg" group-title="Sports",Tribuna Channel (Entertainment) (AL) (Amharic)
@@ -2650,8 +2695,6 @@ http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8
 http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
 #EXTINF:0 tvg-name="TVJ Sport" tvg-language="English" tvg-country="JM" tvg-id="TVJ Sport" tvg-logo="http://www.caribbeanlogos.com/wp-content/uploads/2013/08/TVJ-Sports-vector-logo.jpg" group-title="Sports",TVJ Sport
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0 tvg-name="Telekanal" tvg-language="Russian" tvg-country="RU" tvg-id="Telekanal" tvg-logo="http://4.bp.blogspot.com/-V-kdx0rQEWU/VChCa1mFKiI/AAAAAAAABJg/JO2PIsYkUYA/s1600/football-tv.jpg?resize=750%2C1112" group-title="Sports",Telekanal (Russian)
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/True-Sport-HD2.gif" group-title="Sports",True Sport 2 HD (Thailand)
 rtmp://216.185.103.158/live2//chthaipremier11
 #EXTINF:-1 tvg-logo="http://www.khaozap.com/wp-content/uploads/2015/09/22.jpg" group-title="Sports",True Sport 3 HD (Thailand)
@@ -2660,17 +2703,11 @@ rtmp://216.185.103.158/live2//chthaipremier31
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:0 tvg-name="Varzesh TV" tvg-language="Farsi" tvg-country="IR" tvg-id="Varzesh TV" tvg-logo="http://www.sedaye-iran.com/images/emblems/iran-tv/irib_varzesh_tv.png" group-title="Sports",Varzesh TV (Sports) (IR) (Farsi)
 http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:0 tvg-name="Versus HD" tvg-language="English" tvg-country="US" tvg-id="Versus HD" tvg-logo="http://www.5thround.com/wp-content/uploads/2009/12/versuslogo.jpg" group-title="Sports",Versus HD (Sports) (US) (English)
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAABPCAMAAADfqRsjAAABDlBMVEX///8AAAAGBwnb29u9FS9zdHatusCcnJ4EBQcABgi7u7sWFxtra22np6f//v+9FTCAiY4ACAMNCAn" group-title="Sports",Versus HD
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1 group-title="Sports",Viasat (Sport Baltic)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Viasatsport.png/200px-Viasatsport.png" group-title="Sports",Viasat (Sport Baltic)
 http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes
-#EXTINF:0 group-title="Sports",WIN SPORTS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/manifest.m3u8
-#EXTINF:0 group-title="Sports",Win Sports (Colombiano)
+#EXTINF:0 tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="Sports",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.digitalnews.gr/wp-content/uploads/2010/06/NOVA-HD.png" group-title="Sports",Outlaw something or other 2016 (drag Racing)
+#EXTINF:-1 tvg-logo="http://www.digitalnews.gr/wp-content/uploads/2010/06/NOVA-HD.png" group-title="Sports",Outlaw Armegeddon 2016 (drag Racing)
 http://api.new.livestream.com/accounts/17348103/events/4914195/videos/132967990.m3u8
 #EXTINF:-1 group-title="Sports",russian futbol
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
@@ -2784,15 +2821,9 @@ http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",1HD
 http://80.250.191.10:1935/live/livestream3/playlist.m3u8
-#EXTINF:0,tvg-name="1HD" tvg-language="Spanish" tvg-country="US" tvg-id="1HD" tvg-logo="http://www.tv14.net/wp-content/uploads/2013/09/1HD-logo.jpg" group-title="Music",1HD(US) (Spanish)
-http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:0 tvg-name="1HD" tvg-language="Spanish" tvg-country="US" tvg-id="1HD" tvg-logo="http://www.tv14.net/wp-content/uploads/2013/09/1HD-logo.jpg" group-title="Music", 1HD Music Television (Первый HDльный HD)
-http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seebo.com.au/wp-content/uploads/2015/03/Channel_logos/ip/for_site/1HD.png" group-title="Music", 1HD
-http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",24 Rock One
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0 group-title="Music", 538 TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TV_538_logo.jpg/170px-TV_538_logo.jpg" group-title="Music",538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0 tvg-name="7S MUSIC" tvg-language="Tamil" tvg-country="IN" tvg-id="7S MUSIC" tvg-logo="http://logowow.net/logos/thumb-EoUSpsEtX.png" group-title="Music",7S MUSIC (IN) (Tamil)
 http://dogwamnhemjme.cloudfront.net/7smusicorg/smil:7smusic.smil/chunklist.m3u8
@@ -2817,8 +2848,7 @@ rtmp://188.138.17.8:1935/albuk/albmus.stream
 #EXTINF:0,tvg-name="Aloula TV" tvg-language="Arabic" tvg-country="SY" tvg-id="Aloula TV" tvg-logo='http://tvarab.org/wp-content/uploads/2015/08/Aloula.jpg" group-title="Music",Aloula TV (Music) (SY) (Arabic)
 http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
 #EXTINF:-1 tvg-name="aMazing" tvg-logo="http://www.amazingtv.pl/resources/public/multimedia/css/plecakpelenwrazen/image/template/logo.png" group-title="Music", aMazing
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?
-sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0 group-title="Music", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",ATOMIC TV
@@ -3748,7 +3778,7 @@ http://ic2.101.ru:8000/c10_2?setst=052698400134736894720120911
 
 http://ic2.101.ru:8000/c7_12?setst=052698400134736894720120911
 
-#EXTINF:-1 tvg-logo="http://101.ru/design/images/logo.png" group-title="Radio" radio=true,101.RU - Mylene Farmer
+#EXTINF:-1 tvg-logo="http://101.ru/design/images/logo.png" group-title="Radio",101.RU - Mylene Farmer
 
 http://ic2.101.ru:8000/c7_23?setst=052698400134736894720120911
 
@@ -3991,7 +4021,7 @@ http://relay.181.fm:8058
 http://relay.181.fm:8800
 #EXTINF:0 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Techno Club
 http://icyrelay.181.fm/181-technoclub_128k.mp3
-#EXTINF:0 group-title="Radio",Energy 93
+#EXTINF:0 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Energy 93
 http://relay.181.fm:8044
 #EXTINF:0 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Studio 181
 http://relay.181.fm:8072
@@ -4193,8 +4223,7 @@ http://voxsc1.somafm.com:8884
 #EXTINF:0 group-title="Radio",ANDYS 80s
 http://209.9.238.4:9844
 
-#EXTINF:0 group-title="Radio",Swiss Internet Radio - Public Domain Classical - Swiss Internet Radio - Shoutcast Streaming Technology by www.init7.net
-
+#EXTINF:0 group-title="Radio",Swiss Internet Radio - Public Domain Classical 
 http://82.197.165.137:80
 
 #EXTINF:0 group-title="Radio",WMNF HD-3 The Source - WMNF Tampa 88.5 FM HD-3
@@ -4875,107 +4904,107 @@ http://media1.publici.com.br:8088/valedosol?type=.mp3
 http://assembleia.org.br:8028/;stream.mp3
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", BON JOVI
 http://icecasthd.net:27200/live?
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio" radio=true, CBN Recife 105.7
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN Recife 105.7
 http://sh2.upx.com.br:8012/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio" radio=true, CBN BH
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN BH
 http://mob.sgr.globo.com:9100/icbnbh
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio" radio=true, CBN DF
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN DF
 http://mob.sgr.globo.com:9100/icbnbsb
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio" radio=true, CBN Recife
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN Recife
 http://sh2.upx.com.br:8012/
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio" radio=true, CBN SALVADOR
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN SALVADOR
 http://sh1.upx.com.br:8100/
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Clube Fm Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Clube Fm Curitiba
 http://200.192.112.45:8000/clubefm.mp3
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Cidade 99.1 FM Fortaleza
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Cidade 99.1 FM Fortaleza
 http://www.radioideal.net:8010/;stream/1
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Capixaba 1050Khz ES
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Capixaba 1050Khz ES
 http://7309.live.streamtheworld.com/ES_RADIOONLINEAAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Cidade FM 87.9 Khz MS
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Cidade FM 87.9 Khz MS
 http://streaming21.brlogic.com:8072/live?type=.flv
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Clarim de Palmas - ItaÃ­ SP
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Clarim de Palmas - ItaÃ­ SP
 http://7359.live.streamtheworld.com/SP_RADIOONLINE3AAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Clube FM Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Clube FM Curitiba
 http://200.192.112.45:8000/clubefm.mp3
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Dance Radio
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Dance Radio
 http://audio3.cmaudioevideo.com:8110/stream
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Difusora AM 590 Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Difusora AM 590 Curitiba
 http://tr.fabricahost.com.br:8202/
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Discoteca
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Discoteca
 http://192.99.150.31:8241/stream
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Deus e Amor 1210 AM - Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Deus e Amor 1210 AM - Curitiba
 http://7309.live.streamtheworld.com/PR_RADIOONLINEAAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Energia FM
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Energia FM
 http://aac.97fm.com.br/energia?type=.flv
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Estrela de Ibiana MG
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Estrela de Ibiana MG
 http://7359.live.streamtheworld.com/MG_RADIOONLINE2AAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Gospel Caroline Oliveira
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Gospel Caroline Oliveira
 http://206.190.132.244:9990
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, IPDA Central de Producao Internacional 40kbps, SÃ£o Paulo - SP
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", IPDA Central de Producao Internacional 40kbps, SÃ£o Paulo - SP
 http://7359.live.streamtheworld.com/SP_STUDIOCAAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, IPDA Central de Producao Internacional - 192kbps
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", IPDA Central de Producao Internacional - 192kbps
 http://7359.live.streamtheworld.com/SP_STUDIOC_ALTOAAC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/7/7a/20150816202058!Logotipo_da_Jovem_Pan_FM.png" group-title="Radio" radio=true, Jovem Pan Fortaleza
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/7/7a/20150816202058!Logotipo_da_Jovem_Pan_FM.png" group-title="Radio", Jovem Pan Fortaleza
 http://72.29.81.124:8322/;
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/7/7a/20150816202058!Logotipo_da_Jovem_Pan_FM.png" group-title="Radio" radio=true, Jovem Pan Campinas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/7/7a/20150816202058!Logotipo_da_Jovem_Pan_FM.png" group-title="Radio", Jovem Pan Campinas
 http://paineldj2.com.br:8200/
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Lumen
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Lumen
 http://200.192.112.45:8000/lumenfm.mp3
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Lumen Classica
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Lumen Classica
 http://200.192.112.45:8000/lumenclassica.mp3
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Manancial FM 95.1
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Manancial FM 95.1
 http://199.217.116.47:9946/;
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Mania
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Mania
 http://174.127.101.183:8589/;stream.mp3
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio" radio=true, Mix Joao Pessoa 93.7
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio", Mix Joao Pessoa 93.7
 http://174.37.99.199:8318/;
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio" radio=true, Mix Sao Paulo
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio", Mix Sao Paulo
 http://tuneinmix.crossradio.com.br:8008/;
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio" radio=true, Mix Curitiba
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s86725q.png" group-title="Radio", Mix Curitiba
 http://vilhavelhafm.dnip.com.br:8060/
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Novos Horizonte
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Novos Horizonte
 http://centova6.ciclanohost.com.br:9196/;?1426530250191.mp3
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Novo Tempo Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Novo Tempo Curitiba
 http://stream.novotempo.com:1935/radio/smil:rntCuritibaPR.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Planalto FM
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Planalto FM
 http://fms.skyradios.com.br:9018
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Planalto AM
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Planalto AM
 http://fms.skyradios.com.br:7018
-#EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Radio" radio=true, Radio Bandeirantes Campinas
+#EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Radio", Radio Bandeirantes Campinas
 http://167.114.103.39:8470/
-#EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Radio" radio=true, Radio Bandeirantes Florianópolis
+#EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Radio", Radio Bandeirantes Florianópolis
 http://streaming01.maxcast.com.br:8234/live
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" radio=true, Radio Globo BH
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo BH
 http://mob.sgr.globo.com:9000/igambh
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" radio=true, Radio Globo  Natal
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo  Natal
 http://06.stmip.net:7780/
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" radio=true, Radio Globo RJ
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" Radio Globo RJ
 http://mob.sgr.globo.com:9000/igamrj
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" radio=true, Radio Globo SP
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo SP
 http://mob.sgr.globo.com:9000/igamsp
-#EXTINF:-1 tvg-logo="https://fontecom.files.wordpress.com/2012/07/mzi-cnyxsimp.png" group-title="Radio" radio=true, Radio Itatiaia MG
+#EXTINF:-1 tvg-logo="https://fontecom.files.wordpress.com/2012/07/mzi-cnyxsimp.png" group-title="Radio", Radio Itatiaia MG
 http://aovivo.radios.com.br:8110/
-#EXTINF:-1 tvg-logo="http://radiocristoemcasa.com/images/47f92efd88d39defb4676132efeee212.png" group-title="Radio" radio=true, Radio Rumo a Cristo
+#EXTINF:-1 tvg-logo="http://radiocristoemcasa.com/images/47f92efd88d39defb4676132efeee212.png" group-title="Radio", Radio Rumo a Cristo
 http://radio.rumoacristo.com.br:9600/
-#EXTINF:-1 tvg-logo="http://radiocidade.fm/images/newsite/logo-cidade1.png" group-title="Radio" radio=true, Radio Cidade FM GO
+#EXTINF:-1 tvg-logo="http://radiocidade.fm/images/newsite/logo-cidade1.png" group-title="Radio", Radio Cidade FM GO
 http://servidor.madhosting.com.br:7046
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Sky Gospel
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Sky Gospel
 http://66.90.104.7:7050/stream;?1435677069449.aac
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Sky Plus
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Sky Plus
 http://3.stm-ip.com:9262
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Sara Brasil FM Curitiba
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Sara Brasil FM Curitiba
 http://104.166.74.90:18438
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Tomorrowland Radio
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Tomorrowland Radio
 http://streaming.radionomy.com/TomorrowlandRadioFestival
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/55/20121004210937!Logotipo_da_Super_R%C3%A1dio_Tupi_(S%C3%A3o_Paulo).png" group-title="Radio" radio=true, Tupi
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/55/20121004210937!Logotipo_da_Super_R%C3%A1dio_Tupi_(S%C3%A3o_Paulo).png" group-title="Radio", Tupi
 http://173.193.202.68:8930/
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Vale FM
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Vale FM
 http://a9.fabricahost.com.br:1935/valefm/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, Stereo 98.1 FM - Votuporanga
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", Stereo 98.1 FM - Votuporanga
 http://7309.live.streamtheworld.com/SP_RADIOONLINEAAC
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, 98 FM Joao Pessoa
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", 98 FM Joao Pessoa
 http://servidor28.crossdigital.com.br:8286/;
-#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio" radio=true, 880 1060Khz MG
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Radio", 880 1060Khz MG
 http://7309.live.streamtheworld.com/MG_RADIOONLINEAAC
  
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="Radio",BBC - Radio 1
@@ -5122,19 +5151,19 @@ http://64.182.119.196:7640
 #EXTINF:-1 group-title="Radio",Punjabi Radio CANADA
 http://174.37.16.73:5270/Live
 
-#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Radio" radio="true",Energie 94.3
+#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Radio",Energie 94.3
 http://ckmf-mp3.akacast.akamaistream.net/7/863/102120/v1/astral.akacast.akamaistream.net/ckmf-mp3
-#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Radio" radio="true",CKOI 96.9
+#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Radio",CKOI 96.9
 http://142.4.207.11:8000/ckoi.mp3
-#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Radio" radio="true",CHOM 97.7
+#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Radio",CHOM 97.7
 http://chom-mp3.akacast.akamaistream.net/7/996/102120/v1/astral.akacast.akamaistream.net/chom-mp3
-#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="radio" radio="true, Boom FM 104.1
+#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Radio", Boom FM 104.1
 http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
-#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Radio" radio="true",Rythme FM 105.7
+#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Radio",Rythme FM 105.7
 http://142.4.207.11:8000/cfgl.mp3
-#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Radio" radio="true, Rouge FM 107.3
+#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Radio", Rouge FM 107.3
 http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
-#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title=Rradio" radio="true",Radio Circulation 730 (Traffic)
+#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Radio",Radio Circulation 730 (Traffic)
 http://142.4.207.11:8000/ckac.mp3
 #EXTINF:-1 group-title="Radio",Quebec Radio
 http://184.95.52.178:8062
@@ -5215,7 +5244,6 @@ EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d
 http://ckrm.streamon.fm:8000/CKRM-48k.aac
 #EXTINF:-1 group-title="Radio",Ontario Sports Radio
 http://174.36.206.197:8146
-
 #EXTINF:0 group-title="group-title="Radio",WNYZ Korea 87.7 FM - 6 LP - New York City - NY New York
 rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:0 group-title="group-title="Radio",KALX 90.7 FM Berkeley
@@ -5288,6 +5316,25 @@ http://mediacorp.rastream.com/987fm
 http://mediacorp.rastream.com/995fm
 #EXTINF:0 group-title="Radio",UFM 100.3 Singapore 
 http://sph.rastream.com/1003fm
+
+#EXTINF:0 group-title="Radio",TERENGGANU FM Malaysia
+http://218.208.228.62:8000/;stream.nsv
+#EXTINF:0 group-title="Radio",IKIM FM Malaysia
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:0 group-title="Radio",HOT FM Malaysia
+http://2343.live.streamtheworld.com/HOTFMAAC
+#EXTINF:0 group-title="Radio",SURIA FM Malaysia
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:0 group-title="Radio",THR GEGAR Malaysia
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+#EXTINF:0 group-title="Radio",MUZIK FM Malaysia
+http://69.197.60.122:8000/;stream.mp3
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/hitz.png" group-title="Radio",HITZ.FM Malaysia
+http://astro1.rastream.com/hitz
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/sinar.png" group-title="Radio",SINAR.FM Malaysia
+http://astro2.rastream.com/sinar
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/era.png" group-title="Radio",ERA.FM Malaysia
+http://astro2.rastream.com/era
 
 
 #EXTINF:0 group-title="Radio",Europe1
@@ -5410,18 +5457,6 @@ Http://provisioning.streamtheworld.compls/LOS40.pls
 Http://listen.radionomy.com/radio-vivantefm.m3u
 #EXTINF:0 group-title="Radio",Radio Plus Belgique
 Http://radioplus23.ice.infomaniak.ch/radioplus23-48.aac.m3u
-#EXTINF:0 group-title="Radio",BBC 2 Uk
-Http://www.listenlive.eu/bbcradio2.m3u
-#EXTINF:0 group-title="Radio",BBC 3 Uk
-Http://www.listenlive.eu/bbcradio3.m3u
-#EXTINF:0 group-title="Radio",BBC 4 Uk
-Http://www.listenlive.eu/bbcradio4.m3u
-#EXTINF:0 group-title="Radio",BBC 5 Uk
-Http://www.listenlive.eu/bbc5live.m3u
-#EXTINF:0 group-title="Radio",BBC 6 Uk
-Http://www.listenlive.eu/bbc6music.m3u
-#EXTINF:0 group-title="Radio",BBC World
-Http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls
 #EXTINF:0 group-title="Radio",Earth Uk
 Http://media-ice.musicradio.com/HeartLondonMP3.m3u
 #EXTINF:0 group-title="Radio",Public Domain Classical - Swiss Internet Radio
@@ -5491,14 +5526,14 @@ http://2.bp.blogspot.com/d9_lRapvj3OzEmAMDkpbBzesdxxoOwo-bo7pMyDnckbH=m22
 http://www.deadlyblogger.com/NewRelease/after.mp4
 EXTINF:0 group-title="Movies",Ali 2001
 http://www.deadlyblogger.com/NewRelease/ali1.mp4
-#EXTINF:0,tvg-name=”Aloft 2014″ tvg-language=”English” tvg-country=”US” tvg-id=”Aloft 2014″ tvg-logo=”http://ia.media-imdb.com/images/M/MV5BMjAyMzY2MTAxOF5BMl5BanBnXkFtZTgwOTQwOTEzNTE@._V1_SX214_AL_.jpg” group-title=”Movies”,Aloft 2014 
+#EXTINF:0,tvg-name="Aloft 2014" tvg-language="English" tvg-country="US" tvg-id="Aloft 2014" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjAyMzY2MTAxOF5BMl5BanBnXkFtZTgwOTQwOTEzNTE@._V1_SX214_AL_.jpg" group-title="Movies",Aloft 2014 
 https://lh3.googleusercontent.com/MbzpYy0VnYO4rzNv%5F9RHex9JMfidY8z7KH0F%5FwIv44g%3Dm18
 #EXTINF:0 group-title="Movies",Animal 2005
 #EXTINF:0 tvg-logo="" group-title="Movies",A Walk Among the Tombstones
 http://144.76.186.45/r57/5/tyler/movie/AWalkAmongtheTombstonesHDRip-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",About Alex
 http://144.76.186.45/r57/5/tyler/movie/AboutAlexDVD-TylerMovieLand.mp4
-#EXTINF:0 tvg-logo="" group-title="Movies",All is Bright
+#EXTINF:0 group-title="Movies",All is Bright
 http://144.76.186.45/r57/5/tyler/movie/AllisBrightDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Are You Here
 http://144.76.186.45/r57/5/tyler/movie/AreYouHereDVD-TylerMovieLand.mp4
@@ -5881,14 +5916,14 @@ http://144.76.186.45/r57/5/tyler/movie/SeeNoEvil2DVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/StonehearstAsylumDVD-TylerMovieLand.mp4
 #EXTINF:0 tvg-logo="" group-title="Movies",Stuck
 http://144.76.186.45/r57/5/tyler/movie/StuckDVD-TylerMovieLand.mp4
-#EXTINF:0,tvg-name="Spectre 2015" tvg-language="English" tvg-country="US" tvg-id="Spectre 2015" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/10/spectre_poster.jpg" group-title="Movies",Spectre 2015
+#EXTINF:0 tvg-name="Spectre 2015" tvg-language="English" tvg-country="US" tvg-id="Spectre 2015" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/10/spectre_poster.jpg" group-title="Movies",Spectre 2015
 https://2.bp.blogspot.com/lMdz%5FXJQkc6zB8dlnyaB8AOJJjPWlJri5JaCqdLJhjA%3Dm18
 
 #EXTINF:0,tvg-name="The Amazing Wizard Of Paws 2015" tvg-language="English" tvg-country="US" tvg-id="The Amazing Wizard Of Paws 2015″ tvg-logo=”http://ecx.images-amazon.com/images/I/61qXGhQg5FL.jpg" group-title="Movies",The Amazing Wizard Of Paws 2015 
 http://2.bp.blogspot.com/jVR6S03Usvmf8Xma6ucgXArWP7LUjfsNFeBtp_p4jPc=m18
 #EXTINF:0,tvg-name="The Culling 2015" tvg-language="English" tvg-country="US" tvg-id="The Culling 2015" tvg-logo="http://www.moviexk.net/wp-content/uploads/2015/06/the-culling-2015.jpg" group-title="Movies",The Culling 2015 
 http://2.bp.blogspot.com/P7yzLED6hz3pZP3duQWSLlHojzbVHA23UVg_HNjC8hE=m18
-#EXTINF:0,tvg-name=”The Fitzgerald Family Christmas 2012″ tvg-language=”English” tvg-country=”US” tvg-id=”The Fitzgerald Family Christmas 2012″ tvg-logo=”http://ecx.images-amazon.com/images/I/51v19DX0j%2BL.jpg” group-title=”Movies”,The Fitzgerald Family Christmas 2012
+#EXTINF:0 tvg-name="The Fitzgerald Family Christmas 2012" tvg-language="English" tvg-country="US" tvg-id="The Fitzgerald Family Christmas 2012" tvg-logo="http://ecx.images-amazon.com/images/I/51v19DX0j%2BL.jpg" group-title="Movies",The Fitzgerald Family Christmas 2012
 https://lh3.googleusercontent.com/%5FkJUhyPd4A%5F31xpM7fM51p9WSLAmj8Jjwz6l3f2KoQ%3Dm22
 #EXTINF:0,tvg-name="The Giver 2014" tvg-language="English" tvg-country="US" tvg-id="The Giver 2014" tvg-logo="http://www.yifysubtitles.com/images/movies/movie-3273.jpg" group-title="Movies",The Giver 2014 
 http://2.bp.blogspot.com/1T2nywVj3pQOh_XB1lHk-o0rF8BVoVOznKEmZdotqQtf=m18
@@ -7148,17 +7183,9 @@ http://www.deadlyblogger.com/NewRelease/thrones6e9.mp4
 http://www.deadlyblogger.com/NewRelease/thrones6e10.mp4  
 
 
-
-
-
-
-
-
-
 #EXTINF:-1,[COLOR yellow]---------------------- The Walking Dead ----------------------[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 1 ----------------------[/COLOR]
-http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-name="TWD S01EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 1 Episode 1
 http://bit.ly/20cidqj
 #EXTINF:-1 tvg-name="TWD S01EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 1 Episode 2
@@ -7171,8 +7198,6 @@ http://bit.ly/1K13yfH
 http://bit.ly/1P9p9S0
 #EXTINF:-1 tvg-name="TWD S01EP06" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 1 Episode 6
 http://bit.ly/1S3ny41
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 2 ----------------------[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-name="TWD S02EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 2 Episode 1
 http://bit.ly/1nWefpF
 #EXTINF:-1 tvg-name="TWD S02EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 2 Episode 2
@@ -7199,8 +7224,6 @@ http://bit.ly/1Lf5z31
 http://bit.ly/1Wc1dzp
 #EXTINF:-1 tvg-name="TWD S02EP12" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 2 Episode 13
 http://bit.ly/1PMwSqT
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 3 ----------------------[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-name="TWD S03EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 3 Episode 1
 http://bit.ly/1XgQ5CC
 #EXTINF:-1 tvg-name="TWD S03EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 3 Episode 2
@@ -7233,8 +7256,6 @@ http://bit.ly/1XgQDIJ
 http://bit.ly/1V1Nvid
 #EXTINF:-1 tvg-name="TWD S03EP16" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 3 Episode 16
 http://bit.ly/1PMxGvY
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 4 ----------------------[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-name="TWD S04EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 4 Episode 1
 http://bit.ly/1TbdLcp
 #EXTINF:-1 tvg-name="TWD S04EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 4 Episode 2
@@ -7267,8 +7288,6 @@ http://bit.ly/1mqKTOW
 http://bit.ly/1O1SYQD
 #EXTINF:-1 tvg-name="TWD S04EP016" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 4 Episode 16
 http://bit.ly/1Pjuvu2
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 5 ----------------------[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-name="TWD S05EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 5 Episode 1
 http://bit.ly/1LfacKl
 #EXTINF:-1 tvg-name="TWD S05EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 5 Episode 2
@@ -7301,8 +7320,6 @@ http://bit.ly/1V1SrDK
 http://bit.ly/20TZ5zM
 #EXTINF:-1 tvg-name="TWD S05EP16" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png",The Walking Dead Season 5 Episode 16
 http://bit.ly/1SGDv0x
-#EXTINF:-1,[COLOR yellow]---------------------- SEASON 6 ----------------------[/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-name="TWD S06EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 6 Episode 1
 http://bit.ly/1Q61qPX
 #EXTINF:-1 tvg-name="TWD S06EP02" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 6 Episode 2
@@ -7459,68 +7476,25 @@ http://www.deadlyblogger.com/NewRelease/fireflys1e15.mp4
 #EXTINF:-1,[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="XXX TV",AmateurXXX
-http://premium.exabytetv.info/xxx_xvideos_amateur.php?token=4g4g4g4g4g4g4g4g4g4d&f=.m3u8
-#EXTINF:0 group-title="XXX TV",Best Of Playboy
-http://premium.exabytetv.info/xxx_xvideos_playboy.php?token=4g4g4g4g4g4g4g4g4g4d&f=.m3u8
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", JAZMIN TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", Jasmin TV HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",LATIN LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1 tvg-logo="http://i182.photobucket.com/albums/x283/paznit/th_babestation_logo.png" group-title="XXX TV",Babestation 1
-http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i182.photobucket.com/albums/x283/paznit/th_babestation_logo.png" group-title="XXX TV",Babestation 2
-http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i182.photobucket.com/albums/x283/paznit/th_babestation_logo.png" group-title="XXX TV" ,Babestation 3
-http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",FRENCHLOVER TV LOVE
-http://178.46.154.106:8000/play/a01x
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="XXX TV",PASSION XXX
-http://178.46.154.106:8000/play/a025
-#EXTINF:-1 group-title="XXX TV",Erotik
-http://188.242.187.53:4022/udp/239.239.13.65:5239
 #EXTINF:-1 group-title="XXX TV",Frenchlover
 http://81.89.48.215:1935/xyz666wkz/xy6/chunklist.m3u8
-#EXTINF:-1 group-title="XXX TV",Olala
-http://188.242.187.53:4022/udp/239.239.13.1:5239
-#EXTINF:-1 group-title="XXX TV",XXX- HOT CLUB 2 HD
-http://195.154.207.145:8000/play/xxxhotclub2hd
-#EXTINF:-1 group-title="XXX TV",XXX- HOTCLUB 4 HD
-http://195.154.207.145:8000/play/xxxhotclub4hd
-#EXTINF:-1 group-title="XXX TV",XXX -PASSION
-http://195.154.207.145:8000/play/xxxpassion
-#EXTINF:-1 group-title="XXX TV",XXX-REDLIGHT HD
-http://195.154.207.145:8000/play/xxxredlighthd
-#EXTINF:-1 group-title="XXX TV",XXX-Dorcel club
-http://195.154.207.145:8000/play/xxxdorcelclub
-#EXTINF:-1 group-title="XXX TV",XXX- Jasmin TV
-http://195.154.207.145:8000/play/xxxjasmintv
-#EXTINF:-1 group-title="XXX TV",XXX-DORCEL
-http://195.154.207.145:8000/play/xxxdorcel
-#EXTINF:-1 group-title="XXX TV",XXX- HOT CLUB 1 HD
-http://195.154.207.145:8000/play/xxxhotclub1hd
-#EXTINF:-1 group-title="XXX TV",XXX- Hustler HD
-http://195.154.207.145:8000/play/xxxhustlerhd
-#EXTINF:-1 group-title="XXX TV",XXX-SCT SD
-http://195.154.207.145:8000/play/xxxsctsd
-#EXTINF:-1 group-title="XXX TV",XXX- Passion 18
-http://195.154.207.145:8000/play/xxxpassion18
-#EXTINF:-1 group-title="XXX TV",XXX - Playboy
-http://195.154.207.145:8000/play/xxxplayboy
-#EXTINF:-1 group-title="XXX TV",XXX - Playboy
-http://server4.streamiptv.online:80/live/inter01/H09Jx1yH5m/5508.ts
-#EXTINF:-1 group-title="XXX TV",Adult 2
-http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1452.ts
-#EXTINF:-1 group-title="XXX TV",Adult 3
-http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1458.ts
-#EXTINF:-1 group-title="XXX TV",Adult 4
-http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1459.ts
-#EXTINF:-1 group-title="XXX TV",Adult 5
-http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1460.ts
 #EXTINF:-1 group-title="XXX TV",SexStation
 rtmp://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream
+#EXTINF:-1 group-title="XXX TV", Playboy Vietnam
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1,* ADULT *
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/920.ts
+#EXTINF:-1,XX: hot
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1469.ts
+#EXTINF:-1,XX: venus
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/921.ts
+#EXTINF:-1,XXX SEXTOSENTO TV
+http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/923.ts
 
 #EXTINF:-1, [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
@@ -10466,43 +10440,43 @@ http://vpiter.tv:8083/camera26/h264
 http://vpiter.tv:8083/camera27/h264
 #EXTINF:0 group-title="Webcams",Russia St Petersburg 5
 http://vpiter.tv:8083/camera28/h264
-#EXTINF:-1 group-title="WEBCAM",vODAFON wEB CAM
+#EXTINF:-1 group-title="Webcams",vODAFON wEB CAM
 http://37.252.248.84/nokta_vodafone/nokta3/stml.m3u8
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Zrenjanin
+#EXTINF:-1 group-title="Webcams",EXYUG-Zrenjanin
 http://109.94.224.254/video1.mjpg
-#EXTINF:-1 group-title="WEBCAM",POLSKI Park Krasnala-Nowa S�l(m3u8)
+#EXTINF:-1 group-title="Webcams",POLSKI Park Krasnala-Nowa S�l(m3u8)
 http://178.33.229.71:1935/parkkrasnala/parkkrasnala.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAM",POLSKI Ostr�w Wklp.-Rynek(m3u8)
+#EXTINF:-1 group-title="Webcams",POLSKI Ostr�w Wklp.-Rynek(m3u8)
 http://77.89.89.10:1935/rtplive/rynek.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Banja luka (trg krajine)
+#EXTINF:-1 group-title="Webcams",EXYUG-Banja luka (trg krajine)
 http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 1
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 1
 http://vpiter.tv:8083/camera1/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 13
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 13
 http://vpiter.tv:8083/camera13/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 14
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 14
 http://vpiter.tv:8083/camera14/h264
 #EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 16
 http://vpiter.tv:8083/camera16/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 17
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 17
 http://vpiter.tv:8083/camera17/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 19
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 19
 http://vpiter.tv:8083/camera19/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 2
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 2
 http://vpiter.tv:8083/camera2/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 23
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 23
 http://vpiter.tv:8083/camera23/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 25
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 25
 http://vpiter.tv:8083/camera25/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 26
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 26
 http://vpiter.tv:8083/camera26/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 27
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 27
 http://vpiter.tv:8083/camera27/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 28
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 28
 http://vpiter.tv:8083/camera28/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 3
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 3
 http://vpiter.tv:8083/camera3/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 4
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 4
 http://vpiter.tv:8083/camera4/0,0,640,480/h264
 #EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 5
 http://vpiter.tv:8083/camera4/640,480,640,480/h264
@@ -10510,495 +10484,495 @@ http://vpiter.tv:8083/camera4/640,480,640,480/h264
 http://vpiter.tv:8083/camera6/h264
 #EXTINF:-1 group-title="WEBCAM",NL:Zaandam - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_e8463_720p.stream
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg
 http://vpiter.tv:8083/hermitage/h264
-#EXTINF:-1 group-title="WEBCAM",NL:Vlieland - Niederlande
+#EXTINF:-1 group-title="Webcams",NL:Vlieland - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_2d053_720p.stream
-#EXTINF:-1 group-title="WEBCAM",NL:Urk - Niederlande
+#EXTINF:-1 group-title="Webcams",NL:Urk - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_cd126_720p.stream
-#EXTINF:-1 group-title="WEBCAM",NL:Tricht - Niederlande
+#EXTINF:-1 group-title="Webcams",NL:Tricht - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_f852f_720p.stream
-#EXTINF:-1 group-title="WEBCAM",NL:Katwijk aan Zee - Niederlande
+#EXTINF:-1 group-title="Webcams",NL:Katwijk aan Zee - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_8a4f1_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Zürich - Uetliberg
+#EXTINF:-1 group-title="Webcams",DE:Zürich - Uetliberg
 rtmp://stream.livespotting.tv/windit-edge/vv65_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Würzburg - Hotel Alter Kranen
+#EXTINF:-1 group-title="Webcams",DE:Würzburg - Hotel Alter Kranen
 rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Wuppertal - Barmenia
+#EXTINF:-1 group-title="Webcams",DE:Wuppertal - Barmenia
 rtmp://stream.livespotting.tv/windit-edge/vv117_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Wolfsburg - Stadt Wolfsburg
+#EXTINF:-1 group-title="Webcams",DE:Wolfsburg - Stadt Wolfsburg
 rtmp://stream.livespotting.tv/windit-edge/vv88_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Wiek - Rügen
+#EXTINF:-1 group-title="Webcams",DE:Wiek - Rügen
 rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Westerland - Sylt
+#EXTINF:-1 group-title="Webcams",DE:Westerland - Sylt
 rtmp://stream.livespotting.tv/windit-edge/vv43_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Weimar - HotelPension am Goethehaus
+#EXTINF:-1 group-title="Webcams",DE:Weimar - HotelPension am Goethehaus
 rtmp://stream.livespotting.tv/windit-edge/vv92_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Warnemünde - Yachthafen
+#EXTINF:-1 group-title="Webcams",DE:Warnemünde - Yachthafen
 rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Warnemünde - Best Western Hotel
+#EXTINF:-1 group-title="Webcams",DE:Warnemünde - Best Western Hotel
 rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Ulm - Hotel Blaubeurer Tor
+#EXTINF:-1 group-title="Webcams",DE:Ulm - Hotel Blaubeurer Tor
 rtmp://stream.livespotting.tv/windit-edge/vv66_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Tübingen - Heindl Internet AG
+#EXTINF:-1 group-title="Webcams",DE:Tübingen - Heindl Internet AG
 rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Tübingen - Casino am Neckar
+#EXTINF:-1 group-title="Webcams",DE:Tübingen - Casino am Neckar
 rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Travemünde - Strand
+#EXTINF:-1 group-title="Webcams",DE:Travemünde - Strand
 rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Torfhaus - Harz
+#EXTINF:-1 group-title="Webcams",DE:Torfhaus - Harz
 rtmp://stream.livespotting.tv/windit-edge/vv52_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Timmendorfer Strand
+#EXTINF:-1 group-title="Webcams",DE:Timmendorfer Strand
 rtmp://stream.livespotting.tv/windit-edge/vv9_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Stralsund - Schweriner Hof
+#EXTINF:-1 group-title="Webcams",DE:Stralsund - Schweriner Hof
 rtmp://stream.livespotting.tv/windit-edge/vv142_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Stralsund - Hotel Hafenresidenz
+#EXTINF:-1 group-title="Webcams",DE:Stralsund - Hotel Hafenresidenz
 rtmp://stream.livespotting.tv/windit-edge/vv132_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:St. Anton am Arlberg
+#EXTINF:-1 group-title="Webcams",DE:St. Anton am Arlberg
 rtmp://stream.livespotting.tv/windit-edge/vv21_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Sölden - Freizeit Arena
+#EXTINF:-1 group-title="Webcams",DE:Sölden - Freizeit Arena
 rtmp://stream.livespotting.tv/windit-edge/vv96_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Schwerin - Com In IT Solution Center
+#EXTINF:-1 group-title="Webcams",DE:Schwerin - Com In IT Solution Center
 rtmp://stream.livespotting.tv/windit-edge/vv97_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Schwangau - Schloss Neuschwanstein
+#EXTINF:-1 group-title="Webcams",DE:Schwangau - Schloss Neuschwanstein
 rtmp://stream.livespotting.tv/windit-edge/vv108_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Scharbeutz - Lübecker Bucht
+#EXTINF:-1 group-title="Webcams",DE:Scharbeutz - Lübecker Bucht
 rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Sankt Peter-Ording - Beach Motel
+#EXTINF:-1 group-title="Webcams",DE:Sankt Peter-Ording - Beach Motel
 rtmp://stream.livespotting.tv/windit-edge/vv129_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Saarbrücken - La Residence
+#EXTINF:-1 group-title="Webcams",DE:Saarbrücken - La Residence
 rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Saalbach-Hinterglemm
+#EXTINF:-1 group-title="Webcams",DE:Saalbach-Hinterglemm
 rtmp://stream.livespotting.tv/windit-edge/LS_f695b_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Rust - Apollon Hotel
+#EXTINF:-1 group-title="Webcams",DE:Rust - Apollon Hotel
 rtmp://stream.livespotting.tv/windit-edge/vv87_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Rostock - Hotel Sportforum
+#EXTINF:-1 group-title="Webcams",DE:Rostock - Hotel Sportforum
 rtmp://stream.livespotting.tv/windit-edge/vv119_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Rostock - Apartment LIVING HOTEL
+#EXTINF:-1 group-title="Webcams",DE:Rostock - Apartment LIVING HOTEL
 rtmp://stream.livespotting.tv/windit-edge/vv89_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Potsdam - Hotel Am Luisenplatz
+#EXTINF:-1 group-title="Webcams",DE:Potsdam - Hotel Am Luisenplatz
 rtmp://stream.livespotting.tv/windit-edge/vv110_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Plougonvelin - Bretagne - France
+#EXTINF:-1 group-title="Webcams",DE:Plougonvelin - Bretagne - France
 rtmp://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Pertisau am Achensee - Bergstation
+#EXTINF:-1 group-title="Webcams",DE:Pertisau am Achensee - Bergstation
 rtmp://stream.livespotting.tv/windit-edge/vv126_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Pelzerhaken - Lübecker Bucht
+#EXTINF:-1 group-title="Webcams",DE:Pelzerhaken - Lübecker Bucht
 rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Passau - Hotel König
+#EXTINF:-1 group-title="Webcams",DE:Passau - Hotel König
 rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Oldenburg - Nordwest-Zeitung
+#EXTINF:-1 group-title="Webcams",DE:Oldenburg - Nordwest-Zeitung
 rtmp://stream.livespotting.tv/windit-edge/vv91_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Oberwiesenthal - Hotel Fichtelberghaus
+#EXTINF:-1 group-title="Webcams",DE:Oberwiesenthal - Hotel Fichtelberghaus
 rtmp://stream.livespotting.tv/windit-edge/vv30_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Oberstdorf - Hotel Exquisit
+#EXTINF:-1 group-title="Webcams",DE:Oberstdorf - Hotel Exquisit
 rtmp://stream.livespotting.tv/windit-edge/vv137_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Norderney - Zimmerservice - Norderney
+#EXTINF:-1 group-title="Webcams",DE:Norderney - Zimmerservice - Norderney
 rtmp://stream.livespotting.tv/windit-edge/vv147_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Niendorf - Meerwasserhallenbad
+#EXTINF:-1 group-title="Webcams",DE:Niendorf - Meerwasserhallenbad
 rtmp://stream.livespotting.tv/windit-edge/vv81_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Neuharlingersiel - Hafen West
+#EXTINF:-1 group-title="Webcams",DE:Neuharlingersiel - Hafen West
 rtmp://stream.livespotting.tv/windit-edge/vv13_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Neuharlingersiel - Hafen Ost
+#EXTINF:-1 group-title="Webcams",DE:Neuharlingersiel - Hafen Ost
 rtmp://stream.livespotting.tv/windit-edge/vv12_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Münster - Stadthaus
+#EXTINF:-1 group-title="Webcams",DE:Münster - Stadthaus
 rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Münster - Raphaelsklinik
+#EXTINF:-1 group-title="Webcams",DE:Münster - Raphaelsklinik
 rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:München - wetter.com-Redaktion
+#EXTINF:-1 group-title="Webcams",DE:München - wetter.com-Redaktion
 rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:München - Deutsche Eiche
+#EXTINF:-1 group-title="Webcams",DE:München - Deutsche Eiche
 rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Mönchengladbach - Best Western Crown
+#EXTINF:-1 group-title="Webcams",DE:Mönchengladbach - Best Western Crown
 rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lübeck - Radisson Blu
+#EXTINF:-1 group-title="Webcams",DE:Lübeck - Radisson Blu
 rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lübeck - MUK
+#EXTINF:-1 group-title="Webcams",DE:Lübeck - MUK
 rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lindau - Lindauer Hof
+#EXTINF:-1 group-title="Webcams",DE:Lindau - Lindauer Hof
 rtmp://stream.livespotting.tv/windit-edge/vv113_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lindau - Bodensee
+#EXTINF:-1 group-title="Webcams",DE:Lindau - Bodensee
 rtmp://stream.livespotting.tv/windit-edge/vv50_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lermoos - Zugspitze
+#EXTINF:-1 group-title="Webcams",DE:Lermoos - Zugspitze
 rtmp://stream.livespotting.tv/windit-edge/vv120_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Lech am Arlberg
+#EXTINF:-1 group-title="Webcams",DE:Lech am Arlberg
 rtmp://stream.livespotting.tv/windit-edge/vv22_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Langeness - TU Harburg
+#EXTINF:-1 group-title="Webcams",DE:Langeness - TU Harburg
 rtmp://stream.livespotting.tv/windit-edge/vv136_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kühlungsborn - Strand
+#EXTINF:-1 group-title="Webcams",DE:Kühlungsborn - Strand
 rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Krefeld - Garden Hotel
+#EXTINF:-1 group-title="Webcams",DE:Krefeld - Garden Hotel
 rtmp://stream.livespotting.tv/windit-edge/vv67_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Köln - Pullman Cologne
+#EXTINF:-1 group-title="Webcams",DE:Köln - Pullman Cologne
 rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Köln - Kölnturm
+#EXTINF:-1 group-title="Webcams",DE:Köln - Kölnturm
 rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kitzbühel - Hotel Rasmushof
+#EXTINF:-1 group-title="Webcams",DE:Kitzbühel - Hotel Rasmushof
 rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kitzbühel - Hahnenkamm Bergstation
+#EXTINF:-1 group-title="Webcams",DE:Kitzbühel - Hahnenkamm Bergstation
 rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kiel - Schleuse
+#EXTINF:-1 group-title="Webcams",DE:Kiel - Schleuse
 rtmp://stream.livespotting.tv/windit-edge/vv38_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kiel - Port of Kiel
+#EXTINF:-1 group-title="Webcams",DE:Kiel - Port of Kiel
 rtmp://stream.livespotting.tv/windit-edge/vv77_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Kampen - Sylt
+#EXTINF:-1 group-title="Webcams",DE:Kampen - Sylt
 rtmp://stream.livespotting.tv/windit-edge/vv49_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Juister Hof - Juist
+#EXTINF:-1 group-title="Webcams",DE:Juister Hof - Juist
 rtmp://stream.livespotting.tv/windit-edge/vv146_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Juist - Inselgemeinde Juist
+#EXTINF:-1 group-title="Webcams",DE:Juist - Inselgemeinde Juist
 rtmp://stream.livespotting.tv/windit-edge/vv51_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Ischgl - Talstation
+#EXTINF:-1 group-title="Webcams",DE:Ischgl - Talstation
 rtmp://stream.livespotting.tv/windit-edge/vv128_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Hörnum - Sylt
+#EXTINF:-1 group-title="Webcams",DE:Hörnum - Sylt
 rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Heidelberg - Hotel Panorama
+#EXTINF:-1 group-title="Webcams",DE:Heidelberg - Hotel Panorama
 rtmp://stream.livespotting.tv/windit-edge/vv75_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Hannover - Congress Hotel
+#EXTINF:-1 group-title="Webcams",DE:Hannover - Congress Hotel
 rtmp://stream.livespotting.tv/windit-edge/vv71_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Hamburg - Unileverhaus
+#EXTINF:-1 group-title="Webcams",DE:Hamburg - Unileverhaus
 rtmp://stream.livespotting.tv/windit-edge/vv74_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Hamburg - Michel
+#EXTINF:-1 group-title="Webcams",DE:Hamburg - Michel
 rtmp://stream.livespotting.tv/windit-edge/LS_b5586_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Hamburg - Emporio
+#EXTINF:-1 group-title="Webcams",DE:Hamburg - Emporio
 rtmp://stream.livespotting.tv/windit-edge/vv47_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Halle - Mitteldeutsches Multimediazentrum
+#EXTINF:-1 group-title="Webcams",DE:Halle - Mitteldeutsches Multimediazentrum
 rtmp://stream.livespotting.tv/windit-edge/vv115_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Haffkrug - Lübecker Bucht
+#EXTINF:-1 group-title="Webcams",DE:Haffkrug - Lübecker Bucht
 rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Gehlberg - Michael Gebser
+#EXTINF:-1 group-title="Webcams",DE:Gehlberg - Michael Gebser
 rtmp://stream.livespotting.tv/windit-edge/vv123_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+#EXTINF:-1 group-title="Webcams",DE:Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
 rtmp://stream.livespotting.tv/windit-edge/vv111_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Gaienhofen - Hotel Gasthaus Hirschen
+#EXTINF:-1 group-title="Webcams",DE:Gaienhofen - Hotel Gasthaus Hirschen
 rtmp://stream.livespotting.tv/windit-edge/vv105_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Fulda - Schlossstraße
+#EXTINF:-1 group-title="Webcams",DE:Fulda - Schlossstraße
 rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Freiburg - Volksbank
+#EXTINF:-1 group-title="Webcams",DE:Freiburg - Volksbank
 rtmp://stream.livespotting.tv/windit-edge/vv112_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Frankfurt - Stadt Frankfurt am Main
+#EXTINF:-1 group-title="Webcams",DE:Frankfurt - Stadt Frankfurt am Main
 rtmp://stream.livespotting.tv/windit-edge/vv100_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Flensburg - Fjord Tourismus
+#EXTINF:-1 group-title="Webcams",DE:Flensburg - Fjord Tourismus
 rtmp://stream.livespotting.tv/windit-edge/vv17_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Essen - Ruhrturm
+#EXTINF:-1 group-title="Webcams",DE:Essen - Ruhrturm
 rtmp://stream.livespotting.tv/windit-edge/vv60_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Erfurt - KoWo
+#EXTINF:-1 group-title="Webcams",DE:Erfurt - KoWo
 rtmp://stream.livespotting.tv/windit-edge/vv101_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Elburg - Netherlands
+#EXTINF:-1 group-title="Webcams",DE:Elburg - Netherlands
 rtmp://stream.livespotting.tv/windit-edge/LS_36290_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Eckernförde - Strand
+#EXTINF:-1 group-title="Webcams",DE:Eckernförde - Strand
 rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Eckernförde - Hafen
+#EXTINF:-1 group-title="Webcams",DE:Eckernförde - Hafen
 rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Duisburg - Sportschule Wedau
+#EXTINF:-1 group-title="Webcams",DE:Duisburg - Sportschule Wedau
 rtmp://stream.livespotting.tv/windit-edge/vv61_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Dresden - Dresdner Aussicht
+#EXTINF:-1 group-title="Webcams",DE:Dresden - Dresdner Aussicht
 rtmp://stream.livespotting.tv/windit-edge/vv59_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Dortmund - Neues Stadthaus
+#EXTINF:-1 group-title="Webcams",DE:Dortmund - Neues Stadthaus
 rtmp://stream.livespotting.tv/windit-edge/vv95_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Chemnitz - HeiBe
+#EXTINF:-1 group-title="Webcams",DE:Chemnitz - HeiBe
 rtmp://stream.livespotting.tv/windit-edge/vv93_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Büsum - Museumshafen
+#EXTINF:-1 group-title="Webcams",DE:Büsum - Museumshafen
 rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Büsum - Hauptstrand
+#EXTINF:-1 group-title="Webcams",DE:Büsum - Hauptstrand
 rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Büsum - Familienlagune
+#EXTINF:-1 group-title="Webcams",DE:Büsum - Familienlagune
 rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Brunsbüttel - Schleuse
+#EXTINF:-1 group-title="Webcams",DE:Brunsbüttel - Schleuse
 rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Brouwersdam - Netherlands
+#EXTINF:-1 group-title="Webcams",DE:Brouwersdam - Netherlands
 rtmp://stream.livespotting.tv/windit-edge/LS_b975d_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bremerhaven - Hotel Atlantic Sail City
+#EXTINF:-1 group-title="Webcams",DE:Bremerhaven - Hotel Atlantic Sail City
 rtmp://stream.livespotting.tv/windit-edge/vv106_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bremen - Kontorhaus
+#EXTINF:-1 group-title="Webcams",DE:Bremen - Kontorhaus
 rtmp://stream.livespotting.tv/windit-edge/vv134_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bonn - Hausverwaltung Uwe Brodesser
+#EXTINF:-1 group-title="Webcams",DE:Bonn - Hausverwaltung Uwe Brodesser
 rtmp://stream.livespotting.tv/windit-edge/vv114_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Binz - HOTEL AM MEER & SPA
+#EXTINF:-1 group-title="Webcams",DE:Binz - HOTEL AM MEER & SPA
 rtmp://stream.livespotting.tv/windit-edge/vv103_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bielefeld - Stadthalle
+#EXTINF:-1 group-title="Webcams",DE:Bielefeld - Stadthalle
 rtmp://stream.livespotting.tv/windit-edge/vv86_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Berlin - Restaurant Hugos/Hotel InterContinental
+#EXTINF:-1 group-title="Webcams",DE:Berlin - Restaurant Hugos/Hotel InterContinental
 rtmp://stream.livespotting.tv/windit-edge/vv133_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Berlin - 40 Seconds
+#EXTINF:-1 group-title="Webcams",DE:Berlin - 40 Seconds
 rtmp://stream.livespotting.tv/windit-edge/vv131_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bayreuth - Neues Rathaus
+#EXTINF:-1 group-title="Webcams",DE:Bayreuth - Neues Rathaus
 rtmp://stream.livespotting.tv/windit-edge/vv107_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bamberg - Klein Venedig
+#EXTINF:-1 group-title="Webcams",DE:Bamberg - Klein Venedig
 rtmp://stream.livespotting.tv/windit-edge/vv79_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Baden-Baden - Hotel Magnetberg
+#EXTINF:-1 group-title="Webcams",DE:Baden-Baden - Hotel Magnetberg
 rtmp://stream.livespotting.tv/windit-edge/vv124_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Bad Brückenau - Kurverwaltung Bad Brückenau
+#EXTINF:-1 group-title="Webcams",DE:Bad Brückenau - Kurverwaltung Bad Brückenau
 rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Augsburg - Königsplatz
+#EXTINF:-1 group-title="Webcams",DE:Augsburg - Königsplatz
 rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Augsburg - Hotel Augusta
+#EXTINF:-1 group-title="Webcams",DE:Augsburg - Hotel Augusta
 rtmp://stream.livespotting.tv/windit-edge/vv73_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Achensee - Christlum
+#EXTINF:-1 group-title="Webcams",DE:Achensee - Christlum
 rtmp://stream.livespotting.tv/windit-edge/vv148_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE:Aachen - Drehturm Belvedere Lousberg
+#EXTINF:-1 group-title="Webcams",DE:Aachen - Drehturm Belvedere Lousberg
 rtmp://stream.livespotting.tv/windit-edge/vv102_720p.stream
-#EXTINF:-1 group-title="WEBCAM",CH:Zürich - Zoo Cam 3
+#EXTINF:-1 group-title="Webcams",CH:Zürich - Zoo Cam 3
 rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream
-#EXTINF:-1 group-title="WEBCAM",CH:Zürich - Zoo Cam 1
+#EXTINF:-1 group-title="Webcams",CH:Zürich - Zoo Cam 1
 rtmp://stream.livespotting.tv/windit-edge/vv78_720p.stream
-#EXTINF:-1 group-title="WEBCAM",NL:Amsterdam - Dam
+#EXTINF:-1 group-title="Webcams",NL:Amsterdam - Dam
 rtmp://stream.livespotting.tv/windit-edge/LS_e0cb1_720p.stream
-#EXTINF:-1 group-title="WEBCAM",DE: Ulriken panorama
+#EXTINF:-1 group-title="Webcams",DE: Ulriken panorama
 rtmp://79.125.15.213:1935/livecam/ulriken3
-#EXTINF:-1 group-title="WEBCAM",DE:Festplassen
+#EXTINF:-1 group-title="Webcams",DE:Festplassen
 rtmp://79.125.15.213:1935/livecam/festplassen1
-#EXTINF:-1 group-title="WEBCAM",DE:Finse stasjon
+#EXTINF:-1 group-title="Webcams",DE:Finse stasjon
 rtmp://79.125.15.213:1935/livecam/finse1
-#EXTINF:-1 group-title="WEBCAM",DE:Floyen ost
+#EXTINF:-1 group-title="Webcams",DE:Floyen ost
 rtmp://79.125.15.213:1935/livecam/floyen2
-#EXTINF:-1 group-title="WEBCAM",DE:Floyen Panorama
+#EXTINF:-1 group-title="Webcams",DE:Floyen Panorama
 rtmp://79.125.15.213:1935/livecam/floyen1
-#EXTINF:-1 group-title="WEBCAM",DE:Myrkdalen ski cam
+#EXTINF:-1 group-title="Webcams",DE:Myrkdalen ski cam
 rtmp://79.125.15.213:1935/livecam/myrkdalen1
-#EXTINF:-1 group-title="WEBCAM",DE:Steinbiten
+#EXTINF:-1 group-title="Webcams",DE:Steinbiten
 rtmp://79.125.15.213:1935/livecam/steinbit1
-#EXTINF:-1 group-title="WEBCAM",DE:Torgallmenningen
+#EXTINF:-1 group-title="Webcams",DE:Torgallmenningen
 rtmp://79.125.15.213:443/livecam/torgallmenningen1
-#EXTINF:-1 group-title="WEBCAM",DE:Ulriken ost
+#EXTINF:-1 group-title="Webcams",DE:Ulriken ost
 rtmp://79.125.15.213:1935/livecam/ulriken2
-#EXTINF:-1 group-title="WEBCAM",DE:Ulriken vest
+#EXTINF:-1 group-title="Webcams",DE:Ulriken vest
 rtmp://79.125.15.213:1935/livecam/ulriken1
-#EXTINF:-1 group-title="WEBCAM",DE:Vagen
+#EXTINF:-1 group-title="Webcams",DE:Vagen
 rtmp://79.125.15.213:1935/livecam/vaagen1
-#EXTINF:-1 group-title="WEBCAM",DE:Voss - Slettafjellet
+#EXTINF:-1 group-title="Webcams",DE:Voss - Slettafjellet
 rtmp://79.125.15.213:1935/livecam/slettafjellet1
-#EXTINF:-1 group-title="WEBCAM",***HasBahCa IPTV***WEBCAM***
+#EXTINF:-1 group-title="Webcams",***HasBahCa IPTV***WEBCAM***
 http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1 group-title="WEBCAM",Niagara waterfall mms
+#EXTINF:-1 group-title="Webcams",Niagara waterfall mms
 mms://webcams.niagarafallshotels.com/CNH-Stream2
-#EXTINF:-1 group-title="WEBCAM",In the Redwoods mms
+#EXTINF:-1 group-title="Webcams",In the Redwoods mms
 mmsh://live.camstreams.com/csRacheed?MSWMExt=.asf
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Beogradski kej 1
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Beogradski kej 1
 rtmp://cam.nsprozor.com/kamere/live//BeogradskiKej.1.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Beogradski kej 2
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Beogradski kej 2
 rtmp://cam.nsprozor.com/kamere/live//BeogradskiKej.2.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Kej zrtava racije
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Kej zrtava racije
 rtmp://cam.nsprozor.com/kamere/live//KejZrtavaRacije.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Most Slobode 1
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Most Slobode 1
 rtmp://cam.nsprozor.com/kamere/live//MostSlobode.2.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-NoviSad Trg Slobode
+#EXTINF:-1 group-title="Webcams",EXYUG-NoviSad Trg Slobode
 rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Tvrdjava 1
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Tvrdjava 1
 rtmp://cam.nsprozor.com/kamere/live//Tvrdjava.1.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Tvrdjava 3
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Tvrdjava 3
 rtmp://cam.nsprozor.com/kamere/live//Tvrdjava.3.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Sad Tvrdjava 5
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Sad Tvrdjava 5
 rtmp://cam.nsprozor.com/kamere/live//Tvrdjava.5.stream
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Varazdin
+#EXTINF:-1 group-title="Webcams",EXYUG-Varazdin
 rtmp://cdn-01.whatsupcams.com/live///hr_varazdin1
-#EXTINF:-1 group-title="WEBCAM",BOSNIA-Zenica Shopping Center Džananović
+#EXTINF:-1 group-title="Webcams",BOSNIA-Zenica Shopping Center Džananović
 rtmp://cdn-01.whatsupcams.com/live//ba_zen2
-#EXTINF:-1 group-title="WEBCAM",BOSNIA-Zenica Alije Izetbegovića square
+#EXTINF:-1 group-title="Webcams",BOSNIA-Zenica Alije Izetbegovića square
 rtmp://cdn-01.whatsupcams.com/live//ba_zen3
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Makarska
+#EXTINF:-1 group-title="Webcams",EXYUG-Makarska
 rtmp://cdn-01.whatsupcams.com/live//hr_makarska
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Zagreb Tomićeva
+#EXTINF:-1 group-title="Webcams",EXYUG-Zagreb Tomićeva
 rtmp://cdn-01.whatsupcams.com/live//hr_zgvzp2
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Zagreb Uspinjača
+#EXTINF:-1 group-title="Webcams",EXYUG-Zagreb Uspinjača
 rtmp://cdn-01.whatsupcams.com/live//hr_zgvzpenjaca
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Portoroz marina
+#EXTINF:-1 group-title="Webcams",EXYUG-Portoroz marina
 rtmp://cdn-01.whatsupcams.com/live//si_portorozmarina
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Portoroz panorama
+#EXTINF:-1 group-title="Webcams",EXYUG-Portoroz panorama
 rtmp://cdn-01.whatsupcams.com/live//si_portorozpanorama
-#EXTINF:-1 group-title="WEBCAM",EXYUG-Novi Bečej Trg Oslobodjenja
+#EXTINF:-1 group-title="Webcams",EXYUG-Novi Bečej Trg Oslobodjenja
 rtmp://sh02-0-eu2.click2stream.com:80/c2s_4126/4360.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 6
+#EXTINF:-1 group-title="Webcams",TR Denizli 6
 rtmp://212.175.207.19/live/adalet.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 4
+#EXTINF:-1 group-title="Webcams",TR Denizli 4
 rtmp://212.175.207.19/live/camlik.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 1
+#EXTINF:-1 group-title="Webcams",TR Denizli 1
 rtmp://212.175.207.19/live/cinar.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 2
+#EXTINF:-1 group-title="Webcams",TR Denizli 2
 rtmp://212.175.207.19/live/cinar2.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 5
+#EXTINF:-1 group-title="Webcams",TR Denizli 5
 rtmp://212.175.207.19/live/incilipinar.stream
-#EXTINF:-1 group-title="WEBCAM",TR Denizli 3
+#EXTINF:-1 group-title="Webcams",TR Denizli 3
 rtmp://212.175.207.19/live/laodikeia.stream
-#EXTINF:-1 group-title="WEBCAM",Israel-Western Wall Live 1
+#EXTINF:-1 group-title="Webcams",Israel-Western Wall Live 1
 rtmp://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live
-#EXTINF:-1 group-title="WEBCAM",Israel-Western Wall Live 2
+#EXTINF:-1 group-title="Webcams",Israel-Western Wall Live 2
 rtmp://EU40.cast-tv.com:1935/23595_LIVE_Kotel_Live1/23595_LIVE_Kotel_Live1
-#EXTINF:-1 group-title="WEBCAM",Israel-ט בחשון ה'תשע"ה
+#EXTINF:-1 group-title="Webcams",Israel-ט בחשון ה'תשע"ה
 rtmp://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2
-#EXTINF:-1 group-title="WEBCAM",Wepcamera -  Plovdiv rtsp
+#EXTINF:-1 group-title="Webcams",Wepcamera -  Plovdiv rtsp
 rtsp://212.73.150.228:554
-#EXTINF:-1 group-title="WEBCAM",Bulgaria -  Kiten rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria -  Kiten rtsp
 rtsp://84.54.158.18:554/live/ch00_0
-#EXTINF:-1 group-title="WEBCAM",Bulgaria,Karlowo rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria,Karlowo rtsp
 rtsp://85.255.175.244:554/h264
-#EXTINF:-1 group-title="WEBCAM",Bulgaria -  Dupnica rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria -  Dupnica rtsp
 rtsp://88.203.221.123:554/0/trackID=0
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Sofia,. Mladostbul. Tsarigradsko Shosse rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Sofia,. Mladostbul. Tsarigradsko Shosse rtsp
 rtsp://91.191.213.42:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Sofia street Ring Road rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Sofia street Ring Road rtsp
 rtsp://91.191.213.43:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Varna, Asparuhovo rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Varna, Asparuhovo rtsp
 rtsp://91.191.213.47:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Varna rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Varna rtsp
 rtsp://91.191.213.48:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Varna center rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Varna center rtsp
 rtsp://91.191.213.49:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Plozhdiv, jk Hr. Botev street Komatevsko road rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Plozhdiv, jk Hr. Botev street Komatevsko road rtsp
 rtsp://91.191.213.52:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Plovdiv jk Karshiaka blvd. Bulgaria street. Victory rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Plovdiv jk Karshiaka blvd. Bulgaria street. Victory rtsp
 rtsp://91.191.213.54:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgar - Plovdiv 3 rtsp
+#EXTINF:-1 group-title="Webcams",Bulgar - Plovdiv 3 rtsp
 rtsp://91.191.213.54:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Blagoevgrad, rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Blagoevgrad, rtsp
 rtsp://91.191.213.55:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Blagoevgrad Square Vasil Levski rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Blagoevgrad Square Vasil Levski rtsp
 rtsp://91.191.213.56:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria - Blagoevgrad, South-West University rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria - Blagoevgrad, South-West University rtsp
 rtsp://91.191.213.57:554/live_mpeg4.sdp
-#EXTINF:-1 group-title="WEBCAM",Bulgaria -  Harmanli rtsp
+#EXTINF:-1 group-title="Webcams",Bulgaria -  Harmanli rtsp
 rtsp://93.183.167.17:554/live/ch00_0
-#EXTINF:-1 group-title="WEBCAM",Scheveningen surf webcam rtsp
+#EXTINF:-1 group-title="Webcams",Scheveningen surf webcam rtsp
 rtsp://b1.dnsdojo.com:1935/live/sys3.stream
-#EXTINF:-1 group-title="WEBCAM",NL SHEVENINGEN 3 rtsp
+#EXTINF:-1 group-title="Webcams",NL SHEVENINGEN 3 rtsp
 rtsp://b1.dnsdojo.com:1935/live/sys3.stream
-#EXTINF:-1 group-title="WEBCAM",Niagara Falls rtsp
+#EXTINF:-1 group-title="Webcams",Niagara Falls rtsp
 rtsp://video1.earthcam.com/fecnetwork/4559.flv
-#EXTINF:-1 group-title="WEBCAM",zzz BOSNIA-Zenica 7
+#EXTINF:-1 group-title="Webcams",zzz BOSNIA-Zenica 7
 rtmp://cdn-01.whatsupcams.com/live//ba_zen7
-#EXTINF:-1 group-title="WEBCAM",zzz BOSNIA-Zenica 8
+#EXTINF:-1 group-title="Webcams",zzz BOSNIA-Zenica 8
 rtmp://cdn-01.whatsupcams.com/live//ba_zen8
-#EXTINF:-1 group-title="WEBCAM",zzz BOSNIA-Zenica 9
+#EXTINF:-1 group-title="Webcams",zzz BOSNIA-Zenica 9
 rtmp://cdn-01.whatsupcams.com/live//ba_zen9
-#EXTINF:-1 group-title="WEBCAM",zzz BOSNIA-Zenica Crkvice
+#EXTINF:-1 group-title="Webcams",zzz BOSNIA-Zenica Crkvice
 rtmp://cdn-01.whatsupcams.com/live//ba_zen6
-#EXTINF:-1 group-title="WEBCAM",zzz BOSNIA-Zenica Stone bridge
+#EXTINF:-1 group-title="Webcams",zzz BOSNIA-Zenica Stone bridge
 rtmp://cdn-01.whatsupcams.com/live//ba_zen5
-#EXTINF:-1 group-title="WEBCAM",zzz CH:Zürich - Zoo Cam 2
+#EXTINF:-1 group-title="Webcams",zzz CH:Zürich - Zoo Cam 2
 rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz City of Niagarafalls -Canada
+#EXTINF:-1 group-title="Webcams",zzz City of Niagarafalls -Canada
 http://video1.earthcam.com/fecnetwork/4559.flv/hasbahca.m3u8
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Hamburg - Empire Riverside
+#EXTINF:-1 group-title="Webcams",zzz DE:Hamburg - Empire Riverside
 rtmp://stream.livespotting.tv/windit-edge/vv34_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Heidelberg - PundM
+#EXTINF:-1 group-title="Webcams",zzz DE:Heidelberg - PundM
 rtmp://stream.livespotting.tv/windit-edge/vv122_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Kassel - Best Western
+#EXTINF:-1 group-title="Webcams",zzz DE:Kassel - Best Western
 rtmp://stream.livespotting.tv/windit-edge/vv125_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Koblenz - Hotel Continental
+#EXTINF:-1 group-title="Webcams",zzz DE:Koblenz - Hotel Continental
 rtmp://stream.livespotting.tv/windit-edge/vv36_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Lüneburg - Hotel Bergström
+#EXTINF:-1 group-title="Webcams",zzz DE:Lüneburg - Hotel Bergström
 rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Meißen - Fa. Hübner
+#EXTINF:-1 group-title="Webcams",zzz DE:Meißen - Fa. Hübner
 rtmp://stream.livespotting.tv/windit-edge/vv94_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Singen - Best Western Hotel
+#EXTINF:-1 group-title="Webcams",zzz DE:Singen - Best Western Hotel
 rtmp://stream.livespotting.tv/windit-edge/vv56_450p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz DE:Warnemünde - Am Strom 72
+#EXTINF:-1 group-title="Webcams",zzz DE:Warnemünde - Am Strom 72
 rtmp://stream.livespotting.tv/windit-edge/vv16_720p.stream
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Dubrovnik obala Lapad
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Dubrovnik obala Lapad
 rtmp://cdn-01.whatsupcams.com/live//hr_dubrovnik01
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Karlovac
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Karlovac
 rtmp://cdn-01.whatsupcams.com/live//hr_karlovac1
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Kikinda SC Jezero
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Kikinda SC Jezero
 rtmp://sh01-0-eu2.click2stream.com:80/c2s_2533/1961.stream
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Nova Gorica
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Nova Gorica
 rtmp://cdn-01.whatsupcams.com/live//si_ngtenis
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Novi Sad Most Slobode 1
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Novi Sad Most Slobode 1
 rtmp://cam.nsprozor.com/kamere/live//MostSlobode.1.stream
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Pula korzo Gardini
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Pula korzo Gardini
 rtmp://cdn-01.whatsupcams.com/live//hr_pula01
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Rijeka korzo
+#EXTINF:-1 group-title="",zzz EXYUG-Rijeka korzo
 rtmp://cdn-01.whatsupcams.com/live//hr_rekajadranskitrg
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Samobor
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Samobor
 rtmp://cdn-01.whatsupcams.com/live///hr_samobor1
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Subotica- Palic
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Subotica- Palic
 rtmp://subotica.com/live/kamera3.stream
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Zagreb Ban Jelacic Square
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Zagreb Ban Jelacic Square
 rtmp://cdn-01.whatsupcams.com/live//hr_zagreb1
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Zagreb Café de Paris
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Zagreb Café de Paris
 rtmp://cdn-01.whatsupcams.com/live//wuc-enc00190
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Zagreb panorama
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Zagreb panorama
 rtmp://cdn-01.whatsupcams.com/live//hr_zgbana2
-#EXTINF:-1 group-title="WEBCAM",zzz EXYUG-Zagreb Ski – Sljeme
+#EXTINF:-1 group-title="Webcams",zzz EXYUG-Zagreb Ski – Sljeme
 rtmp://cdn-01.whatsupcams.com/live//hr_sljeme1
-#EXTINF:-1 group-title="WEBCAM",Meia Praia webcam
+#EXTINF:-1 group-title="Webcams",Meia Praia webcam
 http://213.13.26.11:1935/live/meiapraia.stream/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="WEBCAM",Estação Espacial Internacional
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",EarthCam TV - Cam TV - Nationwide TV - DC Dis Columbia
+#EXTINF:0 group-title="Webcams",EarthCam TV - Cam TV - Nationwide TV - DC Dis Columbia
 rtmp://video1.earthcam.com/earthcamtv/Stream1
-#EXTINF:0 group-title="WEBCAM",Brooklyn Bridge - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Brooklyn Bridge - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/3983.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Manhattan Skyline - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Manhattan Skyline - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Skyline - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Skyline - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4544.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Time Square Street - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Time Square Street - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/hdtimes11.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS 47th & Broadway - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS 47th & Broadway - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS Crossroads - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS Crossroads - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4717.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS South View - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS South View - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",San Francisco Cam - Cam TV - San Francisco - CA California
+#EXTINF:0 group-title="Webcams",San Francisco Cam - Cam TV - San Francisco - CA California
 http://video4.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",KKTV 11 News - 49 DT - Colorado Springs - CO Colorado CAM
+#EXTINF:0 group-title="Webcams",KKTV 11 News - 49 DT - Colorado Springs - CO Colorado CAM
 http://play-prod1.live.anvato.net/server/play/gray-kktv-dfp/master.m3u8
-#EXTINF:0 group-title="WEBCAM",Biscayne Bay Cam - Cam TV - Miami - FL Florida
+#EXTINF:0 group-title="Webcams",Biscayne Bay Cam - Cam TV - Miami - FL Florida
 http://video4.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Downtown Miami Cam - Cam TV - Miami - FL Florida
+#EXTINF:0 group-title="Webcams",Downtown Miami Cam - Cam TV - Miami - FL Florida
 http://video4.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WFTS Action News - 29 DT - Tampa - FL Florida
+#EXTINF:0 group-title="Webcams",WFTS Action News - 29 DT - Tampa - FL Florida
 rtmp://cp165279.live.edgefcs.net/live/SPS-WFTS-S01FLV_7@46036
-#EXTINF:0 group-title="WEBCAM",Chicago Cam - Cam TV - Chicago - IL Illinois
+#EXTINF:0 group-title="Webcams",Chicago Cam - Cam TV - Chicago - IL Illinois
 http://video4.earthcam.com/fecnetwork/5187.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WCIA Charleston Cam - 48 DT - Danville - IL Illinois
+#EXTINF:0 group-title="Webcams",WCIA Charleston Cam - 48 DT - Danville - IL Illinois
 http://wms-east2.wetmet.net/live/161-04-01/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WCIA Danville Cam - 48 DT - Decatur - IL Illinois
+#EXTINF:0 group-title="Webcams",WCIA Danville Cam - 48 DT - Decatur - IL Illinois
 http://wms-east2.wetmet.net/live/161-05-01/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WTWO Cam 1 - 36 DT - Terre Haute - IN Indiana
+#EXTINF:0 group-title="Webcams",WTWO Cam 1 - 36 DT - Terre Haute - IN Indiana
 rtmp://wms-east2.wetmet.net/live/174-01-01
-#EXTINF:0 group-title="WEBCAM",WTWO Cam 2 - 36 DT - Terre Haute - IN Indiana
+#EXTINF:0 group-title="Webcams",WTWO Cam 2 - 36 DT - Terre Haute - IN Indiana
 rtmp://wms-east2.wetmet.net/live/174-02-01
-#EXTINF:0 group-title="WEBCAM",WHAS 11 Cam 1 - 11 DT - Louisville - KY Kentucky
+#EXTINF:0 group-title="Webcams",WHAS 11 Cam 1 - 11 DT - Louisville - KY Kentucky
 http://wms-east3.wetmet.net/live/197-01-01/Playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WHAS 11 Cam 2 - 11 DT - Louisville - KY Kentucky
+#EXTINF:0 group-title="Webcams",WHAS 11 Cam 2 - 11 DT - Louisville - KY Kentucky
 http://wms-east3.wetmet.net/live/197-02-01/Playlist.m3u8
-#EXTINF:0 group-title="KY Kentucky",WHAS 11 Cam 3 - 11 DT - Louisville - KY Kentucky
+#EXTINF:0 group-title="Webcams",WHAS 11 Cam 3 - 11 DT - Louisville - KY Kentucky
 http://wms-east3.wetmet.net/live/197-03-01/Playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WHAS 11 Cam 4 - 11 DT - Louisville - KY Kentucky
+#EXTINF:0 group-title="Webcams",WHAS 11 Cam 4 - 11 DT - Louisville - KY Kentucky
 http://wms-east3.wetmet.net/live/197-04-01/Playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WAVE 3 Cam - 47 DT - Louisville - KY Kentucky
+#EXTINF:0 group-title="Webcams",WAVE 3 Cam - 47 DT - Louisville - KY Kentucky
 http://wave-lh.akamaihd.net/i/WAVE_External@52049/master.m3u8
-#EXTINF:0 group-title="WEBCAM",WBRZ 2 Traffic - 13 DT - Baton Rouge - LA Louisiana
+#EXTINF:0 group-title="Webcams",WBRZ 2 Traffic - 13 DT - Baton Rouge - LA Louisiana
 http://hosting3.synapseip.tv/wbrztraffic/trafficstream.sdp/master.m3u8
-#EXTINF:0 group-title="WEBCAM",Boston Cam - Cam TV - Boston - MA Massachusetts
+#EXTINF:0 group-title="Webcams",Boston Cam - Cam TV - Boston - MA Massachusetts
 http://video4.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WMAR I-695 @ York Rd - 38 DT - Baltimore - MD Maryland
+#EXTINF:0 group-title="Webcams",WMAR I-695 @ York Rd - 38 DT - Baltimore - MD Maryland
 rtmp://170.93.143.139:1935/rtplive/9cff12c400ef00ac004be2369e235daa
-#EXTINF:0 group-title="WEBCAM",WMAR I-83 @ Shawan - 38 DT - Baltimore - MD Maryland
+#EXTINF:0 group-title="Webcams",WMAR I-83 @ Shawan - 38 DT - Baltimore - MD Maryland
 rtmp://170.93.143.139:1935/rtplive/5cff0d8f00d900bc004be2369e235daa
-#EXTINF:0 group-title="WEBCAM",WWTV 9&10 Cam - 9 DT - Cadillac - MI Michigan
+#EXTINF:0 group-title="Webcams",WWTV 9&10 Cam - 9 DT - Cadillac - MI Michigan
 rtmp://wms-east1.wetmet.net/live/171-02-01
-#EXTINF:0 group-title="WEBCAM",WKBW News 7 - 38 DT - Buffalo - NY New York
+#EXTINF:0 group-title="Webcams",WKBW News 7 - 38 DT - Buffalo - NY New York
 http://stswkbw-i.akamaihd.net/hls/live/220610/anvato/master.m3u8
-#EXTINF:0 group-title="WEBCAM",Brooklyn Bridge - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Brooklyn Bridge - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/3983.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Manhattan Skyline - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Manhattan Skyline - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Skyline - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Skyline - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4544.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",Time Square Street - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",Time Square Street - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/hdtimes11.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS 47th & Broadway - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS 47th & Broadway - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS Crossroads - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS Crossroads - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4717.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",TS South View - Cam TV - New York City - NY New York
+#EXTINF:0 group-title="Webcams",TS South View - Cam TV - New York City - NY New York
 http://video4.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
-#EXTINF:0 group-title="WEBCAM",WTVC Cam Dalton - 9 DT - Chattanooga - TN Tennesse
+#EXTINF:0 group-title="Webcams",WTVC Cam Dalton - 9 DT - Chattanooga - TN Tennesse
 rtmp://wms-east4.wetmet.net/live/201-04-01
-#EXTINF:0 group-title="WEBCAM",WTVC Cam DoubleTree - 9 DT - Chattanooga - TN Tennesse
+#EXTINF:0 group-title="Webcams",WTVC Cam DoubleTree - 9 DT - Chattanooga - TN Tennesse
 rtmp://wms-east4.wetmet.net/live/201-03-01
-#EXTINF:0 group-title="WEBCAM",WTVC CHI Memorial - 9 DT - Chattanooga - TN Tennesse
+#EXTINF:0 group-title="Webcams",WTVC CHI Memorial - 9 DT - Chattanooga - TN Tennesse
 rtmp://wms-east4.wetmet.net/live/201-02-01
 
 #EXTINF:-1 tvg-logo="http://tubtub.com/TubTubPhaseIItempSite_files/TubTubPhaseIItempSite_7413_image002.gif",[COLOR yellow]---------------TubTub----------------------[/COLOR]
