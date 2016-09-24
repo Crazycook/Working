@@ -1016,6 +1016,15 @@ http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 #EXTINF:-1 group-title="PERU", Williax
 rtmp://willax.mediastream.pe/vv_willax/livestream
 
+#EXTINF:-1,[COLOR yellow]--- PUERTO RICO ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2989.png" group-title="PUERTO RICO",Telemundo PR
+http://cdnh1.iblups.com/hls/33hssQ13ID.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2994.png" group-title="PUERTO RICO",Univisión PR
+http://cdnh1.iblups.com/hls/TzMLT5VhhH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PUERTO RICO",WIPR
+
 #EXTINF:-1,[COLOR yellow]---- Trinidad & Tobago---[/COLOR]
 http://0.0.0.0:1234
 
@@ -1032,7 +1041,7 @@ http://cdn.bimvid.com/TV6/aa6fb73c0054508914f898e3f2d494f5ac964e48_fl9.mp4
 http://0.0.0.0
 
 #EXTINF:-1 group-title="Uruguay",Canal 11 Punta del Este Uruguay
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
 http://0.0.0.0
@@ -1185,6 +1194,8 @@ http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_w690170040_b1200000_slGER.m3u8
 #EXTINF:-1 group-title="Germany",BLK Regional TV Burgenlandkreis rtmp
 rtmp://62.113.210.250/medienasa-live//BLKonline_high
+#EXTINF:-1 group-title="Germany",Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:-1 group-title="Germany",Dresden Fernsehen rtmp
 rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
 #EXTINF:0 group-title="Germany",Rfhv De
@@ -1205,6 +1216,8 @@ http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w14220584
 mms://wmsstream22.v4.mytv.ris.at/live/stream_156
 #EXTINF:-1 group-title="Germany",RAN 1 Dessau De
 rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:-1 group-title="Germany",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Germany",TV Aktuell De
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
 #EXTINF:-1 group-title="Germany",TV Oberfranken De
@@ -1255,6 +1268,8 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
 #EXTINF:0 group-title="Germany",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 group-title="Germany",WDR HD
+http://www.metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8u8
 #EXTINF:0 group-title="Germany",HR
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-p.m3u8
 #EXTINF:0 group-title="Germany",HR
@@ -1301,158 +1316,168 @@ http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u
 #EXTINF:-1,[COLOR yellow]---------------------- Greece----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Greece",MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Greece",TILESPORT
-http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w104411760.m3u8
-#EXTINF:0 group-title="Greece",NEA TV
-http://srv.viiideo.gr:1935/neatv/live/chunklist_w359085084.m3u8
-#EXTINF:0 group-title="Greece",KPHTHTV
-rtmp://live.cretetv.gr/cretetv/myStream
-#EXTINF:0 group-title="Greece",KONTRA TV
-rtmp://flashcloud.mediacdn.com:1935/live/kontratv
-#EXTINF:0 group-title="Greece",ETV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Greece",ASTRA
-http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:0 group-title="Greece",4E
 http://mail.tv4e.gr:1935/live/myStream.sdp/chunklist_w1931995611.m3u8
-#EXTINF:0 group-title="Greece",OMEGA
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0 group-title="Greece",MESSINIA
-rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:0 group-title="Greece",THRAKINET
-rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:0 group-title="Greece",MAD TV
-rtmp://144.76.2.213:1935/live/livestream
-#EXTINF:0,tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",VOULI
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-EXTINF:0 group-title="Greece",Epsilon TV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINFO:-1 group-title="Greece",EURONEWS GR
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
-#EXTINFO:-1 group-title="Greece",EXTRA CHANNEL
-rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:-1 group-title="Greece",MAD tv
-http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINFO:-1 group-title="Greece",BLUE SKY
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
-#EXTINF:-1 group-title="Greece",NEA TV
-http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINFO:-1 group-title="Greece",ENA CHANNEL
-http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:-1 group-title="Greece",HELLAS TV
-http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:-1 group-title="Greece",ZOUGLA TV
-http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-#EXTINF:-1 group-title="Greece",JAYZEE
-http://77.92.76.135:1935/jayzee/livestream/master.m3u8
-#EXTINF:-1 group-title="Greece",KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="Greece",ASTRA TV
-http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:-1 group-title="Greece",Start tv
-http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="Greece",TV100
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Greece",TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:-1 group-title="Greece",Creta TV
-http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:-1 group-title="Greece",OMEGA
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0 group-title="Greece",JASMIN
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0 group-title="Greece",thraki net
-http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:0 group-title="Greece",ANT1
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0 group-title="Greece",ANT1 BUP
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0 group-title="Greece",ANT1 BUP 2
-http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-#EXTINF:0 group-title="Greece",E
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0 group-title="Greece",EURONEWS
-rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
-#EXTINF:0 group-title="Greece",RIK SAT
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0 group-title="Greece",RIK SAT BUP
-rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0 group-title="Greece",NETV TORONTO
-http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:0 group-title="Greece",MPAXALO TV
-http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 group-title="Greece",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:0 group-title="Greece",DIAVATA TV
-http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
-#EXTINF:0 group-title="Greece",PALMOS TV
-http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
-#EXTINF:0 group-title="Greece",CANNALI
-rtmp://live.streams.ovh/cannali/cannali
-#EXTINF:0 group-title="Greece",TILEMOUSIKI
-mmsh://wpso.com:200/music
-#EXTINF:0 group-title="Greece",MAD CY
-rtmp://eradio.networksolutions.com.cy/live/livestream
 #EXTINF:0 group-title="Greece",4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1,4E TV
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:0 group-title="Greece",4E BUP
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Greece",Vouli
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0 group-title="Greece",VOULI BUP
-mms://media19.internet.gr/ParliamentTV-HQ
-#EXTINF:0 group-title="Greece",KPHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:0 group-title="Greece",CRETA
-http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0 group-title="Greece",TV-100
-http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0 group-title="Greece",NEA TV
-http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-#EXTINF:0 group-title="Greece",BERGINA
-http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:-1 group-title="Greece",ENA
-http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:0 group-title="Greece",KANALI 6
-http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Greece",AXELWOS TV
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0 group-title="Greece",EPIRUS TV1
-http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
-#EXTINF:0 group-title="Greece",ACHAIA CHANNEL
-http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:0 group-title="Greece",BEST TV
-http://138.201.57.212:1935/best/myStream/playlist.m3u8
-#EXTINF:0 group-title="Greece",LYCHNOS
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0 group-title="Greece",AIGAIOTV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 group-title="Greece",OMEGA TELEVISION
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0 group-title="Greece",SAMIAKI TV
-rtmp://94.23.218.186/samiaki/samiaki
-#EXTINF:0 group-title="Greece",SYROS TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0 group-title="Greece",VOLCANO
-rtmp://176.9.123.140:1935/santorini/santorini
+#EXTINF:0 group-title="Greece",ANT1
+http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:0 group-title="Greece",ANT1 BUP
+http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
+#EXTINF:0 group-title="Greece",ANT1 BUP 2
+http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
+#EXTINF:0 group-title="Greece",ACHAIA CHANNEL
+http://78.129.184.15:23319/streaming/stream/playlist.m3u8
+#EXTINF:0 group-title="Greece",ACHELOOS TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:0 group-title="Greece",ASTRA TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0 group-title="Greece",BERGINA
+http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
+#EXTINF:0 group-title="Greece",BEST TV
+http://138.201.57.212:1935/best/myStream/playlist.m3u8
+#EXTINFO:-1 group-title="Greece",BLUE SKY
+http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
+#EXTINF:0 group-title="Greece",BOYLH TV
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:0 group-title="Greece",CANNALI
+rtmp://live.streams.ovh/cannali/cannali
+#EXTINF:-1 group-title="Greece",Creta TV
+http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
+#EXTINF:0 group-title="Greece",DIAVATA TV
+http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
+#EXTINF:0 group-title="Greece",E
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
 #EXTINF:0 group-title="Greece",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
-##EXTINF:-1 group-title="Greece",EllinikosFM
+#EXTINF:-1 group-title="Greece",EllinikosFM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINF:0 group-title="Greece",MANA ELLADA TV
-http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Greece",TILESPORT
-rtmp://78.47.151.114/tilesport/movie1
-#EXTINF:0 group-title="Greece",WZRA
-http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
-#EXTINF:0 group-title="Greece",NEW TV
-http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINFO:-1 group-title="Greece",ENA CHANNEL
+http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
+#EXTINF:0 group-title="Greece",EPIRUS TV1
+http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
+EXTINF:0 group-title="Greece",Epsilon TV
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
+#EXTINF:0 group-title="Greece",ETV
+http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="Greece",EURONEWS
+rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
+#EXTINFO:-1 group-title="Greece",EURONEWS GR
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
+#EXTINFO:-1 group-title="Greece",EXTRA CHANNEL
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:0 group-title="Greece",FLASH TV
+http://www.ustream.tv/channel/flash-tv-ch
+#EXTINF:0 group-title="Greece",GREEK VOICE TV
+http://www.ustream.tv/embed/1989576
+#EXTINF:-1 group-title="Greece",HELLAS TV
+http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
+#EXTINF:0 group-title="Greece",JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Greece",JAYZEE
+http://77.92.76.135:1935/jayzee/livestream/master.m3u8
+#EXTINF:0 group-title="Greece",KANALI 6
+http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="Greece",KANALI 28
+mmsh://live.onestreaming.com/super28
 #EXTINF:-1 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg" group-title="Greece",Kontra News
 rtmp://flashcloud.mediacdn.com/live/kontratv
+#EXTINF:0 group-title="Greece",KPHTHTV
+rtmp://live.cretetv.gr/cretetv/myStream
+#EXTINF:0 group-title="Greece",KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0 group-title="Greece",KONTRA TV
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+#EXTINF:0 group-title="Greece",KONTRA CHANNEL
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+#EXTINF:0 group-title="Greece",KOSMOS
+rtmp://edge.vidblee.com/tvkosmos/mp4:tvkosmos.mp4 live=1 timeout=10
+#EXTINF:0 group-title="Greece",KRITI TV
+rtmp://live.cretetv.gr/cretetv/myStream live=1 timeout=10
+#EXTINF:0 group-title="Greece",LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:0 group-title="Greece",MAD CY
+rtmp://eradio.networksolutions.com.cy/live/livestream
+#EXTINF:0 group-title="Greece",MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1 group-title="Greece",MAD tv
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="Greece",MANA ELLADA TV
+http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="Greece",MEGA
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="Greece",MESSINIA
+rtmp://176.9.123.140:1935/messinia/messinia
+#EXTINF:0 group-title="Greece",MPAXALO TV
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="Greece",NEA TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+#EXTINF:0 group-title="Greece",NEA TV
+http://srv.viiideo.gr:1935/neatv/live/chunklist_w359085084.m3u8
+#EXTINF:0 group-title="Greece",NETV TORONTO
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:0 group-title="Greece",NEW TV
+http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
+#EXTINF:0 group-title="Greece",OMEGA
+http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
+#EXTINF:0 group-title="Greece",OMEGA TV
+rtmp://stream2.omegatv.net:1935/livepkgr/omegatv live=1 timeout=10
+#EXTINF:0 group-title="Greece",PALMOS TV
+http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
+#EXTINF:0 group-title="Greece",RIK SAT
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0 group-title="Greece",RIK SAT BUP
+rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
+#EXTINF:0 group-title="Greece",SAMIAKI TV
+rtmp://94.23.218.186/samiaki/samiaki
+#EXTINF:-1 group-title="Greece",Start tv
+http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:0 group-title="Greece",SBC
+http://www.livestream.com/sbcgr
+#EXTINF:0 group-title="Greece",SIGMA
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:0 group-title="Greece",SIGMA (2)
+http://www.lakatamia.tv/kupros-tv/sigma-tv.html
+#EXTINF:0 group-title="Greece",SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0 group-title="Greece",thraki net
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+#EXTINF:0 group-title="Greece",THRAKINET
+rtmp://hls.onestreaming.com:1935/live/thrakinettv
+#EXTINF:0 group-title="Greece",TILEMOUSIKI
+mmsh://wpso.com:200/music
+#EXTINF:0 group-title="Greece",TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w104411760.m3u8
+#EXTINF:0 group-title="Greece",TILESPORT
+rtmp://78.47.151.114/tilesport/movie1
+#EXTINF:-1 group-title="Greece",TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:0 group-title="Greece",TV 100
+http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
+#EXTINF:0 group-title="Greece",TV FILOPOLI
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0,tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:0 group-title="Greece",VOLCANO
+rtmp://176.9.123.140:1935/santorini/santorini
+#EXTINF:0 group-title="Greece",VOULI BUP
+mms://media19.internet.gr/ParliamentTV-HQ
+#EXTINF:0 group-title="Greece",WEST CHANNEL
+http://www.ustream.tv/channel/west-channel
+#EXTINF:0 group-title="Greece",WZRA
+http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="Greece",WZRA KIDS
+mmsh://wpso.com:200/kids
+#EXTINF:0 group-title="Greece",ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8?rebase=on
+#EXTINF:-1 group-title="Greece",ZOUGLA TV
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 
 #EXTINF:0,[COLOR=FFFF4500]Hungary[/COLOR]
 http://0.0.0.0
@@ -2627,6 +2652,8 @@ http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0 tvg-name="Eurosport FRANCE" tvg-language="French" tvg-country="FR" tvg-id="Eurosport FRANCE" tvg-logo="http://www.agenceblackboard.com/images/eurosport_fr.png" group-title="Sports",Eurosport FRANCE 
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0 group-title="Sports",EUROSPORT 2
+http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
 #EXTINF:0 group-title="Sports",Fight Sports
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telekanal_futbol_ru.png" group-title="Sports",Football TELEKANAL (russia)
@@ -2658,6 +2685,12 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0 tvg-name="Our Football Ukraine" tvg-language="Ukrainian" tvg-country="UA" tvg-id="Our Football Ukraine" tvg-logo="http://larussport.com/assets/images/logo_clubs/Logo_of_Football_Federation_of_Ukraine.svg.png" group-title="Sports",Our Football Ukraine (Sports) (UA) (Ukrainian)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-Sports-1-HD_o.jpg" group-title="Sports",OSN Sports 1 HD
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/78.ch
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-Sports-2-HD_o.jpg" group-title="Sports",OSN Sports 2 HD
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/79.ch
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/OSN-Sports-3-HD_o.jpg" group-title="Sports",OSN Sports 3 HD
+http://83.149.125.90:8000/h0FpfEsesi/hTHo1iTF34/80.ch
 #EXTINF:0 group-title="Sports",Pac 12 Network National HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
@@ -2716,6 +2749,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 group-title="Sports",REV´N - NTV - Chattanooga - TN Tennesse
 http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8
+#EXTINF:0 group-title="Sports",Silk Sports 4
+http://5.133.162.203/silk_sport4/index.m3u8
 #EXTINF:0 tvg-name="Sportal TV" tvg-language="Russian" tvg-country='RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports",Sportal TV (Sports) (RU) (Russian)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 #EXTINF:0 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sports TV" tvg-logo="http://bmilan.elpo.sk/New_logos_2006/sports_tv_tr.jpg" group-title="Sports",Sports TV(TR) (Turkish)
@@ -2949,6 +2984,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 
 rtmp://fms1.drumandbasslines.com/DnBTV/ch1
 
+
 #EXTINF:0 group-title="Music", Djing  
 http://cdn.djing.com/tv/05.m3u8
 #EXTINF:0 group-title="Music", Djing HD
@@ -2970,6 +3006,8 @@ http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJing Dance FLoor
 
 http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJING Dancefloor HD (Music)
+http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Ibiza-TV.png" group-title="Music",DJing Ibiza
 
 http://www.djing.com/tv/d-05.m3u8
@@ -2992,8 +3030,9 @@ http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
 rtmp://fms1.drumandbasslines.com/DnBTV/ch1
 #EXTINF:0 tvg-name="DSTV" tvg-language="English" tvg-country="BG" tvg-id="DSTV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Music",DSTV (Music) (BG) (English)
 rtmp://46.249.95.140/live/livestream
-#EXTINF:0 tvg-name="E 24" tvg-language="Hindi/English" tvg-country="IN" tvg-id="E 24" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgs_-dx29PrRUr1cz_gWxoz-N9afZXexHfT0KH1eFF4MgTm-G6DsxOPfQ" group-title="Music",E 24 (Music) (IN) (Hindi/English)
+#EXTINF:0 tvg-name="E 24" tvg-language="Hindi/English" tvg-country="IN" tvg-id="E 24" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgs_-dx29PrRUr1cz_gWxoz-N9afZXexHfT0KH1eFF4MgTm-G6DsxOPfQ" group-title="Music",E 24 (IN) (Hindi/English)
 http://d3ibnxavurfby0.cloudfront.net/bagnetworks/ngrp:e24_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music", Electrosound
 rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:0 tvg-name="El Pinguino" tvg-language="Spanish" tvg-country="CL" tvg-id="El Pinguino" tvg-logo="http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png" group-title="Music",El Pinguino (Music) (CL) (Spanish)
@@ -4109,6 +4148,16 @@ http://relay.181.fm:8096
 http://relay.181.fm:8098
 #EXTINF:0 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Comedy Club
 http://relay.181.fm:8026
+#EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",America Best Ballads
+http://82.200.209.236:8000/1fmabb
+#EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Adore Jazz
+http://82.200.209.236:8000/1fmadorejazz
+#EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Absolute Blues Hits
+http://82.200.209.236:8000/1fmblues
+#EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Urban Adult Choice
+http://82.200.209.236:8000/1fmurbanad
+#EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Radio",Radio Santa Claus
+http://82.200.209.236:8000/christmasof
 #EXTINF:-1 tvg-name="NRJ ARIANA GRANDE" tvg-logo="http://38.media.tumblr.com/avatar_ba885fc3a04f_128.png" group-title="Radio",RADIO NRJ:NRJ ARIANA GRANDE
 http://95.81.155.24/10081/nrj_161132.mp3
 #EXTINF:-1 tvg-name="NRJ DAVID GUETTA" tvg-logo="https://f.thumbs.redditmedia.com/p8f0m4Bra3ZmI69Y.jpg" group-title="Radio",RADIO NRJ:NRJ DAVID GUETTA
@@ -4786,6 +4835,553 @@ http://astro4.rastream.com/gold
 http://astro4.rastream.com/jazz
 #EXTINF:-1 group-title="Radio",ROCK.FM
 http://astro4.rastream.com/rock
+EXTINF:-1 group-title="Radio",Cafe Channel
+http://82.200.209.236:8000/16bitcafe
+#EXTINF:-1 group-title="Radio",4duk radio
+http://82.200.209.236:8000/4duk
+#EXTINF:-1 group-title="Radio",.977 The 80s Channel
+http://82.200.209.236:8000/977-128
+#EXTINF:-1 group-title="Radio",..977 The Hitz Channel
+http://82.200.209.236:8000/977music
+#EXTINF:-1 group-title="Radio",Youmo Rock
+http://82.200.209.236:8000/a-rock
+#EXTINF:-1 group-title="Radio",ABCRADIO (Australia)
+http://82.200.209.236:8000/abcradio
+#EXTINF:-1 group-title="Radio",Abook radio
+http://82.200.209.236:8000/abook
+#EXTINF:-1 group-title="Radio",Muziekcentrum van de Omroep
+http://82.200.209.236:8000/acappella
+#EXTINF:-1 group-title="Radio",Radio Afera
+http://82.200.209.236:8000/afera
+#EXTINF:-1 group-title="Radio",RadioClassic
+http://82.200.209.236:8000/airclassic
+#EXTINF:-1 group-title="Radio",N/A
+http://82.200.209.236:8000/alla-192
+#EXTINF:-1 group-title="Radio",Ambient - DIGITALLY IMPORTED
+http://82.200.209.236:8000/ambient_hi
+#EXTINF:-1 group-title="Radio",Antenna1
+http://82.200.209.236:8000/antenna1
+#EXTINF:-1 group-title="Radio",Radio Aplus
+http://82.200.209.236:8000/aplus256
+#EXTINF:-1 group-title="Radio",ArtSoundFM
+http://82.200.209.236:8000/artsound
+#EXTINF:-1 group-title="Radio",Ashdown FM
+http://82.200.209.236:8000/ashdown
+#EXTINF:-1 group-title="Radio",Aspen radio
+http://82.200.209.236:8000/aspen
+#EXTINF:-1 group-title="Radio",Trance
+http://82.200.209.236:8000/ahfm
+#EXTINF:-1 group-title="Radio",Avtoradio
+http://82.200.209.236:8000/avtoradio
+#EXTINF:-1 group-title="Radio",Radio Azur
+http://82.200.209.236:8000/azur
+#EXTINF:-1 group-title="Radio",Baltkom Radio
+http://82.200.209.236:8000/baltkom
+#EXTINF:-1 group-title="Radio",Beatles Tribute
+http://82.200.209.236:8000/beatles_hi
+#EXTINF:-1 group-title="Radio",BEST-FM Radio (Moscow) 100.5FM
+http://82.200.209.236:8000/bestfm
+#EXTINF:-1 group-title="Radio",Big Beat radio
+http://82.200.209.236:8000/bigbeats-128
+#EXTINF:-1 group-title="Radio",ESL Music Radio
+http://82.200.209.236:8000/bigralt
+#EXTINF:-1 group-title="Radio",Big R Radio - The Rock Mix
+http://82.200.209.236:8000/bigrrock
+#EXTINF:-1 group-title="Radio",Big R Radio - Warm 101.6
+http://82.200.209.236:8000/bigrwarm
+#EXTINF:-1 group-title="Radio",Bluepont
+http://82.200.209.236:8000/bluepoint
+#EXTINF:-1 group-title="Radio",BeirutNights Radio
+http://82.200.209.236:8000/bnights
+#EXTINF:-1 group-title="Radio",CLUBE BRASIL INTEGRALE
+http://82.200.209.236:8000/brasil
+#EXTINF:-1 group-title="Radio",Radio Bravo
+http://82.200.209.236:8000/bravo
+#EXTINF:-1 group-title="Radio",Record Breaks
+http://82.200.209.236:8000/brks_128
+#EXTINF:-1 group-title="Radio",Business fm
+http://82.200.209.236:8000/businessfm
+#EXTINF:-1 group-title="Radio",Byblos Radio
+http://82.200.209.236:8000/byblos
+#EXTINF:-1 group-title="Radio",Cafe Cody
+http://82.200.209.236:8000/cafecody
+#EXTINF:-1 group-title="Radio",Capital 95.8
+http://82.200.209.236:8000/capital
+#EXTINF:-1 group-title="Radio",Cherie FM French
+http://82.200.209.236:8000/cherie_frenchy
+#EXTINF:-1 group-title="Radio",Cherie FM Jazzy
+http://82.200.209.236:8000/cherie_jazzy
+#EXTINF:-1 group-title="Radio",Cherie FM SoftRock
+http://82.200.209.236:8000/cherie_softrock
+#EXTINF:-1 group-title="Radio",Cherie FM Gold
+http://82.200.209.236:8000/cherie_gold
+#EXTINF:-1 group-title="Radio",Cherie Les Plus Belles
+http://82.200.209.236:8000/cherie_belles
+#EXTINF:-1 group-title="Radio",Chillout Radio
+http://82.200.209.236:8000/chil_128
+#EXTINF:-1 group-title="Radio",Chillout Dream Lounge
+http://82.200.209.236:8000/chillout_hi
+#EXTINF:-1 group-title="Radio",Chilltrax
+http://82.200.209.236:8000/chilltrax
+#EXTINF:-1 group-title="Radio",Radio Chocolate
+http://82.200.209.236:8000/chocolate
+#EXTINF:-1 group-title="Radio",Mostly Classical -
+http://82.200.209.236:8000/classical_hi
+#EXTINF:-1 group-title="Radio",Classic FM
+http://82.200.209.236:8000/classicfm
+#EXTINF:-1 group-title="Radio",Record Club Radio
+http://82.200.209.236:8000/club_128
+#EXTINF:-1 group-title="Radio",Club Sounds
+http://82.200.209.236:8000/club_hi
+#EXTINF:-1 group-title="Radio",COUNTRY 108
+http://82.200.209.236:8000/country108
+#EXTINF:-1 group-title="Radio",Country - Premium
+http://82.200.209.236:8000/country_hi
+#EXTINF:-1 group-title="Radio",CROOZE FM
+http://82.200.209.236:8000/crooze
+#EXTINF:-1 group-title="Radio",Radio Dacha
+http://82.200.209.236:8000/dacha
+#EXTINF:-1 group-title="Radio",Damusic radio
+http://82.200.209.236:8000/damusic
+#EXTINF:-1 group-title="Radio",db9radio
+http://82.200.209.236:8000/db9radio
+#EXTINF:-1 group-title="Radio",Record Dancecore
+http://82.200.209.236:8000/dc_128
+#EXTINF:-1 group-title="Radio",Record DDUR Classic
+http://82.200.209.236:8000/ddur
+#EXTINF:-1 group-title="Radio",DEFJAY 100% R&ampB!
+http://82.200.209.236:8000/defjay
+#EXTINF:-1 group-title="Radio",Detskoe Radio
+http://82.200.209.236:8000/detskoe
+#EXTINF:-1 group-title="Radio",DFM 90
+http://82.200.209.236:8000/dfm_90
+#EXTINF:-1 group-title="Radio",DFM Good Night
+http://82.200.209.236:8000/dfm_goodnight
+#EXTINF:-1 group-title="Radio",DFM Club
+http://82.200.209.236:8000/dfmclub
+#EXTINF:-1 group-title="Radio",DFM Russian Dance
+http://82.200.209.236:8000/dfmrd
+#EXTINF:-1 group-title="Radio",Dinamit fm
+http://82.200.209.236:8000/dinamitfm-128
+#EXTINF:-1 group-title="Radio",dinamofm legacy
+http://82.200.209.236:8000/dinamofm
+#EXTINF:-1 group-title="Radio",Discofox
+http://82.200.209.236:8000/discofox
+#EXTINF:-1 group-title="Radio",Trance
+http://82.200.209.236:8000/ditrance
+#EXTINF:-1 group-title="Radio",Vocal Trance
+http://82.200.209.236:8000/divtrance
+#EXTINF:-1 group-title="Radio",Nu Disco 
+http://82.200.209.236:8000/nudisco
+#EXTINF:-1 group-title="Radio",Future Garage
+http://82.200.209.236:8000/futuregarage
+#EXTINF:-1 group-title="Radio",Nightcore
+http://82.200.209.236:8000/nightcore
+#EXTINF:-1 group-title="Radio",Oldschool House
+http://82.200.209.236:8000/oldschoolhouse
+#EXTINF:-1 group-title="Radio",DJ Top 50
+http://82.200.209.236:8000/djtop50
+#EXTINF:-1 group-title="Radio",Dorozhnoe Radio
+http://82.200.209.236:8000/dorozhnoe
+#EXTINF:-1 group-title="Radio",Record Dubstep
+http://82.200.209.236:8000/dub_128
+#EXTINF:-1 group-title="Radio",Deutsche Welle
+http://82.200.209.236:8000/dwradio
+#EXTINF:-1 group-title="Radio",Electro House
+http://82.200.209.236:8000/electrohouse_hi
+#EXTINF:-1 group-title="Radio",Radio NRJ Russia
+http://82.200.209.236:8000/energy-192
+#EXTINF:-1 group-title="Radio",Radio Hermitage
+http://82.200.209.236:8000/ermitage
+#EXTINF:-1 group-title="Radio",RadioEspace
+http://82.200.209.236:8000/espace
+#EXTINF:-1 group-title="Radio",Discostar
+http://82.200.209.236:8000/euroest
+#EXTINF:-1 group-title="Radio",N/A
+http://82.200.209.236:8000/etn
+#EXTINF:-1 group-title="Radio",EuroDance
+http://82.200.209.236:8000/eurodance96
+#EXTINF:-1,Europa Plus
+http://82.200.209.236:8000/europaplus-128
+#EXTINF:-1 group-title="Radio",N/A
+http://82.200.209.236:8000/euroradio
+#EXTINF:-1 group-title="Radio",ESC RADIO - THE EUROVISION
+http://82.200.209.236:8000/eurovision
+#EXTINF:-1 group-title="Radio",6FM
+http://82.200.209.236:8000/finam-128
+#EXTINF:-1 group-title="Radio",FG Clubbing
+http://82.200.209.236:8000/fgclub
+#EXTINF:-1 group-title="Radio",FM4
+http://82.200.209.236:8000/fm4
+#EXTINF:-1 group-title="Radio",Fontanka FM
+http://82.200.209.236:8000/fontanka
+#EXTINF:-1 group-title="Radio",Radio FOREX
+http://82.200.209.236:8000/forex
+#EXTINF:-1 group-title="Radio",FREQUENCE3
+http://82.200.209.236:8000/frequence3
+#EXTINF:-1 group-title="Radio",Big Room House
+http://82.200.209.236:8000/bigroomhouse
+#EXTINF:-1 group-title="Radio",Chill
+http://82.200.209.236:8000/glchill
+#EXTINF:-1 group-title="Radio",FullVibes Underground
+http://82.200.209.236:8000/fullvibes
+#EXTINF:-1 group-title="Radio",FUN Radio 80-90
+http://82.200.209.236:8000/fun80
+#EXTINF:-1 group-title="Radio",FUN Radio CS
+http://82.200.209.236:8000/funcs
+#EXTINF:-1 group-title="Radio",FUN Radio Slow
+http://82.200.209.236:8000/funlove
+#EXTINF:-1 group-title="Radio",FUN Radio New
+http://82.200.209.236:8000/funnew
+#EXTINF:-1 group-title="Radio",FUN Radio Rock
+http://82.200.209.236:8000/funrock
+#EXTINF:-1 group-title="Radio",Gop_FM
+http://82.200.209.236:8000/gop_128
+#EXTINF:-1 group-title="Radio",Radio Gorod FM 107.6
+http://82.200.209.236:8000/gorodfm
+#EXTINF:-1 group-title="Radio",GotRadio - The Mix
+http://82.200.209.236:8000/gradult
+#EXTINF:-1 group-title="Radio",Radio Monte Carlo burg
+http://82.200.209.236:8000/gravis-128
+#EXTINF:-1,GotRadio - Hip Hop Stop
+http://82.200.209.236:8000/grhiphop
+#EXTINF:-1 group-title="Radio",GotRadio - World
+http://82.200.209.236:8000/grworld
+#EXTINF:-1 group-title="Radio",N/A
+http://82.200.209.236:8000/hardbase
+#EXTINF:-1 group-title="Radio",HeartFM
+http://82.200.209.236:8000/heart
+#EXTINF:-1 group-title="Radio",Hit FM Ufa
+http://82.200.209.236:8000/hitfm256
+#EXTINF:-1 group-title="Radio",HITroe Radio
+http://82.200.209.236:8000/hitroje
+#EXTINF:-1 group-title="Radio",Za_oblakami
+http://82.200.209.236:8000/zao32
+#EXTINF:-1 group-title="Radio",Ibiza Global Radio
+http://82.200.209.236:8000/ibiza
+#EXTINF:-1 group-title="Radio",idobi Radio
+http://82.200.209.236:8000/idobi
+#EXTINF:-1 group-title="Radio",TEEZ Fm
+http://82.200.209.236:8000/indiepunktch
+#EXTINF:-1 group-title="Radio",IP music
+http://82.200.209.236:8000/ipmusic
+#EXTINF:-1 group-title="Radio",Radio Dancefloor
+http://82.200.209.236:8000/jammfm
+#EXTINF:-1 group-title="Radio",Dinner Jazz Excursion
+http://82.200.209.236:8000/jazzdinnere
+#EXTINF:-1 group-title="Radio",JOY fm
+http://82.200.209.236:8000/joyfm
+#EXTINF:-1 group-title="Radio",Karnaval FM
+http://82.200.209.236:8000/karnaval
+#EXTINF:-1,KEXP 90.3
+http://82.200.209.236:8000/kexp-radio
+#EXTINF:-1 group-title="Radio",KIEV FM live
+http://82.200.209.236:8000/kiev
+#EXTINF:-1,Radio Komsomolskaya Pravda
+http://82.200.209.236:8000/kp
+#EXTINF:-1 group-title="Radio",Kuschel FM
+http://82.200.209.236:8000/kuschel
+#EXTINF:-1 group-title="Radio",LATINO FM
+http://82.200.209.236:8000/latino
+#EXTINF:-1 group-title="Radio",LBC 97.3
+http://82.200.209.236:8000/lbc
+#EXTINF:-1 group-title="Radio",Heart 106.2 London
+http://82.200.209.236:8000/londonheart
+#EXTINF:-1 group-title="Radio",Look at me Radio
+http://82.200.209.236:8000/look
+#EXTINF:-1 group-title="Radio",Love Radio
+http://82.200.209.236:8000/loveradio-128
+#EXTINF:-1 group-title="Radio",Radio Mayak
+http://82.200.209.236:8000/mayak
+#EXTINF:-1 group-title="Radio",Radio Monte Carlo Swiss
+http://82.200.209.236:8000/mc-it
+#EXTINF:-1 group-title="Radio",Medlyak FM
+http://82.200.209.236:8000/mdl_128
+#EXTINF:-1 group-title="Radio",MDS Station
+http://82.200.209.236:8000/mds
+#EXTINF:-1 group-title="Radio",Hit One
+http://82.200.209.236:8000/megaradio24
+#EXTINF:-1 group-title="Radio",Melodiya
+http://82.200.209.236:8000/melodia
+#EXTINF:-1 group-title="Radio",Radio Merkury
+http://82.200.209.236:8000/merkury
+#EXTINF:-1 group-title="Radio",Radio-Minsk Online
+http://82.200.209.236:8000/minsk
+#EXTINF:-1 group-title="Radio",Radio Mir
+http://82.200.209.236:8000/mir
+#EXTINF:-1 group-title="Radio",Radio Mir Belarus
+http://82.200.209.236:8000/mirbelarus
+#EXTINF:-1 group-title="Radio",MixFMUa
+http://82.200.209.236:8000/mixfmua-128
+#EXTINF:-1 group-title="Radio",MixFMlV
+http://82.200.209.236:8000/mixfmlv
+#EXTINF:-1 group-title="Radio",MONTE CARLO Balakovo
+http://82.200.209.236:8000/montecarlo_bal
+#EXTINF:-1 group-title="Radio",Moscow Echo
+http://82.200.209.236:8000/moscowecho-128
+#EXTINF:-1 group-title="Radio",Munich Radio
+http://82.200.209.236:8000/munich
+#EXTINF:-1 group-title="Radio",Radio MUZKOM
+http://82.200.209.236:8000/muzkom
+#EXTINF:-1 group-title="Radio",RadioUA Mainstream Rock
+http://82.200.209.236:8000/myradmsrock
+#EXTINF:-1 group-title="Radio",RadioUA Russian Rap
+http://82.200.209.236:8000/myradrap
+#EXTINF:-1 group-title="Radio",RadioUA Russian Hit
+http://82.200.209.236:8000/myradrus
+#EXTINF:-1 group-title="Radio",Narodnoe Radio
+http://82.200.209.236:8000/narodnoe
+#EXTINF:-1 group-title="Radio",NASHE Radio 64
+http://82.200.209.236:8000/nashe-64
+#EXTINF:-1 group-title="Radio",Netrock101
+http://82.200.209.236:8000/netrock101-128
+#EXTINF:-1 group-title="Radio",RADIO ITALO
+http://82.200.209.236:8000/nosfr1
+#EXTINF:-1 group-title="Radio",5 PERM
+http://82.200.209.236:8000/nosmach
+#EXTINF:-1 group-title="Radio",Nostalgie 100 France
+http://82.200.209.236:8000/nostalgie_100
+#EXTINF:-1 group-title="Radio",NRJ Lounge
+http://82.200.209.236:8000/nrj_lounge
+#EXTINF:-1 group-title="Radio",NRJ France
+http://82.200.209.236:8000/nrjfr
+#EXTINF:-1 group-title="Radio",NRJ Italy
+http://82.200.209.236:8000/nrjitaly
+#EXTINF:-1 group-title="Radio",Orfey
+http://82.200.209.236:8000/orfey
+#EXTINF:-1 group-title="Radio",n Radio
+http://82.200.209.236:8000/pinguin
+#EXTINF:-1 group-title="Radio",e radio zagran
+http://82.200.209.236:8000/polskieradio_zagran
+#EXTINF:-1 group-title="Radio",FM
+http://82.200.209.236:8000/pionerfm
+#EXTINF:-1 group-title="Radio",Radio Premium
+http://82.200.209.236:8000/premium128
+#EXTINF:-1 group-title="Radio",Prosto FM Kiev
+http://82.200.209.236:8000/prostofm
+#EXTINF:-1 group-title="Radio",Prosto FM Odessa
+http://82.200.209.236:8000/prostofmo
+#EXTINF:-1 group-title="Radio",PS Najwieksze Przeboje &#03960 &#03970
+http://82.200.209.236:8000/ps60-70
+#EXTINF:-1 group-title="Radio",PS Najwieksze Przeboje &#03980 &#03990
+http://82.200.209.236:8000/ps80-90
+#EXTINF:-1 group-title="Radio",Pirate Station Radio
+http://82.200.209.236:8000/ps_128
+#EXTINF:-1 group-title="Radio",PS Chillout
+http://82.200.209.236:8000/pschill
+#EXTINF:-1 group-title="Radio",PS Muzyka Francuska
+http://82.200.209.236:8000/psfrance
+#EXTINF:-1 group-title="Radio",PS Indie Rock
+http://82.200.209.236:8000/psindie
+#EXTINF:-1 group-title="Radio",PS Italia
+http://82.200.209.236:8000/psitaly
+#EXTINF:-1 group-title="Radio",PS Smooth Jazz
+http://82.200.209.236:8000/psjazz
+#EXTINF:-1,PS Latino
+http://82.200.209.236:8000/pslatino
+#EXTINF:-1 group-title="Radio",PS EDEN (New Age &amp World Music)
+http://82.200.209.236:8000/psnage
+#EXTINF:-1 group-title="Radio",Radio CAFE
+http://82.200.209.236:8000/radio-cafe
+#EXTINF:-1 group-title="Radio",Radio GARDARICA
+http://82.200.209.236:8000/radiogardarika-128
+#EXTINF:-1 group-title="Radio",Radio GOLD
+http://82.200.209.236:8000/radiogold
+#EXTINF:-1 group-title="Radio",Radio Paradise
+http://82.200.209.236:8000/radioparadise
+#EXTINF:-1 group-title="Radio",Radyo POP
+http://82.200.209.236:8000/radiopop
+#EXTINF:-1 group-title="Radio",Radio RAM
+http://82.200.209.236:8000/ram
+#EXTINF:-1 group-title="Radio",Radio Canada Internationale
+http://82.200.209.236:8000/rci
+#EXTINF:-1 group-title="Radio",Radio Record
+http://82.200.209.236:8000/record-192
+#EXTINF:-1 group-title="Radio",Relax FM
+http://82.200.209.236:8000/relaxfm
+#EXTINF:-1 group-title="Radio",Renessans 94.2
+http://82.200.209.236:8000/renessans
+#EXTINF:-1 group-title="Radio",MaximuM
+http://82.200.209.236:8000/rmaximum
+#EXTINF:-1 group-title="Radio",RMC2
+http://82.200.209.236:8000/rmc2
+#EXTINF:-1 group-title="Radio",Monte Carlo Rostov
+http://82.200.209.236:8000/rmc_rostov
+#EXTINF:-1 group-title="Radio",RMF 50S
+http://82.200.209.236:8000/rmf_50s
+#EXTINF:-1 group-title="Radio",RMF 60S
+http://82.200.209.236:8000/rmf_60s
+#EXTINF:-1 group-title="Radio",RMF 70S
+http://82.200.209.236:8000/rmf_70s
+#EXTINF:-1 group-title="Radio",RMF 80S
+http://82.200.209.236:8000/rmf_80s
+#EXTINF:-1 group-title="Radio",RMF 90S
+http://82.200.209.236:8000/rmf_90s
+#EXTINF:-1 group-title="Radio",RMF CHILLOUT
+http://82.200.209.236:8000/rmf_chillout
+#EXTINF:-1 group-title="Radio",RMF Classic
+http://82.200.209.236:8000/rmf_classic
+#EXTINF:-1 group-title="Radio",RMF CLUB
+http://82.200.209.236:8000/rmf_club
+#EXTINF:-1 group-title="Radio",RMF FM
+http://82.200.209.236:8000/rmf_fm
+#EXTINF:-1 group-title="Radio",RMF STYL
+http://82.200.209.236:8000/rmf_styl
+#EXTINF:-1 group-title="Radio",RMF SMOOTH JAZZ
+http://82.200.209.236:8000/rmfjazz
+#EXTINF:-1 group-title="Radio",RMF NIEZAPOMNIANE MELODIE
+http://82.200.209.236:8000/rmf_niezapomniane_melodie
+#EXTINF:-1 group-title="Radio",RMF W PRACY
+http://82.200.209.236:8000/rmf_w_pracy
+#EXTINF:-1 group-title="Radio",RMF RELAKS
+http://82.200.209.236:8000/rmf_relaks
+#EXTINF:-1 group-title="Radio",RMF FITNESS ROCK
+http://82.200.209.236:8000/rmf_fitness_rock
+#EXTINF:-1 group-title="Radio",RMF MAXXX
+http://82.200.209.236:8000/rmfmaxsat
+#EXTINF:-1 group-title="Radio",Militsejskaja volna
+http://82.200.209.236:8000/rmv
+#EXTINF:-1 group-title="Radio",Rock- online
+http://82.200.209.236:8000/rockonline
+#EXTINF:-1 group-title="Radio",Radio Romania International
+http://82.200.209.236:8000/rri
+#EXTINF:-1 group-title="Radio",Radio Slovakia International
+http://82.200.209.236:8000/rsi
+#EXTINF:-1 group-title="Radio",Radio Russia 2
+http://82.200.209.236:8000/russia_2
+#EXTINF:-1 group-title="Radio",RTL 80
+http://82.200.209.236:8000/rtl80
+#EXTINF:-1 group-title="Radio",Radio 808
+http://82.200.209.236:8000/radio808
+#EXTINF:-1 group-title="Radio",RTL ROCK
+http://82.200.209.236:8000/rtlrock
+#EXTINF:-1 group-title="Radio",SanFM
+http://82.200.209.236:8000/sanfmlive-96
+#EXTINF:-1 group-title="Radio",SceneSat
+http://82.200.209.236:8000/scenesat
+#EXTINF:-1 group-title="Radio",Superdiskoteka 90&#039s
+http://82.200.209.236:8000/sd90_128
+#EXTINF:-1 group-title="Radio",Radio Shanson
+http://82.200.209.236:8000/shanson-192
+#EXTINF:-1 group-title="Radio",Sharmanka 104.0 Kiev
+http://82.200.209.236:8000/sharmanka
+#EXTINF:-1 group-title="Radio",Radio Sibir
+http://82.200.209.236:8000/sibir
+#EXTINF:-1 group-title="Radio",Radio Sing Sing
+http://82.200.209.236:8000/singsing
+#EXTINF:-1 group-title="Radio",Stilnoe Radio - Perec Fm
+http://82.200.209.236:8000/stilnoe
+#EXTINF:-1 group-title="Radio",SwissGroove
+http://82.200.209.236:8000/swiss
+#EXTINF:-1 group-title="Radio",Radio Sweeden International
+http://82.200.209.236:8000/sverige
+#EXTINF:-1 group-title="Radio",TaxiFM 96.4 MSK
+http://82.200.209.236:8000/taxifm
+#EXTINF:-1 group-title="Radio",RADIO TENGRI FM
+http://82.200.209.236:8000/tengrifm
+#EXTINF:-1 group-title="Radio",Teodor Radio
+http://82.200.209.236:8000/teo_128
+#EXTINF:-1 group-title="Radio",FREQUENCE TERRE
+http://82.200.209.236:8000/terre
+#EXTINF:-1 group-title="Radio",Trancemission Radio
+http://82.200.209.236:8000/tm_128
+#EXTINF:-1 group-title="Radio",Lux FM
+http://82.200.209.236:8000/fmlux
+#EXTINF:-1 group-title="Radio",TRD
+http://82.200.209.236:8000/trd
+#EXTINF:-1 group-title="Radio",Venice Classic Radio
+http://82.200.209.236:8000/venice
+#EXTINF:-1 group-title="Radio",VIP MIX Radio
+http://82.200.209.236:8000/vip_128
+#EXTINF:-1 group-title="Radio",Radio Kavkaz
+http://82.200.209.236:8000/kavkaz
+#EXTINF:-1 group-title="Radio",ZET Chill
+http://82.200.209.236:8000/zchill
+#EXTINF:-1 group-title="Radio",Zaycev Net
+http://82.200.209.236:8000/zaycev
+#EXTINF:-1 group-title="Radio",Euronews
+http://82.200.209.236:8000/euronews
+#EXTINF:-1 group-title="Radio",Radio *SPORT* Moscow 93.2FM
+http://82.200.209.236:8000/ns32
+#EXTINF:-1 group-title="Radio",RNV 91.9 FM - World Music
+http://82.200.209.236:8000/rnv
+#EXTINF:-1 group-title="Radio",InterVolna
+http://82.200.209.236:8000/inter
+#EXTINF:-1 group-title="Radio",LA PRIMERA 87.7 FM LAS VEGAS NV
+http://82.200.209.236:8000/kexp
+#EXTINF:-1 group-title="Radio",Staroe Radio
+http://82.200.209.236:8000/old
+#EXTINF:-1 group-title="Radio",EldoRadio
+http://82.200.209.236:8000/eldoradio
+#EXTINF:-1 group-title="Radio",Chillhop
+http://82.200.209.236:8000/chillhop
+#EXTINF:-1 group-title="Radio",Radio Radio
+http://82.200.209.236:8000/pomestnoe
+#EXTINF:-1 group-title="Radio",Radio Liberty
+http://82.200.209.236:8000/liberty
+#EXTINF:-1 group-title="Radio",Radio ROKS
+http://82.200.209.236:8000/roks-128
+#EXTINF:-1 group-title="Radio",Elium 90
+http://82.200.209.236:8000/elium90
+#EXTINF:-1 group-title="Radio",Elium Lounge
+http://82.200.209.236:8000/elium-lounge
+#EXTINF:-1 group-title="Radio",Elium Club Dance
+http://82.200.209.236:8000/elium-clubdance
+#EXTINF:-1 group-title="Radio",Radio_Nataly
+http://82.200.209.236:8000/nataly
+#EXTINF:-1 group-title="Radio",Zolotoy_vek
+http://82.200.209.236:8000/goldenage
+#EXTINF:-1 group-title="Radio",Monte-Carlo Nights
+http://82.200.209.236:8000/mc_nights
+#EXTINF:-1 group-title="Radio",Monte-Carlo Bez slov
+http://82.200.209.236:8000/mc_instr
+#EXTINF:-1 group-title="Radio",Monte-Carlo Gold
+http://82.200.209.236:8000/mc_gold
+#EXTINF:-1 group-title="Radio",Monte-Carlo Bossa
+http://82.200.209.236:8000/mc_bossa
+#EXTINF:-1 group-title="Radio",Monte-Carlo Sweet
+http://82.200.209.236:8000/mc_sweet
+#EXTINF:-1 group-title="Radio",KosmosFM
+http://82.200.209.236:8000/kosmosfm
+#EXTINF:-1 group-title="Radio",Europa Plus RnB
+http://82.200.209.236:8000/ep-rnb
+#EXTINF:-1 group-title="Radio",IO Acoustic Cafe
+http://82.200.209.236:8000/accafe
+#EXTINF:-1 group-title="Radio",Radio Mogilev
+http://82.200.209.236:8000/100fm
+#EXTINF:-1 group-title="Radio",Radio 88 Szeged
+http://82.200.209.236:8000/szeged
+#EXTINF:-1 group-title="Radio",MOOZ FM
+http://82.200.209.236:8000/moozfm
+#EXTINF:-1 group-title="Radio",PCH
+http://82.200.209.236:8000/rsn
+#EXTINF:-1 group-title="Radio",Generation FM
+http://82.200.209.236:8000/generation
+#EXTINF:-1 group-title="Radio",Radio Passazh
+http://82.200.209.236:8000/radiopassazh
+#EXTINF:-1 group-title="Radio",Russkie Pesni
+http://82.200.209.236:8000/rusongs
+#EXTINF:-1 group-title="Radio",_ALTCAFE_24k
+http://82.200.209.236:8000/ofac
+#EXTINF:-1 group-title="Radio",_ALTfresh_24k
+http://82.200.209.236:8000/ofaf
+#EXTINF:-1 group-title="Radio",_CreamyCAFE_24k
+http://82.200.209.236:8000/ofcc
+#EXTINF:-1 group-title="Radio",_Klassyka_24k
+http://82.200.209.236:8000/ofmk
+#EXTINF:-1 group-title="Radio",_RetroCafe_24k
+http://82.200.209.236:8000/ofrc
+#EXTINF:-1 group-title="Radio",_Smoothjazz_24k
+http://82.200.209.236:8000/ofsj
+#EXTINF:-1 group-title="Radio",_ALTClub_24k
+http://82.200.209.236:8000/ofacl
+#EXTINF:-1 group-title="Radio",Russkoe kino
+http://82.200.209.236:8000/mgt
+#EXTINF:-1 group-title="Radio",Radio53
+http://82.200.209.236:8000/radio53
+#EXTINF:-1 group-title="Radio",Studio_sette
+http://82.200.209.236:8000/sette
+
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Radio",Icecast Rainwave All
 http://relay-nyc.gameowls.com:8000/all.ogg
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Radio",Icecast Mutual Broadcast Network
@@ -5059,22 +5655,40 @@ http://7309.live.streamtheworld.com/MG_RADIOONLINEAAC
  
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="Radio",BBC - Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="Radio",BBC1
+http://82.200.209.236:8000/bbc1
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="Radio",BBC - Radio 2
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="Radio",BBC2
+http://82.200.209.236:8000/bbc2
+#EXTINF:-1 group-title="Radio",BBC3
+http://82.200.209.236:8000/bbc3
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="Radio",BBC - Radio 4
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="Radio" group-title="Radio",BBC4
+http://82.200.209.236:8000/bbc4
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC - Radio 5 live
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC5
+http://82.200.209.236:8000/bbc5
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="Radio",BBC - Radio 6
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="Radio",BBC6
+http://82.200.209.236:8000/bbc6
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC 1 Xtra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBCxTra
+http://82.200.209.236:8000/bbc1xtra
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/44/BBC_Radio_5_Live_Sports_Extra.svg/revision/latest/scale-to-width-down/250?cb=20091108151831" group-title="Radio",BBC 4 Extra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC 5 Live Extra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5extra_mf_p
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC World Service
 http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radio",BBC7
+http://82.200.209.236:8000/bbc7
+#EXTINF:-1 group-title="Radio",BBCworld
+http://82.200.209.236:8000/bbcrus
 #EXTINF:-1 group-title="Radio",M2 Rock
 http://185.57.237.1:8000/m2rock
 #EXTINF:0 group-title="Radio",CBS HD (Radio) (US) (English)
@@ -8127,17 +8741,31 @@ http://drainmainvein.com/media/videos/mp4/3290.mp4
 http://drainmainvein.com/media/videos/mp4/3292.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3294.mp4
 http://drainmainvein.com/media/videos/mp4/3294.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3305.mp4
+EXTINF:2030 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3304.mp4
+#EXTINF:180 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3305.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3308.mp4
+#EXTINF:247 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3306.mp4
+#EXTINF:182 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3307.mp4
+#EXTINF:332 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3308.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3309.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3309.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3310.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3310.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3315.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3311.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3312.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3313.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
+http://drainmainvein.com/media/videos/mp4/3314.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3315.mp4
-#EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3316.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL
 http://drainmainvein.com/media/videos/mp4/3316.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3318.mp4
 http://drainmainvein.com/media/videos/mp4/3318.mp4
@@ -8145,6 +8773,46 @@ http://drainmainvein.com/media/videos/mp4/3318.mp4
 http://drainmainvein.com/media/videos/mp4/3335.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3411.mp4
 http://drainmainvein.com/media/videos/mp4/3411.mp4
+#EXTINF:670 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3420.mp4
+#EXTINF:876 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3421.mp4
+#EXTINF:1292 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3422.mp4
+#EXTINF:1658 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3423.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3424.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3425.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3426.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3427.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3428.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3429.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3430.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3431.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3432.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3433.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3434.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3435.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3436.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3437.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3438.mp4
+#EXTINF:0 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXL 
+http://drainmainvein.com/media/videos/mp4/3439.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3439.mp4
 http://drainmainvein.com/media/videos/mp4/3439.mp4
 #EXTINF:-1 tvg-logo="http://drainmainvein.com/templates/defboot/images/logo.png" group-title="XXX-VOD +18",XXX-VOD 3444.mp4
@@ -9833,6 +10501,71 @@ http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10737.mp4
 http://188.165.50.204/vidshd/56ea912c4df934c216c352fa8d623af3/10208.mp4
 #EXTINF:-1 group-title="XXX-VOD +18",
 http://5.196.79.154/vidshd/56ea912c4df934c216c352fa8d623af3/9866.mp4
+
+#EXTINF:1467 group-title="XXX-VOD +18",VIDEO XXX 1
+http://porn720.net/video/166/720p.mp4
+#EXTINF:2406 group-title="XXX-VOD +18",VIDEO XXX 2
+http://porn720.net/video/157/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 3
+http://porn720.net/video/138/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 4
+http://porn720.net/video/110/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 5
+http://porn720.net/video/119/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 6
+http://porn720.net/video/710/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 7
+http://porn720.net/video/720/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 8
+http://porn720.net/video/173/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 9
+http://porn720.net/video/730/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 10
+http://porn720.net/video/146/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 11
+http://porn720.net/video/207/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 12
+http://porn720.net/video/372/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 13
+http://porn720.net/video/352/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 14
+http://porn720.net/video/200/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 15
+http://porn720.net/video/458/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 16
+http://porn720.net/video/491/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 17
+http://porn720.net/video/497/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 18
+http://porn720.net/video/445/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 19
+http://porn720.net/video/850/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 20
+http://porn720.net/video/777/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 21
+http://porn720.net/video/116/720p.mp4
+#EXTINF:0,VIDEO XXX 22
+http://porn720.net/video/385/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 23
+http://porn720.net/video/289/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 24
+http://porn720.net/video/1190/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 25
+http://porn720.net/video/1291/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 26
+http://porn720.net/video/1157/720p.mp4
+#EXTINF:1685 group-title="XXX-VOD +18",VIDEO XXX 27
+http://porn720.net/video/1130/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 28
+http://porn720.net/video/1290/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 29
+http://porn720.net/video/1205/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 30
+http://porn720.net/video/1520/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 31
+http://porn720.net/video/1584/720p.mp4
+#EXTINF:0 group-title="XXX-VOD +18",VIDEO XXX 32
+http://porn720.net/video/1690/720p.mp4
 
 
 #EXTINF:-1, [COLOR red]--- Uncensored Music Videos ---[/COLOR]
