@@ -1776,25 +1776,17 @@ rtmp://rtmp.infomaniak.ch/livecast/rougetv
 #EXTINF:-1 ,[COLOR yellow]----------------------Turkey----------------------[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 group-title="Turkey",24 TV m3u8
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",BENGÜ TÜRK 864*482
+#EXTINF:-1 tvg-logo="http://i.f5haber.com/img/4/210/110/www.medyaradar.com/newsFiles/2016/3/2/190255/190255.jpg" group-title="Turkey",BENGÜ TÜRK
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
-#EXTINF:-1 group-title="Turkey",BEYAZ TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Beyaz_TV_Yeni_Logo.png" group-title="Turkey",BEYAZ TV
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",BLOOMBERG HT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEdZw6ma4DrTNHIyIEMcPHPh86JLfPcX28c4tjEtWQx1V9PWUHoK-l3VY7" group-title="Turkey",BLOOMBERG HT
 http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",CNN TURK HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s6Zq3Ep.jpg?1" group-title="Turkey",CNN TURK HD
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 group-title="Turkey",HABERTÜRK
+#EXTINF:-1 tvg-logo="http://mo.ciner.com.tr/assets/images/haberturk-logo.png" group-title="Turkey",HABERTÜRK
 http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",KANAL 7 HD 720*418
-http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 group-title="Turkey",MEDENIYET TV 1280*720
-http://nl-1-ms-origin.noccdn.com/cdn/53bf0671059c1/playlist.m3u8
-#EXTINF:-1 group-title="Turkey",POWER TV HD 1280*738
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Turkey",POWER TV HD 1280*738
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Turkey",POWERTURK HD 1280*738 (music)
 http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
@@ -2046,17 +2038,17 @@ http://p.jwpcdn.com/6/6/jwplayer.flash.swf http://karytv.com/livetv/sanjh-tv-cha
 #EXTINF:-1,[COLOR red][B]--- Malayalam ---[/B][/COLOR]
 http://0.0.6.0:1234
 
-#EXTINF:-1 group-title="Malayalam",Anand Media TV
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/UkzYtfN-uyuSME4Fd97dip-Vf2_g2MxoXOReBNHYLvDAf6FDwa_m0g9SIopZTVn4Pw=w300" group-title="Malayalam",Anand Media TV
 http://amiptv-fs.5centscdn.com/amsqanandmedia/anandmedialive.stream/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam",Asianet
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0015/3267/brand.gif?itok=xeQmM1WX" group-title="Malayalam",Asianet
 http://amiptv-fs.5centscdn.com/amsqasianet/asianetlive.stream/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo"http://www.lyngsat-logo.com/logo/tv/aa/asianet_me.png",Asianet Middle East
 http://llnwlive.prasaria.com/pr_live_origin_others/stream132157/playlist.m3u
-#EXTINF:-1 group-title="Malayalam",Asianet Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png" group-title="Malayalam",Asianet Movies
 http://amiptv-fs.5centscdn.com/amsqasianetmovies/fba00c54e72e8233356953a3f957a23d.stream/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam",Safari TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Safari_logo_new_25-07-2015.png/200px-Safari_logo_new_25-07-2015.png" group-title="Malayalam",Safari TV
 rtmp://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp
-#EXTINF:-1 group-title="Malayalam",Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="http://www.exchange4media.com/storyimages/fs_61263.jpg" group-title="Malayalam",Mazhavil Manorama HD
 http://amiptv-fs.5centscdn.com/amsqmazhavil/mazhavillive.stream/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam",Kairali TV
 rtmp://amiptv-fs.5centscdn.com/amsqkairali/kairalilive.stream
@@ -2070,9 +2062,9 @@ http://s3.utelisys.tv/kvworldon.m3u8
 #EXTINF:-1,[COLOR yellow]---------------------- Marathi----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 group-title="Marathi",IBN LookMat
+#EXTINF:-1 tvg-logo="http://www.ibnlokmat.tv/wp-content/uploads/2013/03/logo11.jpg" group-title="Marathi",IBN LokMat
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:-1 group-title="Marathi",Star Maza
+#EXTINF:-1 tvg-logo="http://www.indiantelevision.com/images17/star_maja.jpg" group-title="Marathi",Star Maza
 http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
@@ -2099,106 +2091,65 @@ http://puu.sh/nOhRQ/64d5317575.m3u8
 #EXTINF:-1,[COLOR yellow]---------------------- Vietnam----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="ITV Home Shopping" tvg-language="Vietnamese" tvg-country="VN" tvg-id="ITV Home Shopping" tvg-logo="http://img.onworldtv.com/355×200/banner/2015/03/27/313289-ITV_Logo-2_copy.jpg" group-title="Vietnam",ITV Home Shopping
-http://stream.onworldtv.com/edge/liveorigin/itvshop/index.m3u8
-#EXTINF:0 tvg-name="Nail & Beauty" tvg-language="Vietnamese" tvg-country="VN" tvg-id="Nail & Beauty" tvg-logo="http://img.onworldtv.com/250×250/poster/2016/01/28/265677-Banner_Nail_Beauty.png" group-title="Vietnam",Nail & Beauty
-http://stream.onworldtv.com/edge/liveorigin/lexor/index.m3u8
-#EXTINF:0 tvg-name="Tin Lanh Orange" tvg-language="Vietnamese" tvg-country="VN" tvg-id="Tin Lanh Orange" tvg-logo="http://img.onworldtv.com/355×200/poster/2015/11/13/746583-Tin-Lanh_TV.jpg" group-title="Vietnam",Tin Lanh Orange
-http://stream.onworldtv.com/edge/liveorigin/tinlanh/index.m3u8
-#EXTINF:0 tvg-name="Viet Global" tvg-language="Vietnamese" tvg-country="US" tvg-id="Viet Global" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXrs6REGJ500_CU4eiHJHlVIWEWSi7Xi3Oeul5hpFksVvYfhZMuzENy2Q" group-title="Vietnam",Viet Global (US) (Vietnamese)
-http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8
+
 #EXTINF:0 tvg-name="Sai Gon TV" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemJj1haV0ecqiqbB94BOUhaTMUS5V9dwxz8u0U7VLchQ6GMJdL0hnoyw" group-title="Vietnam",Sai Gon TV (US) (Vietnamese)
 http://origin3-edge2.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_1651_211xdnzd/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam", TH GIA LAI - Nhóm VTC02
-http://113.161.25.3:8134/hls-live/livepkgr/_definst_/liveevent/gltv.m3u8
 #EXTINF:-1 group-title="Vietnam", HÀ NAM
 rtmp://113.160.198.111:8086/live//hanamtv
 #EXTINF:-1 group-title="Vietnam", AN GIANG
 rtmp://113.161.212.25/live//atv1
 #EXTINF:-1 group-title="Vietnam", CÀ MAU
 rtmp://113.161.220.254:1935/livepkgr/livestream2
-#EXTINF:-1 group-title="Vietnam", BÀ RỊA-VŨNG TÀU
+#EXTINF:-1 tvg-logo="http://www.networktv.co/491-home_default/brt-vietnam.jpg" group-title="Vietnam", BÀ RỊA-VŨNG TÀU
 rtmp://113.163.216.24:1935/live/livestream
-#EXTINF:-1 group-title="Vietnam", KHÁNH HOÀ - Nhóm VTC03
+#EXTINF:-1 tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_khanh-hoa_141457723074.png" group-title="Vietnam", KHÁNH HOÀ - Nhóm VTC03
 rtmp://118.69.198.109/live/video
-#EXTINF:-1 group-title="Vietnam", BẠC LIÊU
+#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/binh_thuan_tv.jpg" group-title="Vietnam", BẠC LIÊU
 rtmp://118.69.205.213/livepkgr/livestream1
-#EXTINF:-1 group-title="Vietnam", TTXVN HD
+#EXTINF:-1 tvg-logo="http://xemtivihd.net/images/product/48.jpg" group-title="Vietnam", TTXVN HD
 http://118.107.85.14:1935/tvnet/smil:ttxvn.smil/chunklist_w1900411526_b1000000.m3u8?t=1473647556&token=3aaaf40b1ddde558a345a1b58d76c3e0
 #EXTINF:-1 group-title="Vietnam", HTV9   HD
 http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w991679017_b800000.m3u8?t=1473647587&token=8dd920059e6fb8598cee1564096d2471
-#EXTINF:-1 group-title="Vietnam", VTC1HD
-http://118.107.85.14:1935/tvnet/smil:vtc1.smil/chunklist_w913277753_b1000000.m3u8
-#EXTINF:-1 group-title="Vietnam", VTC10
-http://118.107.85.14:1935/tvnet/smil:vtc10.smil/chunklist_w1802754625_b1000000.m3u8
-#EXTINF:-1 group-title="Vietnam", VTC16
-http://118.107.85.14:1935/tvnet/smil:vtc16.smil/chunklist_w1265351202_b1000000.m3u8?t=1473647402&token=99e4121968c4d996ade6239a7a259d75
-#EXTINF:-1 group-title="Vietnam", VTV1HD
-http://118.107.85.14:1935/tvnet/smil:vtv1.smil/playlist.m3u8?t=1473306316&token=901ada578e40a59fbcc2a97d09aacf3b
-#EXTINF:-1 group-title="Vietnam", VTV2
-http://118.107.85.14:1935/tvnet/smil:vtv2.smil/playlist.m3u8?t=1473647172&token=aa5a87d98627d1d2ff72f51fb4dd523d
-#EXTINF:-1 group-title="Vietnam", VTV3 HD SV1
-http://118.107.85.14:1935/tvnet/smil:vtv3.smil/chunklist_w884148795_b800000.m3u8
-#EXTINF:-1 group-title="Vietnam", VTV3 HD SV2
-http://118.107.85.14:1935/tvnet/smil:vtv3.smil/media_w1682995622_b800000_194413.ts?t=1473514130&token=7471b697836b1a63daaf970baf67d68d
-#EXTINF:-1 group-title="Vietnam", VTV4
-http://118.107.85.14:1935/tvnet/smil:vtv4.smil/chunklist_w468174697_b1000000.m3u8
-#EXTINF:-1 group-title="Vietnam", BẮC KẠN
-http://118.107.76.15:1935/live/_definst_/BK/BK_640x480_1200kbps.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam", CAO BẰNG
-http://118.107.76.15:1935/live/_definst_/CB/CB_live.smil/playlist.m3u8
- 
- 
-#EXTINF:-1 group-title="Vietnam", ANTV - nhóm Hà Nội
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png" group-title="Vietnam", ANTV - nhóm Hà Nội
 http://123.30.191.202/hls/antv.m3u8
-#EXTINF:-1 group-title="Vietnam", HANOI1
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/blqc6xn4j/kp42_ZUo.png" group-title="Vietnam", HANOI1
 http://123.30.191.202/hls/hanoi1.m3u8
-#EXTINF:-1 group-title="Vietnam", HÀ NỘI 2
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/e4c17m8ur/7szzwta.png" group-title="Vietnam", HÀ NỘI 2
 http://123.30.191.202/hls/hanoi2.m3u8
 #EXTINF:-1 group-title="Vietnam", LẠNG SƠN
 rtmp://123.18.206.40:1935/live/livestream
-#EXTINF:-1 group-title="Vietnam", QUẢNG NINH 1
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Quang-Ninh-TV_o.jpg" group-title="Vietnam", QUẢNG NINH 1
 rtmp://123.29.68.44/hctv/vstv020
-#EXTINF:-1 group-title="Vietnam", QUẢNG NINH 2
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Quang-Ninh-TV3_o.jpg" group-title="Vietnam", QUẢNG NINH 2
 rtmp://123.29.68.44/hctv/vstv021
-#EXTINF:-1 group-title="Vietnam", HOÀ BÌNH
+#EXTINF:-1 tvg-logo="http://ibongda.vn/upload/channel/truyen-hinh-hoa-binh.jpg" group-title="Vietnam", HOÀ BÌNH
 http://123.30.191.202/hls/hoabinh.m3u8
-#EXTINF:-1 group-title="Vietnam", TIỀNG GIANG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/6/65/Logo_THTG.png/180px-Logo_THTG.png" group-title="Vietnam", TIỀNG GIANG
 http://123.30.191.202/hls/tiengiang.m3u8
-#EXTINF:-1 group-title="Vietnam", TRÀ VINH
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tra-Vinh-TV_o.jpg" group-title="Vietnam", TRÀ VINH
 http://123.30.191.202/hls/travinh.m3u8
-#EXTINF:-1 group-title="Vietnam", THANH HOÁ
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-JyjxKRFvsyc/U_a76L6iPPI/AAAAAAAADN8/_TuIzjmWnXk/s350-c/thanhhoatv.png" group-title="Vietnam", THANH HOÁ
 http://123.30.191.202/hls/ttv.m3u8
-#EXTINF:-1 group-title="Vietnam", VTC1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Vtclogo.png" group-title="Vietnam", VTC1
 http://123.30.191.202/hls/vtc1.m3u8
-#EXTINF:-1 group-title="Vietnam", VTC3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaIFWFcGvC9Lp_9RjPspU51zKAvJpby1e0UEtrdd6Yn--lp8xeIg" group-title="Vietnam", VTC3
 http://123.30.191.202/hls/vtc3.m3u8
-#EXTINF:-1 group-title="Vietnam", VTV1
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1453323191.png" group-title="Vietnam", VTV1
 http://123.30.191.202/hls/vtv1.m3u8
-#EXTINF:-1 group-title="Vietnam", VTV2
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1457819842.png" group-title="Vietnam", VTV2
 http://123.30.191.202/hls/vtv2.m3u8
-#EXTINF:-1 group-title="Vietnam", VTV3
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1453702026.png" group-title="Vietnam", VTV3
 http://123.30.191.202/hls/vtv3.m3u8
-#EXTINF:-1 group-title="Vietnam", VTV8HD - Nhóm OFFICIAL
-http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="Vietnam", SÓC TRĂNG
+#EXTINF:-1 tvg-logo="http://xemtvhd.net/images/icon-channel/soc-trang-stv1.png" group-title="Vietnam", SÓC TRĂNG
 rtmp://115.78.3.164/live/stv1
-#EXTINF:-1 group-title="Vietnam", VĨNH PHÚC
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/hg6npx93n/ZXkf_ADc.png" group-title="Vietnam", VĨNH PHÚC
 rtmp://117.6.162.63/live/thvp
-#EXTINF:-1, VTC12
-http://censoft.mobi:1935/tvviet/vtc12.stream/playlist.m3u8
-#EXTINF:-1 group-title="Vietnam", HÀ TĨNH OFFICIAL
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2015/05/20/492375-ha-tinh.png" group-title="Vietnam", HÀ TĨNH OFFICIAL
 http://hatinhtv.vn/liveevent.m3u8
-#EXTINF:-1 group-title="Vietnam", VOV
-rtmp://210.245.60.242:1935/vovtv/vovtv
 #EXTINF:-1 group-title="Vietnam", DAK NÔNG
 rtmp://222.255.158.22/live/truyenhinh
-#EXTINF:-1 group-title="Vietnam", ĐÀ NẴNG 3
-rtmp://drt.danang.vn/live/livestream
-#EXTINF:-1 group-title="Vietnam", TTXVN
+#EXTINF:-1 tvg-logo="http://en.vietnamplus.vn/app_themes/images/logo/LOGO-TTXVN-50PX.png" group-title="Vietnam", TTXVN
 rtmp://live.vnanet.vn/Live/DRC
-#EXTINF:-1 group-title="Vietnam", QPVN HD OFFICIAL
-http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow]---------------------- Isreal----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2703,8 +2654,10 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0 group-title="Sports",REV´N - NTV - Chattanooga - TN Tennesse
+#EXTINF:0 tvg-logo="http://revntv.com/media/site/images/logo_revntv.png" group-title="Sports",REV´N - NTV - Chattanooga - TN Tennesse
 http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:0 group-title="Sports",Silk Sports 4
 http://5.133.162.203/silk_sport4/index.m3u8
 #EXTINF:0 tvg-name="Sportal TV" tvg-language="Russian" tvg-country='RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports",Sportal TV (Sports) (RU) (Russian)
