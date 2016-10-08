@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR yellow]---------------------- 24/7 ----------------------[/COLOR]
+#EXTINF:-1 group-title="24/7",[COLOR yellow]---------------------- 24/7 ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Bruce Lee" tvg-logo="https://38.media.tumblr.com/avatar_fdd26d32e09d_128.png" group-title="24/7", Bruce Lee (24/7)
@@ -16,8 +16,10 @@ http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 #EXTINF:0 group-title="24/7",Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0 tvg-logo="http://watisertezien.nl/wp-content/uploads/2015/12/fail-army-logo-300x185.jpg" group-title="24/7",Fail Army TV
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- USA----------------------[/COLOR]
+#EXTINF:-1 group-title="USA",[COLOR yellow]---------------------- USA----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo"http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
@@ -112,7 +114,7 @@ rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001
 #EXTINF:0 tvg-logo="http://vtvchannel6.com/images/Logo.jpg" group-title="USA",VTV Channel 6 - 6CTV - Vernal - UT Utah
 http://hls.ksl.com/t/strata/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
+#EXTINF:-1 group-title="Canada",[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-id="TVAMTL1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="TVA1" group-title="Canada",TVA MONTREAL
@@ -160,29 +162,39 @@ rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Arabic----------------------[/COLOR]
+#EXTINF:-1 group-title="Arabic",[COLOR yellow]---------------------- Arabic----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" group-title="Arabic", Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w170" group-title="Arabic", Al Arabiya Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" group-title="Arabic", Sky News Arabia
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/120px-CNBC_Arabiya.svg.png" group-title="Arabic", CNBC Arabia
-http://api.new.livestream.com/accounts/3102016/events/1914609/videos/130262675.m3u8
+#EXTINF:0 group-title="Arabic",Alarabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="Arabic", Al Jazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 group-title="Arabic",Aljazeera 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1 group-title="Arabic",aljazeera_mubasher 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png" group-title="Arabic", Al Jazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="Arabic", Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
+#EXTINF:-1 group-title="Arabic",ANN NEWS
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1 group-title="Arabic",BBC (arabic)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/120px-CNBC_Arabiya.svg.png" group-title="Arabic", CNBC Arabia
+http://api.new.livestream.com/accounts/3102016/events/1914609/videos/130262675.m3u8
 #EXTINF:-1 tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" group-title="Arabic", DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 #EXTINF:0 tvg-name="DW TV Arabia" tvg-language="Arabic" tvg-country="DE" tvg-id="DW TV Arabia" tvg-logo="http://www.3arablive.com/wp-content/uploads/2010/03/dwtv.jpg" group-title="Arabic",DW TV Arabia (Arabic)
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" group-title="Arabic", Sky News Arabia
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Egypt----------------------[/COLOR]
+#EXTINF:-1 group-title="Egypt",[COLOR yellow]---------------------- Egypt----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Al Hayat" tvg-language="Arabic" tvg-country="EG" tvg-id="Al Hayat" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c156.1.558.558/s160x160/1069180_167849346754534_1513691148_n.png?oh=c9ea1c8e042ae825d3eb7f47143bf416&oe=56915E47&__gda__=1452240975_1f8b5a1bdd14c8d8ceb63719dc4bd206" group-title="Egypt",Al Hayat (Arabic)
@@ -194,14 +206,14 @@ http://flash.alkarmatv.com:1935/karmatv_na/karmatv_na1/playlist.m3u8
 #EXTINF:0 tvg-name="Sat7" tvg-language="Arabic" tvg-country="EG" tvg-id="Sat7" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQEph1hr_UeSi2_-EORwfhXop2ndFJ7tO20vbA-6bt7DZkicjuzXwQhjec" group-title="Egypt",Sat7 (Arabic)
 http://www.streamwebtown.com/player/sat7/arabic/stream.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Saudi Arabia ----------------------[/COLOR]
+#EXTINF:-1 group-title="Saudi Arabia",[COLOR yellow]---------------------- Saudi Arabia ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Al Quran" tvg-language="Arabic" tvg-country="SA" tvg-id="Al Quran" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Al-Quran-TV-Saudi-Arabia.jpg" group-title="Saudi Arabia",Al Quran (Arabic)
 http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Syria ----------------------[/COLOR]
+#EXTINF:-1 group-title="Syria",[COLOR yellow]---------------------- Syria ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Syria Nour" tvg-language="Arabic" tvg-country="SY" tvg-id="Syria Nour" tvg-logo="http://live.rtv.gov.sy/images/nour.jpg" group-title="Syria",Syria Nour(Arabic)
@@ -212,9 +224,11 @@ http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/drama.jpg" group-title="Syria", Syria Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1 group-title="Syria",SYRIAN NEWS
+rtmp://82.137.248.16/Snews/SnewsLive2
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- United Arab Emirates ----------------------[/COLOR]
+#EXTINF:-1 group-title="United Arab Emirates",[COLOR yellow]---------------------- United Arab Emirates ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Noor Dubai" tvg-language="Arabic" tvg-country="AE" tvg-id="Noor Dubai" tvg-logo="http://www.cartercenter.org/resources/images/logos/noorDubai.gif" group-title="United Arab Emirates",Noor Dubai(Arabic)
@@ -228,7 +242,7 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.adtv.ae/public/img/abudhabi_logo.png" group-title="Arabic",Abu Dhabi TV
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Iran----------------------[/COLOR]
+#EXTINF:-1 group-title="Iran",[COLOR yellow]---------------------- Iran----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="AAA Family" tvg-language="Arabic" tvg-country="IR" tvg-id="AAA Family" tvg-logo="http://aaafamily.tv/cdn/2014/09/AAA-Family-Log-300.png" group-title="Iran",AAA Family (Arabic)
@@ -245,7 +259,7 @@ http://63.237.48.3/ios/NEX_1/NEX_1.m3u8
 http://63.237.48.23/ios/IRIB_NASIM/IRIB_NASIM.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Iraq----------------------[/COLOR]
+#EXTINF:-1 group-title="Iraq",[COLOR yellow]---------------------- Iraq----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Kurdmax tv" tvg-language="Kurdish" tvg-country="IQ" tvg-id="Kurdmax tv" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p160x160/11081172_794905233936620_6048905078120134496_n.png%3Foh%3D0fc772e9dbc2e389890bdb8596510449%26oe%3D567CBC1C%26__gda__%3D1451136160_6bdd4d100450386fbf1ff0dee5ed0e49" group-title="Iraq",Kurdmax tv(Kurdish)
@@ -261,7 +275,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iOy0jOsEr8s/AAAAAAAAAAI/AAAAAAAAAAA/tQ6zjwS9r6g/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Iraq", Houna Bagdad TV
 http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Africa----------------------[/COLOR]
+#EXTINF:-1 group-title="Africa",[COLOR yellow]---------------------- Africa----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://i0.wp.com/www.livefromnaija.com/wp-content/uploads/2015/06/Tv-Continental.jpg?resize=210%2C142" group-title="Africa",TV CONTINENTAL NIGERIA
@@ -284,7 +298,7 @@ rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 #EXTINF:-1,[COLOR yellow]-----------Central & South America---------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,[COLOR yellow]---------------------- Argentina----------------------[/COLOR]
+#EXTINF:-1 group-title="Argentina",[COLOR yellow]---------------------- Argentina----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/360-TV-Argentina_o.jpg" group-title="Argentina",360 TV
@@ -313,6 +327,8 @@ rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Canal-79-San-Martin_o.jpg" group-title="Argentina",Canal 79 San Juan
 rtmp://painel.serveron.com.br:1935/8162/8162
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fAaopsekpUCM8niDfMAbAWXbqiMxQCA8Djd2INnjabAfUOlDndHYNRo" roup-title="Argentina",Cool HD - 103.7 TV (Argentina)
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.docmontevideo.com/2015/images/construir-tv.jpg" group-title="Argentina",Construir TV
 http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFBEDXAF2lZ3v24lgUx0qikTDPuwcRafBMXeZKRmXjHvaPwqs-" group-title="Argentina",DeporTV (DXTV)
@@ -333,10 +349,12 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/bC2v1sB.png" group-title="Argentina",Telpin TV
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/bC2v1sB.png" group-title="Argentina"",Telpin Canal 2
+#EXTINF:0 tvg-name="Telpin TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Telpin TV" tvg-logo="http://i.imgur.com/bC2v1sB.png" group-title="Argentina",Telpin Canal 2
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p
 #EXTINF:0 tvg-name="Tateti TV" tvg-language="Spanish" tvg-country="AR" tvg-id="Tateti TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/TaTeTi12.png" group-title="Argentina",Tateti TV
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:0 tvg-logo="http://tododeportes.com.ar/images/todo%20deportes.png" group-title="Argentina",Todo Deportes Argentina
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
 #EXTINF:0 tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Todo-Noticias-2.jpg" group-title="Argentina",TNoticias
 rtsp://stream.tn.com.ar/live/tnhd2
 #EXTINF:0 tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Todo-Noticias-2.jpg" group-title="Argentina",TNoticias HD
@@ -344,7 +362,7 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:0 tvg-logo="http://www.tda.gob.ar/servicios/images/productoras/viajar-.svg" group-title="Argentina",Viajar
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Barbados----------------------[/COLOR]
+#EXTINF:-1 group-title="Barbados",[COLOR yellow]---------------------- Barbados----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/M8Xkg4SEk1EIXHlh5imqziAN6JP37oSbGf6pP10j94GOJuGmGn_B0GRc7D8WDnHaxxDM=w300" group-title="Barbados", CBC TV Channel 8
@@ -352,7 +370,7 @@ rtmp://184.154.57.230/cbcvideo/cbcstream
 #EXTINF:0 tvg-logo="http://thewatchtv.com/wp-content/uploads/2014/12/Watch-Cinestream-TV-Live-TV-from-Barbados.jpg" group-title="Barbados", CineStream TV Barbados
 http://68.71.42.179/live/livestream1/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Brazil----------------------[/COLOR]
+#EXTINF:-1 group-title="Brazil",[COLOR yellow]---------------------- Brazil----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.a12.com/files/media/originals/tv_aparecida.jpg" group-title="Brazil",TV APARECIDA
@@ -443,19 +461,19 @@ http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp
 #EXTINF:0 tvg-logo="http://tal.tv/wp-content/uploads/2011/07/br-tvescola-novo-161x115.png" group-title="Brazil", TV ESCOLA
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Belize----------------------[/COLOR]
+#EXTINF:-1 group-title="Belize",[COLOR yellow]---------------------- Belize----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-logo="http://www.freeetv.com/images/03_logo/plus_tv_Belize.jpg" group-title="Belize",PLUS TV BELIZE
+#EXTINF:0 tvg-logo="http://www.freeetv.com/images/03_logo/plus_tv_Belize.jpg" group-title="Belize",Plus Tv Belize
 http://iphone-streaming.ustream.tv/ustreamVideo/6108416/streams/live/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Bolivia----------------------[/COLOR]
+#EXTINF:-1 group-title="Bolivia",[COLOR yellow]---------------------- Bolivia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Bolivia",Redadvenir
 rtmp://streamer1.streamhost.org/salive/GMIalfam
 
-#EXTINF:-1,[COLOR yellow]---- Chile ---[/COLOR]
+#EXTINF:-1 group-title="Chile",[COLOR yellow]---- Chile ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/2013-09-04_JJDDNN_en_directo_a_traves_de_CDO.jpg" group-title="Chile",CDO Premium
@@ -469,7 +487,7 @@ http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597f
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B65ue3U04WY/AAAAAAAAAAI/AAAAAAAAACE/zQEoUZLW9D8/s120-c/photo.jpg"  group-title="Chile",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 
-#EXTINF:-1,[COLOR yellow]---- Columbia---[/COLOR]
+#EXTINF:-1 group-title="Columbia",[COLOR yellow]---- Columbia---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/360-tv-digital-en-vivo.jpg?160930095606"  group-title="Columbia",360 TV col
@@ -522,7 +540,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]--- Costa Rica---[/COLOR]
+#EXTINF:-1 group-title="Costa Rica",[COLOR yellow]--- Costa Rica---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ekA0VsI3u8I/AAAAAAAAAAI/AAAAAAAAAAA/4EV5k4_UDbs/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Costa Rica",TELEUNO TV San Ramon
@@ -550,10 +568,10 @@ http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.sinart.go.cr/images/senalesyredes/envivo_canal13.gif" group-title="Costa Rica",SINART Canal Trece Costa Rica
 http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Dominican Republic ---[/COLOR]
+#EXTINF:-1 Dominican Republic",[COLOR yellow]--- Dominican Republic ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg" group-title="Dominican Republic", DOMINICAN REP–Antena Latina Canal 7
+#EXTINF:-1 tvg-logo="https://jeniffercalderon.files.wordpress.com/2010/07/logo_antena_latina_canal_71.jpg" group-title="Dominican Republic",Antena Latina Canal 7
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-mQfNdMrvjwI/Tt6BgsREY9I/AAAAAAAACA4/8fy8p15smYo/s1600/logo_canal_4.jpg" group-title="Dominican Republic",Canal 4
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
@@ -586,7 +604,7 @@ http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
 #EXTINF:-1 group-title="Dominican Republic",Telesistema Canal11 dom
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
 
-#EXTINF:-1,[COLOR lime]---El Salvador---[/COLOR]
+#EXTINF:-1 group-title="El Salvador",[COLOR lime]---El Salvador---[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/771394356271919105/ZzoEAgY0_bigger.jpg" group-title="El Salvador",TU TV Canal 11 el salvador
@@ -594,7 +612,7 @@ http://198.24.135.42/canal11/canal11/chunklist_w1054514793.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/529401839435788289/hCU30V91_400x400.jpeg" group-title="El Salvador",Megavision Canal 21 El Salvador
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,[COLOR lime]---Ecuador---[/COLOR]
+#EXTINF:-1 group-title="Ecuador",[COLOR lime]---Ecuador---[/COLOR]
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/cc/canela_tv_ec.png" group-title="Ecuador",Canela TV
@@ -614,7 +632,7 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jXx7o9x.jpg" group-title="Ecuador",UCSG TV Ecuador
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 
-#EXTINF:-1,[COLOR lime]---Guatemala---[/COLOR]
+#EXTINF:-1 group-title="Guatemala",[COLOR lime]---Guatemala---[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://dc593.4shared.com/img/6uGpjaxKce/153fe563198/tv-maya" group-title="Guatemala",TV Maya Guatemala
@@ -624,7 +642,7 @@ http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/672119605935017984/origa8zb.jpg" group-title="Guatemala",Azteca Guatemala
 http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Honduras ---[/COLOR]
+#EXTINF:-1 group-title="Honduras",[COLOR yellow]--- Honduras ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.streamwebtown.com/xml/hondutv/aztecahondu.jpg" group-title="Honduras",Azteca
@@ -638,7 +656,7 @@ http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/HCH-2012.jpg" group-title="Honduras",HCH Noticias hon
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
-#EXTINF:-1,[COLOR yellow]---- Jamaica---[/COLOR]
+#EXTINF:-1 group-title="Jamaica,[COLOR yellow]---- Jamaica---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/19/Mello_2015.png/revision/latest/scale-to-width-down/200?cb=20150501190808" group-title="Jamaica",MELLO TV
@@ -654,7 +672,7 @@ http://univ-i.akamaihd.net/hls/live/222630/HLS21/chunklist.m3u8?
 #EXTINF:-1 group-title="Jamaica, Jamaica News
 http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Mexico ---[/COLOR]
+#EXTINF:-1 group-title="Mexico",[COLOR yellow]--- Mexico ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.tdttlaxcala.tv/images/stock/img-varios/television-de-tlaxcala.pnghttp://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-3abn-latino.png" group-title="Mexico",3ABN Latino
@@ -864,7 +882,7 @@ http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
 #EXTINF:0 group-title="Mexico",YES
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Nicaragua---[/COLOR]
+#EXTINF:-1 group-title="Nicaragua",[COLOR yellow]--- Nicaragua---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/07/Watch-Televicentro-Canal-2-Live-TV-from-Nicaragua.jpg" group-title="Nicaragua",Canal 2
@@ -872,7 +890,7 @@ rtmp://162.244.81.181:1935/live//Stream1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Nicaragua",Canal 13 Viva
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Panama---[/COLOR]
+#EXTINF:-1 group-title="Panama",[COLOR yellow]--- Panama---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo"http://vignette4.wikia.nocookie.net/logopedia/images/1/19/Nexnew.png/revision/latest/scale-to-width-down/233?cb=20150920225858" group-title="Panama",NEX TV
@@ -882,49 +900,49 @@ rtmp://216.224.177.136/live/mp4:sertv
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/697424802995240961/3-2gyDws_400x400.png" group-title="Panama",TVN Panamá
 http://Kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish4/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- Paraguay---[/COLOR]
+#EXTINF:-1 group-title="Paraguay",[COLOR yellow]--- Paraguay---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-vg5WXnBuRrI/Vsui5beH1tI/AAAAAAAAAF0/yEOfceG8MFw/s200/Telefuturo%2BParaguay%2BCanal%2B4.%2BTelefuturo%2BEn%2BVivo%2BOnline%2BOpcion%2B2.jpg" group-title="Paraguay",Telefuturo Paraguay
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- PERU ---[/COLOR]
+#EXTINF:-1 group-title="Peru",[COLOR yellow]--- Peru ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://sieteesquinas.com/wp-content/uploads/2012/01/atv-CANAL-9.jpg" group-title="PERU",Canal 4 Arequipa Peru
+#EXTINF:-1 tvg-logo="http://sieteesquinas.com/wp-content/uploads/2012/01/atv-CANAL-9.jpg" group-title="Peru",Canal 4 Arequipa Peru
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capital_tv.png/245px-Capital_tv.png" group-title="PERU",Capital TV Perú
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Capital_tv.png/245px-Capital_tv.png" group-title="Peru",Capital TV Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamCAPTV
-#EXTINF:0 group-title="PERU",Latina
+#EXTINF:0 group-title="Peru",Latina
 http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_(2006_-).jpg/revision/latest?cb=20150330182601" group-title="PERU",Monterrico TV
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_(2006_-).jpg/revision/latest?cb=20150330182601" group-title="Peru",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg" group-title="PERU",Panamerica TV
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg" group-title="Peru",Panamerica TV
 http://stream-12.vty.dailymotion.com/11/dm/1/x18w5up/live.isml/events(live-1472221197)/live-audio=128000-video=1200000.m3u8
-#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg" group-title="PERU",Panamerica TV HD
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg" group-title="Peru",Panamerica TV HD
 http://cdn.pixebox.com/hls/ptv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PAX_logo.svg/125px-PAX_logo.svg.png" group-title="PERU",Pax TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PAX_logo.svg/125px-PAX_logo.svg.png" group-title="Peru",Pax TV
 http://38.105.14.194/paxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/tvcable/images/f/ff/Rbc-tv-peru.png/revision/latest?cb=20151224001432&path-prefix=es" group-title="PERU",RBC
+#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/tvcable/images/f/ff/Rbc-tv-peru.png/revision/latest?cb=20151224001432&path-prefix=es" group-title="Peru",RBC
 http://31.14.40.20:2137/live/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4a/49_La_Luz_TV.jpg/revision/latest?cb=20120413005339" group-title="PERU",TV La Luz
+#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4a/49_La_Luz_TV.jpg/revision/latest?cb=20120413005339" group-title="Peru",TV La Luz
 http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://a5.mzstatic.com/au/r30/Purple30/v4/9b/3e/15/9b3e158f-6b23-9c14-4334-5e311168f52d/icon175x175.jpeg" group-title="PERU", UCV Satelital
+#EXTINF:-1 tvg-logo="http://a5.mzstatic.com/au/r30/Purple30/v4/9b/3e/15/9b3e158f-6b23-9c14-4334-5e311168f52d/icon175x175.jpeg" group-title="Peru", UCV Satelital
 rtmp://wowzacontrol.net:1935/8050/8050
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-yI2V2ij5LI8/UlGiYJ_g0SI/AAAAAAAABAc/aCcNxzJ20mM/s250/willax-tv.jpg" group-title="PERU",Willax TV
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-yI2V2ij5LI8/UlGiYJ_g0SI/AAAAAAAABAc/aCcNxzJ20mM/s250/willax-tv.jpg" group-title="Peru",Willax TV
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yI2V2ij5LI8/UlGiYJ_g0SI/AAAAAAAABAc/aCcNxzJ20mM/s250/willax-tv.jpg" group-title="PERU", Williax
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-yI2V2ij5LI8/UlGiYJ_g0SI/AAAAAAAABAc/aCcNxzJ20mM/s250/willax-tv.jpg" group-title="Peru", Williax
 rtmp://willax.mediastream.pe/vv_willax/livestream
 
-#EXTINF:-1,[COLOR yellow]--- PUERTO RICO ---[/COLOR]
+#EXTINF:-1 group-title="Puerto Rico",[COLOR yellow]--- Puerto Rico ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2989.png" group-title="PUERTO RICO",Telemundo PR
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2989.png" group-title="Puerto Rico",Telemundo PR
 http://cdnh1.iblups.com/hls/33hssQ13ID.m3u8
-#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2994.png" group-title="PUERTO RICO",Univisión PR
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2994.png" group-title="Puerto Rico",Univisión PR
 http://cdnh1.iblups.com/hls/TzMLT5VhhH.m3u8
 
-#EXTINF:-1,[COLOR yellow]---- Trinidad & Tobago---[/COLOR]
+#EXTINF:-1 group-title="Trinidad & Tobago",[COLOR yellow]---- Trinidad & Tobago---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://sipreal.com/sipreal/images/tv6_logo.png" group-title="Trinidad & Tobago",CTV6TV TRINIDAD
@@ -935,13 +953,13 @@ http://104.130.121.19:1935/winhdtt/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Trinidad & Tobago", Beyond The Tape Trinidad & Tobago
 http://cdn.bimvid.com/TV6/aa6fb73c0054508914f898e3f2d494f5ac964e48_fl9.mp4
 
-#EXTINF:-1,[COLOR lime]---Uruguay---[/COLOR]
+#EXTINF:-1 group-title="Uruguay",[COLOR lime]---Uruguay---[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/4426345_300x300" group-title="Uruguay",Canal 11 Punta del Este Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
+#EXTINF:-1 group-title="Venezuela",[COLOR lime]---Venezuela---[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2989.png"http://4.bp.blogspot.com/-Kmvm3lTUegM/VP_uyJbHojI/AAAAAAAADh4/ha6dsq2HFpU/s1600/Anzoategui%2BTV.jpg" group-title="Venezuela",Anzoategui TV
@@ -977,10 +995,10 @@ rtmp://edge.wms28.lorini.net/valetv/valetv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/150px-VTV_logo.PNG" group-title="Venezuela",VTV 8
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
 
-#EXTINF:-1, [COLOR red]  *****Europe***** [/COLOR]
+#EXTINF:-1, [COLOR red]  ---------------------- Europe---------------------- [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1,[COLOR yellow]---------------------- Albania----------------------[/COLOR]
+#EXTINF:-1 group-title="Albania",[COLOR yellow]---------------------- Albania----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="ALB" tvg-language="English" tvg-country="UK" tvg-id="ALB" tvg-logo="https://lh3.googleusercontent.com/-2_VMcvyyMMo/VHTOKI7cvZI/AAAAAAAAABw/7y4FGv7zwSM/albukn.png" group-title="Albania",ALB UK 
@@ -990,20 +1008,20 @@ http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
 tvg-name="http://top-channel.tv/lajme/images/tchlogo.png" group-title="Albania", Tch (Top Channel live)
 http://ott.digitalb.tv/Tch/Tch.isml/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Bulgaria----------------------[/COLOR]
+#EXTINF:-1 group-title="Bulgaria",[COLOR yellow]---------------------- Bulgaria----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="TV7" tvg-language="Bulgarian" tvg-country="BG" tvg-id="TV7" tvg-logo="http://gledaibgtv.com/wp-content/themes/Galleria/timthumb.php?src=http://gledaibgtv.com/wp-content/uploads/2013/11/TV7-logo.png&h=350&w=580&zc=1" group-title="Bulgaria",TV7
 http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Bolivia ---------------------[/COLOR]
+#EXTINF:-1 group-title="Bolivia",[COLOR yellow]---------------------- Bolivia ---------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Red_PAT_Logo.png/245px-Red_PAT_Logo.png"  group-title="Bolivia",RED PAT
 http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Czech Republic ---------------------[/COLOR]
+#EXTINF:-1 group-title="Czech Republic",[COLOR yellow]---------------------- Czech Republic ---------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.mediaguru.cz/wp-content/uploads/2012/12/PrimaFamily_CMYK-01-248x148.jpg" group-title="Czech Republic",Prima FAMILY
@@ -1023,7 +1041,7 @@ http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_love/playlist/cze/li
  #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR895Ll9xoUWzBwUYWmDYQxaFd25p1svOWloY4VqvqI4rqC48uG" group-title="Czech Republic",Prima ZOOM
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1, [COLOR red]  *****France CHANNELS***** [/COLOR]
+#EXTINF:-1 group-title="France", [COLOR red]  *****France CHANNELS***** [/COLOR]
 http://0.0.0.0
 
 #EXTINF:0 tvg-name="TELE VESDRE" tvg-language="French" tvg-country="FR" tvg-id="TELE VESDRE" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="France",TELE VESDRE 
@@ -1077,7 +1095,7 @@ http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TV7_Bordeaux.jpg/240px-TV7_Bordeaux.jpg" group-title="France",TV7 Bordeaux
 rtmp://62.210.204.108/livtv7vo/mystream700.sdp
 
-#EXTINF:-1, [COLOR blue]  *****Germany CHANNELS***** [/COLOR]
+#EXTINF:-1 group-title="Germany", [COLOR blue]  *****Germany CHANNELS***** [/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/austria_24_tv_at.jpg"  group-title="Germany",Austria 24 TV
@@ -1215,7 +1233,7 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/220px-WDR_Dachmarke.svg.png" group-title="Germany",WDR HD
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Greece----------------------[/COLOR]
+#EXTINF:-1 group-title="Greece",[COLOR yellow]---------------------- Greece----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.pravoslavie.ru/sas/image/100568/56864.p.jpg" group-title="Greece",4E
@@ -1394,7 +1412,7 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8?rebase=on
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",ZOUGLA TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 
-#EXTINF:0,[COLOR=FFFF4500]Hungary[/COLOR]
+#EXTINF:0 group-title="Hungary",[COLOR=FFFF4500]Hungary[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/24/Atv_h.png/revision/latest/scale-to-width-down/194?cb=20151225180748&format=webp" group-title="Hungary",ATV hungary
@@ -1404,7 +1422,7 @@ http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
 #EXTINF:-1 group-title="Hungary",FixHD TV hungary
 http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
 
-#EXTINF:0,[COLOR=FFFF4500]Italy[/COLOR]
+#EXTINF:0 group-title="Italy",[COLOR=FFFF4500]Italy[/COLOR]
 http://0.0.0.0
 
 #EXTINF: -1 group-title="Italy",cdn
@@ -1481,13 +1499,13 @@ http://flash.streamingmedia.it:1935/TRM/livestream/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="http://wave-tech.it/img/video_brescia.png" group-title="Italy",Video Brescia
 http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Kosovo----------------------[/COLOR]
+#EXTINF:-1 group-title="Kosovo",[COLOR yellow]---------------------- Kosovo----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://img.webme.com/pic/o/opojatv/rrokum.png" group-title="Kosovo",RROKUM TV
 rtmp://82.114.65.202/live//rrokumtv
 
-#EXTINF:-1,[COLOR yellow]---------------------- Malta----------------------[/COLOR]
+#EXTINF:-1 group-title="Malta",[COLOR yellow]---------------------- Malta----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="TVM 1" tvg-language="Maltese" tvg-country="MT" tvg-id="TVM 1" tvg-logo="http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tv-tvm.png" group-title="Malta",TVM 1
@@ -1495,7 +1513,7 @@ http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8
 #EXTINF:0 tvg-name="TVM 2" tvg-language="Maltese" tvg-country="MT" tvg-id="TVM 2" tvg-logo="http://www.lavaletteclub.net/uploads/5/2/7/6/5276435/4649864_orig.jpg" group-title="Malta",TVM 2
 http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Macedonia----------------------[/COLOR]
+#EXTINF:-1 group-title="Macedonia",[COLOR yellow]---------------------- Macedonia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxAUvBVtUp7ef06uqH6kXoar_WfpxMTBNo7CGvLdygXhm8SEetC8yplg" group-title="Macedonia",Alfa TV
@@ -1504,13 +1522,13 @@ rtmp://ataka.tv/live/live
 mms://62.162.58.55/24vesti
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Moldova----------------------[/COLOR]
+#EXTINF:-1 group-title="Moldova",[COLOR yellow]---------------------- Moldova----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1449152361.png" group-title="Moldova", Super TV
 http://cdn.magictvbox.eu/set.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Potugal----------------------[/COLOR]
+#EXTINF:-1 group-title="Portugal",[COLOR yellow]---------------------- Potugal----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo"http://4.bp.blogspot.com/_XWUDhcU683Y/TJd4SWe9pGI/AAAAAAAAHV0/BT8n065rd_A/s200/agueda+tv.jpeg" group-title="Portugal",AGUEDA TV
@@ -1523,19 +1541,39 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8?Grupo_UP_e_DO
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
+#EXTINF:-1 group-title="Russia",[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",1REPUBLIC
+http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8?1REPUBLIC.DNR
 #EXTINF:0 tvg-logo="http://online-red.com/images/tv/9-volna.png" group-title="Russia",9 Vollna TV
 
 rtmp://176.9.127.102/live/myStream_1
 
+#EXTINF:0 group-title="Russia",ANTIMAIDAN.TV.DNR
+http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR 
 #EXTINF:0 group-title="Russia",bnptv
 
 mms://bnptv.info:10801/
+#EXTINF:-1 group-title="Russia",BTN1
+rtmp://193.43.26.198:1935/live/bnt1
+#EXTINF:-1 group-title="Russia",BTN2
+rtmp://193.43.26.198:1935/live/bnt2
+#EXTINF:0 tvg-logo="http://cdn.bulbagarden.net/upload/thumb/1/1e/Channel_One_Russia.png/250px-Channel_One_Russia.png" group-title="Russia",Channel 1
+http://gourl.su/tl?m3u8 
+#EXTINF:0 tvg-logo="http://www.elant.cz/Loga%20TV/meteotv.jpg" group-title="Russia",meteotv (armenian weather)
+http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/220px-Rossiya-24_Logo.svg.png" group-title="Russia",News 24 HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
+#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",NOVOROSSIA TV
+http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR 
 #EXTINF:0 tvg-logo="http://www.peertrackslive.com/resize.php?w=350&h=280&src=http://www.peertrackslive.com/uploads/channels/8/logo_thumb.jpg&zc=1&a=m" group-title="Russia",Pik tv
 
 rtmp://fms.pik-tv.com/live/piktv2pik2tv
+#EXTINF:-1 group-title="Russia", ROMA TV
+http://185.46.161.3/hls/sd.m3u8 
+#EXTINF:-1 group-title="Russia",Shant TV
+rtmp://shanttv.cdnvideo.ru/shanttv/shanttv.sdp
 #EXTINF:0 group-title="Russia",TS-TV.RU
 
 mms://213.141.145.170/ts_tv11
@@ -1586,34 +1624,16 @@ rtsp://195.62.63.238/tv_zolotoy_vek
 
 #EXTINF:0 tvg-logo= group-title="Russia",Канал Золотой Век(Zoltoy Vek)
 mms://195.62.63.238/tv_zolotoy_vek
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/220px-Rossiya-24_Logo.svg.png" group-title="Russia",News 24 HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
-#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",NOVOROSSIA TV
-http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR 
-#EXTINF:0 tvg-logo="http://cdn.bulbagarden.net/upload/thumb/1/1e/Channel_One_Russia.png/250px-Channel_One_Russia.png" group-title="Russia",Channel 1
-http://gourl.su/tl?m3u8 
-#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",1REPUBLIC
-http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8?1REPUBLIC.DNR
+
 #EXTINF:0 group-title="Russia",Russian language overdub movie channel
 http://rlu.ru/10fxY?m3u8 
 #EXTINF:0 group-title="Russia",notsure
 rtmp://77.243.11.114/live/live?mir
 #EXTINF:0 group-title="Russia",notsure
 http://hls.goodgame.ru/hls/33226.m3u8?version=2 
-#EXTINF:0 group-title="Russia",ANTIMAIDAN.TV.DNR
-http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR 
-#EXTINF:0 tvg-logo="http://www.elant.cz/Loga%20TV/meteotv.jpg" group-title="Russia",meteotv (armenian weather)
-http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp 
-#EXTINF:-1 group-title="Russia",BTN1
-rtmp://193.43.26.198:1935/live/bnt1
-#EXTINF:-1 group-title="Russia",BTN2
-rtmp://193.43.26.198:1935/live/bnt2
-#EXTINF:-1 group-title="Russia", ROMA TV
-http://185.46.161.3/hls/sd.m3u8 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Serbia----------------------[/COLOR]
+#EXTINF:-1 group-title="Serbia",[COLOR yellow]---------------------- Serbia----------------------[/COLOR]
 http://0.0.0.0:1234
-
 
 #EXTINF:-1 group-title="Serbia",ATV+1
 rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac
@@ -1634,7 +1654,7 @@ http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/HasBahCa.m3
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=150x150:format=jpg/path/s3d4439f9020cd100/image/ie6a8afc8e4ccfa50/version/1465630545/image.jpg" group-title="Serbia",TV Osijek
 mms://89.201.164.181/stv
 
-#EXTINF:-1,[COLOR yellow]---------------------- Slovakia----------------------[/COLOR]
+#EXTINF:-1 group-title="Slovakia",[COLOR yellow]---------------------- Slovakia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://wtvpc.com/wp-content/uploads/logos/TV+Lux+Catholic+TV+logo_1720.png"  group-title="Slovakia",TV Lux  
@@ -1666,10 +1686,10 @@ http://s1.media-planet.sk:80/live/skalica1/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="http://www.ezahorie.sk/images/stories/tvskalica.gif" group-title="Slovakia",TV Skalica
 rtmp://s1.media-planet.sk:80/live/skalica1
 
-#EXTINF:-1,[COLOR yellow]---------------------- Spain----------------------[/COLOR]
+#EXTINF:-1 group-title="Spain",[COLOR yellow]---------------------- Spain----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwBM_PLrl_o-oNtPVGe3ilwz2MAoT_PhldykcSplnyql54bHdb" group-title="Spain" ,Andalucia TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwBM_PLrl_o-oNtPVGe3ilwz2MAoT_PhldykcSplnyql54bHdb" group-title="Spain",Andalucia TV
 #EXTINF:0,tvg-name="ANTENA 3" tvg-language="Spanish" tvg-country="ES" tvg-id="ANTENA 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6EVpx9ua891pEc79Aji07ydfI__6s7__1pXawrKm4k61JNXZVvhZbhkw" group-title="Spain",ANTENA 3 
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1 group-title="Spain",Asturias
@@ -1724,13 +1744,13 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" tvg-group="Spain",Viajar
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
 
-#EXTINF:-1 ,[COLOR yellow]----------------------  Switzerland----------------------[/COLOR]
+#EXTINF:-1 group-title="Switzerland",[COLOR yellow]----------------------  Switzerland----------------------[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://www.rougetv.ch/imgs/menu/logo.png" group-title="Turkey",RougeTV.ch 
+#EXTINF:-1 tvg-logo="http://www.rougetv.ch/imgs/menu/logo.png" group-title="Switzerland",Rouge TV 
 rtmp://rtmp.infomaniak.ch/livecast/rougetv
 
-#EXTINF:-1 ,[COLOR yellow]----------------------Turkey----------------------[/COLOR]
+#EXTINF:-1 group-title="Turkey",[COLOR yellow]----------------------Turkey----------------------[/COLOR]
 http://0.0.0.0
 
 
@@ -1878,10 +1898,10 @@ http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Turkey",YOL TV rtmp 720*576
 rtmp://178.254.20.205:2100/yol/yolstream.flv
 
-#EXTINF:-1,[COLOR yellow]---------------------- UK----------------------[/COLOR]
+#EXTINF:-1 group-title="UK",[COLOR yellow]---------------------- UK----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Create and Craft" tvg-language="English" tvg-country="UK" tvg-id="Create and Craft" tvg-logo="http://www.createandcraft.com/img/create-and-craft-logo.png" group-title="UK",Create and Craft (Lifestyle) (UK) (English)
+#EXTINF:0 tvg-name="Create and Craft" tvg-language="English" tvg-country="UK" tvg-id="Create and Craft" tvg-logo="http://www.createandcraft.com/img/create-and-craft-logo.png" group-title="UK",Create and Craft
 http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
 #EXTINF:0 tvg-name="Ideal World" tvg-language="English" tvg-country="UK" tvg-id="Ideal World" tvg-logo="http://www.vouchercodespro.co.uk/images/ideal-world-logo.jpg" group-title="UK",Ideal World 
 http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
@@ -1908,19 +1928,19 @@ http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]---------------------- China----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name=”HKS” tvg-language=”Mandarin/Cantonese” tvg-country=”MY” tvg-id=”HKS” tvg-logo=”https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRat17L7sM9BiFBvRujSX171EZFalZKX4UIOGYgoaM-ojFVt0R-VXPgDA” group-title="Mandarin",HKS(Mandarin/Cantonese)
+#EXTINF:0 tvg-name="HKS" tvg-language="Mandarin/Cantonese" tvg-country="MY" tvg-id="HKS" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRat17L7sM9BiFBvRujSX171EZFalZKX4UIOGYgoaM-ojFVt0R-VXPgDA" group-title="Mandarin",HKS(Mandarin/Cantonese)
 http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Indonesia----------------------[/COLOR]
+#EXTINF:-1 group-title="Indonesia",[COLOR yellow]---------------------- Indonesia----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="logo/rtv.png" group-title="Indonesia",Indonesian:Rajawali TV
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Rajawali TV" tvg-logo="logo/rtv.png" group-title="Indonesia",Rajawali TV
 rtmp://203.153.97.35/live/livestream
 
 #EXTINF:-1 , [COLOR blue]---------------------- India ---------------------[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1,[COLOR yellow]---------------------- Tamil----------------------[/COLOR]
+#EXTINF:-1 group-title="Tamil",[COLOR yellow]---------------------- Tamil----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="MK" tvg-language="Tamil" tvg-country="LK" tvg-id="MK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAYdNgflWdyzqTS7_AqktdSX5kxABz1tBDLSzt46M47B7Dv36h2J3jD8" group-title="Tamil",MK (Family) (LK) (Tamil)
@@ -1942,7 +1962,7 @@ http://45.79.203.234:1935/z1/myStream/playlist.m3u8
 #EXTINF:0 tvg-name="SKTAT TV" tvg-language="Tamil" tvg-country="UK" tvg-id="SKTAT TV" tvg-logo="http://ammanealing.org/tabs/EalingAmman.png" group-title="Tamil",SKTAT TV (Family) (UK) (Tamil)
 http://uk1.zecast.com/ealing-live-2/ealing.stream/chunklist_w411180790.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Hindi----------------------[/COLOR]
+#EXTINF:-1 group-title="Hindi",[COLOR yellow]---------------------- Hindi----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Care World TV" tvg-language="Hindi" tvg-country="IN" tvg-id="Care World TV" tvg-logo="http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/care_world_tv.png" group-title="Hindi",Care World TV (Family) (IN) (Hindi)
@@ -1958,21 +1978,21 @@ http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/India_tv.png/200px-India_tv.png" group-title="Hindi",India News TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Punjabi----------------------[/COLOR]
+#EXTINF:-1 group-title="Punjabi",[COLOR yellow]---------------------- Punjabi----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Akaal Channel" tvg-language="Punjabi" tvg-country="IN" tvg-id="Akaal Channel" tvg-logo="http://t0.gstatic.com/images?q=tbn:ANd9GcSXZNJb0LiZpZPjZR6vHBgj-uDuNC_KWlU8kTHgb1GeDt010L8yXrk1Q_o" group-title="Punjabi",Akaal Channel (Lifestyle) (IN) (Punjabi)
+#EXTINF:0 tvg-name="Akaal Channel" tvg-language="Punjabi" tvg-country="IN" tvg-id="Akaal Channel" tvg-logo="http://t0.gstatic.com/images?q=tbn:ANd9GcSXZNJb0LiZpZPjZR6vHBgj-uDuNC_KWlU8kTHgb1GeDt010L8yXrk1Q_o" group-title="Punjabi",Akaal Channel
 http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:0 tvg-name="A-One punjabi" tvg-language="Punjabi" tvg-country="IN" tvg-id="A-One punjabi" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcR72NLytbkMroExK6HlB7vYQe3FfwKTO_Lx1LcydOxzl7udzP9-kb5OWzw" group-title="Punjabi",A-One punjabi (Lifestyle) (IN) (Punjabi)
+#EXTINF:0 tvg-name="A-One punjabi" tvg-language="Punjabi" tvg-country="IN" tvg-id="A-One punjabi" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcR72NLytbkMroExK6HlB7vYQe3FfwKTO_Lx1LcydOxzl7udzP9-kb5OWzw" group-title="Punjabi",A-One punjabi
 http://live.wmncdn.net/aonechannel/9ebf07878203332944aeabd987cb5d63.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="TV84" tvg-language="Punjabi" tvg-country="US" tvg-id="TV84" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRtKiWZVHghZ8kTH6592iDvCI-hrU27s8B-4cSqquDKk_5JZIKTPvE1J6Y" group-title="Punjabi",TV84 (Entertainment) (US) (Punjabi)
+#EXTINF:0 tvg-name="TV84" tvg-language="Punjabi" tvg-country="US" tvg-id="TV84" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRtKiWZVHghZ8kTH6592iDvCI-hrU27s8B-4cSqquDKk_5JZIKTPvE1J6Y" group-title="Punjabi",TV84
 http://soundview.viddillions.com/soundviewlive/smil:stream0001.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Sanjh tv" tvg-language="English/Punjabi" tvg-country="US" tvg-id="Sanjh tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpCJQCuxgrCeYQdu-SH6nxWQNOLB1U-pA0FF0xKED5isacVKdYwo263I" group-title="Punjabi",Sanjh tv (Family) (US) (English/Punjabi)
+#EXTINF:0 tvg-name="Sanjh tv" tvg-language="English/Punjabi" tvg-country="US" tvg-id="Sanjh tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShpCJQCuxgrCeYQdu-SH6nxWQNOLB1U-pA0FF0xKED5isacVKdYwo263I" group-title="Punjabi",Sanjh tv
 rtmp://live.wmncdn.net:1935/sanjhikhabar/a155af9adbb4b0c47fc9d90433555ca5.sdp
 #EXTINF:0 group-title="Punjabi",karytv
 http://p.jwpcdn.com/6/6/jwplayer.flash.swf http://karytv.com/livetv/sanjh-tv-channel/
 
-#EXTINF:-1,[COLOR red][B]--- Malayalam ---[/B][/COLOR]
+#EXTINF:-1 group-title="Malayalam",[COLOR red][B]--- Malayalam ---[/B][/COLOR]
 http://0.0.6.0:1234
 
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/UkzYtfN-uyuSME4Fd97dip-Vf2_g2MxoXOReBNHYLvDAf6FDwa_m0g9SIopZTVn4Pw=w300" group-title="Malayalam",Anand Media TV
@@ -1996,7 +2016,7 @@ http://live.cloud6.in:1935/live/ntvuae/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam",Worldon TV HD
 http://s3.utelisys.tv/kvworldon.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Marathi----------------------[/COLOR]
+#EXTINF:-1 group-title="Marathi",[COLOR yellow]---------------------- Marathi----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.ibnlokmat.tv/wp-content/uploads/2013/03/logo11.jpg" group-title="Marathi",IBN LokMat
@@ -2004,28 +2024,28 @@ http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.indiantelevision.com/images17/star_maja.jpg" group-title="Marathi",Star Maza
 http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
+#EXTINF:-1 group-title="Malaysia",[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
 
 EXTINF:0 group-title="Malaysia",Antena TV 1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Pakistan----------------------[/COLOR]
+#EXTINF:-1 group-title="Pakistan",[COLOR yellow]---------------------- Pakistan----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="Paigham TV" tvg-language="Urdu" tvg-country="PK" tvg-id="Paigham TV" tvg-logo="https://lh3.googleusercontent.com/kX4QQIpgJCBi8gJcmjkf6zjv5BtYVD2WROfuZsOtXYGMdjlIyGnGNH7lhV_8P3hkDQ=w300" group-title="Pakistan",Paigham TV (Lifestyle) (PK) (Urdu)
 http://125.209.77.130:1935/live/livestream1/playlist.m3u8
 
 
-#EXTINF:-1 ,[COLOR yellow]---------------------- South Korea ----------------------[/COLOR]
+#EXTINF:-1  group-title="South Korean",[COLOR yellow]---------------------- South Korea ----------------------[/COLOR]
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="KBS World" tvg-language="Korean" tvg-country="MY" tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2000px-KBS_World_%282009%29.svg.png" group-title="South Korean",KBS World (Family) (MY) (Korean)
+#EXTINF:0 tvg-name="KBS World" tvg-language="Korean" tvg-country="MY" tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2000px-KBS_World_%282009%29.svg.png" group-title="South Korean",KBS World
 rtmp://118.97.183.196/jhos//kbs
-#EXTINF:0 tvg-name="Korean Central Television" tvg-language="Korean" tvg-country="KP" tvg-id="Korean Central Television" tvg-logo="http://puu.sh/nOhGR/16dfadd90e.jpg" group-title="South Korean",Korean Central Television (Public-Entertainment) (KP) (Korean)
+#EXTINF:0 tvg-name="Korean Central Television" tvg-language="Korean" tvg-country="KP" tvg-id="Korean Central Television" tvg-logo="http://puu.sh/nOhGR/16dfadd90e.jpg" group-title="South Korean",Korean Central Television
 http://puu.sh/nOhRQ/64d5317575.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Vietnam----------------------[/COLOR]
+#EXTINF:-1 group-title="Vietnam",[COLOR yellow]---------------------- Vietnam----------------------[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -2088,13 +2108,13 @@ rtmp://222.255.158.22/live/truyenhinh
 #EXTINF:-1 tvg-logo="http://en.vietnamplus.vn/app_themes/images/logo/LOGO-TTXVN-50PX.png" group-title="Vietnam", TTXVN
 rtmp://live.vnanet.vn/Live/DRC
 
-#EXTINF:-1,[COLOR yellow]---------------------- Isreal----------------------[/COLOR]
+#EXTINF:-1 group-title="Isreal",[COLOR yellow]---------------------- Isreal----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="ILand" tvg-language="Hebrew" tvg-country="IL" tvg-id="ILand" tvg-logo="http://iland.zahav.ru/img/161x80_logo_il.png" group-title="Isreal",ILand (Family) (IL) (Hebrew)
 http://146.185.61.140:1935/live/myStream/playlist.m3u8 
 
-#EXTINF:-1,[COLOR yellow]---------------------- NEWS----------------------[/COLOR]
+#EXTINF:-1 group-title="News",[COLOR yellow]---------------------- NEWS----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiYpvjrS5aByXU7736npJACdHyaiV2jpTfob958Z1CqJATaksqxg" group-title="News",USA News 12 Long Island
@@ -2250,195 +2270,153 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qxyuys1434616490.png" group title="News", Sky TG 24 (ITA)
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/beachtvhd_1.jpg?itok=vAWBnF2R" group-title="News",WDES BeachTV 32 - 48 CA - Destin - FL Florida
+#EXTINF:-1 group-title="USA Local News",[COLOR yellow]----------------USA Local News----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/beachtvhd_1.jpg?itok=vAWBnF2R" group-title="USA Local News",WDES BeachTV 32 - 48 CA - Destin - FL Florida
 rtmp://media4.tripsmarter.com/LiveTV/DTVHD
 
-#EXTINF:0 group-title="News",KNTV News 11 - 12 DT - San Francisco - CA California (traffic Cam?)
+#EXTINF:0 group-title="USA Local News",KNTV News 11 - 12 DT - San Francisco - CA California (traffic Cam?)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:0 group-title="News",KTVB News 7 - 7 DT - Boise - ID Idaho
+#EXTINF:0 group-title="USA Local News",KTVB News 7 - 7 DT - Boise - ID Idaho
 http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_2000_av-p.m3u8
 
-#EXTINF:0 tvg-logo="http://media2.abc15.com/photo/2015/12/03/abc15_default_1449169267268_27813957_ver1.0_640_480.jpeg" group-title="News",KNXV ABC 15 News - 15 DT - Phoenix - AZ Arizona
+#EXTINF:0 tvg-logo="http://media2.abc15.com/photo/2015/12/03/abc15_default_1449169267268_27813957_ver1.0_640_480.jpeg" group-title="USA Local News",KNXV ABC 15 News - 15 DT - Phoenix - AZ Arizona
 http://spsknxv-i.akamaihd.net/hls/live/203386/anvato/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/a3/KCAL-HD.jpg/revision/latest/scale-to-width-down/185?cb=20160531195158" group-title="News", CBS KCAL 9 News - 9 DT - Los Angeles - CA California
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/a3/KCAL-HD.jpg/revision/latest/scale-to-width-down/185?cb=20160531195158" group-title="USA Local News", CBS KCAL 9 News - 9 DT - Los Angeles - CA California
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CBS_2.png/210px-CBS_2.png" group-title="News",KCBS 2 News - 43 DT - Los Angeles - CA California
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CBS_2.png/210px-CBS_2.png" group-title="USA Local News",KCBS 2 News - 43 DT - Los Angeles - CA California
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcbsx-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Kesq-hd-logo.png" group-title="New", CBS KESQ News Channel 3 - 42 DT - Palm Springs - CA California
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Kesq-hd-logo.png" group-title="USA Local News", CBS KESQ News Channel 3 - 42 DT - Palm Springs - CA California
 http://kesq_live-lh.akamaihd.net/i/0fupc9sax_1@167696/master.m3u8
-#EXTINF:0 tvg-logo="https://cbssanfran.files.wordpress.com/2013/02/lunapic_135995968872647_4.gif?w=190" group-title="News", CBS KPIX 5 News - 29 DT - San Francisco - CA California
+#EXTINF:0 tvg-logo="https://cbssanfran.files.wordpress.com/2013/02/lunapic_135995968872647_4.gif?w=190" group-title="USA Local News", CBS KPIX 5 News - 29 DT - San Francisco - CA California
 http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://theahpa.com/wp-content/gallery-bank/thumbs/o_1asssk2ir38k57016ae1ur33laa.png" group-title="News",KXRM 21 FOX News - 22 DT - Colorado Springs - CO Colorado
+#EXTINF:0 tvg-logo="http://theahpa.com/wp-content/gallery-bank/thumbs/o_1asssk2ir38k57016ae1ur33laa.png" group-title="USA Local News",KXRM 21 FOX News - 22 DT - Colorado Springs - CO Colorado
 http://play-prod1.live.anvato.net/server/play/mg-kxrm-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://static1.squarespace.com/static/55d39b9be4b09a7ab6e7ee3a/t/57b90fff20099ed6233077ce/1471746053112/?format=300w" group-title="News",KMGH 7 News - 7 DT - Denver - CO Colorado
+#EXTINF:0 tvg-logo="https://static1.squarespace.com/static/55d39b9be4b09a7ab6e7ee3a/t/57b90fff20099ed6233077ce/1471746053112/?format=300w" group-title="USA Local News",KMGH 7 News - 7 DT - Denver - CO Colorado
 http://play-prod1.live.anvato.net/server/play/epsps-kmgh-v-20/master.m3u8
-#EXTINF:0 tvg-logo="https://cbsdenver.files.wordpress.com/2012/03/cbs4-denver-for-white-backgrounds.png?w=864" group-title="News",KCNC CBS 4 News - 35 DT - Denver - CO Colorado
+#EXTINF:0 tvg-logo="https://cbsdenver.files.wordpress.com/2012/03/cbs4-denver-for-white-backgrounds.png?w=864" group-title="USA Local News",KCNC CBS 4 News - 35 DT - Denver - CO Colorado
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://doubledownweather28.weebly.com/uploads/4/1/1/0/41108149/1883011_orig.jpg" group-title="News",WRUF 10 GatorWeather - 5 LD - Gainesville - FL Florida
+#EXTINF:0 tvg-logo="http://doubledownweather28.weebly.com/uploads/4/1/1/0/41108149/1883011_orig.jpg" group-title="USA Local News",WRUF 10 GatorWeather - 5 LD - Gainesville - FL Florida
 rtmp://fms01.jou.ufl.edu/live/weather
-#EXTINF:0 tvg-logo="http://images1.miaminewtimes.com/imager/warren-buffett-is-buying-wplg-local-10/u/original/6524933/wplg_local_10.png" group-title="News",WPLG Local 10 News - 10 DT - Miami - FL Florida ABC
+#EXTINF:0 tvg-logo="http://images1.miaminewtimes.com/imager/warren-buffett-is-buying-wplg-local-10/u/original/6524933/wplg_local_10.png" group-title="USA Local News",WPLG Local 10 News - 10 DT - Miami - FL Florida ABC
 http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="News",WFOR 4 News - 22 DT - Miami - FL Florida
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png" group-title="USA Local News",WFOR 4 News - 22 DT - Miami - FL Florida
 http://play-prod1.live.anvato.net/server/play/cbslocal-wfor-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://my.jou.ufl.edu/students/files/2014/05/Unknown-4.jpeg" group-title="News",WKMG Local 6 News - 26 DT - Orlando - FL Florida
+#EXTINF:0 tvg-logo="http://my.jou.ufl.edu/students/files/2014/05/Unknown-4.jpeg" group-title="USA Local News",WKMG Local 6 News - 26 DT - Orlando - FL Florida
 http://play-prod1.live.anvato.net/server/play/wkmg-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/662360844169117696/VGQsvl3d_400x400.png" group-title="News",WJHG NewsChannel 7 - 18 DT - Panama City - FL Florida
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/662360844169117696/VGQsvl3d_400x400.png" group-title="USA Local News",WJHG NewsChannel 7 - 18 DT - Panama City - FL Florida
 http://play-prod1.live.anvato.net/server/play/gray-wjhg-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2016/08/WPTV-Logo.png" group-title="News",WPTV News Channel 5 NBC - 12 DT - West Palm Beach - FL Florida
+#EXTINF:0 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2016/08/WPTV-Logo.png" group-title="USA Local News",WPTV News Channel 5 NBC - 12 DT - West Palm Beach - FL Florida
 http://spswptv-i.akamaihd.net/hls/live/203384/anvato/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/KITV_4_logo.png" group-title="News",KITV 4 ABC News - 40 DT - Honolulu - HI Hawaii
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/KITV_4_logo.png" group-title="USA Local News",KITV 4 ABC News - 40 DT - Honolulu - HI Hawaii
 http://play-prod1.live.anvato.net/server/play/hearst-kitv-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/KCRG-TV_Logo_2013.png/revision/latest/scale-to-width-down/185?cb=20140524163759" group-title="News",KCRG 9 News - 9 DT - Cedar Rapids - IA Iowa
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/KCRG-TV_Logo_2013.png/revision/latest/scale-to-width-down/185?cb=20140524163759" group-title="USA Local News",KCRG 9 News - 9 DT - Cedar Rapids - IA Iowa
 http://cdn.bimvidlive.com/kcrg1/kcrg1/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/KCRG-TV_Logo_2013.png/revision/latest/scale-to-width-down/185?cb=20140524163759"  group-title="News",KCRG 9 Weather - 9 DT - Cedar Rapids - IA Iowa
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f6/KCRG-TV_Logo_2013.png/revision/latest/scale-to-width-down/185?cb=20140524163759"  group-title="USA Local News",KCRG 9 Weather - 9 DT - Cedar Rapids - IA Iowa
 http://cdn.bimvidlive.com/kcrg2/kcrg2/master.m3u8
-#EXTINF:0 tvg-logo="http://desmoinesphonesystems.com/images/logoshome/abc.jpg" group-title="News",WOI Local 5 News - 5 DT - Des Moines - IA Iowa
+#EXTINF:0 tvg-logo="http://desmoinesphonesystems.com/images/logoshome/abc.jpg" group-title="USA Local News",WOI Local 5 News - 5 DT - Des Moines - IA Iowa
 http://woi-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 tvg-logo="https://localtvwhotv.files.wordpress.com/2012/01/13_weather_400x225.jpg?quality=85&strip=all group-title="News",WHO 13.2 Weather - 13 DT - Des Moines - IA Iowa
+#EXTINF:0 tvg-logo="https://localtvwhotv.files.wordpress.com/2012/01/13_weather_400x225.jpg?quality=85&strip=all group-title="USA Local News",WHO 13.2 Weather - 13 DT - Des Moines - IA Iowa
 http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/989281830/facebook_logo_400x400.jpg" group-title="News",KCAU 9 News - 9 DT - Sioux City - IA Iowa
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/989281830/facebook_logo_400x400.jpg" group-title="USA Local News",KCAU 9 News - 9 DT - Sioux City - IA Iowa
 http://kcau-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/D5EFkTJgFxPnvDgzDaiu-Q/ls.jpg" group-title="News",KIFI News 8 Now - 8 DT - Idaho Falls - ID Idaho
+#EXTINF:0 tvg-logo="https://s3-media4.fl.yelpcdn.com/bphoto/D5EFkTJgFxPnvDgzDaiu-Q/ls.jpg" group-title="USA Local News",KIFI News 8 Now - 8 DT - Idaho Falls - ID Idaho
 http://kifi_live-lh.akamaihd.net/i/0v7bzeufb_1@153713/master.m3u8
-#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b7/WBBM_CBS_2_2016.svg/revision/latest/scale-to-width-down/250?cb=20160730142808" group-title="News",WBBM 2 News - 12 DT - Chicago - IL Illinois
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b7/WBBM_CBS_2_2016.svg/revision/latest/scale-to-width-down/250?cb=20160730142808" group-title="USA Local News",WBBM 2 News - 12 DT - Chicago - IL Illinois
 http://play-prod1.live.anvato.net/server/play/cbslocal-wbbmx-dfp/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/_pIYeJsvGYA/mqdefault.jpg" group-title="News",WMBD 31 News - 30 DT - Peoria - IL Illinois
 http://wmbd-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Kake10.png/165px-Kake10.png" group-title="News",KAKE 10 News - 10 DT - Wichita - KS Kansas
 http://play-prod1.live.anvato.net/server/play/gray-kake-dfp/master.m3u8
-#EXTINF:0 group-title="News",WYMT 57 News - 12 DT - Hazard - KY Kentucky
+#EXTINF:0 tvg-logo="https://razoo-npocontent.s3.amazonaws.com/media/givingtuesday/GT15/images/KY%20Media%20Logos-2/WYMTLogo2015_Blue.png" group-title="USA Local News",WYMT 57 News - 12 DT - Hazard - KY Kentucky
 http://play-prod1.live.anvato.net/server/play/gray-wymt-dfp/master.m3u8
-#EXTINF:0 group-title="News",WKYT 27 News - 36 DT - Lexington - KY Kentucky
+#EXTINF:0 tvg-logo="http://media.graytvinc.com/designimages/WKYT_Station+Logo.png" group-title="USA Local News",WKYT 27 News - 36 DT - Lexington - KY Kentucky
 http://play-prod1.live.anvato.net/server/play/gray-wkyt-dfp/master.m3u8
-#EXTINF:0 group-title="News",KNOV NOTV - 41 DC - New Orleans - LA Louisiana
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/KNOV-LP_Logo.png" group-title="USA Local News",KNOV NOTV - 41 DC - New Orleans - LA Louisiana
 rtmp://media4.tripsmarter.com/LiveTV/NOTVHD
-#EXTINF:0 group-title="News",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/KTBS_Logo.png/130px-KTBS_Logo.png" group-title="USA Local News",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
 http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
-#EXTINF:0 group-title="News",WCEA 58 MasTV - 45 LD - Boston - MA Massachusetts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/LogoMAStv.jpg/150px-LogoMAStv.jpg" group-title="USA Local News",WCEA 58 MasTV - 45 LD - Boston - MA Massachusetts
 rtmp://wceatv1.srfms.com:2177/live/livestream
-#EXTINF:0 group-title="News",WJZ  13 News - 13 DT - Baltimore - MD Maryland
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Wjz-web-logo.jpg group-title="USA Local News",WJZ  13 News - 13 DT - Baltimore - MD Maryland
 http://play-prod1.live.anvato.net/server/play/cbslocal-wjz-dfp/master.m3u8
-#EXTINF:0 group-title="News",WMAR 2 News - 38 DT - Baltimore - MD Maryland
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-oG2Q4iTMplg/AAAAAAAAAAI/AAAAAAAAAAA/mLXBlm-pGJg/photo.jpg" group-title="USA Local News",WMAR 2 News - 38 DT - Baltimore - MD Maryland
 http://spswmar-i.akamaihd.net/hls/live/203491/anvato/master.m3u8
-#EXTINF:0 group-title="News",WVII 7 FOX News - 7 DT - Bangor - ME Maine
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Wfvx_2008.png/200px-Wfvx_2008.png" group-title="USA Local News",WFVX-LD 7 FOX News - 7 DT - Bangor - ME Maine
 http://cdn.bimvidlive.com/wvii1/wvii1/master.m3u8
-#EXTINF:0 group-title="News",WMNN minews 26 - 14 LD - Cadillac - MI Michigan
-http://iphone-streaming.ustream.tv/ustreamVideo/8303507/streams/live/playlist.m3u8
-#EXTINF:0 group-title="News",WXYZ 7 Action News - 41 DT - Detroit - MI Michigan
+#EXTINF:0 tvg-logo="http://kravmagadetroit.com/wp-content/uploads/2015/09/Mentioned-WXYZ_Detroit-2012-150x150.png" group-title="USA Local News",WXYZ 7 Action News - 41 DT - Detroit - MI Michigan
 http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/master.m3u8
-#EXTINF:0 group-title="News",WILX News 10 - 10 DT - Lansing - MI Michigan
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/ojuR5OhzL7Eh-YM04m2ttOuiXWmYR9rebVjFL1rxtj_3SJCQsaocV6ARtMEm9LwPpI0=w300-rw" group-title="USA Local News",WILX News 10 - 10 DT - Lansing - MI Michigan
 http://play-prod1.live.anvato.net/server/play/gray-wilx-dfp/master.m3u8
-#EXTINF:0 group-title="News",WJMN Local 3 News - 48 DT - Marquette - MI Michigan
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/8f1TTYTupeo/hqdefault.jpg" group-title="USA Local News",WJMN Local 3 News - 48 DT - Marquette - MI Michigan
 http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WCCO 4 News - 32 DT - Minneapolis - MN Minnesota
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/WCCO_CBS_4_logo.png/150px-WCCO_CBS_4_logo.png" group-title="USA Local News",WCCO 4 News - 32 DT - Minneapolis - MN Minnesota
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8
-#EXTINF:0 group-title="News",KSHB NBC Action News 41 - 42 DT - Kansas City - MO Missouri
+#EXTINF:0 tvg-logo="http://laquercia.us/images/press/video/NBC_KansasCity.jpg" group-title="USA Local News",KSHB NBC Action News 41 - 42 DT - Kansas City - MO Missouri
 http://spskshb-i.akamaihd.net/hls/live/203489/anvato/master.m3u8
-#EXTINF:0 group-title="News",WTVA News 9 - 8 DT - Tupelo - MS Mississippi
-http://wtva-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WDAY 6 Weather - 21 DT - Fargo - ND North Dakota
-http://iphone-streaming.ustream.tv/ustreamVideo/17868166/streams/live/playlist.m3u8
-#EXTINF:0 group-title="News",KVLY TV 11 - 44 DT - Fargo - ND North Dakota
-http://play-prod1.live.anvato.net/server/play/gray-kvly-dfp/master.m3u8
-#EXTINF:0 group-title="News",KXMC 11 KX News - 13 DT - Minot - ND North Dakota
-http://kxnet-lh.akamaihd.net/i/KXNET_1211@74252/master.m3u8
-#EXTINF:0 group-title="News",KSNB Neb NBC News - 4 DT - Lincoln - NE Nebraska
+#EXTINF:0 tvg-logo="http://media.graytvinc.com/designimages/KSNB-Logo.png" group-title="USA Local News",KSNB Neb NBC News - 4 DT - Lincoln - NE Nebraska
 http://play-prod1.live.anvato.net/server/play/gray-ksnb-dfp/master.m3u8
-#EXTINF:0 group-title="News",WCBS 2 News - 33 DT - New York City - NY New York
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/WCBS-TV_2_logo.png" group-title="USA Local News",WCBS 2 News - 33 DT - New York City - NY New York
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-#EXTINF:0 group-title="News",WLNY 10/55 News - 47 DT - New York City - NY New York
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/WLNY_TV_logo_2012.jpg" group-title="USA Local News",WLNY 10/55 News - 47 DT - New York City - NY New York
 http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8
-#EXTINF:0 group-title="News",WROC News 8 - 45 DT - Rochester - NY New York
+#EXTINF:0 tvg-logo="http://i66.tinypic.com/e1ao7c.png" group-title="USA Local News",WROC News 8 - 45 DT - Rochester - NY New York
 http://wroc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WSYR NewsChannel 9 - 17 DT - Syracuse - NY New York
-http://wsyr-apple-live.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WKTV News Channel 2 - 29 DT - Utica - NY New York
-http://play-prod1.live.anvato.net/server/play/wktv-dfp/master.m3u8",WLNY 10/55 News - 47 DT - New York City - NY New York
-http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8
-#EXTINF:0 group-title="News",WROC News 8 - 45 DT - Rochester - NY New York
-http://wroc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WSYR NewsChannel 9 - 17 DT - Syracuse - NY New York
-http://wsyr-apple-live.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WKTV News Channel 2 - 29 DT - Utica - NY New York
+#EXTINF:0 tvg-logo="http://media.wktv.com/images/IMAGE-Thumb-WKTV1.jpg" group-title="USA Local News",WKTV News Channel 2 - 29 DT - Utica - NY New York
 http://play-prod1.live.anvato.net/server/play/wktv-dfp/master.m3u8"
-#EXTINF:0 group-title="News",WCBS 2 News - 33 DT - New York City - NY New York
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CBS_2.png/210px-CBS_2.png" group-title="USA Local News",WCBS 2 News - 33 DT - New York City - NY New York
 http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-#EXTINF:0 group-title="News",WLNY 10/55 News - 47 DT - New York City - NY New York
-http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8
-#EXTINF:0 group-title="News",WROC News 8 - 45 DT - Rochester - NY New York
-http://wroc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WSYR NewsChannel 9 - 17 DT - Syracuse - NY New York
-http://wsyr-apple-live.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WKTV News Channel 2 - 29 DT - Utica - NY New York
-http://play-prod1.live.anvato.net/server/play/wktv-dfp/master.m3u8
-#EXTINF:0 group-title="News",WCPO 9 News - 22 DT - Cincinnati - OH Ohio
-http://play-prod1.live.anvato.net/server/play/epsps-wcpo-dfp/master.m3u8
-#EXTINF:0 group-title="News",WEWS NewsChannel 5 - 15 DT - Cleveland - OH Ohio
+#EXTINF:0 group-title="USA Local News",WEWS NewsChannel 5 - 15 DT - Cleveland - OH Ohio
 http://spswews-i.akamaihd.net/hls/live/203382/anvato/master.m3u8
-#EXTINF:0 group-title="News",WHIO 7.1 News Center - 41 DT - Dayton - OH Ohio
-http://cmgdigitalhd-f.akamaihd.net/WHIONEWS_1_1800@141243
-#EXTINF:0 group-title="News",KEZI 9 News - 9 DT - Eugene - OR Oregon
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/KEZI_9_News_Logo_2010.png/150px-KEZI_9_News_Logo_2010.png" group-title="USA Local News",KEZI 9 News - 9 DT - Eugene - OR Oregon
 http://play-prod1.live.anvato.net/server/play/heartland-kezi/master.m3u8
-#EXTINF:0 group-title="News",KDRV NewsWatch 12 - 12 DT - Medford - OR Oregon
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/KDRV_NewsWatch_12_Logo_2011.png/200px-KDRV_NewsWatch_12_Logo_2011.png" group-title="USA Local News",KDRV NewsWatch 12 - 12 DT - Medford - OR Oregon
 http://play-prod1.live.anvato.net/server/play/heartland-kdrv/master.m3u8
-#EXTINF:0 group-title="News",KGW News 8 - 8 DT - Portland - OR Oregon
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/sK-cyCT7J87Dv6ygsJ0uTRtU2ouRpECG8aYYQtTyYH8yGoqchIttq4D-CMgxCa15XUuR=w300-rw" group-title="USA Local News",KGW News 8 - 8 DT - Portland - OR Oregon
 http://kgw-lh.akamaihd.net/i/KGW_Shows_1@99580/index_2000_av-p.m3u8
-#EXTINF:0 group-title="News",WREG Weather - 28 DT - Memphis - TN Tennesse
+#EXTINF:0 tvg-logo="https://apk-dl.com/detail/image/com.wreg.android.weather-w131.png?u=1" group-title="USA Local News",WREG Weather - 28 DT - Memphis - TN Tennesse (cam)
 http://wregtribune-lh.akamaihd.net/i/WREGTribunePrimary_1@192110/master.m3u8
-#EXTINF:0 group-title="News",KTVT 11 News - 19 DT - Dallas - TX Texas
+#EXTINF:0 tvg-logo="http://teamconnor.org/wp-content/uploads/2016/03/CBS11-Logo-215x120.png" group-title="USA Local News",KTVT 11 News - 19 DT - Dallas - TX Texas
 http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8
-#EXTINF:0 group-title="News",KPRC Local 2 News - 35 DT - Houston - TX Texas
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/c5/KPRC_Local_2.png/revision/latest?cb=20101111173222" group-title="USA Local News",KPRC Local 2 News - 35 DT - Houston - TX Texas
 http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8
-#EXTINF:0 group-title="News",KAMC 28 News - 27 DT - Lubbock - TX Texas
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/nxsglobal/everythinglubbock/theme/images/kamc_weather_logo332_4462300_ver1.0-min.jpg" group-title="USA Local News",KAMC 28 News - 27 DT - Lubbock - TX Texas
 http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",KJTV 34 News - 33 DC - Lubbock - TX Texas
-http://kjtv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",KSAN News 3 - 16 DT - San Angelo - TX Texas
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/KSAN3.png" group-title="USA Local News",KSAN News 3 - 16 DT - San Angelo - TX Texas
 http://ksan-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",KSAT 12 News - 12 DT - San Antonio - TX Texas
+#EXTINF:0 tvg-logo="https://noradshelters.com/wp-content/uploads/ksat.png" group-title="USA Local News",KSAT 12 News - 12 DT - San Antonio - TX Texas
 http://play-prod1.live.anvato.net/server/play/pns-ksat-dfp/master.m3u8
-#EXTINF:0 group-title="News",KRGV 5 News - 13 DT - Weslaco - TX Texas
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/KRGV_logo_2012.png/320px-KRGV_logo_2012.png" group-title="USA Local News",KRGV 5 News - 13 DT - Weslaco - TX Texas
 http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
-#EXTINF:0 group-title="News",WCAV NewsPlex 19 - 19 DT - Charlottesville - VA Virginia
-http://graywcavlive-i.akamaihd.net/hls/live/206974/WCAV/qa/master.m3u8
-#EXTINF:0 group-title="News",WHSV 3 News - 49 DT - Harrisonburg - VA Virginia
-http://play-prod1.live.anvato.net/server/play/gray-whsv-dfp/master.m3u8
-#EXTINF:0 group-title="News",WMTV 15.2 Weather - 19 DT - Madison - WI Wisconsin
-http://play-prod1.live.anvato.net/server/play/gray-wmtv-dfp/master.m3u8
-#EXTINF:0 group-title="News",WSAZ News 3 - 23 DT - Charleston - WV West Virginia
+#EXTINF:0 tvg-logo="http://media.graytvinc.com/designimages/wsazsitelogo.png" group-title="USA Local News",WSAZ News 3 - 23 DT - Charleston - WV West Virginia
 http://play-prod1.live.anvato.net/server/play/gray-wsazhnt-dfp/master.m3u8
-#EXTINF:0 group-title="News",WDTV 5 News - 5 DT - Clarksburg - WV West Virginia
-rtmp://66.118.69.161/livepkgr/liveTV1
-#EXTINF:0 group-title="News",WBOY 12 News - 12 DT - Clarksburg - WV West Virginia
-http://wboy-lh.akamaihd.net/i/WBOY_1015@62282/master.m3u8
-#EXTINF:0 group-title="News",ABC 12 Anchorage - AK Alaska
+#EXTINF:0 tvg-logo="http://media.graytvinc.com/designimages/ABC12_SmallHeaderWeb.png" group-title="USA Local News",ABC 12 Anchorage - AK Alaska
 http://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8
-#EXTINF:0 group-title="News",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/KTBS_Logo.png/130px-KTBS_Logo.png" group-title="USA Local News",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
 http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
-#EXTINF:0 group-title="News",NOTV 41 New Orleans - LA Louisiana
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pYTvU0ovKTQ/UBmVgZ2adWI/AAAAAAAAAMg/Wz_qkrqcdYU/s1600/fox23.png" group-title="News", FOX 23 NEWS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pYTvU0ovKTQ/UBmVgZ2adWI/AAAAAAAAAMg/Wz_qkrqcdYU/s1600/fox23.png" group-title="USA Local News", FOX 23 NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/WFOX-TV_logo.png" group-title="News", FOX 30 NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/WFOX-TV_logo.png" group-title="USA Local News", FOX 30 NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
-#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/71oxemBVR4L.png" group-title="News", KIRO 7 NEWS
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/71oxemBVR4L.png" group-title="USA Local News", KIRO 7 NEWS
 http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
-#EXTINF:0 group-title="News",WUPA CW 69 - 43 DT - Atlanta - GA Georgia
+#EXTINF:0 tvg-logo="http://www.auroratheatre.com/wp-content/uploads/2015/01/cw69_logo.png" group-title="USA Local News",WUPA CW 69 - 43 DT - Atlanta - GA Georgia
 http://play-prod1.live.anvato.net/server/play/cbslocal-wupa-dfp/master.m3u8
-#EXTINF:0 group-title="News",WRDW News 12 - 12 DT - Augusta - GA Georgia
+#EXTINF:0 tvg-logo="http://media.graytvinc.com/designimages/WRDW-OYSLogo2014+large+logo.png" group-title="USA Local News",WRDW News 12 - 12 DT - Augusta - GA Georgia
 http://play-prod1.live.anvato.net/server/play/gray-wrdw-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://media.scrippsnationalnews.com/cms/images/color_schemes/wrtv/full-mini--100.png" group-title="News",WRTV rtv6 Newsy - 25 DT - Indianapolis - IN Indiana
+#EXTINF:0 tvg-logo="http://media.scrippsnationalnews.com/cms/images/color_schemes/wrtv/full-mini--100.png" group-title="USA Local News",WRTV rtv6 Newsy - 25 DT - Indianapolis - IN Indiana
 http://play-prod1.live.anvato.net/server/play/sps-wrtv-dfp/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/KNOE_8_Logo.png/125px-KNOE_8_Logo.png" group-title="News",KNOE CBS 8 News - 8 DT - Monroe - LA Louisiana
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/KNOE_8_Logo.png/125px-KNOE_8_Logo.png" group-title="USA Local News",KNOE CBS 8 News - 8 DT - Monroe - LA Louisiana
 http://play-prod1.live.anvato.net/server/play/gray-knoe-dfp/master.m3u8
-#EXTINF:0 tvg-logo="http://www.michiguide.com/dials/tv/wdiv/wdivlogo.png" group-title="News",WDIV NBC Local 4 News - 45 DT - Detroit - MI Michigan
+#EXTINF:0 tvg-logo="http://www.michiguide.com/dials/tv/wdiv/wdivlogo.png" group-title="USA Local News",WDIV NBC Local 4 News - 45 DT - Detroit - MI Michigan
 http://play-prod1.live.anvato.net/server/play/pns-wdiv-dfp/master.m3u8
-#EXTINF:0 group-title="News",WTVG 13 ABC Action News - 13 DT - Toledo - OH Ohio
+#EXTINF:0 tvg-logo="http://www.toledo.com/clientuploads/radio/13abc.jpg" group-title="USA Local News",WTVG 13 ABC Action News - 13 DT - Toledo - OH Ohio
 http://play-prod1.live.anvato.net/server/play/gray-wtvg-dfp/master.m3u8
-#EXTINF:0 group-title="News",WTAP News 15 - 49 DT - Parkersburg - WV West Virginia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Wtap_2008.png/275px-Wtap_2008.png" group-title="USA Local News",WTAP News 15 - 49 DT - Parkersburg - WV West Virginia
 http://play-prod1.live.anvato.net/server/play/gray-wtap-dfp/master.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Sports ----------------------[/COLOR]
+#EXTINF:-1 group-title="Sports",[COLOR yellow]---------------------- Sports ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Sports",Bmw
@@ -2503,44 +2481,44 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:0 tvg-name="One Channel" tvg-language="Arabic" tvg-country="US" tvg-id="One Channel" tvg-logo="https://ash.ms/barstool/tv-channel-icons/icons-plain-plain/png/one.png" group-title="Sports",One Channel (Sports) (US) (Arabic)
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:0 group-title="Sports",Pac 12 Network National HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="Sports",Pac 12 Network National HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Washington HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/441.png" group-title="Sports",Pac 12 Washington HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Network Los Angeles HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="Sports",Pac 12 Network Los Angeles HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Network Arizona HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="Sports",Pac 12 Network Arizona HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Network Oregon HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="Sports",Pac 12 Network Oregon HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Network Bay Area HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png"  group-title="Sports",Pac 12 Network Bay Area HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
 
-#EXTINF:0 group-title="Sports",Pac 12 Network Moutain HD
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="Sports",Pac 12 Network Moutain HD
 
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Arizona)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="Sports",PAC-12 Net. (Arizona)
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Bay Area)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png"  group-title="Sports",PAC-12 Net. (Bay Area)
 http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Los Angeles)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="Sports",PAC-12 Net. (Los Angeles)
 http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Moutain)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="Sports",PAC-12 Net. (Moutain)
 http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Oregon)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="Sports",PAC-12 Net. (Oregon)
 http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0 group-title="Sports",PAC-12 Net. (Washington)
+#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/441.png" group-title="Sports",PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
 #EXTINF:-1 group-title="Sports",USA-BASKET UNI.(Arizona)
 http://xrxs.net/video/live-p12ariz-1164.m3u8
@@ -2595,7 +2573,7 @@ http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Religious----------------------[/COLOR]
+#EXTINF:-1 group-title="Religious",[COLOR yellow]---------------------- Religious----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 group-title="Religious",3ABN Kidz
@@ -2691,7 +2669,7 @@ http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?wowzasessionid=2034
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Shopping ----------------------[/COLOR]
+#EXTINF:-1 group-title="Shopping",[COLOR yellow]---------------------- Shopping ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="QVC 1" tvg-logo="http://www.lyngsat-logo.com/hires/qq/qvc_us_hd.png" group-title="Shopping", QVC 1
@@ -2711,7 +2689,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:0 tvg-logo="http://www.acmecable.com/wp-content/uploads/2016/02/evine-logo.png" group-title="Shopping",EVINE Live 
 http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8
 
-#EXTINF:-1,[COLOR yellow]---------------------- Music ----------------------[/COLOR]
+#EXTINF:-1 group-title="Music",[COLOR yellow]---------------------- Music ----------------------[/COLOR]
 http://0.0.0.0:1234
  
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",1HD
@@ -2795,6 +2773,8 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 mms://vworks.congoplanet.com/Congo_Planet_TV
 #EXTINF:-1 group-title="Music",Congo Planet tv 2
 mms://vworks.congoplanet.com/Congo_Planete_TV_2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fAaopsekpUCM8niDfMAbAWXbqiMxQCA8Djd2INnjabAfUOlDndHYNRo" group-title="Music",Cool HD - 103.7 TV (Argentina)
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/04/Deluxe-Music-live.gif" group-title="Music", Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0 tvg-name="Demais TV" tvg-language='Portuguese" tvg-country="BR" tvg-id="Demais TV" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/DemaisTV-Logo-300×300.jpg" group-title="Music",Demais TV (Music) (BR) (Portuguese)
@@ -3376,7 +3356,7 @@ rtmp://kippingmultimediaal.nl:1935/live/ZFM1
 #EXTINF:0 group-title="Music", [Alguem Russo que me ajude a escrever] (Russia)
 rtmp://grey.ether.tv:1935/live/pfo/broadcast4 
 
-#EXTINF:-1,[COLOR yellow]------------ Web Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Web Radio",[COLOR yellow]------------ Web Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="Web Radio",DI.FM—VOCAL CHILLOUT
@@ -4484,659 +4464,860 @@ http://82.200.209.236:8000/rmfmaxsat
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Web Radio",Icecast Icecast A.0.0.00Radio:All 60s All the Time
 http://streaming304.radionomy.com:80/keepfree60s
 
-
-#EXTINF:-1,[COLOR yellow]------------ Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Canada Radio",[COLOR yellow]------------  Canada Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy comedy 
-http://streams.blindy.tv:8000/comedy.mp3
+#EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
+http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
+#EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
+http://208.92.55.61/Q98.mp3
+#EXTINF:0 tvg-logo="http://cjnb.ca/sites/all/themes/cjnb/logo.png" group-title="Radio",CJNB 1050 AM North Battleford Saskatchewan  
+http://3103.live.streamtheworld.com/CJNB_SC
+#EXTINF:0 tvg-name="CKLM The Goat 106.1 FM Lloydminster Alberta" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11797q.png" group-title="Radio",CKLM The Goat 106.1 FM Lloydminster Alberta 
+http://s1.hotdogradio.com/CKLM
+#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 128kbps McGill University
+http://icecast.ckut.ca:8000/903fm-128-stereo
+#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 192kbps
+http://icecast.ckut.ca:8000/903fm-192-stereo
+#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
+http://icecast.ckut.ca:8000/903fm-64-mono
+#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
+http://icecast.ckut.ca:8000/903fm-64-stereo.aac
+#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
+http://icecast.ckut.ca:8000/903fm-q6-stereo.ogg
+#EXTINF: -1 group-title="Radio",- THE HITZ CHANNEL
+http://live.hunterfm.com/hitz320
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s12569q.png" group-title="Radio",90.5 | CFCR Saskatoon(Community)
 
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy Drama 
-http://streams.blindy.tv:8000/drama.mp3
+http://onair.cfcr.ca/hifi.mp3
 
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy SciFi
-http://streams.blindy.tv:8000/scifi.mp3
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s265016q.png" group-title="Radio",Guerrilla Radio (Chill)
 
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy Brain
-http://streams.blindy.tv:8000/brain.mp3
+http://174.37.16.73:8291/
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",91.3 | CJTR (Community)
 
-#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy ETtc
-http://streams.blindy.tv:8000/etc.mp3
+http://108.178.13.122:8152/
+
+#EXTINF:-1 group-title="Radio",( ONLYROCKFM ) La seule radio rock et metal de Montreal ! (ONLYROCKFM)
+http://94.23.205.82:4520
+#EXTINF:-1 group-title="Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
+http://192.99.4.210:3290/stream
+#EXTINF:-1 group-title="Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
+http://live.leanstream.co/CISNFM-MP3
+#EXTINF:-1 group-title="Radio",105.1 MHz – CKRY-FM Edmonton, AB
+http://live.leanstream.co/CKRYFM-MP3
+#EXTINF:-1 group-title="Radio",1490 MHz – CJOY-AM
+http://live.leanstream.co/CJOYAM-MP3
+#EXTINF:-1 group-title="Radio",630 kHz – CHED-AM Edmonton
+http://live.leanstream.co/CHEDAM-MP3?
+#EXTINF:-1 group-title="Radio",770 kHz – CHQR-FM Edmonton, AB
+http://live.leanstream.co/CHQRAM-MP3?tunein
+#EXTINF:-1 group-title="Radio",91.7 MHz – CHBH-FM The Bounce, Edmonton, AB
+http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917
+#EXTINF:-1 group-title="Radio",CFLG-FM Variety 104
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 group-title="Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
+http://hal929.akacast.akamaistream.net/7/220/79488/v1/rogers.akacast.akamaistream.net/hal929
+#EXTINF:-1 group-title="Radio",CFMI-FM
+http://live.leanstream.co/CFMIFM-MP3
+#EXTINF:-1 group-title="Radio",CFMK-FM FM 96 Kington
+http://live.leanstream.co/CFMKFM-MP3
+#EXTINF:-1 group-title="Radio",CFNY-FM 102.1 The Edge
+http://live.leanstream.co/CFNYFM-MP3
+#EXTINF:-1 group-title="Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 group-title="Radio",CFRQ-FM Dartmouth, NS, Canada
+http://6093.live.streamtheworld.com/CFRQFMAAC?
+#EXTINF:-1 group-title="Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
+http://206.190.130.180:8028/ozfm.aac
+#EXTINF:-1 group-title="Radio",CIMJ-FM MAGIC 106
+http://live.leanstream.co/CIMJFM-MP3
+#EXTINF:-1 group-title="Radio",CIQB-FM B101
+http://live.leanstream.co/CIQBFM-MP3
+#EXTINF:-1 group-title="Radio",CJKR-FM POWER 97 Winnipeg
+http://live.leanstream.co/CJKRFM-MP3
+#EXTINF:-1,CJNI-FM 95.7 FM Halifax, NS
+http://hal957.akacast.akamaistream.net/7/280/80893/v1/rogers.akacast.akamaistream.net/hal957
+#EXTINF:-1 group-title="Radio",CJRS Radio Montreal
+http://68.168.122.124:8138
+#EXTINF:-1 group-title="Radio",CJSS-FM 101.9 Greatest Hits
+http://live.leanstream.co/CJSSFM-MP3
+#EXTINF:-1 group-title="Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
+http://130.179.97.69:8080
+#EXTINF:-1 group-title="Radio",CKBT-FM 91.5 The Beat
+http://live.leanstream.co/CKBTFM-MP3
+#EXTINF:-1 group-title="Radio",CKCB-FM The Peak
+http://live.leanstream.co/CKCBFM-MP3
+#EXTINF:-1 group-title="Radio",CKCM-AM 620 AM Grand Falls-Windsor, NL, Canada
+http://1842.live.streamtheworld.com/CKCMAMAAC?
+#EXTINF:-1,CKDK-FM 103.9 Woodstock, ON
+http://live.leanstream.co/CKDKFM-MP3
+#EXTINF:-1 group-title="Radio",CKOE FM Moncton New Brunswick Canada
+http://173.193.205.96:8110
+#EXTINF:-1 group-title="Radio",CKRU-FM 100.5 Greatest Hits
+http://live.leanstream.co/CKRUFM-MP3
+#EXTINF:-1 group-title="Radio",CKWF-FM The Wolf
+http://live.leanstream.co/CKWFFM-MP3
+#EXTINF:-1 group-title="Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
+http://3303.live.streamtheworld.com/CKXGFMAAC?
+#EXTINF:-1 group-title="Radio",Cool Jazz radio from Vancouver BC. Live Stream
+http://205.250.57.196:8000
+#EXTINF:-1 group-title="Radio",CRPL-FM
+http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 group-title="Radio",Culture Failure
+http://64.51.127.10:8000/stream/1/
+#EXTINF:-1 group-title="Radio",FM The X – CFBX. Kamloops, B.C. Canada
+http://198.162.21.84:8002
+#EXTINF:-1 group-title="Radio",Guarani Montreal
+http://50.7.77.114:8335/stream
+#EXTINF:-1 group-title="Radio",Karaoke Quebec
+http://69.64.41.64:9560
+#EXTINF:-1 group-title="Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
+http://198.178.123.8:7798
+#EXTINF:-1 group-title="Radio",MIX FM OTTAWA CKLI
+http://204.45.126.170:8179
+#EXTINF:-1 group-title="Radio",MULTIMIX – Online LIVE from Hamilton, Ontario. Canada. multimixradio
+http://64.182.119.196:7640
+#EXTINF:-1 group-title="Radio",Punjabi Radio CANADA
+http://174.37.16.73:5270/Live
+
+#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Radio",Energie 94.3
+http://ckmf-mp3.akacast.akamaistream.net/7/863/102120/v1/astral.akacast.akamaistream.net/ckmf-mp3
+#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Radio",CKOI 96.9
+http://142.4.207.11:8000/ckoi.mp3
+#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Radio",CHOM 97.7
+http://chom-mp3.akacast.akamaistream.net/7/996/102120/v1/astral.akacast.akamaistream.net/chom-mp3
+#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Radio", Boom FM 104.1
+http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
+#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Radio",Rythme FM 105.7
+http://142.4.207.11:8000/cfgl.mp3
+#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Radio", Rouge FM 107.3
+http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
+#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Radio",Radio Circulation 730 (Traffic)
+http://142.4.207.11:8000/ckac.mp3
+#EXTINF:-1 group-title="Radio",Quebec Radio
+http://184.95.52.178:8062
+#EXTINF:-1 group-title="Radio",Radio Patriotique 100% Hip Hop Quebecois 24h/24h
+http://192.81.248.91:8155
+#EXTINF:-1 group-title="Radio",Salamontreal Radio
+http://199.195.194.92:8018
+#EXTINF:-1 group-title="Radio",Steve Madden Quebec
+http://184.95.52.178:9408
+#EXTINF:0 group-title="Radio",Rouge FM Gatineau-Ottawa (CIMF-FM)
+Http://5903.live.streamtheworld.com:443/CIMFFMAAC_SC
+#EXTINF:0 group-title="Radio",104,7FM Gatineau (CKOF-FM)
+Http://142.4.207.11:8000/ckof.mp3
+#EXTINF:0 group-title="Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
+Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC
+#EXTINF:-1 group-title="Radio",Trans Radio Canada
+http://46.105.125.110:4610
+#EXTINF:-1 group-title="Radio",UCB Canada – Chatham-Kent
+http://67.228.150.175:8930
+#EXTINF:-1 group-title="Radio",underGround Quebec
+http://174.142.97.228:8040
+#EXTINF:-1 group-title="Radio",VANCOUVER CHRISTIAN RADIO
+http://198.27.83.198:5166
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",Dublins KISS
+http://uk4.internet-radio.com:15476/
+#EXTINF:-1 group-title="Radio",The Current KCAMP
+http://current.stream.publicradio.org/kcmp.mp3
+#EXTINF:-1  group-title="Radio",BFBS UK
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
+#EXTINF:-1  group-title="Radio",Birdsong.fm - Lush relax
+http://lush.wavestreamer.com:7309/
+#EXTINF:-1 group-title="Radio",Birdsong.fm - Spring
+http://spring.wavestreamer.com:1156/
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", COPE ROCK FM
+http://195.55.74.211/cope/rockfm.mp3
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167" group-title="Radio",CKOC Hamilton TSN 1150
+http://5403.live.streamtheworld.com/CKOCAM_SC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=toronto-1050&width=167&height=167" group-title="Radio",CHUM Toronto TSN 1050
+http://8283.live.streamtheworld.com/CHUMAM_SC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&width=167&height=167" group-title="Radio",CKGM Montreal TSN 690
+http://9453.live.streamtheworld.com/CKGMAMAAC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=winnipeg-1290&width=167&height=167" group-title="Radio",CFRW Winnepeg TSN 1290
+http://13583.live.streamtheworld.com/CFRWAMAAC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=edmonton-1260&width=167&height=167" group-title="Radio",CFRN Edmonton TSN 1260
+http://10813.live.streamtheworld.com/CFRNAMAAC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",CKST Vancouver TSN 1040
+http://13683.live.streamtheworld.com/CKSTAMAAC
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",Vancouver TSN 1410
+http://www.tsn.ca/radio/vancouver-1040-i-1410
+#EXTINF:-1 tvg-logo="http://proxy.amri.ca/sites/default/files/player_image/f4/logo_24.png" group-title="Radio",CFGO OTTAWA TSN 1200
+http://6693.live.streamtheworld.com/CFGOAMAAC
+#EXTINF:-1 group-title="Radio",590 CJCL Toronto Sports Radio “The Fan”
+http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
+EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn590.png" group-title="Radio", CJCL Sportsnet 590 The FAN Toronto
+http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8
+EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn960.png" group-title="Radio", CFAC Sportsnet 960 The FAN Calgary
+http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8
+EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d5456d6e53e4bb76a63217d7.jpg" group-title="Radio", 620 CKRM AM Regina (Saskatchewan Roughriders Games)
+http://ckrm.streamon.fm:8000/CKRM-48k.aac
+#EXTINF:-1 group-title="Radio",Ontario Sports Radio
+http://174.36.206.197:8146
 
 
-#EXTINF:0 group-title="Radio",arena fm 89.4
+#EXTINF:-1 group-title="USA Radio",[COLOR yellow]------------  USA Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXT-X-START:TIME-OFFSET=-50
+#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
+BANDWIDTH=48000
+6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=1
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
+BANDWIDTH=48000
+6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=2
+
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25876q.png" group-title="Radio",ESPN Radio
+http://stream.abacast.net/direct/espn-networkmp3-48?
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21297q.png" group-title="Radio",1000 ESPN Chicago
+http://espn.edge-1.target.abacast.net/espn-wmvpmp3-48?
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22469q.png" group-title="Radio",98.7 FM ESPN New York
+http://espn.edge-1.target.abacast.net/espn-wepnmp3-32?
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s32301q.png" group-title="Radio",710 AM ESPN LA
+http://edge.espn.cdn.abacast.net/espn-kspnmp3-48?
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", ESPN Deportes Radio
+http://stream.abacast.net/direct/espn-deportes-48?
+
+
+
+#EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------  Greece Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Greece Radio",arena fm 89.4
 http://www.arenafm.gr:45054/;stream.mp3
-#EXTINF:0 group-title="Radio",ertopen
+#EXTINF:0 group-title="Greece Radio",ertopen
 http://radio.ertopen.com/erasport
-#EXTINF:0 group-title="Radio",1055 ROCK 105.5
+#EXTINF:0 group-title="Greece Radio",1055 ROCK 105.5
 http://radio.onweb.gr:8078/;listen.pls
-#EXTINF:0 group-title="Radio",1431 AM 1431
+#EXTINF:0 group-title="Greece Radio",1431 AM 1431
 http://155.207.18.114:8000/1431med
-#EXTINF:0 group-title="Radio",904 ARISTERA STA FM 90.4
+#EXTINF:0 group-title="Greece Radio",904 ARISTERA STA FM 90.4
 http://icecast.902.gr:8000/904
-#EXTINF:0 group-title="Radio",926 92.6
+#EXTINF:0 group-title="Greece Radio",926 92.6
 http://s6.onweb.gr:8042/;
-#EXTINF:0 group-title="Radio",A100 FM 107.4
+#EXTINF:0 group-title="Greece Radio",A100 FM 107.4
 http://bestgreek.info:8104/;
-#EXTINF:0 group-title="Radio",ACTION RADIO 98.2
+#EXTINF:0 group-title="Greece Radio",ACTION RADIO 98.2
 http://eco.onestreaming.com:8153/stream
-#EXTINF:0 group-title="Radio",AEPAS FM 99.5
+#EXTINF:0 group-title="Greece Radio",AEPAS FM 99.5
 http://ice.streamcloud.mediacdn.com/aerasfm995
-#EXTINF:0 group-title="Radio",AGIOS TIMOTHEIOS EYRIPOY 97.7
+#EXTINF:0 group-title="Greece Radio",AGIOS TIMOTHEIOS EYRIPOY 97.7
 http://62.103.68.167:8000/RIMX
-#EXTINF:0 group-title="Radio",AGPINIO 93.7
+#EXTINF:0 group-title="Greece Radio",AGPINIO 93.7
 http://stream2.proradio.gr:8004/anemos
-#EXTINF:0 group-title="Radio",AKTINA FM 104.7
+#EXTINF:0 group-title="Greece Radio",AKTINA FM 104.7
 http://sc2.streamwithq.com:8018/;
-#EXTINF:0 group-title="Radio",AKTINA RADIO 95
+#EXTINF:0 group-title="Greece Radio",AKTINA RADIO 95
 http://live.e-streaming.eu:8110/;
-#EXTINF:0 group-title="Radio",ALFA PREBEZAS 98.1
+#EXTINF:0 group-title="Greece Radio",ALFA PREBEZAS 98.1
 http://184.154.90.186:8306/stream
-#EXTINF:0 group-title="Radio",ALPHA 98.9
+#EXTINF:0 group-title="Greece Radio",ALPHA 98.9
 http://194.219.46.2:8080/live
-#EXTINF:0 group-title="Radio",ALPHA FM 104.7
+#EXTINF:0 group-title="Greece Radio",ALPHA FM 104.7
 http://radio.alpha1047.gr:8204/;
-#EXTINF:0 group-title="Radio",ALPHA NEWS 106.2
+#EXTINF:0 group-title="Greece Radio",ALPHA NEWS 106.2
 http://50.7.77.178:8041/;listen.pls
-#EXTINF:0 group-title="Radio",ALPHA THESS 96.5
+#EXTINF:0 group-title="Greece Radio",ALPHA THESS 96.5
 http://46.4.121.138:8888/;
-#EXTINF:0 group-title="Radio",ANATOLIKOS FM 95.8
+#EXTINF:0 group-title="Greece Radio",ANATOLIKOS FM 95.8
 http://s1.onweb.gr:8022/;
-#EXTINF:0 group-title="Radio",ANT1 CY FM 102.7
+#EXTINF:0 group-title="Greece Radio",ANT1 CY FM 102.7
 http://eco.onestreaming.com:8133/;stream.nsv
-#EXTINF:0 group-title="Radio",ANTENNA DYTIKHS KPHTHS 97
+#EXTINF:0 group-title="Greece Radio",ANTENNA DYTIKHS KPHTHS 97
 http://s8.myradiostream.com:9208/;
-#EXTINF:0 group-title="Radio",ANTENNA KEPKYPA 92.6
+#EXTINF:0 group-title="Greece Radio",ANTENNA KEPKYPA 92.6
 http://eco.onestreaming.com:8276/;
-#EXTINF:0 group-title="Radio",APIA FM 92.4
+#EXTINF:0 group-title="Greece Radio",APIA FM 92.4
 http://www.gointernet.gr:8255/;listen.pls
-#EXTINF:0 group-title="Radio",APOLLON FM 98.1
+#EXTINF:0 group-title="Greece Radio",APOLLON FM 98.1
 http://apollonfm981.dyndns.org:8124/;
-#EXTINF:0 group-title="Radio",AQUARIUS FM 105.5
+#EXTINF:0 group-title="Greece Radio",AQUARIUS FM 105.5
 http://s1.onweb.gr:8008/;
-#EXTINF:0 group-title="Radio",ARCADIA 93.8
+#EXTINF:0 group-title="Greece Radio",ARCADIA 93.8
 http://46.4.82.243:8000/;
-#EXTINF:0 group-title="Radio",ARENA SPORTS 89.4
+#EXTINF:0 group-title="Greece Radio",ARENA SPORTS 89.4
 http://arenafm.gr:45054/;.mp3
-#EXTINF:0 group-title="Radio",ARIA FM 107.4
+#EXTINF:0 group-title="Greece Radio",ARIA FM 107.4
 http://176.9.107.200:9998/;
-#EXTINF:0 group-title="Radio",ASTEPAS RADIO 100.1
+#EXTINF:0 group-title="Greece Radio",ASTEPAS RADIO 100.1
 http://stream.katsiris.net:7500/;
-#EXTINF:0 group-title="Radio",ATHENS DJ 95.2
+#EXTINF:0 group-title="Greece Radio",ATHENS DJ 95.2
 http://rdj-lh.akamaihd.net/i/live_1@324558/master.m3u8
-#EXTINF:0 group-title="Radio",ATHINA 984 98.4
+#EXTINF:0 group-title="Greece Radio",ATHINA 984 98.4
 http://athenshdlive-lh.akamaihd.net/i/athina984fmlive_2@88331/master.m3u8
-#EXTINF:0 group-title="Radio",ATHLETIC RADIO 104.2
+#EXTINF:0 group-title="Greece Radio",ATHLETIC RADIO 104.2
 http://eco.onestreaming.com:8052/;
-#EXTINF:0 group-title="Radio",ATLANTIS FM 105.2
+#EXTINF:0 group-title="Greece Radio",ATLANTIS FM 105.2
 http://144.76.84.8:8308/;*.mp3
-#EXTINF:0 group-title="Radio",AVANTI 97.7
+#EXTINF:0 group-title="Greece Radio",AVANTI 97.7
 http://avanti977lamia.live24.gr/avanti977lamia
-#EXTINF:0 group-title="Radio",AVANTI XALKIDAS 101.2
+#EXTINF:0 group-title="Greece Radio",AVANTI XALKIDAS 101.2
 http://netradio.live24.gr/metrofm1012xalkida
-#EXTINF:0 group-title="Radio",BEST FM KALAMATAS 97.3
+#EXTINF:0 group-title="Greece Radio",BEST FM KALAMATAS 97.3
 http://stream.24100.com:8000/bestfm
-#EXTINF:0 group-title="Radio",BEST RADIO 92.6
+#EXTINF:0 group-title="Greece Radio",BEST RADIO 92.6
 http://best.live24.gr/best1222
-#EXTINF:0,BEST RADIO HRAKLEIO 94.7
+#EXTINF:0 group-title="Greece Radio",BEST RADIO HRAKLEIO 94.7
 http://95.154.254.153:17770/;?1441967826848.mp3
-#EXTINF:0,BEST RADIO IWANNINA 90.7
+#EXTINF:0 group-title="Greece Radio",BEST RADIO IWANNINA 90.7
 http://907ioannina.live24.gr/907ioannina
-#EXTINF:0,BEST RADIO SPAPTHS 103.9
+#EXTINF:0 group-title="Greece Radio",BEST RADIO SPAPTHS 103.9
 http://87.117.197.33:19756/;?1442066578444.mp3
 #EXTINF:0 group-title="Radio",BHMA FM 99.5
 http://streaming.dol.gr/vimafm
-#EXTINF:0 group-title="Radio",BRAKE FM 100.8
+#EXTINF:0 group-title="Greece Radio",BRAKE FM 100.8
 http://stream2.proradio.gr:8004/brake?type=.flv
-#EXTINF:0 group-title="Radio",BRAVO 89.6
+#EXTINF:0 group-title="Greece Radio",BRAVO 89.6
 http://andromeda.shoutca.st:8121/;stream/1
-#EXTINF:0 group-title="Radio",CAPITAL 90.7
+#EXTINF:0 group-title="Greece Radio",CAPITAL 90.7
 http://goodradio.gr:9108/;
-#EXTINF:0 group-title="Radio",CGR
+#EXTINF:0 group-title="Greece Radio",CGR
 http://216.235.85.20/play?s=chicagogreekradio
-#EXTINF:0 group-title="Radio",CHANIAFM 98.9
+#EXTINF:0 group-title="Greece Radio",CHANIAFM 98.9
 http://s2.onweb.gr:8604/;
-#EXTINF:0 group-title="Radio",CITY FM 103.8
+#EXTINF:0 group-title="Greece Radio",CITY FM 103.8
 http://213.239.206.179:7027/;liste.pls
-#EXTINF:0 group-title="Radio",CITY FM 92
+#EXTINF:0 group-title="Greece Radio",CITY FM 92
 http://cityfm92.live24.gr/cityfm92
-#EXTINF:0 group-title="Radio",CITY FM HPAKLEIO 100
+#EXTINF:0 group-title="Greece Radio",CITY FM HPAKLEIO 100
 http://eco.onestreaming.com:8173/;
-#EXTINF:0 group-title="Radio",CITY INTERNATIONAL 106.1
+#EXTINF:0 group-title="Greece Radio",CITY INTERNATIONAL 106.1
 http://50.7.99.155:7519/stream/1/
-#EXTINF:0 group-title="Radio",CLUB FM 93.7
+#EXTINF:0 group-title="Greece Radio",CLUB FM 93.7
 http://24streams.me:8075/;liste.pls
-#EXTINF:0 group-title="Radio",COOL FM 106.8
+#EXTINF:0 group-title="Greece Radio",COOL FM 106.8
 http://listen.onestreaming.com/asx/coolfm.asx
-#EXTINF:0 group-title="Radio",COOL FM 90.7
+#EXTINF:0 group-title="Greece Radio",COOL FM 90.7
 http://shoutcast.24radio.gr:8064/;
-#EXTINF:0 group-title="Radio",CORFU RADIO DEE JAY 97.5
+#EXTINF:0 group-title="Greece Radio",CORFU RADIO DEE JAY 97.5
 http://s20.myradiostream.com:6524/;listen.pls
-#EXTINF:0 group-title="Radio",COSMORADIO 95.1
+#EXTINF:0 group-title="Greece Radio",COSMORADIO 95.1
 http://sc5.greekstream.net:5000/;
-#EXTINF:0 group-title="Radio",COSMOS 96.5
+#EXTINF:0 group-title="Greece Radio",COSMOS 96.5
 http://217.28.20.20:8043/;stream.mp3
-#EXTINF:0 group-title="Radio",CUT RADIO 95.2
+#EXTINF:0 group-title="Greece Radio",CUT RADIO 95.2
 http://radio.cut.ac.cy:8000/cutradio
-#EXTINF:0 group-title="Radio",D-CODE 96.2
+#EXTINF:0 group-title="Greece Radio",D-CODE 96.2
 http://s3.onweb.gr:8032/;
-#EXTINF:0 group-title="Radio",DALKAS 88.2
+#EXTINF:0 group-title="Greece Radio",DALKAS 88.2
 http://212.7.199.201:8018/;
-#EXTINF:0 group-title="Radio",DEEJAY RADIO 93.5
+#EXTINF:0 group-title="Greece Radio",DEEJAY RADIO 93.5
 http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
-#EXTINF:0 group-title="Radio",DERTI FM 98.6
+#EXTINF:0 group-title="Greece Radio",DERTI FM 98.6
 http://derti.live24.gr/derty1000
-#EXTINF:0 group-title="Radio",DERTI FM PATPAS 105.7
+#EXTINF:0 group-title="Greece Radio",DERTI FM PATPAS 105.7
 http://46.4.65.194:8033/;
-#EXTINF:0 group-title="Radio",DHMOTIKH PADIOFWNIA PREBEZAS 87.9
+#EXTINF:0 group-title="Greece Radio",DHMOTIKH PADIOFWNIA PREBEZAS 87.9
 http://46.227.60.32:8046/;
-#EXTINF:0 group-title="Radio",DHMOTIKH PADOFWNIA TPIPOLHS 91.5
+#EXTINF:0 group-title="Greece Radio",DHMOTIKH PADOFWNIA TPIPOLHS 91.5
 http://eco.onestreaming.com:8185/;
-#EXTINF:0 group-title="Radio",DIAKONIA 93.8
+#EXTINF:0 group-title="Greece Radio",DIAKONIA 93.8
 http://213.16.179.209:8081/broadwavehigh.mp3?src=2/;
-#EXTINF:0 group-title="Radio",DIAYLOS 99.2
+#EXTINF:0 group-title="Greece Radio",DIAYLOS 99.2
 http://213.239.206.179:7060/;
-#EXTINF:0 group-title="Radio",DIAYLOS PODOPHS 92.4
+#EXTINF:0 group-title="Greece Radio",DIAYLOS PODOPHS 92.4
 http://live.onestreaming.com/diavlosrodopis
-#EXTINF:0 group-title="Radio",DIESI 101.3
+#EXTINF:0 group-title="Greece Radio",DIESI 101.3
 http://diesi.live24.gr/diesi1013
-#EXTINF:0 group-title="Radio",DIKTYO 91.5
+#EXTINF:0 group-title="Greece Radio",DIKTYO 91.5
 http://eu1.fastcast4u.com:3688/;
-#EXTINF:0 group-title="Radio",DIMOTIKO RADIOFWNO THESS 100.6
+#EXTINF:0 group-title="Greece Radio",DIMOTIKO RADIOFWNO THESS 100.6
 http://178.62.176.153:8002/stream
-#EXTINF:0 group-title="Radio",DIVA FM 106.1
+#EXTINF:0 group-title="Greece Radio",DIVA FM 106.1
 http://62.75.145.148:9996/;listen.pls
-#EXTINF:0 group-title="Radio",DREAM FM 90.6
+#EXTINF:0 group-title="Greece Radio",DREAM FM 90.6
 http://62.1.1.154/dreamfm
-#EXTINF:0 group-title="Radio",DROMOS FM 89.8
+#EXTINF:0 group-title="Greece Radio",DROMOS FM 89.8
 http://dromos898.live24.gr/dromos898
-#EXTINF:0 group-title="Radio",DROMOS FM CY 102.9
+#EXTINF:0 group-title="Greece Radio",DROMOS FM CY 102.9
 mms://stream-push2.live24.gr/dromoscyprus
-#EXTINF:0 group-title="Radio",DRS 95.3
+#EXTINF:0 group-title="Greece Radio",DRS 95.3
 http://drs953.live24.gr/drs953
-#EXTINF:0 group-title="Radio",EASY FM 97.2
+#EXTINF:0 group-title="Greece Radio",EASY FM 97.2
 http://easyhd1-lh.akamaihd.net/i/live_1@363719/master.m3u8
-#EXTINF:0 group-title="Radio",EASY KEFALONIAS 93.9
+#EXTINF:0 group-title="Greece Radio",EASY KEFALONIAS 93.9
 http://eco.onestreaming.com:8072/;
-#EXTINF:0 group-title="Radio",EASY XANIA 93.2
+#EXTINF:0 group-title="Greece Radio",EASY XANIA 93.2
 http://46.227.60.32:8026/;listen.pls
-#EXTINF:0 group-title="Radio",ECCLESIA 89.5
+#EXTINF:0 group-title="Greece Radio",ECCLESIA 89.5
 http://85.10.206.222:8002/
-#EXTINF:0 group-title="Radio",ELLADA FM 96.7
+#EXTINF:0 group-title="Greece Radio",ELLADA FM 96.7
 http://live.onestreaming.com/elladaradio
-#EXTINF:0 group-title="Radio",ELLADA FM 98.7
+#EXTINF:0 group-title="Greece Radio",ELLADA FM 98.7
 http://188.138.121.94:8012/;
-#EXTINF:0 group-title="Radio",ELLHINIKOS 93.2
+#EXTINF:0 group-title="Greece Radio",ELLHINIKOS 93.2
 http://orange.live24.gr/orange9320
-#EXTINF:0 group-title="Radio",ELLHNIKOS 90.3
+#EXTINF:0 group-title="Greece Radio",ELLHNIKOS 90.3
 http://live.ellinikos.gr:8010/903.mp3
-#EXTINF:0 group-title="Radio",ELLINIKOS FM FM
+#EXTINF:0 group-title="Greece Radio",ELLINIKOS FM FM
 http://85.17.75.171/ellinikosfm
-#EXTINF:0 group-title="Radio",EN LEFKO 87.7
+#EXTINF:0 group-title="Greece Radio",EN LEFKO 87.7
 http://stream02.iphost.gr:8000/stream
-#EXTINF:0 group-title="Radio",ENALLAKS FM 99.9
+#EXTINF:0 group-title="Greece Radio",ENALLAKS FM 99.9
 http://www.enallax.gr/enallax.asx
-#EXTINF:0 group-title="Radio",ENERGY 94.2
+#EXTINF:0 group-title="Greece Radio",ENERGY 94.2
 http://netradio.live24.gr/energy942art
-#EXTINF:0 group-title="Radio",ENERGY PREVEZA 93.4
+#EXTINF:0 group-title="Greece Radio",ENERGY PREVEZA 93.4
 http://50.7.173.162:8175/;
-#EXTINF:0 group-title="Radio",EPIKOINWNIA 89.1
+#EXTINF:0 group-title="Greece Radio",EPIKOINWNIA 89.1
 http://s2.onweb.gr:8608/;
-#EXTINF:0 group-title="Radio",EPMHS PADIO 91.8
+#EXTINF:0 group-title="Greece Radio",EPMHS PADIO 91.8
 http://s6.myradiostream.com:36662/;
-#EXTINF:0 group-title="Radio",EROTIKOS FM 94.8
+#EXTINF:0 group-title="Greece Radio",EROTIKOS FM 94.8
 http://eu7.fastcast4u.com:6154/;
-#EXTINF:0 group-title="Radio",ERT OPEN FM 106.7
+#EXTINF:0 group-title="Greece Radio",ERT OPEN FM 106.7
 http://radio.ertopen.com/erasport
-#EXTINF:0 group-title="Radio",ERWTOKRITOS FM 87.9
+#EXTINF:0 group-title="Greece Radio",ERWTOKRITOS FM 87.9
 http://stream2.proradio.gr:8004/erotokritos
-#EXTINF:0 group-title="Radio",EUROSKY 100.4
+#EXTINF:0 group-title="Greece Radio",EUROSKY 100.4
 http://caster.opennetwork.gr:8004/stream
-#EXTINF:0 group-title="Radio",EYPIPPOS FM 90
+#EXTINF:0 group-title="Greece Radio",EYPIPPOS FM 90
 http://stereo.wavestreamer.com:8412/;listen.pls
-#EXTINF:0 group-title="Radio",FASMA 99.7
+#EXTINF:0 group-title="Greece Radio",FASMA 99.7
 http://67.212.165.106:8104/;listen.pls
-#EXTINF:0,FLASH FM 96
+#EXTINF:0 group-title="Greece Radio",FLASH FM 96
 http://flash.live24.gr/flash96
-#EXTINF:0 group-title="Radio",FLY FM 88.9
+#EXTINF:0 group-title="Greece Radio",FLY FM 88.9
 http://go.erad.io/asx/fly889.asx
-#EXTINF:0 group-title="Radio",FLY RADIO 89.7
+#EXTINF:0 group-title="Greece Radio",FLY RADIO 89.7
 http://eco.onestreaming.com:8272/;
-#EXTINF:0 group-title="Radio",FLY RADIO 95.9
+#EXTINF:0 group-title="Greece Radio",FLY RADIO 95.9
 http://sc2.streamwithq.com:8074/;
-#EXTINF:0,FM 100 100
+#EXTINF:0 group-title="Greece Radio",FM 100 100
 http://178.62.176.153:8000/stream
-#EXTINF:0 group-title="Radio",FOCUS 103.6
+#EXTINF:0 group-title="Greece Radio",FOCUS 103.6
 http://focus.greekstream.net/;
-#EXTINF:0 group-title="Radio",FONI NAOUSIS RADIO
+#EXTINF:0 group-title="Greece Radio",FONI NAOUSIS RADIO
 http://148.251.14.220:9944/
-#EXTINF:0 group-title="Radio",FREE 101.1
+#EXTINF:0 group-title="Greece Radio",FREE 101.1
 http://playstathmos-lh.akamaihd.net/z/event_1@119298/manifest.m3u8
-#EXTINF:0 group-title="Radio",GAGA RADIO 98.4
+#EXTINF:0 group-title="Greece Radio",GAGA RADIO 98.4
 http://s4.onweb.gr:8840/;stream.nsv
-#EXTINF:0 group-title="Radio",GALAXIAS FM 92.1
+#EXTINF:0 group-title="Greece Radio",GALAXIAS FM 92.1
 http://91.138.198.64:18500/listen.pls/;
-#EXTINF:0 group-title="Radio",GALAXY FM 92
+#EXTINF:0 group-title="Greece Radio",GALAXY FM 92
 http://galaxy.live24.gr/galaxy9292
-#EXTINF:0 group-title="Radio",GALAXY PATPAS 106.1
+#EXTINF:0 group-title="Greece Radio",GALAXY PATPAS 106.1
 http://46.4.65.194:8015/;listen.pls
-#EXTINF:0 group-title="Radio",GAYDOS FM 88.8
+#EXTINF:0 group-title="Greece Radio",GAYDOS FM 88.8
 http://streaming.multiserver.gr:8044/;
-#EXTINF:0 group-title="Radio",GLENTI FM 101.1
+#EXTINF:0 group-title="Greece Radio",GLENTI FM 101.1
 http://s3.onweb.gr:8532/;
-#EXTINF:0 group-title="Radio",GRECA 99.4
+#EXTINF:0 group-title="Greece Radio",GRECA 99.4
 http://eco.onestreaming.com:8109/;
-#EXTINF:0 group-title="Radio",GREEK WEB RADIO
+#EXTINF:0 group-title="Greece Radio",GREEK WEB RADIO
 http://gwr.no-ip.biz:8000/;?1441963051597.mp3
-#EXTINF:0 group-title="Radio",HEAT RADIO 88.3
+#EXTINF:0 group-title="Greece Radio",HEAT RADIO 88.3
 http://ams01.egihosting.com:9108/;
-#EXTINF:0 group-title="Radio",HELLAS FM
+#EXTINF:0 group-title="Greece Radio",HELLAS FM
 http://206.190.136.140:7257/;
-#EXTINF:0 group-title="Radio",HELLENIC RADIO
+#EXTINF:0 group-title="Greece Radio",HELLENIC RADIO
 http://usa7.fastcast4u.com:5997/;
-#EXTINF:0 group-title="Radio",HELLENIC RADIO
+#EXTINF:0 group-title="Greece Radio",HELLENIC RADIO
 http://216.246.37.52:8044/listen.pls
-#EXTINF:0 group-title="Radio",HELLENIC RADIO PERTH
+#EXTINF:0 group-title="Greece Radio",HELLENIC RADIO PERTH
 http://87.117.201.152:23368/;stream.mp3
-#EXTINF:0 group-title="Radio",HIT FM 88.9
+#EXTINF:0 group-title="Greece Radio",HIT FM 88.9
 http://hit889.live24.gr/hit889
-#EXTINF:0 group-title="Radio",HIT FM XALKIDAS 103.5
+#EXTINF:0 group-title="Greece Radio",HIT FM XALKIDAS 103.5
 http://94.23.62.189:5650/stream
-#EXTINF:0 group-title="Radio",HIT RADIO IWANNINA 93.5
+#EXTINF:0 group-title="Greece Radio",HIT RADIO IWANNINA 93.5
 http://s3.onweb.gr:8006/;
-#EXTINF:0 group-title="Radio",HLEKTPA 98.8
+#EXTINF:0 group-title="Greece Radio",HLEKTPA 98.8
 http://stream2.proradio.gr:8004/hlektra
-#EXTINF:0 group-title="Radio",HLIDA 91.1
+#EXTINF:0 group-title="Greece Radio",HLIDA 91.1
 http://eco.onestreaming.com:8532/;listen.pls
-#EXTINF:0 group-title="Radio",HOME 89.1
+#EXTINF:0 group-title="Greece Radio",HOME 89.1
 http://144.76.102.231:8028/;listen.pls
-#EXTINF:0 group-title="Radio",HORIZON FM 96.5
+#EXTINF:0 group-title="Greece Radio",HORIZON FM 96.5
 http://144.76.92.208:9650/live.mp3
-#EXTINF:0 group-title="Radio",HOT FM 104.6
+#EXTINF:0 group-title="Greece Radio",HOT FM 104.6
 http://hotfm.live24.gr/hotfm
-#EXTINF:0 group-title="Radio",HXOS FM 94.2
+#EXTINF:0 group-title="Greece Radio",HXOS FM 94.2
 http://shoutcast.24radio.gr:8010/;listen.pls
-#EXTINF:0 group-title="Radio",HXW FM LASITHI 99.8
+#EXTINF:0 group-title="Greece Radio",HXW FM LASITHI 99.8
 http://162.253.149.235:8081/;listen.pls
-#EXTINF:0 group-title="Radio",HXW RADIO IWANNINWN 102.7
+#EXTINF:0 group-title="Greece Radio",HXW RADIO IWANNINWN 102.7
 http://eco.onestreaming.com:8266/;
-#EXTINF:0 group-title="Radio",IEPA APXIEPISKOPI KPHTHS 99.7
+#EXTINF:0 group-title="Greece Radio",IEPA APXIEPISKOPI KPHTHS 99.7
 http://s1.onweb.gr:8432/;
-#EXTINF:0 group-title="Radio",IEPA MHTPOPOLH AITWLIAS KAI AKAPNANIAS 106.3
+#EXTINF:0 group-title="Greece Radio",IEPA MHTPOPOLH AITWLIAS KAI AKAPNANIAS 106.3
 http://144.76.84.8:8048/;
-#EXTINF:0 group-title="Radio",IEPA MHTPOPOLH APGOLIDOS 105.2
+#EXTINF:0 group-title="Greece Radio",IEPA MHTPOPOLH APGOLIDOS 105.2
 http://listen.onestreaming.com/asx/imargol1052.asx
-#EXTINF:0 group-title="Radio",IEPA MHTPOPOLH FTHIWTIDOS 89.4
+#EXTINF:0 group-title="Greece Radio",IEPA MHTPOPOLH FTHIWTIDOS 89.4
 http://eco.onestreaming.com:8264/;
-#EXTINF:0 group-title="Radio",IEPA MHTPOPOLH MAPWNEIAS KAI KOMOTHNHS 95.8
+#EXTINF:0 group-title="Greece Radio",IEPA MHTPOPOLH MAPWNEIAS KAI KOMOTHNHS 95.8
 http://ice.streamcloud.mediacdn.com/imkomotini
-#EXTINF:0 group-title="Radio",IMAGINE 89.7
+#EXTINF:0 group-title="Greece Radio",IMAGINE 89.7
 http://37.59.32.115:6224/stream
-#EXTINF:0 group-title="Radio",IONIAN GALAXY 90.8
+#EXTINF:0 group-title="Greece Radio",IONIAN GALAXY 90.8
 http://s4.onweb.gr:8018/;
-#EXTINF:0 group-title="Radio",IONION FM 95.8
+#EXTINF:0 group-title="",IONION FM 95.8
 http://stream2.proradio.gr:8004/ionionfmf?type=.flv
-#EXTINF:0 group-title="Radio",IWANNINA DEE JAY 89.6
+#EXTINF:0 group-title="Greece Radio",IWANNINA DEE JAY 89.6
 http://50.7.70.58:8748/;
-#EXTINF:0 group-title="Radio",JOY FM 106.5
+#EXTINF:0 group-title="Greece Radio",JOY FM 106.5
 http://95.211.205.23/listen/2nwynzgmb.mp3
-#EXTINF:0 group-title="Radio",JUST RADIO 93
+#EXTINF:0 group-title="Greece Radio",JUST RADIO 93
 http://194.219.98.110:8002/;
-#EXTINF:0 group-title="Radio",KALAMARIA FM 101.7
+#EXTINF:0 group-title="Greece Radio",KALAMARIA FM 101.7
 http://www.kalamariafm.gr/kalamariafm_mp3.asx
-#EXTINF:0 group-title="Radio",KANALI 1 KALAMATAS 94.8
+#EXTINF:0 group-title="Greece Radio",KANALI 1 KALAMATAS 94.8
 http://live.kanali1.gr:8000/kanali1
-#EXTINF:0 group-title="Radio",KANALI 20 88.6
+#EXTINF:0 group-title="Greece Radio",KANALI 20 88.6
 http://213.239.206.179:7086/;
-#EXTINF:0 group-title="Radio",KANALI 6 106
+#EXTINF:0 group-title="Greece Radio",KANALI 6 106
 http://stream.dnsgb.net:8012/;stream.nsv
-#EXTINF:0 group-title="Radio",KANALI 7 91.8
+#EXTINF:0 group-title="Greece Radio",KANALI 7 91.8
 http://live.kanali7.com:4012/;stream.nsv
-#EXTINF:0 group-title="Radio",KAPPA RADIO 87.9
+#EXTINF:0 group-title="Greece Radio",KAPPA RADIO 87.9
 http://go.erad.io/asx/kappa879.asx
-#EXTINF:0 group-title="Radio",KENTRO KARDIAS 95
+#EXTINF:0 group-title="Greece Radio",KENTRO KARDIAS 95
 http://37.59.14.77:8146/stream
-#EXTINF:0 group-title="Radio",KISS FM 89
+#EXTINF:0 group-title="Greece Radio",KISS FM 89
 http://live3.istoikona.net:8195/;stream.nsv
-#EXTINF:0 group-title="Radio",KISS FM 92.9
+#EXTINF:0 group-title="Greece Radio",KISS FM 92.9
 http://kissfm.live24.gr/kiss2111
-#EXTINF:0 group-title="Radio",KISS FM KALAMATAS 89
+#EXTINF:0 group-title="Greece Radio",KISS FM KALAMATAS 89
 http://144.76.102.231:8006/stream
-#EXTINF:0 group-title="Radio",KISS FM KEFALONIAS 100.6
+#EXTINF:0 group-title="Greece Radio",KISS FM KEFALONIAS 100.6
 http://46.4.65.194:8043/;
-#EXTINF:0 group-title="Radio",KISS FM KPHTHS 96.1
+#EXTINF:0 group-title="Greece Radio",KISS FM KPHTHS 96.1
 http://s6.onweb.gr:8032/;
-#EXTINF:0 group-title="Radio",KISS FM PATRAS 92.9
+#EXTINF:0 group-title="Greece Radio",KISS FM PATRAS 92.9
 http://stream.kiss922.gr:59922/;
-#EXTINF:0 group-title="Radio",KISS KEPKYPAS 95.8
+#EXTINF:0 group-title="Greece Radio",KISS KEPKYPAS 95.8
 http://66.90.103.144:8990/;stream.mp3
-#EXTINF:0 group-title="Radio",KLIK FM 98.2
+#EXTINF:0 group-title="Greece Radio",KLIK FM 98.2
 http://go.erad.io/asx/klik.asx
-#EXTINF:0 group-title="Radio",KNWSOS FM 100.6
+#EXTINF:0 group-title="Greece Radio",KNWSOS FM 100.6
 rtmp://37.99.194.179:1935/KnossosFM/KnossosFM
-#EXTINF:0 group-title="Radio",KPHTH FM 100.3
+#EXTINF:0 group-title="Greece Radio",KPHTH FM 100.3
 http://s14.myradiostream.com:8354/;
-#EXTINF:0 group-title="Radio",KPHTH FM 87.5
+#EXTINF:0 group-title="Greece Radio",KPHTH FM 87.5
 http://s3.onweb.gr:8878/
-#EXTINF:0 group-title="Radio",KPHTIKH PADIOFWNIA 91.4
+#EXTINF:0 group-title="Greece Radio",KPHTIKH PADIOFWNIA 91.4
 http://46.227.60.32:8072/;
-#EXTINF:0 group-title="Radio",KPHTOPAMA 97.9
+#EXTINF:0 group-title="Greece Radio",KPHTOPAMA 97.9
 http://sc2.streamwithq.com:8040/;
-#EXTINF:0 group-title="Radio",KRHTIKORAMA FM 93.8
+#EXTINF:0 group-title="Greece Radio",KRHTIKORAMA FM 93.8
 http://46.4.37.132:9382/;listen.pls
-#EXTINF:0 group-title="Radio",KRHTIKOS FM 88.7
+#EXTINF:0 group-title="Greece Radio",KRHTIKOS FM 88.7
 http://192.240.97.69:9322/;listen.pls
-#EXTINF:0 group-title="Radio",KYMA FM 90.3
+#EXTINF:0 group-title="Greece Radio",KYMA FM 90.3
 http://s1.onweb.gr:8028/;
-#EXTINF:0 group-title="Radio",L RADIO 87.5
+#EXTINF:0 group-title="Greece Radio",L RADIO 87.5
 http://s3.onweb.gr:8472/;
-#EXTINF:0 group-title="Radio",LAIKO RADIO 96.6
+#EXTINF:0 group-title="Greece Radio",LAIKO RADIO 96.6
 https://streaming.radionomy.com/laikoradio1
-#EXTINF:0 group-title="Radio",LAIKOS FM 87.6
+#EXTINF:0 group-title="Greece Radio",LAIKOS FM 87.6
 http://ice.streamcloud.mediacdn.com/laikos876
-#EXTINF:0 group-title="Radio",LAIKOS LAMIAS 100.6
+#EXTINF:0 group-title="Greece Radio",LAIKOS LAMIAS 100.6
 http://s5.onweb.gr:8864/;listen.pls
-#EXTINF:0 group-title="Radio",LAMEIA FM1 96.2
+#EXTINF:0 group-title="Greece Radio",LAMEIA FM1 96.2
 http://sc2.streamwithq.com:8092/;listen.pls
-#EXTINF:0 group-title="Radio",LAMPSI FM 92.3
+#EXTINF:0 group-title="Greece Radio",LAMPSI FM 92.3
 http://lampsi2-lh.akamaihd.net/i/live_1@324565/master.m3u8
-#EXTINF:0 group-title="Radio",LAMPSI HRAKLEIO 92.9
+#EXTINF:0 group-title="Greece Radio",LAMPSI HRAKLEIO 92.9
 http://ice.streamcloud.mediacdn.com/lampsi929herakleio
-#EXTINF:0 group-title="Radio",LATW FM 103.3
+#EXTINF:0 group-title="Greece Radio",LATW FM 103.3
 http://eco.onestreaming.com:8488/;
-#EXTINF:0 group-title="Radio",LEGEND FM 101.6
+#EXTINF:0 group-title="Greece Radio",LEGEND FM 101.6
 http://s6.onweb.gr:8002/;
-#EXTINF:0 group-title="Radio",LGR 103.3
+#EXTINF:0 group-title="Greece Radio",LGR 103.3
 http://live3.istoikona.net:8203/stream
-#EXTINF:0 group-title="Radio",LIBERO FM 107.4
+#EXTINF:0 group-title="Greece Radio",LIBERO FM 107.4
 http://eco.onestreaming.com:8081/;
-#EXTINF:0 group-title="Radio",LIFE FM 102.9
+#EXTINF:0 group-title="Greece Radio",LIFE FM 102.9
 http://s1.onweb.gr:8836/;
-#EXTINF:0 group-title="Radio",LIFE FM 88
+#EXTINF:0 group-title="Greece Radio",LIFE FM 88
 http://life.onairsolution.gr:55880/;
-#EXTINF:0 group-title="Radio",LIFE RADIO 91.6
+#EXTINF:0 group-title="Greece Radio",LIFE RADIO 91.6
 http://178.63.16.92:8026/;listen.pls
-#EXTINF:0 group-title="Radio",LIKE RADIO 88.2
+#EXTINF:0 group-title="Greece Radio",LIKE RADIO 88.2
 http://streams.onairsolution.gr:59882/;
-#EXTINF:0 group-title="Radio",LIVE FM 89.6
+#EXTINF:0 group-title="Greece Radio",LIVE FM 89.6
 http://netradio.live24.gr/livefm896
-#EXTINF:0 group-title="Radio",LOUTPAKI FM 96.9
+#EXTINF:0 group-title="Greece Radio",LOUTPAKI FM 96.9
 http://s3.onweb.gr:8510/;
-#EXTINF:0 group-title="Radio",LOVE FM 100.7
+#EXTINF:0 group-title="Greece Radio",LOVE FM 100.7
 http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
-#EXTINF:0 group-title="Radio",LOVE RADIO 97.5
+#EXTINF:0 group-title="Greece Radio",LOVE RADIO 97.5
 http://loveradio.live24.gr/loveradio-1000
-#EXTINF:0 group-title="Radio",LOVE RADIO KPHTHS 102.8
+#EXTINF:0 group-title="Greece Radio",LOVE RADIO KPHTHS 102.8
 http://loveradio-her.live24.gr/loveradio-her2
-#EXTINF:0 group-title="Radio",LUX RADIO 102.7
+#EXTINF:0 group-title="Greece Radio",LUX RADIO 102.7
 http://legacy-100-ams.servers.mediacdn.com/mfm102-7-patra
-#EXTINF:0 group-title="Radio",LYXNOS RADIO 88.4
+#EXTINF:0 group-title="Greece Radio",LYXNOS RADIO 88.4
 http://37.48.68.74:8468/
-#EXTINF:0 group-title="Radio",MAD FM 106.2
+#EXTINF:0 group-title="Greece Radio",MAD FM 106.2
 http://mediaserver.mad.tv:8000/stream
-#EXTINF:0 group-title="Radio",MAD RADIO AGPINIOY 107
+#EXTINF:0 group-title="Greece Radio",MAD RADIO AGPINIOY 107
 http://37.59.14.77:7038/;listen.pls
-#EXTINF:0 group-title="Radio",MAD RADIO KSANTHI 107
+#EXTINF:0 group-title="Greece Radio",MAD RADIO KSANTHI 107
 http://46.227.60.32:8052/;
-#EXTINF:0 group-title="Radio",MADNESS 95
+#EXTINF:0 group-title="Greece Radio",MADNESS 95
 http://s7.onweb.gr:8044/;
-#EXTINF:0 group-title="Radio",MAGIA 104.7
+#EXTINF:0 group-title="Greece Radio",MAGIA 104.7
 http://37.59.14.77:7275/;
-#EXTINF:0 group-title="Radio",MAGIC 98.2
+#EXTINF:0 group-title="Greece Radio",MAGIC 98.2
 http://46.227.60.32:8042/;
-#EXTINF:0 group-title="Radio",MAGIC FM AGPINIO 102.9
+#EXTINF:0 group-title="Greece Radio",MAGIC FM AGPINIO 102.9
 http://live.magicfmagrinio.net:9500/;
-#EXTINF:0 group-title="Radio",MANA ELLADA
+#EXTINF:0 group-title="Greece Radio",MANA ELLADA
 http://198.154.106.101:8348/;?1441962080856.mp3
-#EXTINF:0 group-title="Radio",MASTER FM 90.2
+#EXTINF:0 group-title="Greece Radio",MASTER FM 90.2
 http://streaming.468.gr:9902/;listen.pls
-#EXTINF:0 group-title="Radio",MAX FM 93.4
+#EXTINF:0 group-title="Greece Radio",MAX FM 93.4
 http://legacy-100-ams.servers.mediacdn.com/maxfm93-4-patra
-#EXTINF:0 group-title="Radio",MAX FM XANIA 100.2
+#EXTINF:0 group-title="Greece Radio",MAX FM XANIA 100.2
 http://stream2.proradio.gr:8004/maxfm?1441972115985.aac
-#EXTINF:0 group-title="Radio",MAXIMUM FM 93.6
+#EXTINF:0 group-title="Greece Radio",MAXIMUM FM 93.6
 http://s1.onweb.gr:8838/;
-#EXTINF:0 group-title="Radio",MEGALOPOLH FM 103.1
+#EXTINF:0 group-title="Greece Radio",MEGALOPOLH FM 103.1
 http://95.154.254.157:39071
-#EXTINF:0 group-title="Radio",MELODIA FM 99.2
+#EXTINF:0 group-title="Greece Radio",MELODIA FM 99.2
 http://netradio.live24.gr/melodia
-#EXTINF:0 group-title="Radio",MELODY 88
+#EXTINF:0 group-title="Greece Radio",MELODY 88
 http://s4.onweb.gr:8466/;
-#EXTINF:0 group-title="Radio",MELODY 88.8
+#EXTINF:0 group-title="Greece Radio",MELODY 88.8
 http://s3.onweb.gr:8514/;
-#EXTINF:0 group-title="Radio",MELODY FM 98.7
+#EXTINF:0 group-title="Greece Radio",MELODY FM 98.7
 http://stream2.proradio.gr:8004/sfera987
-#EXTINF:0 group-title="Radio",MELODY RADIO 103.1
+#EXTINF:0 group-title="Greece Radio",MELODY RADIO 103.1
 http://liveaudio.virtualict.com:8000/;stream.nsv
-#EXTINF:0 group-title="Radio",MELWDIA LAMIAS 88
+#EXTINF:0 group-title="Greece Radio",MELWDIA LAMIAS 88
 http://eco.onestreaming.com:8129/;
-#EXTINF:0 group-title="Radio",MELWDIA PATPAS 100.4
+#EXTINF:0 group-title="Greece Radio",MELWDIA PATPAS 100.4
 http://176.9.39.43:7006/;stream.mp3
-#EXTINF:0 group-title="Radio",MENTA 88
+#EXTINF:0 group-title="Greece Radio",MENTA 88
 http://95.211.207.93/listen/menta
-#EXTINF:0 group-title="Radio",MESSATIDA 98
+#EXTINF:0 group-title="Greece Radio",MESSATIDA 98
 http://66.90.103.144:8954/;
-#EXTINF:0 group-title="Radio",METHOPIOS 96
+#EXTINF:0 group-title="Greece Radio",METHOPIOS 96
 http://live.onestreaming.com/methorios
-#EXTINF:0 group-title="Radio",METPO 90.3
+#EXTINF:0 group-title="Greece Radio",METPO 90.3
 http://metro903.live24.gr/metro903
-#EXTINF:0 group-title="Radio",METRO FM 89.2
+#EXTINF:0 group-title="Greece Radio",METRO FM 89.2
 http://37.59.14.77:8152/1
-#EXTINF:0 group-title="Radio",METROPOLIS 95.5
+#EXTINF:0 group-title="Greece Radio",METROPOLIS 95.5
 http://s10.voscast.com:9934/;
-#EXTINF:0 group-title="Radio",MFM 102.7
+#EXTINF:0 group-title="Greece Radio",MFM 102.7
 http://go.erad.io/asx/mfm1027.asx
-#EXTINF:0 group-title="Radio",MINI FM 107.1
+#EXTINF:0 group-title="Greece Radio",MINI FM 107.1
 http://eco.onestreaming.com:8142/;
-#EXTINF:0 group-title="Radio",MINORE FM 104.3
+#EXTINF:0 group-title="Greece Radio",MINORE FM 104.3
 http://24streams.me:8077/minorefm
-#EXTINF:0 group-title="Radio",MIX FM 102.3
+#EXTINF:0 group-title="Greece Radio",MIX FM 102.3
 http://eco.onestreaming.com:8127/;stream.nsv
-#EXTINF:0 group-title="Radio",MOJO RADIO 107.7
+#EXTINF:0 group-title="Greece Radio",MOJO RADIO 107.7
 http://mojoradio.live24.gr/mojoradio
-#EXTINF:0 group-title="Radio",MONADIKH POLITEIA 96
+#EXTINF:0 group-title="Greece Radio",MONADIKH POLITEIA 96
 http://67.212.189.122:8153/;
-#EXTINF:0 group-title="Radio",MONTREAL GREEK RADIO
+#EXTINF:0 group-title="Greece Radio",MONTREAL GREEK RADIO
 http://209.95.50.189:8049/stream
-#EXTINF:0 group-title="Radio",MORE 103
+#EXTINF:0 group-title="Greece Radio",MORE 103
 http://85.25.214.240:8140/;
-#EXTINF:0 group-title="Radio",MOYSIKH LAMPSH 103.3
+#EXTINF:0 group-title="Greece Radio",MOYSIKH LAMPSH 103.3
 http://lampsi.serverroom.us:7668/;
-#EXTINF:0 group-title="Radio",MOYSIKO KANALI 101.3
+#EXTINF:0 group-title="Greece Radio",MOYSIKO KANALI 101.3
 http://goodradio.gr:9112/;
-#EXTINF:0 group-title="Radio",MOYSIKO KANALI 105.1
+#EXTINF:0 group-title="Greece Radio",MOYSIKO KANALI 105.1
 http://stream1.mousikokanali.gr:8100/mc?.mp3
-#EXTINF:0 group-title="Radio",MPLE 99
+#EXTINF:0 group-title="Greece Radio",MPLE 99
 http://212.7.199.201:8002/;listen.pls
-#EXTINF:0 group-title="Radio",MUSIC 89.2
+#EXTINF:0 group-title="Greece Radio",MUSIC 89.2
 http://mousikokanali1-f.akamaihd.net/i/live_1@73264/master.m3u8
-#EXTINF:0 group-title="Radio",MUSIC CLUB 105.8
+#EXTINF:0 group-title="Greece Radio",MUSIC CLUB 105.8
 http://s6.onweb.gr:8048/;
-#EXTINF:0 group-title="Radio",MUSIC LIFE 95.1
+#EXTINF:0 group-title="Greece Radio",MUSIC LIFE 95.1
 http://213.239.206.179:9501/;listen.pls
 #EXTINF:0 group-title="Radio",MUSIC RADIO ARTA 102.1
 http://iphone.live24.gr/musicradioarta
-#EXTINF:0 group-title="Radio",MUST FM 97
+#EXTINF:0 group-title="Greece Radio",MUST FM 97
 http://shoutcast.24radio.gr:8012/;listen.pls
-#EXTINF:0 group-title="Radio",MY FM 89.5
+#EXTINF:0 group-title="Greece Radio",MY FM 89.5
 http://89.40.221.212:26800/;
-#EXTINF:0 group-title="Radio",MY RADIO 89.6
+#EXTINF:0 group-title="Greece Radio",MY RADIO 89.6
 http://eco.onestreaming.com:8528/;
-#EXTINF:0,MYTHOS FM 90.6
+#EXTINF:0 group-title="Greece Radio",MYTHOS FM 90.6
 http://46.4.65.194:8047/;
-#EXTINF:0 group-title="Radio",NEA STYPA FM 95.4
+#EXTINF:0 group-title="Greece Radio",NEA STYPA FM 95.4
 http://62.103.68.29:8000/;
-#EXTINF:0 group-title="Radio",NEMEA RADIO 107.6
+#EXTINF:0 group-title="Greece Radio",NEMEA RADIO 107.6
 http://s1.onweb.gr:8898/;
-#EXTINF:0 group-title="Radio",NEO PADIOFWNO 97.9
+#EXTINF:0 group-title="Greece Radio",NEO PADIOFWNO 97.9
 http://s1.onweb.gr:8820/;
-#EXTINF:0 group-title="Radio",NEXT 96.1
+#EXTINF:0 group-title="Greece Radio",NEXT 96.1
 http://37.187.79.153:5262/stream
-#EXTINF:0 group-title="Radio",NITRO RADIO 102.5
+#EXTINF:0 group-title="Greece Radio",NITRO RADIO 102.5
 http://nitro.live24.gr/nitro4555
-#EXTINF:0 group-title="Radio",NORTH 98
+#EXTINF:0 group-title="Greece Radio",NORTH 98
 http://eco.onestreaming.com:8382/;
-#EXTINF:0 group-title="Radio",NOVA FM 92.1
+#EXTINF:0 group-title="Greece Radio",NOVA FM 92.1
 http://46.4.65.194:8007/;
-#EXTINF:0 group-title="Radio",NOVA RADIO 93.1
+#EXTINF:0 group-title="Greece Radio",NOVA RADIO 93.1
 http://stream-mp3aac.live24.gr/nova931
-#EXTINF:0 group-title="Radio",NOVEL RADIO 91.8
+#EXTINF:0 group-title="Greece Radio",NOVEL RADIO 91.8
 http://192.99.0.170:5770/;
-#EXTINF:0 group-title="Radio",NRG 95
+#EXTINF:0 group-title="Greece Radio",NRG 95
 http://212.7.199.201:8012/;
-#EXTINF:0 group-title="Radio",NRG ALEKSANDPOYPOYLHS 98.5
+#EXTINF:0 group-title="Greece Radio",NRG ALEKSANDPOYPOYLHS 98.5
 http://eco.onestreaming.com:8452/;listen.pls
-#EXTINF:0 group-title="Radio",NTIRLA 94.3
+#EXTINF:0 group-title="Greece Radio",NTIRLA 94.3
 http://144.76.84.8:8262/;stream/1
-#EXTINF:0 group-title="Radio",O AGIOS SPYPIDON 91.2
+#EXTINF:0 group-title="Greece Radio",O AGIOS SPYPIDON 91.2
 http://eco.onestreaming.com:8516/;
-#EXTINF:0 group-title="Radio",O LOGOS 101.6
+#EXTINF:0 group-title="Greece Radio",O LOGOS 101.6
 mmsh://live.istoikona.com/logos?MSWMExt=.asf
-#EXTINF:0 group-title="Radio",O STATHMOS TWN EPGAZOMENWN 96.5
+#EXTINF:0 group-title="Greece Radio",O STATHMOS TWN EPGAZOMENWN 96.5
 http://178.63.80.9:9972
-#EXTINF:0 group-title="Radio",OLA FM 91.4
+#EXTINF:0 group-title="Greece Radio",OLA FM 91.4
 http://ola.isolservers.com:8300/;
-#EXTINF:0 group-title="Radio",OMOPFH POLH 89.9
+#EXTINF:0 group-title="Greece Radio",OMOPFH POLH 89.9
 http://213.16.179.209:8081/broadwavehigh.mp3
-#EXTINF:0 group-title="Radio",ORIGINAL 94.4
+#EXTINF:0 group-title="Greece Radio",ORIGINAL 94.4
 http://eco.onestreaming.com:8105/;
-#EXTINF:0 group-title="Radio",ORTHODOXI PAROYSIA 106.8
+#EXTINF:0 group-title="Greece Radio",ORTHODOXI PAROYSIA 106.8
 http://188.226.161.133:8008/stream
-#EXTINF:0 group-title="Radio",OSCAR FM 90.9
+#EXTINF:0 group-title="Greece Radio",OSCAR FM 90.9
 http://78.46.37.77:8099/live
-#EXTINF:0 group-title="Radio",OTE SPORT FM 94.6
+#EXTINF:0 group-title="Greece Radio",OTE SPORT FM 94.6
 http://sportfm.live24.gr/sportfm7712
-#EXTINF:0 group-title="Radio",PADIO 1 98.1
+#EXTINF:0 group-title="Greece Radio",PADIO 1 98.1
 http://proradio.gr:8004/radio981m
-#EXTINF:0 group-title="Radio",PADIO ALFA 104
+#EXTINF:0 group-title="Greece Radio",PADIO ALFA 104
 http://caster.opennetwork.gr:8006/stream
-#EXTINF:0 group-title="Radio",PADIO ALIVEPI 102.2
+#EXTINF:0 group-title="Greece Radio",PADIO ALIVEPI 102.2
 http://85.25.105.195:8291/;
-#EXTINF:0 group-title="Radio",PADIO AMFISA 104.4
+#EXTINF:0 group-title="Greece Radio",PADIO AMFISA 104.4
 http://stream3.468.gr:8104/;listen.pls
-#EXTINF:0 group-title="Radio",PADIO APGOSAPONIKOS 106.4
+#EXTINF:0 group-title="Greece Radio",PADIO APGOSAPONIKOS 106.4
 http://s3.onweb.gr:8536/;
-#EXTINF:0 group-title="Radio",PADIO APTA 101.5
+#EXTINF:0 group-title="Greece Radio",PADIO APTA 101.5
 http://eco.onestreaming.com:8460/;
-#EXTINF:0 group-title="Radio",PADIO DISTOMO 106.1
+#EXTINF:0 group-title="Greece Radio",PADIO DISTOMO 106.1
 http://radio.icehosting.com:8091
-#EXTINF:0 group-title="Radio",PADIO EBPOS 97.1
+#EXTINF:0 group-title="Greece Radio",PADIO EBPOS 97.1
 http://caster.opennetwork.gr:8000/live
-#EXTINF:0 group-title="Radio",PADIO EPMIONIDA 104.3
+#EXTINF:0 group-title="Greece Radio",PADIO EPMIONIDA 104.3
 http://go.erad.io/asx/ermionida.asx
-#EXTINF:0 group-title="Radio",PADIO EPTANHSA 98.8
+#EXTINF:0 group-title="Greece Radio",PADIO EPTANHSA 98.8
 http://s8.onweb.gr:8716/;
-#EXTINF:0 group-title="Radio",PADIO EYBOIA 104.1
+#EXTINF:0 group-title="Greece Radio",PADIO EYBOIA 104.1
 http://178.21.169.118:8012/live
-#EXTINF:0 group-title="Radio",PADIO HGOYMENITSA 89.2
+#EXTINF:0 group-title="Greece Radio",PADIO HGOYMENITSA 89.2
 http://85.25.144.39:8912/;
-#EXTINF:0 group-title="Radio",PADIO HPEIPOS 94.5
+#EXTINF:0 group-title="Greece Radio",PADIO HPEIPOS 94.5
 http://el1.info:9450/;
-#EXTINF:0 group-title="Radio",PADIO IONIO 99.9
+#EXTINF:0 group-title="Greece Radio",PADIO IONIO 99.9
 http://167.114.131.90:5192/;listen.pls
-#EXTINF:0 group-title="Radio",PADIO ISTIAIA 100.4
+#EXTINF:0 group-title="Greece Radio",PADIO ISTIAIA 100.4
 http://www.radioistiaia.gr/music1.mp3
-#EXTINF:0 group-title="Radio",PADIO KOSMOS XALKIDAS 100
+#EXTINF:0 group-title="Greece Radio",PADIO KOSMOS XALKIDAS 100
 http://s1.onweb.gr:8856/;
-#EXTINF:0 group-title="Radio",PADIO KSANTHI 93.5
+#EXTINF:0 group-title="Greece Radio",PADIO KSANTHI 93.5
 http://78.47.56.126:8022/;
-#EXTINF:0 group-title="Radio",PADIO KSHPOMEPO
+#EXTINF:0 group-title="Greece Radio",PADIO KSHPOMEPO
 http://www.jayradio.gr/playerJay/asx/596.asx
-#EXTINF:0 group-title="Radio",PADIO LEYKADA 88.4
+#EXTINF:0 group-title="Greece Radio",PADIO LEYKADA 88.4
 http://50.7.173.162:8167/;
-#EXTINF:0 group-title="Radio",PADIO LEYKIMMH 105.5
+#EXTINF:0 group-title="Greece Radio",PADIO LEYKIMMH 105.5
 http://66.90.103.144:8976/;
-#EXTINF:0 group-title="Radio",PADIO MESSOLOGI 92
+#EXTINF:0 group-title="Greece Radio",PADIO MESSOLOGI 92
 http://178.63.80.9:8462/;
-#EXTINF:0 group-title="Radio",PADIO NET 101.9
+#EXTINF:0 group-title="Greece Radio",PADIO NET 101.9
 http://66.90.103.144:8940/;
-#EXTINF:0 group-title="Radio",PADIO PAPATHPHTHS 94
+#EXTINF:0 group-title="Greece Radio",PADIO PAPATHPHTHS 94
 http://s6.onweb.gr:8020/;
-#EXTINF:0 group-title="Radio",PADIO PATPIDA 100.4
+#EXTINF:0 group-title="Greece Radio",PADIO PATPIDA 100.4
 http://66.90.103.144:8962/;
-#EXTINF:0 group-title="Radio",PADIO PODOPH 95.5
+#EXTINF:0 group-title="Greece Radio",PADIO PODOPH 95.5
 http://173.236.59.82:8060/;
-#EXTINF:0 group-title="Radio",PADIO POYMELI NEWS FM 98
+#EXTINF:0 group-title="Greece Radio",PADIO POYMELI NEWS FM 98
 http://www.radioplanet.gr/roumeli/roumeli.mp3
-#EXTINF:0 group-title="Radio",PADIO PWMAIOS 94
+#EXTINF:0 group-title="Greece Radio",PADIO PWMAIOS 94
 http://el1.info:9400/;listen.pls
-#EXTINF:0 group-title="Radio",PADIO THESPRWTIA 97.1
+#EXTINF:0 group-title="Greece Radio",PADIO THESPRWTIA 97.1
 http://144.76.102.231:8015/live
-#EXTINF:0 group-title="Radio",PADIO THHBA 97.5
+#EXTINF:0 group-title="Greece Radio",PADIO THHBA 97.5
 http://144.76.102.231:8034/;stream.mp3
-#EXTINF:0 group-title="Radio",PADIO XPONOS 87.5
+#EXTINF:0 group-title="Greece Radio",PADIO XPONOS 87.5
 http://s6.onweb.gr:8006/;
-#EXTINF:0 group-title="Radio",PADIO XYLAGANI 104.5
+#EXTINF:0 group-title="Greece Radio",PADIO XYLAGANI 104.5
 http://69.175.13.130:8060/;
-#EXTINF:0 group-title="Radio",PADIOFWNO SPAPTHS 99.7
+#EXTINF:0 group-title="Greece Radio",PADIOFWNO SPAPTHS 99.7
 http://144.76.84.8:8284/;listen.pls
-#EXTINF:0 group-title="Radio",PADYOKYMATA 102.6
+#EXTINF:0 group-title="Greece Radio",PADYOKYMATA 102.6
 http://s8.onweb.gr:8702/;
-#EXTINF:0 group-title="Radio",PALMOS 90.5
+#EXTINF:0 group-title="Greece Radio",PALMOS 90.5
 http://helium.kncdn.net:7502/;
-#EXTINF:0 group-title="Radio",PALMOS FM 105.4
+#EXTINF:0 group-title="Greece Radio",PALMOS FM 105.4
 http://s6.onweb.gr:8010/;
-#EXTINF:0 group-title="Radio",PALMOS FM KOPINTHOS 98.2
+#EXTINF:0 group-title="Greece Radio",PALMOS FM KOPINTHOS 98.2
 http://stream.palmos.fm:8100/;listen.pls
-#EXTINF:0 group-title="Radio",PALMOS KEFALLONIAS 98.3
+#EXTINF:0 group-title="Greece Radio",PALMOS KEFALLONIAS 98.3
 http://ice.streamcloud.mediacdn.com/palmos983
-#EXTINF:0 group-title="Radio",PALMOS LAMIAS 95
+#EXTINF:0 group-title="Greece Radio",PALMOS LAMIAS 95
 http://s7.onweb.gr:8554/;
-#EXTINF:0 group-title="Radio",PALMOS PATPAS 104.1
+#EXTINF:0 group-title="Greece Radio",PALMOS PATPAS 104.1
 http://r4.webradiostreams.com:7004/;
-#EXTINF:0 group-title="Radio",PALMOS POPOS 105.4
+#EXTINF:0 group-title="Greece Radio",PALMOS POPOS 105.4
 http://s6.onweb.gr:8010/;
-#EXTINF:0 group-title="Radio",PANEPISTHMIO PATRAS FM 90.4
+#EXTINF:0 group-title="Greece Radio",PANEPISTHMIO PATRAS FM 90.4
 http://150.140.147.131:8000/;listen.pls
-#EXTINF:0 group-title="Radio",PANIKOS FM 95.4
+#EXTINF:0 group-title="Greece Radio",PANIKOS FM 95.4
 http://78.47.96.202:8092/;
-#EXTINF:0 group-title="Radio",PANORAMA 98.4
+#EXTINF:0 group-title="Greece Radio",PANORAMA 98.4
 http://netradio.live24.gr/panorama984
-#EXTINF:0 group-title="Radio",PARADISE 90.3
+#EXTINF:0 group-title="Greece Radio",PARADISE 90.3
 http://stream-mp3aac.live24.gr/paradise903
-#EXTINF:0 group-title="Radio",PARADISE RADIO 101.6
+#EXTINF:0 group-title="Greece Radio",PARADISE RADIO 101.6
 http://213.239.206.179:8850/;stream.mp3
-#EXTINF:0 group-title="Radio",PARADISE RADIO 101.6
+#EXTINF:0 group-title="Greece Radio",PARADISE RADIO 101.6
 http://213.239.206.179:8850/;listen.pls
-#EXTINF:0 group-title="Radio",PARAPOLITIKA FM 90.1
+#EXTINF:0 group-title="Greece Radio",PARAPOLITIKA FM 90.1
 http://netradio.live24.gr/athinaradio
-#EXTINF:0 group-title="Radio",PAREA FM 104
+#EXTINF:0 group-title="Greece Radio",PAREA FM 104
 http://parea104.live24.gr/parea104
-#EXTINF:0 group-title="Radio",PEIRAIKI EKKLHSIA 91.2
+#EXTINF:0 group-title="Greece Radio",PEIRAIKI EKKLHSIA 91.2
 http://148.251.182.223:8310/;listen.pls
-#EXTINF:0 group-title="Radio",PENA 92.5
+#EXTINF:0 group-title="Greece Radio",PENA 92.5
 http://stream-mp3aac.live24.gr/max925-her
-#EXTINF:0 group-title="Radio",PEPPER FM 96.6
+#EXTINF:0 group-title="Greece Radio",PEPPER FM 96.6
 http://85.17.81.152/listen/pepper
-#EXTINF:0 group-title="Radio",PETHYMNO SPORT FM 103.3
+#EXTINF:0 group-title="Greece Radio",PETHYMNO SPORT FM 103.3
 http://goodradio.gr:9106/;
-#EXTINF:0 group-title="Radio",PHASE RADIO 87.7
+#EXTINF:0 group-title="Greece Radio",PHASE RADIO 87.7
 http://streaming.multiserver.gr:8013/;
-#EXTINF:0 group-title="Radio",PIGASOS APTA 106
+#EXTINF:0 group-title="Greece Radio",PIGASOS APTA 106
 http://ice.streamcloud.mediacdn.com/pegasosarta-128mp3
-#EXTINF:0 group-title="Radio",PINDOS FM 107.7
+#EXTINF:0 group-title="Greece Radio",PINDOS FM 107.7
 http://netradio.live24.gr/radiopindos1077
-#EXTINF:0 group-title="Radio",PIQERAS DEEJAY 105.6
+#EXTINF:0 group-title="Greece Radio",PIQERAS DEEJAY 105.6
 http://37.48.67.169:8000/stream
-#EXTINF:0 group-title="Radio",PLANET RADIO 90.6
+#EXTINF:0 group-title="Greece Radio",PLANET RADIO 90.6
 http://eco.onestreaming.com:8432/;
-#EXTINF:0 group-title="Radio",PLUS RADIO 102.6
+#EXTINF:0 group-title="Greece Radio",PLUS RADIO 102.6
 http://85.25.214.240:8120/;
-#EXTINF:0 group-title="Radio",POLIS 102.6
+#EXTINF:0 group-title="Greece Radio",POLIS 102.6
 http://eco.onestreaming.com:8334/;
-#EXTINF:0 group-title="Radio",POLITEIA FM 90.7
+#EXTINF:0 group-title="Greece Radio",POLITEIA FM 90.7
 http://live.onestreaming.com/politia
-#EXTINF:0 group-title="Radio",POLITIS 107.6
+#EXTINF:0 group-title="Greece Radio",POLITIS 107.6
 http://live3.istoikona.com:8199/;stream.nsv
-#EXTINF:0 group-title="Radio",POP FM 102.1
+#EXTINF:0 group-title="Greece Radio",POP FM 102.1
 http://s1.onweb.gr:8422/;
-#EXTINF:0 group-title="Radio",PRISMA 91.6
+#EXTINF:0 group-title="Greece Radio",PRISMA 91.6
 http://50.7.86.138:8117/;listen.pls
-#EXTINF:0 group-title="Radio",PYTHMOS KEPKYPAS 99.7
+#EXTINF:0 group-title="Greece Radio",PYTHMOS KEPKYPAS 99.7
 http://s4.onweb.gr:8832/;
-#EXTINF:0 group-title="Radio",PYTHMOS KSANTHHS 106
+#EXTINF:0 group-title="Greece Radio",PYTHMOS KSANTHHS 106
 http://s4.onweb.gr:8406/;
-#EXTINF:0 group-title="Radio",RADIO 1 99
+#EXTINF:0 group-title="Greece Radio",RADIO 1 99
 http://eco.onestreaming.com:8336/;
 #EXTINF:0 group-title="Radio",RADIO 1044 104.4
 http://10440fm.live24.gr/10440fm
@@ -5432,6 +5613,25 @@ http://144.76.84.8:8206/;
 mms://live.istoikona.com/zenith
 #EXTINF:0 group-title="Radio",ZOO RADIO 90.8
 http://s10.voscast.com:9940/;
+
+#EXTINF:-1 group-title="Radio",[COLOR yellow]------------ Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy comedy 
+http://streams.blindy.tv:8000/comedy.mp3
+
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy Drama 
+http://streams.blindy.tv:8000/drama.mp3
+
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy SciFi
+http://streams.blindy.tv:8000/scifi.mp3
+
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy Brain
+http://streams.blindy.tv:8000/brain.mp3
+
+#EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy ETtc
+http://streams.blindy.tv:8000/etc.mp3
+
 
 
 
@@ -6437,213 +6637,7 @@ http://199.195.194.140:8303/stream
 http://wgltradio.ilstu.edu:8000/wgltmain.mp3
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",NPR 24hr stream
 http://www.npr.org/streams/mp3/nprlive24.m3u
-#EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
-http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
-#EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
-http://208.92.55.61/Q98.mp3
-#EXTINF:0 tvg-logo="http://cjnb.ca/sites/all/themes/cjnb/logo.png" group-title="Radio",CJNB 1050 AM North Battleford Saskatchewan  
-http://3103.live.streamtheworld.com/CJNB_SC
-#EXTINF:0 tvg-name="CKLM The Goat 106.1 FM Lloydminster Alberta" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11797q.png" group-title="Radio",CKLM The Goat 106.1 FM Lloydminster Alberta 
-http://s1.hotdogradio.com/CKLM
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 128kbps McGill University
-http://icecast.ckut.ca:8000/903fm-128-stereo
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 192kbps
-http://icecast.ckut.ca:8000/903fm-192-stereo
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
-http://icecast.ckut.ca:8000/903fm-64-mono
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
-http://icecast.ckut.ca:8000/903fm-64-stereo.aac
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
-http://icecast.ckut.ca:8000/903fm-q6-stereo.ogg
-#EXTINF: -1 group-title="Radio",- THE HITZ CHANNEL
-http://live.hunterfm.com/hitz320
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s12569q.png" group-title="Radio",90.5 | CFCR Saskatoon(Community)
 
-http://onair.cfcr.ca/hifi.mp3
-
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s265016q.png" group-title="Radio",Guerrilla Radio (Chill)
-
-http://174.37.16.73:8291/
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",91.3 | CJTR (Community)
-
-http://108.178.13.122:8152/
-
-#EXTINF:-1 group-title="Radio",( ONLYROCKFM ) La seule radio rock et metal de Montreal ! (ONLYROCKFM)
-http://94.23.205.82:4520
-#EXTINF:-1 group-title="Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
-http://192.99.4.210:3290/stream
-#EXTINF:-1 group-title="Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
-http://live.leanstream.co/CISNFM-MP3
-#EXTINF:-1 group-title="Radio",105.1 MHz – CKRY-FM Edmonton, AB
-http://live.leanstream.co/CKRYFM-MP3
-#EXTINF:-1 group-title="Radio",1490 MHz – CJOY-AM
-http://live.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 group-title="Radio",630 kHz – CHED-AM Edmonton
-http://live.leanstream.co/CHEDAM-MP3?
-#EXTINF:-1 group-title="Radio",770 kHz – CHQR-FM Edmonton, AB
-http://live.leanstream.co/CHQRAM-MP3?tunein
-#EXTINF:-1 group-title="Radio",91.7 MHz – CHBH-FM The Bounce, Edmonton, AB
-http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917
-#EXTINF:-1 group-title="Radio",CFLG-FM Variety 104
-http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
-http://hal929.akacast.akamaistream.net/7/220/79488/v1/rogers.akacast.akamaistream.net/hal929
-#EXTINF:-1 group-title="Radio",CFMI-FM
-http://live.leanstream.co/CFMIFM-MP3
-#EXTINF:-1 group-title="Radio",CFMK-FM FM 96 Kington
-http://live.leanstream.co/CFMKFM-MP3
-#EXTINF:-1 group-title="Radio",CFNY-FM 102.1 The Edge
-http://live.leanstream.co/CFNYFM-MP3
-#EXTINF:-1 group-title="Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
-http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",CFRQ-FM Dartmouth, NS, Canada
-http://6093.live.streamtheworld.com/CFRQFMAAC?
-#EXTINF:-1 group-title="Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
-http://206.190.130.180:8028/ozfm.aac
-#EXTINF:-1 group-title="Radio",CIMJ-FM MAGIC 106
-http://live.leanstream.co/CIMJFM-MP3
-#EXTINF:-1 group-title="Radio",CIQB-FM B101
-http://live.leanstream.co/CIQBFM-MP3
-#EXTINF:-1 group-title="Radio",CJKR-FM POWER 97 Winnipeg
-http://live.leanstream.co/CJKRFM-MP3
-#EXTINF:-1,CJNI-FM 95.7 FM Halifax, NS
-http://hal957.akacast.akamaistream.net/7/280/80893/v1/rogers.akacast.akamaistream.net/hal957
-#EXTINF:-1 group-title="Radio",CJRS Radio Montreal
-http://68.168.122.124:8138
-#EXTINF:-1 group-title="Radio",CJSS-FM 101.9 Greatest Hits
-http://live.leanstream.co/CJSSFM-MP3
-#EXTINF:-1 group-title="Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
-http://130.179.97.69:8080
-#EXTINF:-1 group-title="Radio",CKBT-FM 91.5 The Beat
-http://live.leanstream.co/CKBTFM-MP3
-#EXTINF:-1 group-title="Radio",CKCB-FM The Peak
-http://live.leanstream.co/CKCBFM-MP3
-#EXTINF:-1 group-title="Radio",CKCM-AM 620 AM Grand Falls-Windsor, NL, Canada
-http://1842.live.streamtheworld.com/CKCMAMAAC?
-#EXTINF:-1,CKDK-FM 103.9 Woodstock, ON
-http://live.leanstream.co/CKDKFM-MP3
-#EXTINF:-1 group-title="Radio",CKOE FM Moncton New Brunswick Canada
-http://173.193.205.96:8110
-#EXTINF:-1 group-title="Radio",CKRU-FM 100.5 Greatest Hits
-http://live.leanstream.co/CKRUFM-MP3
-#EXTINF:-1 group-title="Radio",CKWF-FM The Wolf
-http://live.leanstream.co/CKWFFM-MP3
-#EXTINF:-1 group-title="Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
-http://3303.live.streamtheworld.com/CKXGFMAAC?
-#EXTINF:-1 group-title="Radio",Cool Jazz radio from Vancouver BC. Live Stream
-http://205.250.57.196:8000
-#EXTINF:-1 group-title="Radio",CRPL-FM
-http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",Culture Failure
-http://64.51.127.10:8000/stream/1/
-#EXTINF:-1 group-title="Radio",FM The X – CFBX. Kamloops, B.C. Canada
-http://198.162.21.84:8002
-#EXTINF:-1 group-title="Radio",Guarani Montreal
-http://50.7.77.114:8335/stream
-#EXTINF:-1 group-title="Radio",Karaoke Quebec
-http://69.64.41.64:9560
-#EXTINF:-1 group-title="Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
-http://198.178.123.8:7798
-#EXTINF:-1 group-title="Radio",MIX FM OTTAWA CKLI
-http://204.45.126.170:8179
-#EXTINF:-1 group-title="Radio",MULTIMIX – Online LIVE from Hamilton, Ontario. Canada. multimixradio
-http://64.182.119.196:7640
-#EXTINF:-1 group-title="Radio",Punjabi Radio CANADA
-http://174.37.16.73:5270/Live
-
-#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Radio",Energie 94.3
-http://ckmf-mp3.akacast.akamaistream.net/7/863/102120/v1/astral.akacast.akamaistream.net/ckmf-mp3
-#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Radio",CKOI 96.9
-http://142.4.207.11:8000/ckoi.mp3
-#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Radio",CHOM 97.7
-http://chom-mp3.akacast.akamaistream.net/7/996/102120/v1/astral.akacast.akamaistream.net/chom-mp3
-#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Radio", Boom FM 104.1
-http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
-#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Radio",Rythme FM 105.7
-http://142.4.207.11:8000/cfgl.mp3
-#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Radio", Rouge FM 107.3
-http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
-#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Radio",Radio Circulation 730 (Traffic)
-http://142.4.207.11:8000/ckac.mp3
-#EXTINF:-1 group-title="Radio",Quebec Radio
-http://184.95.52.178:8062
-#EXTINF:-1 group-title="Radio",Radio Patriotique 100% Hip Hop Quebecois 24h/24h
-http://192.81.248.91:8155
-#EXTINF:-1 group-title="Radio",Salamontreal Radio
-http://199.195.194.92:8018
-#EXTINF:-1 group-title="Radio",Steve Madden Quebec
-http://184.95.52.178:9408
-#EXTINF:0 group-title="Radio",Rouge FM Gatineau-Ottawa (CIMF-FM)
-Http://5903.live.streamtheworld.com:443/CIMFFMAAC_SC
-#EXTINF:0 group-title="Radio",104,7FM Gatineau (CKOF-FM)
-Http://142.4.207.11:8000/ckof.mp3
-#EXTINF:0 group-title="Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
-Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC
-#EXTINF:-1 group-title="Radio",Trans Radio Canada
-http://46.105.125.110:4610
-#EXTINF:-1 group-title="Radio",UCB Canada – Chatham-Kent
-http://67.228.150.175:8930
-#EXTINF:-1 group-title="Radio",underGround Quebec
-http://174.142.97.228:8040
-#EXTINF:-1 group-title="Radio",VANCOUVER CHRISTIAN RADIO
-http://198.27.83.198:5166
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",Dublins KISS
-http://uk4.internet-radio.com:15476/
-#EXTINF:-1 group-title="Radio",The Current KCAMP
-http://current.stream.publicradio.org/kcmp.mp3
-#EXTINF:-1  group-title="Radio",BFBS UK
-http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
-#EXTINF:-1  group-title="Radio",Birdsong.fm - Lush relax
-http://lush.wavestreamer.com:7309/
-#EXTINF:-1 group-title="Radio",Birdsong.fm - Spring
-http://spring.wavestreamer.com:1156/
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", COPE ROCK FM
-http://195.55.74.211/cope/rockfm.mp3
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167" group-title="Radio",CKOC Hamilton TSN 1150
-http://5403.live.streamtheworld.com/CKOCAM_SC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=toronto-1050&width=167&height=167" group-title="Radio",CHUM Toronto TSN 1050
-http://8283.live.streamtheworld.com/CHUMAM_SC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&width=167&height=167" group-title="Radio",CKGM Montreal TSN 690
-http://9453.live.streamtheworld.com/CKGMAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=winnipeg-1290&width=167&height=167" group-title="Radio",CFRW Winnepeg TSN 1290
-http://13583.live.streamtheworld.com/CFRWAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=edmonton-1260&width=167&height=167" group-title="Radio",CFRN Edmonton TSN 1260
-http://10813.live.streamtheworld.com/CFRNAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",CKST Vancouver TSN 1040
-http://13683.live.streamtheworld.com/CKSTAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",Vancouver TSN 1410
-http://www.tsn.ca/radio/vancouver-1040-i-1410
-#EXTINF:-1 tvg-logo="http://proxy.amri.ca/sites/default/files/player_image/f4/logo_24.png" group-title="Radio",CFGO OTTAWA TSN 1200
-http://6693.live.streamtheworld.com/CFGOAMAAC
-#EXTINF:-1 group-title="Radio",590 CJCL Toronto Sports Radio “The Fan”
-http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
-#EXT-X-START:TIME-OFFSET=-50
-#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
-BANDWIDTH=48000
-6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=1
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
-BANDWIDTH=48000
-6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=2
-
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25876q.png" group-title="Radio",ESPN Radio
-http://stream.abacast.net/direct/espn-networkmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21297q.png" group-title="Radio",1000 ESPN Chicago
-http://espn.edge-1.target.abacast.net/espn-wmvpmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22469q.png" group-title="Radio",98.7 FM ESPN New York
-http://espn.edge-1.target.abacast.net/espn-wepnmp3-32?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s32301q.png" group-title="Radio",710 AM ESPN LA
-http://edge.espn.cdn.abacast.net/espn-kspnmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", ESPN Deportes Radio
-http://stream.abacast.net/direct/espn-deportes-48?
-EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn590.png" group-title="Radio", CJCL Sportsnet 590 The FAN Toronto
-http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8
-EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn960.png" group-title="Radio", CFAC Sportsnet 960 The FAN Calgary
-http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8
-EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d5456d6e53e4bb76a63217d7.jpg" group-title="Radio", 620 CKRM AM Regina (Saskatchewan Roughriders Games)
-http://ckrm.streamon.fm:8000/CKRM-48k.aac
-#EXTINF:-1 group-title="Radio",Ontario Sports Radio
-http://174.36.206.197:8146
 #EXTINF:0 group-title="group-title="Radio",WNYZ Korea 87.7 FM - 6 LP - New York City - NY New York
 rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:0 group-title="group-title="Radio",KALX 90.7 FM Berkeley
@@ -6943,9 +6937,99 @@ http://listen.alpha.by:8005/;listen.pls?sc
 http://listen.alpha.by:8009/;listen.pls?sc
 #EXTINF: -1 group-title="Radio",Radio Racja
 http://listen.alpha.by:8011/;listen.pls?sc
+#EXTINF:-1 group-title="Radio",SOSH Radio (128)
+http://radio.sosh1020.ru:9919/128.mp3
+#EXTINF:-1 group-title="Radio",SOSH Radio [192 Kbps Stereo]
+http://radio.sosh1020.ru:9919/high.mp3
+#EXTINF:-1 group-title="Radio",SOSH Radio [48Kbps Stereo]
+http://radio.sosh1020.ru:9919/low.mp3
+#EXTINF:-1,SOSH Radio [96Kbps Stereo]
+http://radio.sosh1020.ru:9919/medium.mp3
+#EXTINF:-1 group-title="Radio",SOSH Radio (32)
+http://radio.sosh1020.ru:9919/mobile.mp3
+#EXTINF:-1 group-title="Radio",SCHOOL 1020 Radio (128)
+http://radio.sosh1020.ru:9919/school.mp3
+#EXTINF:-1 group-title="Radio",Verdure Station
+http://95.211.217.163:8881/;
+#EXTINF:-1 group-title="Radio",oshoe
+http://95.211.217.163:8990/oshoe
+#EXTINF:-1 group-title="Radio",radio-m
+http://95.211.217.163:8990/radio-m
+#EXTINF:-1 group-title="Radio",zvpr
+http://95.211.217.163:8990/zvpr
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/uqppyr1435076288.png/medium" group-title="Radio",RÁDIO ANTENA 1
+mms://rdp.oninet.pt/antena1
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/ytvypx1435078130.png/medium" group-title="Radio",RÁDIO ANTENA 2
+rtmp://195.245.168.29:1935/liveradio/ playpath=antena280a swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/vtwvqs1435077533.png/medium" group-title="Radio",RÁDIO ANTENA 3
+mms://rdp.oninet.pt/antena3
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/xpsxsy1435080103.png/medium" group-title="Radio",RÁDIO TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.thelogodb.com/images/media/logo/sqsyux1435094370.png/medium" group-title="Radio",RÁDIO RR
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png" group-title="Radio",RÁDIO OXIGÊNIO
+http://centova.radios.pt:9498
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png" group-title="Radio",RÁDIO CANÇÃO NOVA
+http://rdportugal-lh.akamaihd.net/i/rdportugal_1@191321/index_1_a-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group-title="Radio",Rosario Radio
+http://198.154.106.101:8102
+#EXTINF:-1 group-title="Radio",Caribb Vibes Radio
+http://198.154.106.101:8114
+#EXTINF:-1 group-title="Radio",ABC Tamil
+http://198.154.106.101:8118
+#EXTINF:-1 group-title="Radio",
+http://198.154.106.101:8120
+#EXTINF:-1 group-title="Radio",831 THE MIX
+http://198.154.106.101:8140
+#EXTINF:-1 group-title="Radio",Sawt el Rab Live
+http://198.154.106.101:8142
+#EXTINF:-1 group-title="Radio",Radio Brownsburg
+http://198.154.106.101:8156
+#EXTINF:-1 group-title="Radio",Radio Super Gemini
+http://198.154.106.101:8160
+#EXTINF:-1 group-title="Radio",Reggaeoverdrive Radio
+http://198.154.106.101:8162
+#EXTINF:-1 group-title="Radio",KXRX has Moved
+http://198.154.106.101:8193
+#EXTINF:-1 group-title="Radio",Ariya FM
+http://198.154.106.101:8195
+#EXTINF:-1 group-title="Radio",nineveh radio Stream
+http://198.154.106.101:8202
+#EXTINF:-1 group-title="Radio",none
+http://198.154.106.101:8210
+#EXTINF:-1 group-title="Radio",
+http://198.154.106.101:8212
+#EXTINF:-1 group-title="Radio",KRAT - The RATT Station
+http://198.154.106.101:8216
+#EXTINF:-1 group-title="Radio",Mixed XA Radio Stream
+http://198.154.106.101:8242
+#EXTINF:-1 group-title="Radio",Radio Super Gemini
+http://198.154.106.101:8249
+#EXTINF:-1 group-title="Radio",the first haitian sports network
+http://198.154.106.101:8262
+#EXTINF:-1 group-title="Radio",HatchetRadio Your Station For Entertainment
+http://198.154.106.101:8266
+#EXTINF:-1 group-title="Radio",M
+http://198.154.106.101:8300
+#EXTINF:-1 group-title="Radio",Ruff Radio
+http://198.154.106.101:8308
+#EXTINF:-1 group-title="Radio",Jesus Is Lord FM
+http://198.154.106.101:8314
+#EXTINF:-1 group-title="Radio",Bluegrass MidAmerica Stream
+http://198.154.106.101:8332
+#EXTINF:-1 group-title="Radio",Flying Tree Radio
+http://198.154.106.101:8334
+#EXTINF:-1 group-title="Radio",ELLINIKI RADIOFONIA MANA ELLADA
+http://198.154.106.101:8348
+#EXTINF:-1 group-title="Radio",~ TRIPLAG ~ Dark Psy Trance ~ 99% Full power SHAMANIC PSY
+http://198.154.106.101:8624
+#EXTINF:-1 group-title="Radio",masalabeats Stream
+http://198.154.106.101:8654
+#EXTINF:-1 group-title="Radio",youfm_2
+http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
 
-#EXTINF:-1,--------------Movies--------------
+#EXTINF:-1 group-title="Movies",--------------Movies--------------
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Movies",101 Dalmations
@@ -8535,7 +8619,7 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Yojimbo%20(1961)%20720p%20(Bia2M
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- Game of Thrones ----------------------[/COLOR]
+#EXTINF:-1 group-title="Game of Thrones",[COLOR yellow]---------------------- Game of Thrones ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="GOT S01EP01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg" group-title="Game of Thrones",Game of Thrones Season 1 Episode 1
@@ -8662,7 +8746,7 @@ http://www.deadlyblogger.com/NewRelease/thrones6e9.mp4
 http://www.deadlyblogger.com/NewRelease/thrones6e10.mp4  
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- The Walking Dead ----------------------[/COLOR]
+#EXTINF:-1 group-title="The Walking Dead",[COLOR yellow]---------------------- The Walking Dead ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-name="TWD S01EP01" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 1 Episode 1
@@ -8824,14 +8908,14 @@ http://deadlyblogger.com/NewRelease/walks6e11.mp4
 #EXTINF:-1 tvg-name="TWD S06EP12" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/153021/hdtvlogo/the-walking-dead-56b50d071b866.png" group-title="The Walking Dead",The Walking Dead Season 6 Episode 12
 http://deadlyblogger.com/NewRelease/walks6e12.mp4
 
-#EXTINF:-1,[COLOR yellow]---------Fear The Walking Dead---------[/COLOR]
+#EXTINF:-1 group-title="Fear the Walking Dead",[COLOR yellow]---------Fear The Walking Dead---------[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://33.media.tumblr.com/avatar_28c32ab77b2f_128.png" group-title="The Walking Dead",Fear the Walking Dead – Season 1 Episode 1
+#EXTINF:-1 tvg-logo="https://33.media.tumblr.com/avatar_28c32ab77b2f_128.png" group-title="Fear the Walking Dead",Fear the Walking Dead – Season 1 Episode 1
 http://bit.ly/1TQRwI2
-#EXTINF:-1 tvg-logo="https://33.media.tumblr.com/avatar_28c32ab77b2f_128.png" group-title="The Walking Dead",Fear the Walking Dead – Season 1 Episode 2
+#EXTINF:-1 tvg-logo="https://33.media.tumblr.com/avatar_28c32ab77b2f_128.png" group-title="Fear the Walking Dead",Fear the Walking Dead – Season 1 Episode 2
 http://bit.ly/1Sezpw1
 
-#EXTINF:-1,[COLOR yellow]---------Orange is the New Black---------[/COLOR]
+#EXTINF:-1 group-title="Orange is the New Black",[COLOR yellow]---------Orange is the New Black---------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Orange_is_the_new_Black.png/250px-Orange_is_the_new_Black.png" group-title="Orange is the New Black",Orange is the New Black – Season 1 Episode 1
@@ -8887,7 +8971,7 @@ http://www.deadlyblogger.com/NewRelease/oranges2e12.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Orange_is_the_new_Black.png/250px-Orange_is_the_new_Black.png" group-title="Orange is the New Black",Orange is the New Black – Season 2 Episode 13
 http://www.deadlyblogger.com/NewRelease/oranges2e13.mp4
 
-#EXTINF:-1,[COLOR yellow]---------Daredevil---------[/COLOR]
+#EXTINF:-1 group-title="Daredevil,[COLOR yellow]---------Daredevil---------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://cde.peru.com/ima/0/1/0/4/8/thumb/1048340.jpg" group-title="Daredevil",Daredevil – Season 1 Episode 1
@@ -8917,7 +9001,7 @@ http://www.deadlyblogger.com/NewRelease/daredevils1e12.mp4
 #EXTINF:-1 tvg-logo="http://cde.peru.com/ima/0/1/0/4/8/thumb/1048340.jpg" group-title="Daredevil",Daredevil – Season 1 Episode 13
 http://www.deadlyblogger.com/NewRelease/daredevils1e13.mp4
 
-#EXTINF:-1,[COLOR yellow]---------Firefly---------[/COLOR]
+#EXTINF:-1 group-title="Firefly",[COLOR yellow]---------Firefly---------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS28TFhIGFAj03W8F4bmJmrzmHgswK5vMyxerjEWxHf7TIjl_iF" group-title="Firefly",Firefly – Season 1 Episode 1
@@ -8952,7 +9036,7 @@ http://www.deadlyblogger.com/NewRelease/fireflys1e14.mp4
 http://www.deadlyblogger.com/NewRelease/fireflys1e15.mp4
 
 
-#EXTINF:-1,[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
+#EXTINF:-1 group-title="XXX TV",[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -8975,7 +9059,7 @@ http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/921.ts
 #EXTINF:-1,XXX SEXTOSENTO TV
 http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/923.ts
 
-#EXTINF:-1, [COLOR red]--- XXX-VOD ---[/COLOR]
+#EXTINF:-1 group-title="XXX TV", [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://cache-bitify.netdna-ssl.com/wp-content/uploads/2015/11/private_logo.gif" group-title="XXX TV", xx-vod
@@ -11377,7 +11461,7 @@ http://porn720.net/video/1584/720p.mp4
 http://porn720.net/video/1690/720p.mp4
 
 
-#EXTINF:-1, [COLOR red]--- Uncensored Music Videos ---[/COLOR]
+#EXTINF:-1 group-title="Uncensored Music Videos, [COLOR red]--- Uncensored Music Videos ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Uncensored Music Videos",XXX Music 1
@@ -11427,7 +11511,7 @@ http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
 #EXTINF:-1 group-title="Uncensored Music Videos",XXX Music
 http://zazax1.ru/video/basstr.flv
 
-#EXTINF:-1,[COLOR yellow]---------------The Beatles----------------------[/COLOR]
+#EXTINF:-1 group-title="The Beatles",[COLOR yellow]---------------The Beatles----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:265 group-title="The Beatles",The Beatles - Free As A Bird
@@ -12016,7 +12100,7 @@ http://afewbitsmore.com/albums/Beatles/Past%20Masters/Volume%202/The%20Beatles-P
 http://afewbitsmore.com/albums/Beatles/Past%20Masters/Volume%202/The%20Beatles-Past%20Masters%20Volume%20Two-15%20-%20You%20Know%20My%20Name%20(Look%20Up%20The%20Number).mp3
 
 
-#EXTINF:-1,[COLOR yellow]-----------Webcams---------[/COLOR]
+#EXTINF:-1 group-title="Webcams",[COLOR yellow]-----------Webcams---------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Webcams",SPACE STATION LIVE 2
@@ -12573,7 +12657,84 @@ rtmp://wms-east4.wetmet.net/live/201-03-01
 #EXTINF:0 group-title="Webcams",WTVC CHI Memorial - 9 DT - Chattanooga - TN Tennesse
 rtmp://wms-east4.wetmet.net/live/201-02-01
 
-#EXTINF:-1 tvg-logo="http://tubtub.com/TubTubPhaseIItempSite_files/TubTubPhaseIItempSite_7413_image002.gif",[COLOR yellow]---------------TubTub----------------------[/COLOR]
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",RIBEIRA D´ ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Webcams",JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tubtub.com/TubTubPhaseIItempSite_files/TubTubPhaseIItempSite_7413_image002.gif" group-title="TubTub",[COLOR yellow]---------------TubTub----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://tubtub.com/TubTubPhaseIItempSite_files/TubTubPhaseIItempSite_7413_image002.gif" group-title="TubTub",Popeye TV (mms) 
