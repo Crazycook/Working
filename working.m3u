@@ -3359,6 +3359,17 @@ rtmp://grey.ether.tv:1935/live/pfo/broadcast4
 #EXTINF:-1 group-title="Web Radio",[COLOR yellow]------------ Web Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 group-title="Web Radio",Nostalgie
+Http://www.listenlive.eu/nostalgie_fr.m3u
+#EXTINF:0 group-title="Web Radio",Nostalgie 60's
+Http://www.listenlive.eu/nostalgie_60.m3u
+#EXTINF:0 group-title="Web Radio",Nostalgie 70's
+Http://www.listenlive.eu/nostalgie_70.m3u
+#EXTINF:0 group-title="Web Radio",Nostalgie Chansons francaises
+Http://www.listenlive.eu/nostalgie_chansons.m3u
+#EXTINF:0 group-title="Web Radio",Nostalgie Top 100
+Http://www.listenlive.eu/nostalgie_top100.m3u
+
 #EXTINF:0 tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="Web Radio",DI.FM—VOCAL CHILLOUT
 http://pub2.diforfree.org:8000/di_vocalchillout_hi
 #EXTINF:0 tvg-logo="http://cdn-images.audioaddict.com/a/c/c/c/4/9/accc49b2d1b70feb5b21603d67cc444f.png" group-title="Web Radio",DI.FM—VOCAL LOUNGE
@@ -4467,220 +4478,431 @@ http://streaming304.radionomy.com:80/keepfree60s
 #EXTINF:-1 group-title="Canada Radio",[COLOR yellow]------------  Canada Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
+#EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Canada Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
 http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
-#EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
+#EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Canada Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
 http://208.92.55.61/Q98.mp3
-#EXTINF:0 tvg-logo="http://cjnb.ca/sites/all/themes/cjnb/logo.png" group-title="Radio",CJNB 1050 AM North Battleford Saskatchewan  
+#EXTINF:0 tvg-logo="http://cjnb.ca/sites/all/themes/cjnb/logo.png" group-title="Canada Radio",CJNB 1050 AM North Battleford Saskatchewan  
 http://3103.live.streamtheworld.com/CJNB_SC
-#EXTINF:0 tvg-name="CKLM The Goat 106.1 FM Lloydminster Alberta" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11797q.png" group-title="Radio",CKLM The Goat 106.1 FM Lloydminster Alberta 
+#EXTINF:0 tvg-name="CKLM The Goat 106.1 FM Lloydminster Alberta" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11797q.png" group-title="Canada Radio",CKLM The Goat 106.1 FM Lloydminster Alberta 
 http://s1.hotdogradio.com/CKLM
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 128kbps McGill University
+#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream 128kbps McGill University
 http://icecast.ckut.ca:8000/903fm-128-stereo
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream 192kbps
+#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream 192kbps
 http://icecast.ckut.ca:8000/903fm-192-stereo
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
+#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
 http://icecast.ckut.ca:8000/903fm-64-mono
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
+#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
 http://icecast.ckut.ca:8000/903fm-64-stereo.aac
-#EXTINF:-1 group-title="Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
+#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
 http://icecast.ckut.ca:8000/903fm-q6-stereo.ogg
-#EXTINF: -1 group-title="Radio",- THE HITZ CHANNEL
+#EXTINF: -1 group-title="Canada Radio",- THE HITZ CHANNEL
 http://live.hunterfm.com/hitz320
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s12569q.png" group-title="Radio",90.5 | CFCR Saskatoon(Community)
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s12569q.png" group-title="Canada Radio",90.5 | CFCR Saskatoon(Community)
 
 http://onair.cfcr.ca/hifi.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s265016q.png" group-title="Radio",Guerrilla Radio (Chill)
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s265016q.png" group-title="Canada Radio",Guerrilla Radio (Chill)
 
 http://174.37.16.73:8291/
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",91.3 | CJTR (Community)
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Canada Radio",91.3 | CJTR (Community)
 
 http://108.178.13.122:8152/
 
-#EXTINF:-1 group-title="Radio",( ONLYROCKFM ) La seule radio rock et metal de Montreal ! (ONLYROCKFM)
+#EXTINF:-1 group-title="Canada Radio",( ONLYROCKFM ) La seule radio rock et metal de Montreal ! (ONLYROCKFM)
 http://94.23.205.82:4520
-#EXTINF:-1 group-title="Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
+#EXTINF:-1 group-title="Canada Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
 http://192.99.4.210:3290/stream
-#EXTINF:-1 group-title="Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
+#EXTINF:-1 group-title="Canada Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
 http://live.leanstream.co/CISNFM-MP3
-#EXTINF:-1 group-title="Radio",105.1 MHz – CKRY-FM Edmonton, AB
+#EXTINF:-1 group-title="Canada Radio",105.1 MHz – CKRY-FM Edmonton, AB
 http://live.leanstream.co/CKRYFM-MP3
-#EXTINF:-1 group-title="Radio",1490 MHz – CJOY-AM
+#EXTINF:-1 group-title="Canada Radio",1490 MHz – CJOY-AM
 http://live.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 group-title="Radio",630 kHz – CHED-AM Edmonton
+#EXTINF:-1 group-title="Canada Radio",630 kHz – CHED-AM Edmonton
 http://live.leanstream.co/CHEDAM-MP3?
-#EXTINF:-1 group-title="Radio",770 kHz – CHQR-FM Edmonton, AB
+#EXTINF:-1 group-title="Canada Radio",770 kHz – CHQR-FM Edmonton, AB
 http://live.leanstream.co/CHQRAM-MP3?tunein
-#EXTINF:-1 group-title="Radio",91.7 MHz – CHBH-FM The Bounce, Edmonton, AB
+#EXTINF:-1 group-title="Canada Radio",91.7 MHz – CHBH-FM The Bounce, Edmonton, AB
 http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917
-#EXTINF:-1 group-title="Radio",CFLG-FM Variety 104
+#EXTINF:-1 group-title="Canada Radio",CFLG-FM Variety 104
 http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
+#EXTINF:-1 group-title="Canada Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
 http://hal929.akacast.akamaistream.net/7/220/79488/v1/rogers.akacast.akamaistream.net/hal929
-#EXTINF:-1 group-title="Radio",CFMI-FM
+#EXTINF:-1 group-title="Canada Radio",CFMI-FM
 http://live.leanstream.co/CFMIFM-MP3
-#EXTINF:-1 group-title="Radio",CFMK-FM FM 96 Kington
+#EXTINF:-1 group-title="Canada Radio",CFMK-FM FM 96 Kington
 http://live.leanstream.co/CFMKFM-MP3
-#EXTINF:-1 group-title="Radio",CFNY-FM 102.1 The Edge
+#EXTINF:-1 group-title="Canada Radio",CFNY-FM 102.1 The Edge
 http://live.leanstream.co/CFNYFM-MP3
-#EXTINF:-1 group-title="Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
+#EXTINF:-1 group-title="Canada Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
 http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",CFRQ-FM Dartmouth, NS, Canada
+#EXTINF:-1 group-title="Canada Radio",CFRQ-FM Dartmouth, NS, Canada
 http://6093.live.streamtheworld.com/CFRQFMAAC?
-#EXTINF:-1 group-title="Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
+#EXTINF:-1 group-title="Canada Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
 http://206.190.130.180:8028/ozfm.aac
-#EXTINF:-1 group-title="Radio",CIMJ-FM MAGIC 106
+#EXTINF:-1 group-title="Canada Radio",CIMJ-FM MAGIC 106
 http://live.leanstream.co/CIMJFM-MP3
-#EXTINF:-1 group-title="Radio",CIQB-FM B101
+#EXTINF:-1 group-title="Canada Radio",CIQB-FM B101
 http://live.leanstream.co/CIQBFM-MP3
-#EXTINF:-1 group-title="Radio",CJKR-FM POWER 97 Winnipeg
+#EXTINF:-1 group-title="Canada Radio",CJKR-FM POWER 97 Winnipeg
 http://live.leanstream.co/CJKRFM-MP3
-#EXTINF:-1,CJNI-FM 95.7 FM Halifax, NS
+#EXTINF:-1 group-title="Canada Radio",CJNI-FM 95.7 FM Halifax, NS
 http://hal957.akacast.akamaistream.net/7/280/80893/v1/rogers.akacast.akamaistream.net/hal957
-#EXTINF:-1 group-title="Radio",CJRS Radio Montreal
+#EXTINF:-1 group-title="Canada Radio",CJRS Radio Montreal
 http://68.168.122.124:8138
-#EXTINF:-1 group-title="Radio",CJSS-FM 101.9 Greatest Hits
+#EXTINF:-1 group-title="Canada Radio",CJSS-FM 101.9 Greatest Hits
 http://live.leanstream.co/CJSSFM-MP3
-#EXTINF:-1 group-title="Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
+#EXTINF:-1 group-title="Canada Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
 http://130.179.97.69:8080
-#EXTINF:-1 group-title="Radio",CKBT-FM 91.5 The Beat
+#EXTINF:-1 group-title="Canada Radio",CKBT-FM 91.5 The Beat
 http://live.leanstream.co/CKBTFM-MP3
-#EXTINF:-1 group-title="Radio",CKCB-FM The Peak
+#EXTINF:-1 group-title="Canada Radio",CKCB-FM The Peak
 http://live.leanstream.co/CKCBFM-MP3
-#EXTINF:-1 group-title="Radio",CKCM-AM 620 AM Grand Falls-Windsor, NL, Canada
+#EXTINF:-1 group-title="Canada Radio",CKCM-AM 620 AM Grand Falls-Windsor, NL, Canada
 http://1842.live.streamtheworld.com/CKCMAMAAC?
-#EXTINF:-1,CKDK-FM 103.9 Woodstock, ON
+#EXTINF:-1 group-title="Canada Radio",CKDK-FM 103.9 Woodstock, ON
 http://live.leanstream.co/CKDKFM-MP3
-#EXTINF:-1 group-title="Radio",CKOE FM Moncton New Brunswick Canada
+#EXTINF:-1 group-title="Canada Radio",CKOE FM Moncton New Brunswick Canada
 http://173.193.205.96:8110
-#EXTINF:-1 group-title="Radio",CKRU-FM 100.5 Greatest Hits
+#EXTINF:-1 group-title="Canada Radio",CKRU-FM 100.5 Greatest Hits
 http://live.leanstream.co/CKRUFM-MP3
-#EXTINF:-1 group-title="Radio",CKWF-FM The Wolf
+#EXTINF:-1 group-title="Canada Radio",CKWF-FM The Wolf
 http://live.leanstream.co/CKWFFM-MP3
-#EXTINF:-1 group-title="Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
+#EXTINF:-1 group-title="Canada Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
 http://3303.live.streamtheworld.com/CKXGFMAAC?
-#EXTINF:-1 group-title="Radio",Cool Jazz radio from Vancouver BC. Live Stream
+#EXTINF:-1 group-title="Canada Radio",Cool Jazz radio from Vancouver BC. Live Stream
 http://205.250.57.196:8000
-#EXTINF:-1 group-title="Radio",CRPL-FM
+#EXTINF:-1 group-title="Canada Radio",CRPL-FM
 http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Radio",Culture Failure
+#EXTINF:-1 group-title="Canada Radio",Culture Failure
 http://64.51.127.10:8000/stream/1/
-#EXTINF:-1 group-title="Radio",FM The X – CFBX. Kamloops, B.C. Canada
+#EXTINF:-1 group-title="Canada Radio",FM The X – CFBX. Kamloops, B.C. Canada
 http://198.162.21.84:8002
-#EXTINF:-1 group-title="Radio",Guarani Montreal
+#EXTINF:-1 group-title="Canada Radio",Guarani Montreal
 http://50.7.77.114:8335/stream
-#EXTINF:-1 group-title="Radio",Karaoke Quebec
+#EXTINF:-1 group-title="Canada Radio",Karaoke Quebec
 http://69.64.41.64:9560
-#EXTINF:-1 group-title="Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
+#EXTINF:-1 group-title="Canada Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
 http://198.178.123.8:7798
-#EXTINF:-1 group-title="Radio",MIX FM OTTAWA CKLI
+#EXTINF:-1 group-title="Canada Radio",MIX FM OTTAWA CKLI
 http://204.45.126.170:8179
-#EXTINF:-1 group-title="Radio",MULTIMIX – Online LIVE from Hamilton, Ontario. Canada. multimixradio
+#EXTINF:-1 group-title="Canada Radio",MULTIMIX – Online LIVE from Hamilton, Ontario. Canada. multimixradio
 http://64.182.119.196:7640
-#EXTINF:-1 group-title="Radio",Punjabi Radio CANADA
+#EXTINF:-1 group-title="Canada Radio",Punjabi Radio CANADA
 http://174.37.16.73:5270/Live
 
-#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Radio",Energie 94.3
+#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Canada Radio",Energie 94.3
 http://ckmf-mp3.akacast.akamaistream.net/7/863/102120/v1/astral.akacast.akamaistream.net/ckmf-mp3
-#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Radio",CKOI 96.9
+#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Canada Radio",CKOI 96.9
 http://142.4.207.11:8000/ckoi.mp3
-#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Radio",CHOM 97.7
+#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Canada Radio",CHOM 97.7
 http://chom-mp3.akacast.akamaistream.net/7/996/102120/v1/astral.akacast.akamaistream.net/chom-mp3
-#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Radio", Boom FM 104.1
+#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Canada Radio", Boom FM 104.1
 http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
-#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Radio",Rythme FM 105.7
+#EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Canada Radio",Rythme FM 105.7
 http://142.4.207.11:8000/cfgl.mp3
-#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Radio", Rouge FM 107.3
+#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Canada Radio", Rouge FM 107.3
 http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
-#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Radio",Radio Circulation 730 (Traffic)
+#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Canada Radio",Radio Circulation 730 (Traffic)
 http://142.4.207.11:8000/ckac.mp3
-#EXTINF:-1 group-title="Radio",Quebec Radio
+#EXTINF:-1 group-title="Canada Radio",Quebec Radio
 http://184.95.52.178:8062
-#EXTINF:-1 group-title="Radio",Radio Patriotique 100% Hip Hop Quebecois 24h/24h
+#EXTINF:-1 group-title="Canada Radio",Radio Patriotique 100% Hip Hop Quebecois 24h/24h
 http://192.81.248.91:8155
-#EXTINF:-1 group-title="Radio",Salamontreal Radio
+#EXTINF:-1 group-title="Canada Radio",Salamontreal Radio
 http://199.195.194.92:8018
-#EXTINF:-1 group-title="Radio",Steve Madden Quebec
+#EXTINF:-1 group-title="Canada Radio",Steve Madden Quebec
 http://184.95.52.178:9408
-#EXTINF:0 group-title="Radio",Rouge FM Gatineau-Ottawa (CIMF-FM)
+#EXTINF:0 group-title="Canada Radio",Rouge FM Gatineau-Ottawa (CIMF-FM)
 Http://5903.live.streamtheworld.com:443/CIMFFMAAC_SC
-#EXTINF:0 group-title="Radio",104,7FM Gatineau (CKOF-FM)
+#EXTINF:0 group-title="Canada Radio",104,7FM Gatineau (CKOF-FM)
 Http://142.4.207.11:8000/ckof.mp3
 #EXTINF:0 group-title="Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
 Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC
-#EXTINF:-1 group-title="Radio",Trans Radio Canada
+#EXTINF:-1 group-title="Canada Radio",Trans Radio Canada
 http://46.105.125.110:4610
-#EXTINF:-1 group-title="Radio",UCB Canada – Chatham-Kent
+#EXTINF:-1 group-title="Canada Radio",UCB Canada – Chatham-Kent
 http://67.228.150.175:8930
-#EXTINF:-1 group-title="Radio",underGround Quebec
+#EXTINF:-1 group-title="Canada Radio",underGround Quebec
 http://174.142.97.228:8040
-#EXTINF:-1 group-title="Radio",VANCOUVER CHRISTIAN RADIO
+#EXTINF:-1 group-title="Canada Radio",VANCOUVER CHRISTIAN RADIO
 http://198.27.83.198:5166
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="Radio",Dublins KISS
-http://uk4.internet-radio.com:15476/
-#EXTINF:-1 group-title="Radio",The Current KCAMP
-http://current.stream.publicradio.org/kcmp.mp3
-#EXTINF:-1  group-title="Radio",BFBS UK
-http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
-#EXTINF:-1  group-title="Radio",Birdsong.fm - Lush relax
-http://lush.wavestreamer.com:7309/
-#EXTINF:-1 group-title="Radio",Birdsong.fm - Spring
-http://spring.wavestreamer.com:1156/
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", COPE ROCK FM
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Canada Radio", COPE ROCK FM
 http://195.55.74.211/cope/rockfm.mp3
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167" group-title="Radio",CKOC Hamilton TSN 1150
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167" group-title="Canada Radio",CKOC Hamilton TSN 1150
 http://5403.live.streamtheworld.com/CKOCAM_SC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=toronto-1050&width=167&height=167" group-title="Radio",CHUM Toronto TSN 1050
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=toronto-1050&width=167&height=167" group-title="Canada Radio",CHUM Toronto TSN 1050
 http://8283.live.streamtheworld.com/CHUMAM_SC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&width=167&height=167" group-title="Radio",CKGM Montreal TSN 690
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&width=167&height=167" group-title="Canada Radio",CKGM Montreal TSN 690
 http://9453.live.streamtheworld.com/CKGMAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=winnipeg-1290&width=167&height=167" group-title="Radio",CFRW Winnepeg TSN 1290
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=winnipeg-1290&width=167&height=167" group-title="Canada Radio",CFRW Winnepeg TSN 1290
 http://13583.live.streamtheworld.com/CFRWAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=edmonton-1260&width=167&height=167" group-title="Radio",CFRN Edmonton TSN 1260
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=edmonton-1260&width=167&height=167" group-title="Canada Radio",CFRN Edmonton TSN 1260
 http://10813.live.streamtheworld.com/CFRNAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",CKST Vancouver TSN 1040
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Canada Radio",CKST Vancouver TSN 1040
 http://13683.live.streamtheworld.com/CKSTAMAAC
-#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Radio",Vancouver TSN 1410
+#EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Canada Radio",Vancouver TSN 1410
 http://www.tsn.ca/radio/vancouver-1040-i-1410
-#EXTINF:-1 tvg-logo="http://proxy.amri.ca/sites/default/files/player_image/f4/logo_24.png" group-title="Radio",CFGO OTTAWA TSN 1200
+#EXTINF:-1 tvg-logo="http://proxy.amri.ca/sites/default/files/player_image/f4/logo_24.png" group-title="Canada Radio",CFGO OTTAWA TSN 1200
 http://6693.live.streamtheworld.com/CFGOAMAAC
-#EXTINF:-1 group-title="Radio",590 CJCL Toronto Sports Radio “The Fan”
+#EXTINF:-1 group-title="Canada Radio",590 CJCL Toronto Sports Radio “The Fan”
 http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
-EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn590.png" group-title="Radio", CJCL Sportsnet 590 The FAN Toronto
+EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn590.png" group-title="Canada Radio", CJCL Sportsnet 590 The FAN Toronto
 http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8
-EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn960.png" group-title="Radio", CFAC Sportsnet 960 The FAN Calgary
+EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn960.png" group-title="Canada Radio", CFAC Sportsnet 960 The FAN Calgary
 http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8
-EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d5456d6e53e4bb76a63217d7.jpg" group-title="Radio", 620 CKRM AM Regina (Saskatchewan Roughriders Games)
+EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d5456d6e53e4bb76a63217d7.jpg" group-title="Canada Radio", 620 CKRM AM Regina (Saskatchewan Roughriders Games)
 http://ckrm.streamon.fm:8000/CKRM-48k.aac
-#EXTINF:-1 group-title="Radio",Ontario Sports Radio
+#EXTINF:-1 group-title="Canada Radio",Ontario Sports Radio
 http://174.36.206.197:8146
-
+#EXTINF:-1 group-title="Canada Radio",Radio Canada Internationale
+http://82.200.209.236:8000/rci
 
 #EXTINF:-1 group-title="USA Radio",[COLOR yellow]------------  USA Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXT-X-START:TIME-OFFSET=-50
-#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
+#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="USA Radio", 1520 WWKB Buffalo ESPN Radio
 BANDWIDTH=48000
 6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=1
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="Radio", 1520 WWKB Buffalo ESPN Radio
+#EXT-X-STREAM-INF:PROGRAM-ID=1 group-title="USA Radio", 1520 WWKB Buffalo ESPN Radio
 BANDWIDTH=48000
 6becb7c58d812a652ec2a75763531a75/espn-network-cloud.m3u8?p=2
 
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25876q.png" group-title="Radio",ESPN Radio
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25876q.png" group-title="USA Radio",ESPN Radio
 http://stream.abacast.net/direct/espn-networkmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21297q.png" group-title="Radio",1000 ESPN Chicago
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s21297q.png" group-title="USA Radio",1000 ESPN Chicago
 http://espn.edge-1.target.abacast.net/espn-wmvpmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22469q.png" group-title="Radio",98.7 FM ESPN New York
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s22469q.png" group-title="USA Radio",98.7 FM ESPN New York
 http://espn.edge-1.target.abacast.net/espn-wepnmp3-32?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s32301q.png" group-title="Radio",710 AM ESPN LA
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s32301q.png" group-title="USA Radio",710 AM ESPN LA
 http://edge.espn.cdn.abacast.net/espn-kspnmp3-48?
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Radio", ESPN Deportes Radio
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="USA Radio", ESPN Deportes Radio
 http://stream.abacast.net/direct/espn-deportes-48?
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="USA Radio",Easy Hits Florida 
+http://us1.internet-radio.com:8180/
+
+#EXTINF:0 group-title="USA Radio",Easy Hit Florida
+Http://uk3.internet-radio.com:8136
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="USA Radio",Classic Rock Florida - SHE Radio 
+http://us1.internet-radio.com:8105/
+
+#EXTINF:0 group-title="USA Radio",89.3 KPCC - Southern California Public Radio
+
+http://kpcclive1.publicradio.org:80/
+#EXTINF:0 group-title="USA Radio",Classic Rock California
+Http://listen.radionomy.com/classicrockcaliforniacom.m3u
+#EXTINF:0 group-title="USA Radio", Detour Talk Radio US
+http://thedetour.us/player/talk.pls
+#EXTINF:0 group-title="USA Radio",Magic Oldies Florida
+Http://us1.internet-radio.com:15919
+#EXTINF:0 group-title="USA Radio", Alex Jones - Infowars.com
+http://stream.infowars.com
+#EXTINF:0 group-title="USA Radio",Motown Magic Oldies
+Http://uk3.internet-radio.com:8126
+#EXTINF:0 group-title="USA Radio",WMNF HD-3 The Source - WMNF Tampa 88.5 FM HD-3
+
+http://stream.wmnf.org:8000/wmnf_hd3
+
+#EXTINF:-1 group-title="USA Radio", Radio: NASHVILLE R and R
+http://us2.internet-radio.com:8073/
+#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="USA Radio",Fm Cafe Channel (Radio) (US) (English)
+http://stream.north.kz:8000/16bitcafe
+#EXTINF:0 group-title="USA Radio",WMFE - WMFE - HD2
+
+http://64.202.98.133:2320
+
+#EXTINF:0 group-title="USA Radio",Colorado Public Radio Classical Music
+
+http://www.cpr.org/listen/live_classical_mp3.pls
+
+#EXTINF:0 group-title="USA Radio",Colorado Public Radio Open Air
+
+http://www.cpr.org/listen/live_openair_mp3.pls
+#EXTINF:0 group-title="USA Radio",Detour Talk Radio US
+
+http://thedetour.us/player/talk.pls
+
+#EXTINF:0 group-title="USA Radio",KALX 90.7 FM Berkeley
+http://icecast.media.berkeley.edu:8000/kalx-128.mp3
+#EXTINF:-1 group-title="USA Radio",KNYO Fort Bragg California Community Radio
+http://airtime.knyo.org:8040/128
+#EXTINF:-1 group-title="USA Radio",All Classical Portland aac96
+http://allclassical-ice.streamguys.com/ac96kmp3
+#EXTINF:-1 group-title="USA Radio",All Classical FM - KQAC 3
+http://allclassical-ice.streamguys.com/ac32kmp3
+#EXTINF:-1 group-title="USA Radio",All Classical Portland ac96
+http://allclassical-ice.streamguys.com/ac96k
+#EXTINF:0 group-title="USA Radio",Classical WETA 90.9 FM - Washington D.C.
+Http://38.100.128.106:8000/listen.pls?sid=1
+#EXTINF:0 group-title="USA Radio",Classic Rock Florida HD
+Http://us2.internet-radio.com:8039
+#EXTINF:0 group-title="USA Radio",Classic Rock Florida
+Http://us2.internet-radio.com:8046
+#EXTINF:0 group-title="USA Radio",Classic Rock Miami
+Http://us2.internet-radio.com:8191
+#EXTINF:0 group-title="USA Radio",Classic Rock Miami HD
+Http://us2.internet-radio.com:8050
+#EXTINF:0 group-title="USA Radio",Classic Rock New York - WWWSHERADIOCOM
+Http://us2.internet-radio.com:8347
+#EXTINF:0 tvg-name="CBS HD" tvg-language="English" tvg-country="US" tvg-id="181.FM – Good Time Oldies" tvg-logo="http://cdn-radiotime-logos.tunein.com/s90409q.png" group-title="USA Radio",CBS HD (Radio) (US) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8046/listen.pls&t=.m3u
+#EXTINF:0 tvg-name="Fm Cafe Channel" tvg-language="English" tvg-country="US" tvg-id="Fm Cafe Channel" tvg-logo="http://www.16bit.fm/wp-content/uploads/2012/09/cafe_channel_v.1.2_2012.jpg" group-title="USA Radio",Fm Cafe Channel
+http://stream.north.kz:8000/16bitcafe
+#EXTINF:0 tvg-name="Magic Oldies Florida" tvg-language="English" tvg-country="US" tvg-id="Magic Oldies Florida" tvg-logo="https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/s526x395/10313521_788324434568662_7329785171531574860_n.jpg?oh=84a76c464b795a04bd59b86a3514c6a1&oe=565D86AC&__gda__=1453557404_a153306cbeece62b43ff881c30fe083a" group-title="USA Radio",Magic Oldies Florida (Radio) (US) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us1.internet-radio.com:15919/listen.pls&t=.m3u
+#EXTINF:0 group-title="USA Radio",CBS HD (Radio) (US) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8046/listen.pls&t=.m3u
+#EXTINF:0 group-title="USA Radio",Magic Oldies Florida (Radio) (US) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us1.internet-radio.com:15919/listen.pls&t=.m3u
+#EXTINF:0 group-title="USA Radio",WNYZ Korea 87.7 FM - 6 LP - New York City - NY New York
+rtmp://krblive.com:1935/877live/stream_aac
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="USA Radio",WGLT radio
+http://wgltradio.ilstu.edu:8000/wgltmain.mp3
+#EXTINF:-1 group-title="USA Radio",LA PRIMERA 87.7 FM LAS VEGAS NV
+http://82.200.209.236:8000/kexp
+
+#EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------ U.K. Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
 
 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="U.K. Radio",BBC - Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="U.K. Radio",BBC1
+http://82.200.209.236:8000/bbc1
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="U.K. Radio",BBC - Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="U.K. Radio",BBC2
+http://82.200.209.236:8000/bbc2
+#EXTINF:-1 group-title="U.K. Radio",BBC3
+http://82.200.209.236:8000/bbc3
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="U.K. Radio",BBC - Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="U.K. Radio" group-title="Radio",BBC4
+http://82.200.209.236:8000/bbc4
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBC - Radio 5 live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBC5
+http://82.200.209.236:8000/bbc5
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="U.K. Radio",BBC - Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="U.K. Radio",BBC6
+http://82.200.209.236:8000/bbc6
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBC 1 Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBCxTra
+http://82.200.209.236:8000/bbc1xtra
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/44/BBC_Radio_5_Live_Sports_Extra.svg/revision/latest/scale-to-width-down/250?cb=20091108151831" group-title="U.K. Radio",BBC 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBC 5 Live Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5extra_mf_p
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",BBC World Service
+http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8
+#EXTINF:-1 group-title="U.K. Radio",BBC7
+http://82.200.209.236:8000/bbc7
+#EXTINF:-1 group-title="U.K. Radio",BBCworld
+http://82.200.209.236:8000/bbcrus
+#EXTINF:0 group-title="U.K. Radio",Minster Radio Uk
+Http://str1.sad.ukrd.com/minster.m3u
+#EXTINF:0 group-title="U.K. Radio",The voice Uk
+Http://www.rosi-systems.com:8000/thevoice.mp3.m3u
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s20326q.png" group-title="U.K. Radio",Dublins KISS
+http://uk4.internet-radio.com:15476/
+#EXTINF:-1 group-title="U.K. Radio",The Current KCAMP
+http://current.stream.publicradio.org/kcmp.mp3
+#EXTINF:-1  group-title="U.K. Radio",BFBS UK
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",KISS Hits
+http://uk4.internet-radio.com:10911/
+
+#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="U.K. Radio",Undergroundfm 
+http://uk1.internet-radio.com:8093/
+
+#EXTINF:0 group-title="U.K. Radio",Zenith Classic Rock Dublin
+Http://148.163.81.10/listen.pls?sid=1:8006
+#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="U.K. Radio",Champion 5768 FM (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
+http://uk4.internet-radio.com:15476/
+#EXTINF:0 group-title="U.K. Radio",1FM Music From The 1960s thru Today! (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:8008/listen.pls&t=.m3u
+#EXTINF:0 group-title="U.K. Radio",Box UK Radio danceradiouk (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:31076/listen.pls&t=.m3u
+#EXTINF:0 group-title="U.K. Radio",Champion 5768 FM (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
+#EXTINF:0 tvg-name="Box UK Radio danceradiouk" tvg-language="English" tvg-country="UK" tvg-id="Box UK Radio danceradiouk" tvg-logo="http://danceradiouk.com/wp-content/uploads/2014/06/box11.png" group-title="U.K. Radio",Box UK Radio danceradiouk (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:31076/listen.pls&t=.m3u
+#EXTINF:0 tvg-name="Champion 5768 FM" tvg-language="English" tvg-country="UK" tvg-id="Champion 5768 FM" tvg-logo="https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-0/s480x480/10670126_513472555467504_3005258150533487784_n.jpg?oh=1827c89702f21dc97278ef8ffd234ff5&oe=566643C3&__gda__=1453446813_4934b4b55eae2572c2b4f51944077db2" group-title="U.K. Radio",Champion 5768 FM (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
+#EXTINF:0 tvg-name="Kiss Hits" tvg-language="English" tvg-country="UK" tvg-id="Kiss Hits" tvg-logo="http://www.utalkmarketing.com/pages/fsImageResize.aspx?fname=../UTMImages/2/4102007_155227_Kiss_logo.jpg&w=352&h=249" group-title="U.K. Radio",Kiss Hits (Radio) (UK) (English)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:10911/listen.pls&t=.m3u
+
+#EXTINF:-1 group-title="Czech RepublicRadio",[COLOR yellow]------------  Czech Republic Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF: -1 group-title="Czech RepublicRadio",MAX
+http://mp3stream4.abradio.cz/max128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Country
+http://mp3stream4.abradio.cz/country128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Hip Hop Vibes Radio
+http://mp3stream4.abradio.cz/hiphopvibes128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Depeche Mode
+http://mp3stream4.abradio.cz/depeche128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",faktor
+http://mp3stream.abradio.cz/faktor128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Madonna
+http://mp3stream4.abradio.cz/madonna128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",24 Pulawy
+http://mp3stream3.abradio.cz/pulawy128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Frontinus
+http://mp3stream3.abradio.cz/frontinus128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Tip Radio
+http://mp3stream3.abradio.cz/tipradio128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",Radio Humor
+http://mp3stream4.abradio.cz/humor128.mp3
+#EXTINF: -1 group-title="Czech RepublicRadio",SeeJay Radio
+http://mp3stream.abradio.cz/seejay128.mp3
+
+#EXTINF:-1 group-title="France Radio",[COLOR yellow]------------  France Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="France Radio",M2 80's
+Http://www.m2radio.fr/pls/m280.m3u
+#EXTINF:0 group-title="France Radio",M2 90's
+Http://www.m2radio.fr/pls/m290.m3u
+#EXTINF:0 group-title="France Radio",M2 Hit's
+Http://www.m2radio.fr/pls/m2hit.m3u
+#EXTINF:0 group-title="France Radio",M2 Club
+Http://www.m2radio.fr/pls/m2club.m3u
+#EXTINF:0 group-title="France Radio",M2 Love
+Http://www.m2radio.fr/pls/m2love.m3u
+#EXTINF:0 group-title="France Radio",M2 Rock
+Http://www.m2radio.fr/pls/m2rock.m3u
+#EXTINF:0 group-title="France Radio",M2 Sunshine
+Http://www.m2radio.fr/pls/m2sunshine.m3u
+#EXTINF:0 group-title="France Radio",M2 Funk
+Http://www.m2radio.fr/pls/m2funk.m3u
+#EXTINF:0 group-title="France Radio",M2 Chillout
+Http://www.m2radio.fr/pls/m2chillout.m3u
+#EXTINF:0 group-title="France Radio",M2 Caliente
+Http://www.m2radio.fr/pls/m2caliente.m3u
+#EXTINF:0 group-title="France Radio",MFM
+Http://mfm.ice.infomaniak.ch/playlists/mfm-128.mp3.m3u
+#EXTINF:0 group-title="France Radio",MFM Sexy
+Http://mfm-wr3.ice.infomaniak.ch/playlists/mfm-wr3-128.mp3.m3u
+#EXTINF:0 group-title="France Radio",MFM Sérenité
+Http://mfm-wr2.ice.infomaniak.ch/playlists/mfm-wr2-128.mp3.m3u
+#EXTINF:0 group-title="France Radio",MFM Flashback
+Http://mfm-wr4.ice.infomaniak.ch/playlists/mfm-wr4-64.mp3.m3u
+#EXTINF:0 group-title="France Radio",OUI FM
+Http://broadcast.infomaniak.ch/ouifm-high.mp3.m3u
+#EXTINF:0 group-title="France Radio",OUI FM Alternatif
+Http://broadcast.infomaniak.net/ouifm2.mp3.m3u
+#EXTINF:0 group-title="France Radio",Lala Radio
+Http://broadcast.infomaniak.ch/lalaradio-high.mp3.m3u
+#EXTINF:0 group-title="France Radio",Radioaviva Montpellier
+Http://stream.franclr.fr:8000/radioaviva.m3u
 
 #EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------  Greece Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -5614,6 +5836,235 @@ mms://live.istoikona.com/zenith
 #EXTINF:0 group-title="Radio",ZOO RADIO 90.8
 http://s10.voscast.com:9940/;
 
+#EXTINF:-1 group-title="Singapore Radio",[COLOR yellow]------------ Singapore Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg" group-title="Singapore Radio",Ria 89.7 Singapore 
+http://mediacorp.rastream.com/897fm
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM.jpg" group-title="Singapore Radio",Gold 90.5 FM Singapore| 
+http://mediacorp.rastream.com/905fm
+#EXTINF:0 group-title="Singapore Radio",91.3 Hot FM Singapore 
+http://sph.rastream.com/913fm
+#EXTINF:0 group-title="Singapore Radio",Kiss 92.0 Singapore 
+http://sph.rastream.com/sph-kiss92
+#EXTINF:0 group-title="Singapore Radio",Symphony 92.4 Singapore 
+http://mediacorp.rastream.com/924fm
+#EXTINF:0 group-title="Singapore Radio",Yes 93.3 Singapore
+http://mediacorp.rastream.com/933fm
+#EXTINF:0 group-title="Singapore Radio",93.8 Live Singapore 
+http://mediacorp.rastream.com/938fm
+#EXTINF:0 group-title="Singapore Radio",Warna 94.2 Singapore 
+http://mediacorp.rastream.com/942fm
+#EXTINF:0 group-title="Singapore Radio",Class 95.0 Singapore 
+http://mediacorp.rastream.com/950fm
+#EXTINF:0 group-title="Singapore Radio",95.8 Capital Singapore 
+http://mediacorp.rastream.com/958fm
+#EXTINF:0 group-title="Singapore Radio",XFM 96.3 Singapore 
+http://mediacorp.rastream.com/963fm
+#EXTINF:0 group-title="Singapore Radio",Love 97.2 Singapore 
+http://mediacorp.rastream.com/972fm
+#EXTINF:0 group-title="Singapore Radio",98.7 FM Singapore 
+http://mediacorp.rastream.com/987fm
+#EXTINF:0 group-title="Singapore Radio",Lush 99.5 Singapore 
+http://mediacorp.rastream.com/995fm
+#EXTINF:0 group-title="Singapore Radio",UFM 100.3 Singapore 
+http://sph.rastream.com/1003fm
+
+#EXTINF:-1 group-title="Switzerland Radio",[COLOR yellow]------------ Switzerland Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Switzerland Radio",LaFabrik Suisse
+Http://stream.lafabrik.ch/lafabrik.m3u
+#EXTINF:0 group-title="Switzerland Radio",Vibration FM Suise
+Http://vibration.stream2net.eu:8130/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibration PopRock Suisse
+Http://vibrationpoprock.stream2net.eu:8260/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibration Latina Suisse
+Http://vibracionlatina.stream2net.eu:8410/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibratio classic hit Suisse
+Http://vibrationclassic80.stream2net.eu:8060/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Yes FM Suisse
+Http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u
+#EXTINF:0 group-title="Switzerland Radio",Rouge MadeInFrance Suisse
+Http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u
+#EXTINF:0 group-title="Switzerland Radio",Swiss Internet Radio - Public Domain Classical 
+http://82.197.165.137:80
+
+#EXTINF:0 group-title="Switzerland Radio",Public Domain Jazz - Swiss Internet Radio
+
+http://82.197.167.138:80
+
+#EXTINF:-1 group-title="Switzerland Radio",Radio Monte Carlo Swiss
+http://82.200.209.236:8000/mc-it
+
+#EXTINF:-1 group-title="Portugal Radio",[COLOR yellow]------------ Portugal Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Radio", 94FM (Portugal)
+http://195.8.58.150:35022/;stream.nsv
+#EXTINF:0 tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Portugal Radio", ANTENA 1 (Portugal)
+mms://rdp.oninet.pt/antena1
+#EXTINF:0 tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Portugal Radio", ANTENA 3 (Portugal)
+mms://rdp.oninet.pt/antena3
+#EXTINF:0 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Portugal Radio", AMÁLIA (Portugal)
+http://stream.radio.com.pt:9496/stream
+#EXTINF:0 tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Portugal Radio", HIPER FM (Portugal)
+http://85.25.73.243:10460/
+#EXTINF:0 group-title="Portugal Radio" tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Marginal184x184.png", Rádio Marginal (Portugal)
+mms://stream.radio.com.pt/ROLI-ENC-499
+#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Portugal Radio", MEGA FM (Portugal)
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+#EXTINF:0 group-title="Portugal Radio" tvg-logo="http://www.radionovaera.pt/media/logo2.png", Rádio Nova Era (Portugal)
+mms://stream.radio.com.pt/ROLI-ENC-478
+#EXTINF:0 tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Portugal Radio", OCEANO PACIFICO (Portugal)
+http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
+#EXTINF:0 group-title="Portugal Radio" tvg-logo="http://www.orbital.pt/imagem.php?1454265689194", Orbital (Portugal)
+http://stream.radio.com.pt/ROLI-ENC-401
+#EXTINF:0 group-title="Portugal Radio" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png", Rádio Oxigénio (Portugal)
+mms://stream.radio.com.pt/ROLI-ENC-498
+#EXTINF:0 tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Portugal Radio", RADAR (Portugal)
+http://stream.radio.com.pt:8497/stream
+#EXTINF:0 group-title="Portugal Radio" tvg-logo="http://www.radiorcs.pt/imagens/programas/logorcs.png", Rádio Clube de Sintra (Portugal)
+mms://stream.radio.com.pt/ROLI-ENC-445
+#EXTINF:0 tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Portugal Radio", REGGAE RADIO 808 (Portugal)
+http://66.225.205.5:80
+#EXTINF:0 tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Portugal Radio", RENASCENÇA (Portugal)
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Portugal Radio", RFM (Portugal)
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Portugal Radio", RFM 80 (Portugal)
+http://11073.live.streamtheworld.com/GR80SRFMAAC?
+#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Portugal Radio", RFM CLUBBING (Portugal)
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Radio", SUPER FM (Portugal)
+http://94.23.76.235:9956/
+
+#EXTINF:-1 group-title="Russia Radio",[COLOR yellow]------------ Russia Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 group-title="Russia Radio", Radio: Радио Море
+http://sea.1tvcrimea.ru:9003/stream_sea.mp3
+#EXTINF:-1 group-title="Russia Radio", Radio: Радио Точка
+http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3
+#EXTINF:-1 group-title="Russia Radio", Radio: Радио Крым
+http://fm.1tvcrimea.ru:8000/stream.mp3
+#EXTINF:-1 group-title="Russia Radio",Незалежність FM
+http://rad.radio-n.com:8000/;stream
+#EXTINF: -1 group-title="Russia Radio",Radio AplusFM
+http://listen.alpha.by:8000/;listen.pls?sc
+#EXTINF: -1 group-title="Russia Radio",Radio ONT Minsk 101.7 FM
+http://listen.alpha.by:8002/;listen.pls?sc
+#EXTINF: -1 group-title="Russia Radio",Radio AplusFM
+http://listen.alpha.by:8005/;listen.pls?sc
+#EXTINF: -1 group-title="Russia Radio",Alpha Radio Belarus
+http://listen.alpha.by:8009/;listen.pls?sc
+#EXTINF: -1 group-title="Russia Radio",Radio Racja
+http://listen.alpha.by:8011/;listen.pls?sc
+#EXTINF:-1 group-title="Russia Radio",SOSH Radio (128)
+http://radio.sosh1020.ru:9919/128.mp3
+#EXTINF:-1 group-title="Russia Radio",SOSH Radio [192 Kbps Stereo]
+http://radio.sosh1020.ru:9919/high.mp3
+#EXTINF:-1 group-title="Russia Radio",SOSH Radio [48Kbps Stereo]
+http://radio.sosh1020.ru:9919/low.mp3
+#EXTINF:-1 group-title="Russia Radio",SOSH Radio [96Kbps Stereo]
+http://radio.sosh1020.ru:9919/medium.mp3
+#EXTINF:-1 group-title="Russia Radio",SOSH Radio (32)
+http://radio.sosh1020.ru:9919/mobile.mp3
+#EXTINF:-1 group-title="Russia Radio",SCHOOL 1020 Radio (128)
+http://radio.sosh1020.ru:9919/school.mp3
+#EXTINF:-1 group-title="Russia Radio",Radio Merkury
+http://82.200.209.236:8000/merkury
+#EXTINF:-1 group-title="Russia Radio",Radio-Minsk Online
+http://82.200.209.236:8000/minsk
+#EXTINF:-1 group-title="Russia Radio",Radio Mir
+http://82.200.209.236:8000/mir
+#EXTINF:-1 group-title="Russia Radio",Radio Mir Belarus
+http://82.200.209.236:8000/mirbelarus
+#EXTINF:-1 group-title="Russia Radio",Moscow Echo
+http://82.200.209.236:8000/moscowecho-128
+#EXTINF:-1 group-title="Russia Radio",RadioUA Mainstream Rock
+http://82.200.209.236:8000/myradmsrock
+#EXTINF:-1 group-title="Russia Radio",RadioUA Russian Rap
+http://82.200.209.236:8000/myradrap
+#EXTINF:-1 group-title="Russia Radio",RadioUA Russian Hit
+http://82.200.209.236:8000/myradrus
+#EXTINF:-1 group-title="Russia Radio",Radio Russia 2
+http://82.200.209.236:8000/russia_2
+#EXTINF:-1 group-title="Russia Radio",Radio *SPORT* Moscow 93.2FM
+http://82.200.209.236:8000/ns32
+
+#EXTINF:-1 group-title="Malaysia Radio",[COLOR yellow]------------ Malaysia Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Malaysia Radio",TERENGGANU FM Malaysia
+http://218.208.228.62:8000/;stream.nsv
+#EXTINF:0 group-title="Malaysia Radio",IKIM FM Malaysia
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:0 group-title="Malaysia Radio",HOT FM Malaysia
+http://2343.live.streamtheworld.com/HOTFMAAC
+#EXTINF:0 group-title="Malaysia Radio",SURIA FM Malaysia
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:0 group-title="Malaysia Radio",THR GEGAR Malaysia
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+#EXTINF:0 group-title="Malaysia Radio",MUZIK FM Malaysia
+http://69.197.60.122:8000/;stream.mp3
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/hitz.png" group-title="Malaysia Radio",HITZ.FM Malaysia
+http://astro1.rastream.com/hitz
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/sinar.png" group-title="Malaysia Radio",SINAR.FM Malaysia
+http://astro2.rastream.com/sinar
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/era.png" group-title="Malaysia Radio",ERA.FM Malaysia
+http://astro2.rastream.com/era
+#EXTINF:-1 group-title="Malaysia Radio",LITE.FM
+http://astro1.rastream.com/lite
+#EXTINF:-1 group-title="Malaysia Radio",MY.FM
+http://astro1.rastream.com/myfm
+#EXTINF:-1 group-title="Malaysia Radio",MIX.FM
+http://astro2.rastream.com/mix
+#EXTINF:-1 group-title="Malaysia Radio",OPUS.FM
+http://astro4.rastream.com/opus
+#EXTINF:-1 group-title="Malaysia Radio",GOLD.FM
+http://astro4.rastream.com/gold
+#EXTINF:-1 group-title="Malaysia Radio",JAZZ.FM
+http://astro4.rastream.com/jazz
+#EXTINF:-1 group-title="Malaysia Radio",ROCK.FM
+http://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="Mauritius Radio",[COLOR yellow]------------ Mauritius Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-name="Best FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Best FM Mauritius" tvg-logo="http://www.africaradios.com/wp-content/uploads/2015/10/MBC-Best-FM-Logo-240×150.jpg" group-title="Mauritius Radio",Best FM Mauritius (Radio) (MU) (Hindi/English)
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8?time=1449826709917
+#EXTINF:0 tvg-name="Best FM" tvg-language="Hindi/English" tvg-country="IN" tvg-id="Best FM" tvg-logo="http://www.kitoler.com/images/radio/logo/bestfm.jpg" group-title="Mauritius Radio",Best FM (Radio) (IN) (Hindi/English)
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Music FM Mauritius" tvg-language="French/English" tvg-country="MU" tvg-id="Music FM Mauritius" tvg-logo="https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-0/s350x350/249824_215377181826908_2946460_n.jpg?oh=6b24449df730a476e2d90a6c240222ec&oe=56769A84&__gda__=1450014609_54ab8f7ae01aa02950cf7f80a61a9ecc" group-title="Mauritius Radio",Music FM Mauritius (Radio) (MU) (French/English)
+http://202.123.27.133/hls-live/musicfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Radio Maurice" tvg-language="French" tvg-country="MU" tvg-id="Radio Maurice" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Maurice (Radio) (MU) (French)
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:0 tvg-name="Radio Mauritius" tvg-language="Hindi" tvg-country="MU" tvg-id="Radio Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Radio-1-Logo.png" group-title="Mauritius Radio",Radio Mauritius (Radio) (MU) (Hindi)
+http://202.123.27.133/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Radio Moris" tvg-language="French" tvg-country="MU" tvg-id="Radio Moris" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Moris (Radio) (MU) (French)
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:0 tvg-name="Radio Plus Mauritius" tvg-language="French/Hindi" tvg-country="MU" tvg-id="Radio Plus Mauritius" tvg-logo="http://www.userlogos.org/files/logos/sjdvda/RPlus.png" group-title="Mauritius Radio",Radio Plus Mauritius (Radio) (MU) (French/Hindi)
+http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Tall Fm Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Tall Fm Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Taal-FM-Logo.png" group-title="Mauritius Radio",Tall Fm Mauritius (Radio) (MU) (Hindi/English)
+http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Top FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Top FM Mauritius" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOO6pCXuIk1T_0hJ6YjolVqTxfIV3qn6evZp_-hYIz09WKyJ53dmn1Gg" group-title="Mauritius Radio",Top FM Mauritius (Radio) (MU) (Hindi/English)
+http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
+
+#EXTINF:-1 group-title="Vietnam Radio",[COLOR yellow]------------ Vietnam Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-name="Sai Gon Network Radio Channel" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon Network Radio Channel" tvg-logo="http://img.onworldtv.com/1180×665//banner/2015/03/11/884908-livetv_sgn_banner.jpg" group-title="Vietnam",Sai Gon Network Radio Channel (Radio) (US) (Vietnamese)
+http://stream.onworldtv.com/edge/liveorigin/sgn_aud/index.m3u8?worldtokenstarttime=1444423674&worldtokenendtime=1444508274&worldtokenhash=sJeb-VFJiW2a2TiV0rrISBxY6Sv5dwVP0s3fxt417oQ=
+#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ” group-title="Vietnam",VOV 1 (Radio) (VN) (Vietnamese)
+http://123.29.68.10/radio/myradio001.m3u8
+#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Vietnam",VOV 2 (Radio) (VN) (Vietnamese)
+http://123.29.68.10/radio/myradio002.m3u8
+#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Vietnam",VOV 4 (Radio) (VN) (Vietnamese)
+http://123.29.68.10/radio/myradio003.m3u8
+#EXTINF:0 tvg-name="VOV5" tvg-language="English/Vietnamese" tvg-country="VN" tvg-id="VOV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tjz4LkUB109nceyYgsKMtgTj_fKikqxG6Za2Gb6lqr1R7YMTPASNnXY" group title="Vietnam",VOV5 (Radio) (VN) (English/Vietnamese)
+http://123.29.68.10/radio/myradio004.m3u8
+
 #EXTINF:-1 group-title="Radio",[COLOR yellow]------------ Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
@@ -5631,8 +6082,6 @@ http://streams.blindy.tv:8000/brain.mp3
 
 #EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Radio",Blindy ETtc
 http://streams.blindy.tv:8000/etc.mp3
-
-
 
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s212704q.png" group-title="Radio",KissFM Deep
@@ -5661,52 +6110,17 @@ http://85.25.73.243:10460/
 http://7719.live.streamtheworld.com/RFM_SC
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Radio_MegaFM
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Easy Hits Florida 
-http://us1.internet-radio.com:8180/
 
-#EXTINF:0 group-title="Radio",Easy Hit Florida
-Http://uk3.internet-radio.com:8136
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Classic Rock Florida - SHE Radio 
-http://us1.internet-radio.com:8105/
-
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",KISS Hits
-http://uk4.internet-radio.com:10911/
-
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Undergroundfm 
-http://uk1.internet-radio.com:8093/
-
-
-#EXTINF:0 group-title="Radio",Minster Radio Uk
-Http://str1.sad.ukrd.com/minster.m3u
-#EXTINF:0 group-title="Radio",The voice Uk
-Http://www.rosi-systems.com:8000/thevoice.mp3.m3u
+#EXTINF:-1  group-title="Radio",Birdsong.fm - Lush relax
+http://lush.wavestreamer.com:7309/
+#EXTINF:-1 group-title="Radio",Birdsong.fm - Spring
+http://spring.wavestreamer.com:1156/
 #EXTINF:0 group-title="Radio",Must FM Belgique
 Http://rs1.vdl.fm:8700/listen.pls
-
 #EXTINF:0 group-title="Radio",PARTY VIBE RADIO
 Http://www.partyviberadio.com:8000/listen.pls?sid=1
 #EXTINF:0 group-title="Radio",Plein Sud 106 FM
 Http://199.195.194.92:8090/listen.pls
-#EXTINF:0 group-title="Radio",Zenith Classic Rock Dublin
-Http://148.163.81.10/listen.pls?sid=1:8006
-#EXTINF:0 group-title="Radio",LaFabrik Suisse
-Http://stream.lafabrik.ch/lafabrik.m3u
-#EXTINF:0 group-title="Radio",Vibration FM Suise
-Http://vibration.stream2net.eu:8130/listen.pls
-#EXTINF:0 group-title="Radio",Vibration PopRock Suisse
-Http://vibrationpoprock.stream2net.eu:8260/listen.pls
-#EXTINF:0 group-title="Radio",Vibration Latina Suisse
-Http://vibracionlatina.stream2net.eu:8410/listen.pls
-#EXTINF:0 group-title="Radio",Vibratio classic hit Suisse
-Http://vibrationclassic80.stream2net.eu:8060/listen.pls
-#EXTINF:0 group-title="Radio",Yes FM Suisse
-Http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u
-#EXTINF:0 group-title="Radio",Rouge MadeInFrance Suisse
-Http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u
-#EXTINF:0 group-title="Radio",Motown Magic Oldies
-Http://uk3.internet-radio.com:8126
-#EXTINF:0 group-title="Radio",Classic Rock California
-Http://listen.radionomy.com/classicrockcaliforniacom.m3u
 
 #EXTINF:0 group-title="Radio",RadioMax Greatest Hits
 Http://188.165.232.7:9172
@@ -5718,17 +6132,9 @@ Http://www.streamvortex.com:10230/listen.pls?sid=1
 Http://192.81.248.70:8004
 #EXTINF:0 group-title="Radio",SALSA BRAVA RADIO
 Http://206.190.130.18:8053
-#EXTINF:0 group-title="Radio",Magic Oldies Florida
-Http://us1.internet-radio.com:15919
-#EXTINF:0 group-title="Radio", Alex Jones - Infowars.com
-http://stream.infowars.com
-#EXTINF:0 group-title="Radio", Detour Talk Radio US
-http://thedetour.us/player/talk.pls
+
 #EXTINF:-1 group-title="Radio",BG Radio
 http://91.187.113.181:8000/play/8t83
-#EXTINF:0 group-title="Radio",Public Domain Jazz - Swiss Internet Radio
-
-http://82.197.167.138:80
 
 #EXTINF:0 group-title="Radio",Trancemission FM Radio
 
@@ -5748,23 +6154,7 @@ http://voxsc1.somafm.com:8884
 #EXTINF:0 group-title="Radio",ANDYS 80s
 http://209.9.238.4:9844
 
-#EXTINF:0 group-title="Radio",Swiss Internet Radio - Public Domain Classical 
-http://82.197.165.137:80
 
-#EXTINF:0 group-title="Radio",WMNF HD-3 The Source - WMNF Tampa 88.5 FM HD-3
-
-http://stream.wmnf.org:8000/wmnf_hd3
-
-#EXTINF:0 group-title="Radio",WMFE - WMFE - HD2
-
-http://64.202.98.133:2320
-
-
-#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Radio",Champion 5768 FM (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
-http://uk4.internet-radio.com:15476/
-#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Radio",Fm Cafe Channel (Radio) (US) (English)
-http://stream.north.kz:8000/16bitcafe
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Radio",Hatchet Radio
 http://198.154.106.101:8266/
 #EXTINF:-1 group-title="Radio",Radio Caprice Heavy Metal
@@ -5778,39 +6168,12 @@ http://107.6.132.210:9400/
 http://212.48.88.39:8070
 #EXTINF:-1 group-title="Radio", Radio: MEGATON CAFE RADIO
 http://us1.internet-radio.com:8390/
-#EXTINF:-1 group-title="Radio", Radio: NASHVILLE R and R
-http://us2.internet-radio.com:8073/
-#EXTINF:-1 group-title="Radio", Radio: Радио Море
-http://sea.1tvcrimea.ru:9003/stream_sea.mp3
-#EXTINF:-1 group-title="Radio", Radio: Радио Точка
-http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3
-#EXTINF:-1 group-title="Radio", Radio: Радио Крым
-http://fm.1tvcrimea.ru:8000/stream.mp3
 
 #EXTINF:-1 group-title="Radio", Radio: SOULPOWER-RADIO
 http://uk3.internet-radio.com:10697/
 #EXTINF:-1 group-title="Radio",RED.FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
-#EXTINF:-1 group-title="Radio",HITZ.FM
-http://astro1.rastream.com/hitz
-#EXTINF:-1 group-title="Radio",LITE.FM
-http://astro1.rastream.com/lite
-#EXTINF:-1 group-title="Radio",MY.FM
-http://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="Radio",MIX.FM
-http://astro2.rastream.com/mix
-#EXTINF:-1 group-title="Radio",SINAR.FM
-http://astro2.rastream.com/sinar
-#EXTINF:-1 group-title="Radio",ERA.FM
-http://astro2.rastream.com/era
-#EXTINF:-1 group-title="Radio",OPUS.FM
-http://astro4.rastream.com/opus
-#EXTINF:-1 group-title="Radio",GOLD.FM
-http://astro4.rastream.com/gold
-#EXTINF:-1 group-title="Radio",JAZZ.FM
-http://astro4.rastream.com/jazz
-#EXTINF:-1 group-title="Radio",ROCK.FM
-http://astro4.rastream.com/rock
+
 EXTINF:-1 group-title="Radio",Cafe Channel
 http://82.200.209.236:8000/16bitcafe
 #EXTINF:-1 group-title="Radio",4duk radio
@@ -6069,8 +6432,7 @@ http://82.200.209.236:8000/look
 http://82.200.209.236:8000/loveradio-128
 #EXTINF:-1 group-title="Radio",Radio Mayak
 http://82.200.209.236:8000/mayak
-#EXTINF:-1 group-title="Radio",Radio Monte Carlo Swiss
-http://82.200.209.236:8000/mc-it
+
 #EXTINF:-1 group-title="Radio",Medlyak FM
 http://82.200.209.236:8000/mdl_128
 #EXTINF:-1 group-title="Radio",MDS Station
@@ -6079,32 +6441,19 @@ http://82.200.209.236:8000/mds
 http://82.200.209.236:8000/megaradio24
 #EXTINF:-1 group-title="Radio",Melodiya
 http://82.200.209.236:8000/melodia
-#EXTINF:-1 group-title="Radio",Radio Merkury
-http://82.200.209.236:8000/merkury
-#EXTINF:-1 group-title="Radio",Radio-Minsk Online
-http://82.200.209.236:8000/minsk
-#EXTINF:-1 group-title="Radio",Radio Mir
-http://82.200.209.236:8000/mir
-#EXTINF:-1 group-title="Radio",Radio Mir Belarus
-http://82.200.209.236:8000/mirbelarus
+
 #EXTINF:-1 group-title="Radio",MixFMUa
 http://82.200.209.236:8000/mixfmua-128
 #EXTINF:-1 group-title="Radio",MixFMlV
 http://82.200.209.236:8000/mixfmlv
 #EXTINF:-1 group-title="Radio",MONTE CARLO Balakovo
 http://82.200.209.236:8000/montecarlo_bal
-#EXTINF:-1 group-title="Radio",Moscow Echo
-http://82.200.209.236:8000/moscowecho-128
+
 #EXTINF:-1 group-title="Radio",Munich Radio
 http://82.200.209.236:8000/munich
 #EXTINF:-1 group-title="Radio",Radio MUZKOM
 http://82.200.209.236:8000/muzkom
-#EXTINF:-1 group-title="Radio",RadioUA Mainstream Rock
-http://82.200.209.236:8000/myradmsrock
-#EXTINF:-1 group-title="Radio",RadioUA Russian Rap
-http://82.200.209.236:8000/myradrap
-#EXTINF:-1 group-title="Radio",RadioUA Russian Hit
-http://82.200.209.236:8000/myradrus
+
 #EXTINF:-1 group-title="Radio",Narodnoe Radio
 http://82.200.209.236:8000/narodnoe
 #EXTINF:-1 group-title="Radio",NASHE Radio 64
@@ -6169,8 +6518,7 @@ http://82.200.209.236:8000/radioparadise
 http://82.200.209.236:8000/radiopop
 #EXTINF:-1 group-title="Radio",Radio RAM
 http://82.200.209.236:8000/ram
-#EXTINF:-1 group-title="Radio",Radio Canada Internationale
-http://82.200.209.236:8000/rci
+
 #EXTINF:-1 group-title="Radio",Radio Record
 http://82.200.209.236:8000/record-192
 #EXTINF:-1 group-title="Radio",Relax FM
@@ -6192,8 +6540,7 @@ http://82.200.209.236:8000/rockonline
 http://82.200.209.236:8000/rri
 #EXTINF:-1 group-title="Radio",Radio Slovakia International
 http://82.200.209.236:8000/rsi
-#EXTINF:-1 group-title="Radio",Radio Russia 2
-http://82.200.209.236:8000/russia_2
+
 #EXTINF:-1 group-title="Radio",RTL 80
 http://82.200.209.236:8000/rtl80
 #EXTINF:-1 group-title="Radio",Radio 808
@@ -6246,14 +6593,12 @@ http://82.200.209.236:8000/zchill
 http://82.200.209.236:8000/zaycev
 #EXTINF:-1 group-title="Radio",Euronews
 http://82.200.209.236:8000/euronews
-#EXTINF:-1 group-title="Radio",Radio *SPORT* Moscow 93.2FM
-http://82.200.209.236:8000/ns32
+
 #EXTINF:-1 group-title="Radio",RNV 91.9 FM - World Music
 http://82.200.209.236:8000/rnv
 #EXTINF:-1 group-title="Radio",InterVolna
 http://82.200.209.236:8000/inter
-#EXTINF:-1 group-title="Radio",LA PRIMERA 87.7 FM LAS VEGAS NV
-http://82.200.209.236:8000/kexp
+
 #EXTINF:-1 group-title="Radio",Staroe Radio
 http://82.200.209.236:8000/old
 #EXTINF:-1 group-title="Radio",EldoRadio
@@ -6332,17 +6677,9 @@ http://relay-nyc.gameowls.com:8000/all.ogg
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Radio",Icecast Mutual Broadcast Network
 http://mutualbroadcast.com:8000/
 
-#EXTINF:0 group-title="Radio",89.3 KPCC - Southern California Public Radio
-
-http://kpcclive1.publicradio.org:80/
 #EXTINF:0 group-title="Radio",A90's
 
 http://streaming204.radionomy.com:80/A90-s
-
-#EXTINF:0 group-title="Radio",Alex Jones - Infowars.com
-
-http://stream.infowars.com
-
 #EXTINF:0 group-title="Radio",Ber All Stars
 
 http://stream.electroradio.ch:26630
@@ -6354,17 +6691,6 @@ http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
 #EXTINF:0 group-title="Radio",Chill-OutRadioGaia
 
 http://streaming202.radionomy.com:80/Chill-Out-Radio-Gaia
-
-#EXTINF:0 group-title="Radio",Colorado Public Radio Classical Music
-
-http://www.cpr.org/listen/live_classical_mp3.pls
-
-#EXTINF:0 group-title="Radio",Colorado Public Radio Open Air
-
-http://www.cpr.org/listen/live_openair_mp3.pls
-#EXTINF:0 group-title="Radio",Detour Talk Radio US
-
-http://thedetour.us/player/talk.pls
 
 #EXTINF:0 group-title="Radio",Deutsche Welle English/multilingual
 
@@ -6413,46 +6739,7 @@ http://shoutcast.wrn.org:8026/
 
 #EXTINF:-1 group-title="Radio",Radio Caroline
 http://sc5.radiocaroline.net:8010/listen.pls
-#EXTINF:0 tvg-name="CBS HD" tvg-language="English" tvg-country="US" tvg-id="181.FM – Good Time Oldies" tvg-logo="http://cdn-radiotime-logos.tunein.com/s90409q.png" group-title="Radio",CBS HD (Radio) (US) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8046/listen.pls&t=.m3u
-#EXTINF:0 tvg-name="Best FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Best FM Mauritius" tvg-logo="http://www.africaradios.com/wp-content/uploads/2015/10/MBC-Best-FM-Logo-240×150.jpg" group-title="Radio",Best FM Mauritius (Radio) (MU) (Hindi/English)
-http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8?time=1449826709917
-#EXTINF:0 tvg-name="Best FM" tvg-language="Hindi/English" tvg-country="IN" tvg-id="Best FM" tvg-logo="http://www.kitoler.com/images/radio/logo/bestfm.jpg" group-title="Radio",Best FM (Radio) (IN) (Hindi/English)
-http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Box UK Radio danceradiouk" tvg-language="English" tvg-country="UK" tvg-id="Box UK Radio danceradiouk" tvg-logo="http://danceradiouk.com/wp-content/uploads/2014/06/box11.png" group-title="Radio",Box UK Radio danceradiouk (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:31076/listen.pls&t=.m3u
-#EXTINF:0 tvg-name="Champion 5768 FM" tvg-language="English" tvg-country="UK" tvg-id="Champion 5768 FM" tvg-logo="https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-0/s480x480/10670126_513472555467504_3005258150533487784_n.jpg?oh=1827c89702f21dc97278ef8ffd234ff5&oe=566643C3&__gda__=1453446813_4934b4b55eae2572c2b4f51944077db2" group-title="Radio",Champion 5768 FM (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
-#EXTINF:0 tvg-name="Fm Cafe Channel" tvg-language="English" tvg-country="US" tvg-id="Fm Cafe Channel" tvg-logo="http://www.16bit.fm/wp-content/uploads/2012/09/cafe_channel_v.1.2_2012.jpg" group-title="Radio",Fm Cafe Channel (Radio) (US) (English)
-http://stream.north.kz:8000/16bitcafe
-#EXTINF:0 tvg-name="Kiss Hits" tvg-language="English" tvg-country="UK" tvg-id="Kiss Hits" tvg-logo="http://www.utalkmarketing.com/pages/fsImageResize.aspx?fname=../UTMImages/2/4102007_155227_Kiss_logo.jpg&w=352&h=249" group-title="Radio",Kiss Hits (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:10911/listen.pls&t=.m3u
-#EXTINF:0 tvg-name="Magic Oldies Florida" tvg-language="English" tvg-country="US" tvg-id="Magic Oldies Florida" tvg-logo="https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-0/s526x395/10313521_788324434568662_7329785171531574860_n.jpg?oh=84a76c464b795a04bd59b86a3514c6a1&oe=565D86AC&__gda__=1453557404_a153306cbeece62b43ff881c30fe083a" group-title="Radio",Magic Oldies Florida (Radio) (US) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us1.internet-radio.com:15919/listen.pls&t=.m3u
-#EXTINF:0 tvg-name="Music FM Mauritius" tvg-language="French/English" tvg-country="MU" tvg-id="Music FM Mauritius" tvg-logo="https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-0/s350x350/249824_215377181826908_2946460_n.jpg?oh=6b24449df730a476e2d90a6c240222ec&oe=56769A84&__gda__=1450014609_54ab8f7ae01aa02950cf7f80a61a9ecc" group-title="Radio",Music FM Mauritius (Radio) (MU) (French/English)
-http://202.123.27.133/hls-live/musicfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Radio Maurice" tvg-language="French" tvg-country="MU" tvg-id="Radio Maurice" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Radio",Radio Maurice (Radio) (MU) (French)
-http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
-#EXTINF:0 tvg-name="Radio Mauritius" tvg-language="Hindi" tvg-country="MU" tvg-id="Radio Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Radio-1-Logo.png" group-title="Radio",Radio Mauritius (Radio) (MU) (Hindi)
-http://202.123.27.133/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Radio Moris" tvg-language="French" tvg-country="MU" tvg-id="Radio Moris" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Radio",Radio Moris (Radio) (MU) (French)
-http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
-#EXTINF:0 tvg-name="Radio Plus Mauritius" tvg-language="French/Hindi" tvg-country="MU" tvg-id="Radio Plus Mauritius" tvg-logo="http://www.userlogos.org/files/logos/sjdvda/RPlus.png" group-title="Radio",Radio Plus Mauritius (Radio) (MU) (French/Hindi)
-http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="Sai Gon Network Radio Channel" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon Network Radio Channel" tvg-logo="http://img.onworldtv.com/1180×665//banner/2015/03/11/884908-livetv_sgn_banner.jpg" group-title="Radio",Sai Gon Network Radio Channel (Radio) (US) (Vietnamese)
-http://stream.onworldtv.com/edge/liveorigin/sgn_aud/index.m3u8?worldtokenstarttime=1444423674&worldtokenendtime=1444508274&worldtokenhash=sJeb-VFJiW2a2TiV0rrISBxY6Sv5dwVP0s3fxt417oQ=
-#EXTINF:0 tvg-name="Tall Fm Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Tall Fm Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Taal-FM-Logo.png" group-title="Radio",Tall Fm Mauritius (Radio) (MU) (Hindi/English)
-http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Top FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Top FM Mauritius" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOO6pCXuIk1T_0hJ6YjolVqTxfIV3qn6evZp_-hYIz09WKyJ53dmn1Gg" group-title="Radio",Top FM Mauritius (Radio) (MU) (Hindi/English)
-http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
-#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ” group-title="Radio",VOV 1 (Radio) (VN) (Vietnamese)
-http://123.29.68.10/radio/myradio001.m3u8
-#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Radio",VOV 2 (Radio) (VN) (Vietnamese)
-http://123.29.68.10/radio/myradio002.m3u8
-#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Radio",VOV 4 (Radio) (VN) (Vietnamese)
-http://123.29.68.10/radio/myradio003.m3u8
-#EXTINF:0 tvg-name="VOV5" tvg-language="English/Vietnamese" tvg-country="VN" tvg-id="VOV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tjz4LkUB109nceyYgsKMtgTj_fKikqxG6Za2Gb6lqr1R7YMTPASNnXY" group title="Radio",VOV5 (Radio) (VN) (English/Vietnamese)
-http://123.29.68.10/radio/myradio004.m3u8
+
 #EXTINF:0 tvg-name="ZOL 106.5 FM" tvg-language="Spanish" tvg-country="DO" tvg-id="ZOL 106.5 FM" tvg-logo="http://emisorasdominicanas.com.do/images/sobipro/entries/69/thumb_zol-106-5-online-sol-106-en-vivo.jpg" group-title="Radio",ZOL 106.5 FM (Radio) (DO) (Spanish)
 http://ss6.domint.net:1948/zol_edge/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://3.bp.blogspot.com/-K3LRd4Qb7Jk/VmmjQhPOx1I/AAAAAAAAANM/9f6vz9UnNT4/s1600/alpha.png" group-title="Radio", Alpha 101.7 FM
@@ -6575,55 +6862,8 @@ http://7309.live.streamtheworld.com/SP_RADIOONLINEAAC
 http://servidor28.crossdigital.com.br:8286/;
 #EXTINF:-1 group-title="Radio", 880 1060Khz MG
 http://7309.live.streamtheworld.com/MG_RADIOONLINEAAC
- 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="Radio",BBC - Radio 1
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="Radio",BBC1
-http://82.200.209.236:8000/bbc1
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="Radio",BBC - Radio 2
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/BBC_Radio_3.svg/revision/latest/scale-to-width-down/200?cb=20091202081557" group-title="Radio",BBC2
-http://82.200.209.236:8000/bbc2
-#EXTINF:-1 group-title="Radio",BBC3
-http://82.200.209.236:8000/bbc3
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="Radio",BBC - Radio 4
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/53/BBC_Radio_4.svg/revision/latest/scale-to-width-down/200?cb=20091202081656" group-title="Radio" group-title="Radio",BBC4
-http://82.200.209.236:8000/bbc4
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC - Radio 5 live
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC5
-http://82.200.209.236:8000/bbc5
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="Radio",BBC - Radio 6
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2f/BBC_Radio_6_Music.svg/revision/latest/scale-to-width-down/300?cb=20091108151932" group-title="Radio",BBC6
-http://82.200.209.236:8000/bbc6
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC 1 Xtra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBCxTra
-http://82.200.209.236:8000/bbc1xtra
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/44/BBC_Radio_5_Live_Sports_Extra.svg/revision/latest/scale-to-width-down/250?cb=20091108151831" group-title="Radio",BBC 4 Extra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC 5 Live Extra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5extra_mf_p
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",BBC World Service
-http://lbw2.flash.streamuk.com/_bbc/ch2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Radio",BBC7
-http://82.200.209.236:8000/bbc7
-#EXTINF:-1 group-title="Radio",BBCworld
-http://82.200.209.236:8000/bbcrus
-#EXTINF:-1 group-title="Radio",M2 Rock
+ #EXTINF:-1 group-title="Radio",M2 Rock
 http://185.57.237.1:8000/m2rock
-#EXTINF:0 group-title="Radio",CBS HD (Radio) (US) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8046/listen.pls&t=.m3u
-#EXTINF:0 group-title="Radio",1FM Music From The 1960s thru Today! (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:8008/listen.pls&t=.m3u
-#EXTINF:0 group-title="Radio",Box UK Radio danceradiouk (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk2.internet-radio.com:31076/listen.pls&t=.m3u
-#EXTINF:0 group-title="Radio",Champion 5768 FM (Radio) (UK) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
-#EXTINF:0 group-title="Radio",Magic Oldies Florida (Radio) (US) (English)
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us1.internet-radio.com:15919/listen.pls&t=.m3u
 #EXTINF:0 group-title="Radio",GOT Radio Classic country
 http://69.4.234.186:8090/
 #EXTINF:0 group-title="Radio",Highway 181 (classic country)
@@ -6632,25 +6872,8 @@ http://108.61.73.120:8018/
 http://50.7.77.179:8022/
 #EXTINF:0 group-title="Radio",Classic Country 1630
 http://199.195.194.140:8303/stream
-
-#EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",WGLT radio
-http://wgltradio.ilstu.edu:8000/wgltmain.mp3
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",NPR 24hr stream
 http://www.npr.org/streams/mp3/nprlive24.m3u
-
-#EXTINF:0 group-title="group-title="Radio",WNYZ Korea 87.7 FM - 6 LP - New York City - NY New York
-rtmp://krblive.com:1935/877live/stream_aac
-#EXTINF:0 group-title="group-title="Radio",KALX 90.7 FM Berkeley
-http://icecast.media.berkeley.edu:8000/kalx-128.mp3
-#EXTINF:-1,KNYO Fort Bragg California Community Radio
-http://airtime.knyo.org:8040/128
-#EXTINF:-1,All Classical Portland aac96
-http://allclassical-ice.streamguys.com/ac96kmp3
-#EXTINF:-1,All Classical FM - KQAC 3
-http://allclassical-ice.streamguys.com/ac32kmp3
-#EXTINF:-1,All Classical Portland ac96
-http://allclassical-ice.streamguys.com/ac96k
-
 #EXTINF:-1,Radyoksit
 http://159.253.37.137:9988/;
 #EXTINF:-1,Muzikli Asansor
@@ -6671,115 +6894,6 @@ http://metroclub.ru:8260/;
 http://streaming.radionomy.com/ABC-Love
 #EXTINF: -1,92.9 TU FM
 http://lortel58.lorini.net:1062/929FM
-#EXTINF: -1,MAX
-http://mp3stream4.abradio.cz/max128.mp3
-#EXTINF: -1,Country
-http://mp3stream4.abradio.cz/country128.mp3
-#EXTINF: -1,Hip Hop Vibes Radio
-http://mp3stream4.abradio.cz/hiphopvibes128.mp3
-#EXTINF: -1,Depeche Mode
-http://mp3stream4.abradio.cz/depeche128.mp3
-#EXTINF: -1,faktor
-http://mp3stream.abradio.cz/faktor128.mp3
-#EXTINF: -1,Madonna
-http://mp3stream4.abradio.cz/madonna128.mp3
-#EXTINF: -1,24 Pulawy
-http://mp3stream3.abradio.cz/pulawy128.mp3
-#EXTINF: -1,Frontinus
-http://mp3stream3.abradio.cz/frontinus128.mp3
-#EXTINF: -1,Tip Radio
-http://mp3stream3.abradio.cz/tipradio128.mp3
-#EXTINF: -1,Radio Humor
-http://mp3stream4.abradio.cz/humor128.mp3
-#EXTINF: -1,SeeJay Radio
-http://mp3stream.abradio.cz/seejay128.mp3
-#EXTINF:0 tvg-logo="http://www.wmoc2008.fpo.pt/logos/logo_94FM.jpg" group-title="Radio", 94FM (Portugal)
-http://195.8.58.150:35022/;stream.nsv
-#EXTINF:0 tvg-logo="http://www.feirasaomateus.pt/2014/wp-content/uploads/2014/08/teste.jpg" group-title="Radio", ANTENA 1 (Portugal)
-mms://rdp.oninet.pt/antena1
-#EXTINF:0 tvg-logo="https://nofinaldodia.files.wordpress.com/2009/04/logo-antena-3.jpg" group-title="Radio", ANTENA 3 (Portugal)
-mms://rdp.oninet.pt/antena3
-#EXTINF:0 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Radio", AMÁLIA (Portugal)
-http://stream.radio.com.pt:9496/stream
-#EXTINF:0 tvg-logo="http://www.hiper.fm/wp-content/uploads/2013/10/homepage_hiperfm.png" group-title="Radio", HIPER FM (Portugal)
-http://85.25.73.243:10460/
-#EXTINF:0 group-title="Radio" tvg-logo="https://www.phonostar.de/images/auto_created/Radio_Marginal184x184.png", Rádio Marginal (Portugal)
-mms://stream.radio.com.pt/ROLI-ENC-499
-#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Radio", MEGA FM (Portugal)
-http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-#EXTINF:0 group-title="Radio" tvg-logo="http://www.radionovaera.pt/media/logo2.png", Rádio Nova Era (Portugal)
-mms://stream.radio.com.pt/ROLI-ENC-478
-#EXTINF:0 tvg-logo="http://rfm.sapo.pt/images/logo_webr_oceano.png" group-title="Radio", OCEANO PACIFICO (Portugal)
-http://7719.live.streamtheworld.com:3690/OCEANPACIFIC_SC
-#EXTINF:0 group-title="Radio" tvg-logo="http://www.orbital.pt/imagem.php?1454265689194", Orbital (Portugal)
-http://stream.radio.com.pt/ROLI-ENC-401
-#EXTINF:0 group-title="Radio" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png", Rádio Oxigénio (Portugal)
-mms://stream.radio.com.pt/ROLI-ENC-498
-#EXTINF:0 tvg-logo="http://weareinsert.com/wp-content/downloads/10713003_440510956096457_8754341076449661035_n.jpg" group-title="Radio", RADAR (Portugal)
-http://stream.radio.com.pt:8497/stream
-#EXTINF:0 group-title="Portugal" tvg-logo="http://www.radiorcs.pt/imagens/programas/logorcs.png", Rádio Clube de Sintra (Portugal)
-mms://stream.radio.com.pt/ROLI-ENC-445
-#EXTINF:0 tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="Radio", REGGAE RADIO 808 (Portugal)
-http://66.225.205.5:80
-#EXTINF:0 tvg-logo="http://rr.sapo.pt/img/logoRRBlue.png" group-title="Radio", RENASCENÇA (Portugal)
-http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
-#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/15803163-276402364-logoRFM.jpg" group-title="Radio", RFM (Portugal)
-http://7719.live.streamtheworld.com/RFM_SC
-#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="Radio", RFM 80 (Portugal)
-http://11073.live.streamtheworld.com/GR80SRFMAAC?
-#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2011/07/logoClubbingPlayer.png" group-title="Radio", RFM CLUBBING (Portugal)
-http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
-#EXTINF:0 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/superfm.jpg" group-title="Radio", SUPER FM (Portugal)
-http://94.23.76.235:9956/
-#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg" group-title="Radio",Ria 89.7 Singapore 
-http://mediacorp.rastream.com/897fm
-#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM.jpg" group-title="Radio",Gold 90.5 FM Singapore| 
-http://mediacorp.rastream.com/905fm
-#EXTINF:0 group-title="Radio",91.3 Hot FM Singapore 
-http://sph.rastream.com/913fm
-#EXTINF:0 group-title="Radio",Kiss 92.0 Singapore 
-http://sph.rastream.com/sph-kiss92
-#EXTINF:0 group-title="Radio",Symphony 92.4 Singapore 
-http://mediacorp.rastream.com/924fm
-#EXTINF:0 group-title="Radio",Yes 93.3 Singapore
-http://mediacorp.rastream.com/933fm
-#EXTINF:0 group-title="Radio",93.8 Live Singapore 
-http://mediacorp.rastream.com/938fm
-#EXTINF:0 group-title="Radio",Warna 94.2 Singapore 
-http://mediacorp.rastream.com/942fm
-#EXTINF:0 group-title="Radio",Class 95.0 Singapore 
-http://mediacorp.rastream.com/950fm
-#EXTINF:0 group-title="Radio",95.8 Capital Singapore 
-http://mediacorp.rastream.com/958fm
-#EXTINF:0 group-title="Radio",XFM 96.3 Singapore 
-http://mediacorp.rastream.com/963fm
-#EXTINF:0 group-title="Radio",Love 97.2 Singapore 
-http://mediacorp.rastream.com/972fm
-#EXTINF:0 group-title="Radio",98.7 FM Singapore 
-http://mediacorp.rastream.com/987fm
-#EXTINF:0 group-title="Radio",Lush 99.5 Singapore 
-http://mediacorp.rastream.com/995fm
-#EXTINF:0 group-title="Radio",UFM 100.3 Singapore 
-http://sph.rastream.com/1003fm
-
-#EXTINF:0 group-title="Radio",TERENGGANU FM Malaysia
-http://218.208.228.62:8000/;stream.nsv
-#EXTINF:0 group-title="Radio",IKIM FM Malaysia
-http://50.7.96.210:8285/;stream.mp3
-#EXTINF:0 group-title="Radio",HOT FM Malaysia
-http://2343.live.streamtheworld.com/HOTFMAAC
-#EXTINF:0 group-title="Radio",SURIA FM Malaysia
-http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
-#EXTINF:0 group-title="Radio",THR GEGAR Malaysia
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
-#EXTINF:0 group-title="Radio",MUZIK FM Malaysia
-http://69.197.60.122:8000/;stream.mp3
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/hitz.png" group-title="Radio",HITZ.FM Malaysia
-http://astro1.rastream.com/hitz
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/sinar.png" group-title="Radio",SINAR.FM Malaysia
-http://astro2.rastream.com/sinar
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/era.png" group-title="Radio",ERA.FM Malaysia
-http://astro2.rastream.com/era
 
 
 #EXTINF:0 group-title="Radio",Europe1
@@ -6802,16 +6916,7 @@ Http://www.listenlive.eu/franceinter128.m3u
 Http://www.listenlive.eu/fip5.m3u
 #EXTINF:0 group-title="Radio",France Bleu IDF
 Http://www.listenlive.eu/fbidf.m3u
-#EXTINF:0 group-title="Radio",Nostalgie
-Http://www.listenlive.eu/nostalgie_fr.m3u
-#EXTINF:0 group-title="Radio",Nostalgie 60's
-Http://www.listenlive.eu/nostalgie_60.m3u
-#EXTINF:0 group-title="Radio",Nostalgie 70's
-Http://www.listenlive.eu/nostalgie_70.m3u
-#EXTINF:0 group-title="Radio",Nostalgie Chansons francaises
-Http://www.listenlive.eu/nostalgie_chansons.m3u
-#EXTINF:0 group-title="Radio",Nostalgie Top 100
-Http://www.listenlive.eu/nostalgie_top100.m3u
+
 #EXTINF:0 group-title="Radio",RFI Monde
 Http://www.listenlive.eu/rfimonde.m3u
 #EXTINF:0 group-title="Radio",Alpes 1 Gap
@@ -6840,54 +6945,7 @@ Http://broadcast.infomaniak.ch/hitwest-high.mp3.m3u
 Http://www.listenlive.eu/virginradiofr.m3u
 #EXTINF:0 group-title="Radio",Impact FM
 Http://broadcast.infomaniak.ch/impactfm-128.mp3.m3u
-#EXTINF:0 group-title="Radio",M2 80's
-Http://www.m2radio.fr/pls/m280.m3u
-#EXTINF:0 group-title="Radio",M2 90's
-Http://www.m2radio.fr/pls/m290.m3u
-#EXTINF:0 group-title="Radio",M2 Hit's
-Http://www.m2radio.fr/pls/m2hit.m3u
-#EXTINF:0 group-title="Radio",M2 Club
-Http://www.m2radio.fr/pls/m2club.m3u
-#EXTINF:0 group-title="Radio",M2 Love
-Http://www.m2radio.fr/pls/m2love.m3u
-#EXTINF:0 group-title="Radio",M2 Rock
-Http://www.m2radio.fr/pls/m2rock.m3u
-#EXTINF:0 group-title="Radio",M2 Sunshine
-Http://www.m2radio.fr/pls/m2sunshine.m3u
-#EXTINF:0 group-title="Radio",M2 Funk
-Http://www.m2radio.fr/pls/m2funk.m3u
-#EXTINF:0 group-title="Radio",M2 Chillout
-Http://www.m2radio.fr/pls/m2chillout.m3u
-#EXTINF:0 group-title="Radio",M2 Caliente
-Http://www.m2radio.fr/pls/m2caliente.m3u
-#EXTINF:0 group-title="Radio",MFM
-Http://mfm.ice.infomaniak.ch/playlists/mfm-128.mp3.m3u
-#EXTINF:0 group-title="Radio",MFM Sexy
-Http://mfm-wr3.ice.infomaniak.ch/playlists/mfm-wr3-128.mp3.m3u
-#EXTINF:0 group-title="Radio",MFM Sérenité
-Http://mfm-wr2.ice.infomaniak.ch/playlists/mfm-wr2-128.mp3.m3u
-#EXTINF:0 group-title="Radio",MFM Flashback
-Http://mfm-wr4.ice.infomaniak.ch/playlists/mfm-wr4-64.mp3.m3u
-#EXTINF:0 group-title="Radio",OUI FM
-Http://broadcast.infomaniak.ch/ouifm-high.mp3.m3u
-#EXTINF:0 group-title="Radio",OUI FM Alternatif
-Http://broadcast.infomaniak.net/ouifm2.mp3.m3u
-#EXTINF:0 group-title="Radio",Classical WETA 90.9 FM - Washington D.C.
-Http://38.100.128.106:8000/listen.pls?sid=1
-#EXTINF:0 group-title="Radio",Classic Rock Florida HD
-Http://us2.internet-radio.com:8039
-#EXTINF:0 group-title="Radio",Classic Rock Florida
-Http://us2.internet-radio.com:8046
-#EXTINF:0 group-title="Radio",Classic Rock Miami
-Http://us2.internet-radio.com:8191
-#EXTINF:0 group-title="Radio",Classic Rock Miami HD
-Http://us2.internet-radio.com:8050
-#EXTINF:0 group-title="Radio",Classic Rock New York - WWWSHERADIOCOM
-Http://us2.internet-radio.com:8347
-#EXTINF:0 group-title="Radio",Lala Radio
-Http://broadcast.infomaniak.ch/lalaradio-high.mp3.m3u
-#EXTINF:0 group-title="Radio",Radioaviva Montpellier
-Http://stream.franclr.fr:8000/radioaviva.m3u
+
 #EXTINF:0 group-title="Radio",Pop Radio ogg
 Http://dir.xiph.org/listen/9057/listen.m3uu
 #EXTINF:0 group-title="Radio",Nirvana meditation radio
@@ -6904,8 +6962,7 @@ Http://listen.radionomy.com/radio-vivantefm.m3u
 Http://radioplus23.ice.infomaniak.ch/radioplus23-48.aac.m3u
 #EXTINF:0 group-title="Radio",Earth Uk
 Http://media-ice.musicradio.com/HeartLondonMP3.m3u
-#EXTINF:0 group-title="Radio",Public Domain Classical - Swiss Internet Radio
-Http://82.197.165.137/
+
 #EXTINF:0 group-title="Radio",ANTENA ZAGREB
 http://173.192.137.34:8050/
 #EXTINF:0 group-title="Radio",ArabMusicRadio
@@ -6918,37 +6975,12 @@ http://broadcast.infomaniak.net/arj-france-high.mp3
 http://yayin.asymedya.com:8020/
 #EXTINF:-1 group-title="Radio",Z100.3 Zagitsit News FM
 http://192.99.4.210:3054/live_autodj
-
-#EXTINF:-1 group-title="Radio",Незалежність FM
-http://rad.radio-n.com:8000/;stream
 #EXTINF: -1 group-title="Radio",Radio MRDJ - The Best Of Dance Music - - HQ
 http://212.18.63.51:8054
 #EXTINF:-1 group-title="Radio",Deadknife Records FM 
 https://streaming.radionomy.com/GlobalShutdown-ANewCenturyOfDeclines#/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Radio",New Wave Of Technical Modern Metal 666.6 FM
 http://streaming.radionomy.com/GlobalShutdown-ANewCenturyOfDeclines#/live/myStream/playlist.m3u8
-#EXTINF: -1 group-title="Radio",Radio AplusFM
-http://listen.alpha.by:8000/;listen.pls?sc
-#EXTINF: -1 group-title="Radio",Radio ONT Minsk 101.7 FM
-http://listen.alpha.by:8002/;listen.pls?sc
-#EXTINF: -1 group-title="Radio",Radio AplusFM
-http://listen.alpha.by:8005/;listen.pls?sc
-#EXTINF: -1 group-title="Radio",Alpha Radio Belarus
-http://listen.alpha.by:8009/;listen.pls?sc
-#EXTINF: -1 group-title="Radio",Radio Racja
-http://listen.alpha.by:8011/;listen.pls?sc
-#EXTINF:-1 group-title="Radio",SOSH Radio (128)
-http://radio.sosh1020.ru:9919/128.mp3
-#EXTINF:-1 group-title="Radio",SOSH Radio [192 Kbps Stereo]
-http://radio.sosh1020.ru:9919/high.mp3
-#EXTINF:-1 group-title="Radio",SOSH Radio [48Kbps Stereo]
-http://radio.sosh1020.ru:9919/low.mp3
-#EXTINF:-1,SOSH Radio [96Kbps Stereo]
-http://radio.sosh1020.ru:9919/medium.mp3
-#EXTINF:-1 group-title="Radio",SOSH Radio (32)
-http://radio.sosh1020.ru:9919/mobile.mp3
-#EXTINF:-1 group-title="Radio",SCHOOL 1020 Radio (128)
-http://radio.sosh1020.ru:9919/school.mp3
 #EXTINF:-1 group-title="Radio",Verdure Station
 http://95.211.217.163:8881/;
 #EXTINF:-1 group-title="Radio",oshoe
