@@ -4524,10 +4524,56 @@ http://relay-nyc.gameowls.com:8000/all.ogg
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Web Radio",Icecast Mutual Broadcast Network
 http://mutualbroadcast.com:8000/
 
+#EXTINF:-1 group-title="Web Radio",Radio Caprice Heavy Metal
+http://79.111.14.76:9061/
+#EXTINF:-1 group-title="Web Radio",Radio Caprice Hardcore Metal
+http://79.111.14.76:9081/
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Viking Metal
+http://79.111.14.76:9077/
+http://79.111.14.76:8000/vikingmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Power Metal
+http://79.120.77.11:9099/
+http://79.120.77.11:8000/powermetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Black Metal
+http://79.120.77.11:9003/
+http://79.120.77.11:8000/blackmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Pagan Metal
+http://79.111.119.111:9069/
+http://79.111.119.111:8000/paganmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Sludge Metal
+http://79.120.77.11:9087/
+http://79.120.77.11:8000/sludgemetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Doom Metal
+http://79.111.14.76:9109/
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Progressive Metal
+http://79.120.77.11:9093/
+http://79.120.77.11:8000/progmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Progressive Death Metal
+http://79.111.119.111:9001/
+http://79.111.119.111:8000/progdeath?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Technical Death Metal
+http://79.120.77.11:9095/
+http://79.120.77.11:8000/techdeathmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Brutal Death Metal
+http://79.111.119.111:9075/
+http://79.111.119.111:8000/brutaldeathmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Neoclassical Metal
+http://79.111.119.111:9033/
+http://79.111.119.111:8000/neoclassicalmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Speed Metal
+http://79.111.119.111:9107/
+http://79.111.119.111:8000/speedmetal?
+#EXTINF:-1 group-title="Web Radio",Radio Caprice - Dark Metal
+http://79.111.119.111:9083/
+
+#EXTINF:-1 group-title="Web Radio",Death Metal!
+http://listen.radionomy.com/deathmetal-.m3u
 
 #EXTINF:-1 group-title="Canada Radio",[COLOR yellow]------------  Canada Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 group-title="Canada Radio",CKRM 620 AM Regina
+http://www.blumedialab.com/streamitall/playlists/64.ca.ckrm-620.aac.low.pls
 #EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Canada Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
 http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
 #EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Canada Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
@@ -4563,6 +4609,8 @@ http://108.178.13.122:8152/
 http://94.23.205.82:4520
 #EXTINF:-1 group-title="Canada Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
 http://192.99.4.210:3290/stream
+#EXTINF:-1 group-title="Canada Radio",Virgin 98.5 Calgary CIBK
+http://icecastsource2.amri.ca:80/cibk-aac
 #EXTINF:-1 group-title="Canada Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
 http://live.leanstream.co/CISNFM-MP3
 #EXTINF:-1 group-title="Canada Radio",105.1 MHz – CKRY-FM Edmonton, AB
@@ -4587,6 +4635,8 @@ http://live.leanstream.co/CFMKFM-MP3
 http://live.leanstream.co/CFNYFM-MP3
 #EXTINF:-1 group-title="Canada Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
 http://live.leanstream.co/CFPLFM-MP3
+#EXTINF:-1 group-title="Canada Radio",,Virgin 999 Toronto CKFM
+http://ckfm-mp3.akacast.akamaistream.net/7/318/102120/v1/astral.akacast.akamaistream.net/ckfm-mp3
 #EXTINF:-1 group-title="Canada Radio",CFRQ-FM Dartmouth, NS, Canada
 http://6093.live.streamtheworld.com/CFRQFMAAC?
 #EXTINF:-1 group-title="Canada Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
@@ -4668,8 +4718,16 @@ http://184.95.52.178:9408
 Http://5903.live.streamtheworld.com:443/CIMFFMAAC_SC
 #EXTINF:0 group-title="Canada Radio",104,7FM Gatineau (CKOF-FM)
 Http://142.4.207.11:8000/ckof.mp3
-#EXTINF:0 group-title="Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
+#EXTINF:0 group-title="Canada Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
 Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC
+#EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png"group-title="Canada Radio" ,Montreal / McGill Campus Community Radio AAC+ 64kbps stereo
+http://stream.ckut.ca:8000/903fm-64-stereo.aac
+#EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png" group-title="Canada Radio", Montreal / McGill Campus Community Radio128kbps MP3 stereo
+http://stream.ckut.ca:8000/903fm-128-stereo
+#EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png" group-title="Canada Radio",Montreal / McGill Campus Community Radio 192kbps MP3 stereo
+http://stream.ckut.ca:8000/903fm-192-stereo
+#EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png" group-title="Canada Radio",Montreal / McGill Campus Community Radio OGG Q6 stereo
+http://stream.ckut.ca:8000/903fm-q6-stereo.ogg
 #EXTINF:-1 group-title="Canada Radio",Trans Radio Canada
 http://46.105.125.110:4610
 #EXTINF:-1 group-title="Canada Radio",UCB Canada – Chatham-Kent
@@ -4708,6 +4766,14 @@ http://ckrm.streamon.fm:8000/CKRM-48k.aac
 http://174.36.206.197:8146
 #EXTINF:-1 group-title="Canada Radio",Radio Canada Internationale
 http://82.200.209.236:8000/rci
+#EXTINF:-1 group-title="Canada Radio",first Channel  Radio-Canada
+http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
+#EXTINF:-1 group-title="Canada Radio",Espace Musique  Radio-Canada
+http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
+#EXTINF:-1 group-title="Canada Radio",RDI (Audio) Radio-Canada
+http://RDIRADIO.akacast.akamaistream.net:80/7/501/177423/v1/rc.akacast.akamaistream.net/RDIRADIO
+#EXTINF:-1 group-title="Canada Radio"CBC Canada Now Nova Scotia
+http://3383.live.streamtheworld.com:443/CBC_R1_HFX_H_SC
 
 #EXTINF:-1 group-title="USA Radio",[COLOR yellow]------------  USA Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -4953,6 +5019,24 @@ http://fms.skyradios.com.br:7018
 http://167.114.103.39:8470/
 #EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Brazil Radio", Radio Bandeirantes Florianópolis
 http://streaming01.maxcast.com.br:8234/live
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN Recife 105.7
+http://sh2.upx.com.br:8012/;stream.mp3
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN BH
+http://mob.sgr.globo.com:9100/icbnbh
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN DF
+http://mob.sgr.globo.com:9100/icbnbsb
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN Recife
+http://sh2.upx.com.br:8012/
+#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN SALVADOR
+http://sh1.upx.com.br:8100/
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Brazil Radio", Radio Globo BH
+http://mob.sgr.globo.com:9000/igambh
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Brazil Radio", Radio Globo  Natal
+http://06.stmip.net:7780/
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Brazil Radio" Radio Globo RJ
+http://mob.sgr.globo.com:9000/igamrj
+#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Brazil Radio", Radio Globo SP
+http://mob.sgr.globo.com:9000/igamsp
 
 #EXTINF:-1 group-title="Czech Republic Radio",[COLOR yellow]------------  Czech Republic Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6216,15 +6300,15 @@ http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
 #EXTINF:-1 group-title="Vietnam Radio",[COLOR yellow]------------ Vietnam Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Sai Gon Network Radio Channel" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon Network Radio Channel" tvg-logo="http://img.onworldtv.com/1180×665//banner/2015/03/11/884908-livetv_sgn_banner.jpg" group-title="Vietnam",Sai Gon Network Radio Channel (Radio) (US) (Vietnamese)
+#EXTINF:0 tvg-name="Sai Gon Network Radio Channel" tvg-language="Vietnamese" tvg-country="US" tvg-id="Sai Gon Network Radio Channel" tvg-logo="http://img.onworldtv.com/1180×665//banner/2015/03/11/884908-livetv_sgn_banner.jpg" group-title="Vietnam Radio",Sai Gon Network Radio Channel (Radio) (US) (Vietnamese)
 http://stream.onworldtv.com/edge/liveorigin/sgn_aud/index.m3u8?worldtokenstarttime=1444423674&worldtokenendtime=1444508274&worldtokenhash=sJeb-VFJiW2a2TiV0rrISBxY6Sv5dwVP0s3fxt417oQ=
-#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ” group-title="Vietnam",VOV 1 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 1" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 1" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO64VqdhZsQ4jDgNjhk3f3IuzwXZ7Vc3Yz41yUnasVGtzRU8YRZmDBNwQ” group-title="Vietnam Radio",VOV 1 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio001.m3u8
-#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Vietnam",VOV 2 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 2" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW6txiuhnaSsJWwlMnrfPoO-aLzM8Bn0aQTF-2R7FE_xwtHBil2g28_g" group-title="Vietnam Radio",VOV 2 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio002.m3u8
-#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Vietnam",VOV 4 (Radio) (VN) (Vietnamese)
+#EXTINF:0 tvg-name="VOV 4" tvg-language="Vietnamese" tvg-country="VN" tvg-id="VOV 3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Dceuju5j1De2MUcm3AaOiSYCDG-lxuux0Na0OdJgNp-xbZahG6zz9w" group-title="Vietnam Radio",VOV 4 (Radio) (VN) (Vietnamese)
 http://123.29.68.10/radio/myradio003.m3u8
-#EXTINF:0 tvg-name="VOV5" tvg-language="English/Vietnamese" tvg-country="VN" tvg-id="VOV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tjz4LkUB109nceyYgsKMtgTj_fKikqxG6Za2Gb6lqr1R7YMTPASNnXY" group title="Vietnam",VOV5 (Radio) (VN) (English/Vietnamese)
+#EXTINF:0 tvg-name="VOV5" tvg-language="English/Vietnamese" tvg-country="VN" tvg-id="VOV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tjz4LkUB109nceyYgsKMtgTj_fKikqxG6Za2Gb6lqr1R7YMTPASNnXY" group title="Vietnam Radio",VOV5 (Radio) (VN) (English/Vietnamese)
 http://123.29.68.10/radio/myradio004.m3u8
 
 #EXTINF:-1 group-title="Radio",[COLOR yellow]------------ Radio ----------------------[/COLOR]
@@ -6254,17 +6338,12 @@ http://online-kissfm.tavrmedia.ua/KissFM
 
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Radio_HIPER FM
 http://85.25.73.243:10460/
-
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Radio",Radio_MegaFM
 http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
-
-
 #EXTINF:0 group-title="Radio",Must FM Belgique
 Http://rs1.vdl.fm:8700/listen.pls
-
 #EXTINF:0 group-title="Radio",Plein Sud 106 FM
 Http://199.195.194.92:8090/listen.pls
-
 #EXTINF:0 group-title="Radio",RadioMax Greatest Hits
 Http://188.165.232.7:9172
 #EXTINF:0 group-title="Radio",Creek Valley Radio - Late 60s to 00s Mix
@@ -6275,10 +6354,8 @@ Http://www.streamvortex.com:10230/listen.pls?sid=1
 Http://192.81.248.70:8004
 #EXTINF:0 group-title="Radio",SALSA BRAVA RADIO
 Http://206.190.130.18:8053
-
 #EXTINF:-1 group-title="Radio",BG Radio
 http://91.187.113.181:8000/play/8t83
-
 #EXTINF:0 group-title="Radio",Trancemission FM Radio
 
 http://87.230.21.161:6660
@@ -6297,13 +6374,9 @@ http://voxsc1.somafm.com:8884
 #EXTINF:0 group-title="Radio",ANDYS 80s
 http://209.9.238.4:9844
 
-
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Radio",Hatchet Radio
 http://198.154.106.101:8266/
-#EXTINF:-1 group-title="Radio",Radio Caprice Heavy Metal
-http://79.111.14.76:9061/
-#EXTINF:-1 group-title="Radio",Radio Caprice Hardcore Metal
-http://79.111.14.76:9081/
+
 #EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Radio",Radio Metallica 
 http://107.6.132.210:9400/
 
@@ -6896,25 +6969,6 @@ http://media1.publici.com.br:8088/valedosol?type=.mp3
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://1.bp.blogspot.com/-bJ9U8VXxy3s/VmmjT-L3JyI/AAAAAAAAAPY/hrYZAs5FaJ4/s1600/assembleia.png" group-title="Radio", Assembleia de Deus
 http://assembleia.org.br:8028/;stream.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN Recife 105.7
-http://sh2.upx.com.br:8012/;stream.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN BH
-http://mob.sgr.globo.com:9100/icbnbh
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN DF
-http://mob.sgr.globo.com:9100/icbnbsb
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN Recife
-http://sh2.upx.com.br:8012/
-#EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Radio", CBN SALVADOR
-http://sh1.upx.com.br:8100/
-
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo BH
-http://mob.sgr.globo.com:9000/igambh
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo  Natal
-http://06.stmip.net:7780/
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio" Radio Globo RJ
-http://mob.sgr.globo.com:9000/igamrj
-#EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Radio", Radio Globo SP
-http://mob.sgr.globo.com:9000/igamsp
 #EXTINF:-1 tvg-logo="https://fontecom.files.wordpress.com/2012/07/mzi-cnyxsimp.png" group-title="Radio", Radio Itatiaia MG
 http://aovivo.radios.com.br:8110/
 #EXTINF:-1 tvg-logo="http://radiocristoemcasa.com/images/47f92efd88d39defb4676132efeee212.png" group-title="Radio", Radio Rumo a Cristo
@@ -6941,11 +6995,11 @@ http://servidor28.crossdigital.com.br:8286/;
 http://7309.live.streamtheworld.com/MG_RADIOONLINEAAC
  #EXTINF:-1 group-title="Radio",M2 Rock
 http://185.57.237.1:8000/m2rock
-#EXTINF:0 group-title="Radio",GOT Radio Classic country
+#EXTINF:0 group-title="Radio",GOT Radio Classic country USA
 http://69.4.234.186:8090/
 #EXTINF:0 group-title="Radio",Highway 181 (classic country)
 http://108.61.73.120:8018/
-#EXTINF:0 group-title="Radio",HPR2: Today's Classic Country
+#EXTINF:0 group-title="Radio",HPR2: Today's Classic Country USA
 http://50.7.77.179:8022/
 #EXTINF:0 group-title="Radio",Classic Country 1630
 http://199.195.194.140:8303/stream
@@ -6959,7 +7013,7 @@ http://159.253.37.137:9966/;
 http://159.253.37.137:9972/;
 #EXTINF:-1 group-title="Radio",Radyo Yadeller
 http://159.253.37.137:9974/;
-#EXTINF: -1 group-title="Radio",MyK93
+#EXTINF: -1 group-title="Radio",MyK93 Texas
 http://198.154.106.116:8004/;
 #EXTINF: -1 group-title="Radio",Phillys Jammin Oldies
 http://198.154.106.116:8015/;
@@ -6989,7 +7043,7 @@ Http://www.california101radio.com/california101.pls
 Http://dir.xiph.org/listen/9057/listen.m3uu
 #EXTINF:0 group-title="Radio",Nirvana meditation radio
 Http://dir.xiph.org/listen/2912/listen.m3u
-#EXTINF:0 group-title="Radio",SUN - LE SON UNIQUE A NANTES
+#EXTINF:0 group-title="Radio",SUN - LE SON UNIQUE A NANTES France
 Http://80.82.229.202:8000/sunhd.mp3
 #EXTINF:0 group-title="Radio",Rock Radio
 Http://dir.xiph.org/listen/174891/listen.m3u
@@ -7010,7 +7064,7 @@ http://broadcast.infomaniak.net/arcmusique-128.mp3
 http://broadcast.infomaniak.net/arj-france-high.mp3
 #EXTINF:0 group-title="Radio",ASK FM
 http://yayin.asymedya.com:8020/
-#EXTINF:-1 group-title="Radio",Z100.3 Zagitsit News FM
+#EXTINF:-1 group-title="Radio",Z100.3 Zagitsit News FM Philippenes
 http://192.99.4.210:3054/live_autodj
 #EXTINF: -1 group-title="Radio",Radio MRDJ - The Best Of Dance Music - - HQ
 http://212.18.63.51:8054
