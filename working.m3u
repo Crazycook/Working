@@ -418,6 +418,8 @@ http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
 http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBvfh150652Ynfd9DGwyf-eXM8dSymDUqkQGwkRFKZ2ShNHpD--Sr6Roc" group-title="Brazil",Rede Minas
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:0 tvg-logo="http://farm5.static.flickr.com/4096/4960211853_a2bff810ff_m.jpg" group-title="Brazil",REDE RECORD SP HD
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://seeklogo.com/images/R/rede-vida-logo-DBFD879E72-seeklogo.com.gif" group-title="Brazil",REDE VIDA
 http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTBisAnYmZQ7GsWXN0RV85lTFXfc1Q_ch3XDuzYjK9KUz-0re0RKlgD00" group-title="Brazil",RIT TV
@@ -825,6 +827,8 @@ http://205.164.56.130:1935/nacioninternacional/nacioninternacional/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Proyecto_40.png" group-title="Mexico", Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Proyecto_40.png" group-title="Mexico",[COLOR orange]PROYECTO 40 (MEX) [/COLOR]
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:0 tvg-logo="http://www.ministeriotv.com/uploads/channels/49/logo_thumb.jpg" group-title="Mexico",Palabra de Dios sin Levadura
 http://ca1.ministeriotv.com:1935/49/stream/playlist.m3u8
 
@@ -1944,6 +1948,18 @@ http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 http://rthk.hk/dtt/rthktv31.m3u8
 #EXTINF:-1 tvg-id="rthk32" tvg-name="港台電視32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/220px-RTHK_TV_33.svg.png" group-title="China",港台電視32
 http://rthk.hk/dtt/rthktv32.m3u8
+#EXTINF:-1 group-title="China",韩-女团
+http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv?vhd.xtimenet.com?/video.asp?.flv
+#EXTINF:0 group-title="China",EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:0 group-title="China",EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="China",YTN SCIENCE(贡献者:007)
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 group-title="China",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/media.playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/500px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="China",TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/media.playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia",[COLOR yellow]---------------------- Indonesia----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2042,6 +2058,10 @@ http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
 
 EXTINF:0 group-title="Malaysia",Antena TV 1
 http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Awani.jpg/220px-Awani.jpg" group-title="Malaysia", Astro Awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Awani.jpg/220px-Awani.jpg" group-title="Malaysia", Astro Awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
 
 #EXTINF:-1 group-title="Pakistan",[COLOR yellow]---------------------- Pakistan----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2662,6 +2682,8 @@ rtmp://188.165.135.22/malaga/livestream
 rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:0 tvg-name="Kingdom tv Christian" tvg-language="English" tvg-country="US" tvg-id="Kingdom tv Christian" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh0prDq7bYmuUZxBgUjdLGcmJWf-gbBZFfu–5_PkSG9Z1pyopveJjQO0" group-title="Religious",Kingdom tv
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ss/sonlife_broadcasting_network_global.png" group-title="Religious",[COLOR yellow]SBN GLOBAL [/COLOR]
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
 #EXTINF:0 tvg-name="TBN salsa" tvg-language="English" tvg-country="US" tvg-id="TBN salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jhrj9Mvl2VaIw6wxqHDvbk4Me5K6rYmKMwQz8AKNoGu7Eh6KotNKRLA" group-title="Religious",TBN salsa
 http://acaooyalahd2-lh.akamaihd.net/i/TBN11a_delivery@332897/master.m3u8
 #EXTINF:0 group-title="Religious",EWTN (Spanish)
@@ -2718,6 +2740,8 @@ http://0.0.0.0:1234
 http://80.250.191.10:1935/live/livestream3/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",24 Rock One
 mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",24RockOne66
+http://194.116.83.15:80/24RockOne66
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TV_538_logo.jpg/170px-TV_538_logo.jpg" group-title="Music",538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:0 tvg-name="7S MUSIC" tvg-language="Tamil" tvg-country="IN" tvg-id="7S MUSIC" tvg-logo="http://logowow.net/logos/thumb-EoUSpsEtX.png" group-title="Music",7S MUSIC (IN) (Tamil)
@@ -7144,10 +7168,22 @@ http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
 #EXTINF:-1 group-title="Movies",[COLOR BISQUE]--------------Movies--------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 group-title="Movies",12 Years a Slave 2013 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12%20Years%20a%20Slave%20(2013)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",12 Years a Slave 2013 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12%20Years%20a%20Slave%20(2013)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",12 Angry Men 1957 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12Angry%20Men%20(1957)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",3 Idiots 2009 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/3Idiots%20(2009)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",51 Life Is Beautiful 1997 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/51%20-%20Life%20Is%20Beautiful%20(1997)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",101 Dalmations
 http://bit.ly/1Pqs0aL
 #EXTINF:0 group-title="Movies",13 Sins
 http://144.76.186.45/r57/5/tyler/movie/13SinsDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",2 Guns 
+http://deadlyblogger.com/NewRelease/2guns.mp4
 #EXTINF:0 tvg-logo="" group-title="Movies",20000 Days on Earth
 http://144.76.186.45/r57/5/tyler/movie/20000DaysonEarthDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",22 Jump Street
@@ -7216,6 +7252,78 @@ http://144.76.186.45/r57/5/tyler/movie/AtlasShruggedPartIIIDVD-TylerMovieLand.mp
 http://144.76.186.45/r57/5/tyler/movie/AttheDevilsDoorDVD-TylerMovieLand.mp4
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/15_04/2014/1971325/m_1971325_076e5fda.jpg" group-title="Movies",Automata
 http://144.76.186.45/r57/5/tyler/movie/AutomataDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",A Haunted House 2
+http://deadlyblogger.com/NewRelease/haunted2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Anchorman The Legend Of Ron Burgundy
+http://deadlyblogger.com/NewRelease/anchorman.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Anchorman 2: The Legend Continues
+http://deadlyblogger.com/NewRelease/anchorman2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",A Night At The Roxbury  
+http://deadlyblogger.com/NewRelease/roxbury.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Austin Powers 
+http://deadlyblogger.com/NewRelease/austin1.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Austin Powers The Spy Who Shagged Me
+http://deadlyblogger.com/NewRelease/austin2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",American Gangster 
+http://deadlyblogger.com/NewRelease/agangster.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",American Hustle 
+http://deadlyblogger.com/NewRelease/hustle2013.mp4
+#EXTINF:0 group-title="Movies",Adult World
+http://144.76.186.45/r57/5/tyler/movie/AdultWorldDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",About Last Night
+http://144.76.186.45/r57/5/tyler/movie/AboutLastNightDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",A Case o fYou
+http://144.76.186.45/r57/5/tyler/movie/ACaseofYouDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",August Osage County
+http://144.76.186.45/r57/5/tyler/movie/AugustOsageCountyDVDScr-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Alice In Wonderland (1951)
+http://bit.ly/1QVceDS
+#EXTINF:-1 group-title="Movies",American.Sniper.2014.1080p.WEB-DL.5.1CH
+http://dl.tehmovies.com/94/1/American.Sniper.2014.1080p.WEB-DL.5.1CH.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",American.Sniper.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/1/American.Sniper.2014.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Assassination.Classroom.2015.720p
+http://dl.tehmovies.com/94/11/Assassination.Classroom.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Attack.on.Titan.Part.1.2015.1080p
+http://dl.tehmovies.com/94/11/Attack.on.Titan.Part.1.2015.1080p.Tehmovies.net.mp4
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Allegiant (2016)
+http://dl.tehmovies.com/94/95/3/Allegiant.2016.720p.TC.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Any.Given.Sunday.DIRECTORS.CUT.1999.720p.YIFY
+http://dl.tehmovies.com/94/11/alpacino/Any.Given.Sunday.DIRECTORS.CUT.1999.720p.YIFY.Tehmovies.net.mp4 
+#EXTINF:-1 group-title="Movies",A.Countess.from.Hong.Kong.1967.720p
+http://dl.tehmovies.com/94/11/marlon.brando/A.Countess.from.Hong.Kong.1967.720p.YIFY.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",A.Personal.Journey.with.Martin.Scorsese.Through.American.Movies.1995.Part1-2
+http://dl.tehmovies.com/94/11/marlon.brando/A.Personal.Journey.with.Martin.Scorsese.Through.American.Movies.1995.Part1-2.Tehmovies.net.avi
+#EXTINF:-1 group-title="Movies",A_Streetcar_Named_Desire.1951.720p
+http://dl.tehmovies.com/94/11/marlon.brando/A_Streetcar_Named_Desire.1951.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",And.the.Oscar.Goes.To.720p.HDTV.x264-CBFM
+http://dl.tehmovies.com/94/11/marlon.brando/And.the.Oscar.Goes.To.720p.HDTV.x264-CBFM.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Apocalypse.Now.2001.720p
+http://dl.tehmovies.com/94/11/marlon.brando/Apocalypse.Now.2001.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",A Fistful of Dollars 1964 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Fistful%20of%20Dollars%20(1964)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",A Separation 2011 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Separation%20(2011)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",A Space Odyssey 1968 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Space%20Odyssey%20(1968)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Alien 1979 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Alien%20(1979)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Aliens 1986 "https://image.tmdb.org/t/p/w533_and_h300_bestv2/r2zB2vGLDQVxlRZISH7KzQ6reiC.jpg"
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Aliens%20(1986)%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",All About Eve 1950 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/All%20About%20Eve%20(1950)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Amadeus 1984 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amadeus%201984%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",American Beauty 1999 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/American%20Beauty%201999%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Amlie 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amlie%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Amores Perros 2000 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amores%20Perros%20(2000)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Annie Hall 1977 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Annie%20Hall%20(1977)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Apocalypse Now 1979 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Apocalypse%20Now%20(1979)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 group-title="Movies",Begin Again
 http://144.76.186.45/r57/5/tyler/movie/BeginAgainDVD-TylerMovieLand.mp4
@@ -7261,9 +7369,73 @@ http://www.film4eg.net/momn/Brooklyn%202015-1.mp4
 http://144.76.186.45/r57/5/tyler/movie/BelieveMeDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Blended
 http://144.76.186.45/r57/5/tyler/movie/BlendedDVD-TylerMovieLand.mp4
+EXTINF:-1 #EXTINF:-1 group-title="Movies",Bad Grandpa
+http://deadlyblogger.com/NewRelease/badgrandpa2013.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Bewitched
+http://deadlyblogger.com/NewRelease/bewitched.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Blades Of Glory
+http://deadlyblogger.com/NewRelease/glory.mp4
+#EXTINF:0 group-title="Movies",Brick Mansions
+http://144.76.186.45/r57/5/tyler/movie/BrickMansionsDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Belle
+http://144.76.186.45/r57/5/tyler/movie/BelleDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Baller Blockin 
+http://deadlyblogger.com/NewRelease/blockin.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Belly
+http://deadlyblogger.com/NewRelease/belly1998.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Blood In Blood Out 
+http://deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Body Heat  
+http://deadlyblogger.com/NewRelease/bodyheat1981.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Boyz n the Hood  
+http://deadlyblogger.com/NewRelease/thehood.mp4
+#EXTINF:0 group-title="Movies",Beyonce Life is But a Dream
+http://144.76.186.45/r57/5/tyler/movie/BeyonceLifeisButaDreamDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Back in the Day
+http://144.76.186.45/r57/5/tyler/movie/BackintheDayDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Black.Mountain.Side.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/11/Black.Mountain.Side.2016.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Blinky.Bill.the.Movie.DVDRip
+http://dl.tehmovies.com/94/11/Blinky.Bill.the.Movie.DVDRip.Tehmovies.net.mp4 
+#EXTINF:-1 group-title="Movies",Breakdown.2016.HDrip   
+http://dl.tehmovies.com/94/11/Breakdown.2016.HDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Beautiful Mind 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Beautiful%20Mind%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Back to the Future 1985 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Back%20to%20the%20Future%20(1985)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Barry Lyndon 1975 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Barry%20Lyndon%20(1975)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Batman Begins 2005 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Batman%20Begins%20(2005)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Beauty and the Beast 1991 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Beauty%20and%20the%20Beast%20(1991)%201080p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Beauty and the Beast 1991 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Beauty%20and%20the%20Beast%20(1991)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Before Sunrise 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Before%20Sunrise%20(1995)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Before Sunset 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Before%20Sunset%20(2004)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",BenHur 1959 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ben-Hur%20(1959)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Bicycle Thieves 1948 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Bicycle%20Thieves%20(1948)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Blade Runner 1982 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blade%20Runner%20(1982)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Blood Diamond 2006 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blood%20Diamond%20(2006)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Blood Diamond 2006 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blood%20Diamond%20(2006)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Boyhood 2014 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Boyhood%202014%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Boyhood 2014 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Boyhood%202014%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Braveheart 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Braveheart%20(1995)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Butch Cassidy and the Sundance Kid 1969 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)%20720p%20(Bia2Movies).mkv
+
 #EXTINF:0 tvg-logo="" group-title="Movies",Camp XRay
 http://144.76.186.45/r57/5/tyler/movie/CampXRayDVD-TylerMovieLand.mp4
-
 #EXTINF:0 group-title="Movies",Chef
 http://144.76.186.45/r57/5/tyler/movie/ChefDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",CouldthisbeLove
@@ -7302,6 +7474,38 @@ http://www.watch-simpsons.com/downloads/Criminal.Activities.2015.HDRip.XViD-ETRG
 https://2.bp.blogspot.com/riveURuZbrpGa%5FGN2Qkq6cTHguWLOlmEeuNa0pOgmVA%3Dm18
 #EXTINF:0 group-title="Movies",Crimson Tide 1995 
 http://www.deadlyblogger.com/NewRelease/crimson.mp4
+#EXTINF:-1 group-title="Movies",Cinderella (1950)
+http://bit.ly/1StKtnz
+#EXTINF:0 group-title="Movies",Cesar Chavez
+http://144.76.186.45/r57/5/tyler/movie/CesarChavezDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Colors 
+http://deadlyblogger.com/NewRelease/colors.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Class Act  
+http://deadlyblogger.com/NewRelease/classact.mp4
+#EXTINF:-1 group-title="Movies", Coconut.The.Little.Dragon.2014.720p                  
+http://dl.tehmovies.com/94/11/Coconut.The.Little.Dragon.2014.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",contracted 720 BluRay
+http://dl.tehmovies.com/94/1/contractedbd72.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Clockwork Orange 1971 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Clockwork%20Orange%20(1971)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Casablanca 1942 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Casablanca%20(1942)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Casino 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Casino%20(1995)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Castle in the Sky 1986 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Castle%20in%20the%20Sky%20(1986)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Chinatown 1974 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Chinatown%20(1974)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Cinema Paradiso 1988 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Cinema%20Paradiso%20(1988)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Citizen Kane 1941 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Citizen%20Kane%20(1941)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",City Lights 1931 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/City%20Lights%20(1931)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",City of God 2002 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/City%20of%20God%202002%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Cool Hand Luke 1967 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Cool%20Hand%20Luke%20(1967)%20720p%20(Bia2Movies).mp4
 
 #EXTINF:0 group-title="Movies",Dom Hemingway
 http://144.76.186.45/r57/5/tyler/movie/DomHemingwayDVD-TylerMovieLand.mp4
@@ -7327,6 +7531,54 @@ http://144.76.186.45/r57/5/tyler/movie/DontBlinkDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/DawnofthePlanetoftheApesDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Deliver us From Evil
 http://144.76.186.45/r57/5/tyler/movie/DeliverusFromEvilDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Divergent
+http://144.76.186.45/r57/5/tyler/movie/DivergentHD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Delivery Man
+http://deadlyblogger.com/NewRelease/deliveryman.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dogma  
+http://deadlyblogger.com/NewRelease/dogma1999.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dont Be A Menace 
+http://deadlyblogger.com/NewRelease/menace.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Don't Tell Mom the Babysitter's Dead 
+http://deadlyblogger.com/NewRelease/babysitter1991.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dangerous Minds 
+http://deadlyblogger.com/NewRelease/minds.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dead Presidents 
+http://deadlyblogger.com/NewRelease/deadp.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dirty
+http://deadlyblogger.com/NewRelease/dirty1.mp4
+#EXTINF:-1 group-title="Movies",Ducktales: Treasure Of The Lost Lamp
+http://bit.ly/1Vz0fgo
+#EXTINF:-1 group-title="Movies",Despicable Me 2
+http://bit.do/bmAX7
+#EXTINF:-1 group-title="Movies",Dances.with.Wolves.1990.Extended.Cut.720p
+http://dl.tehmovies.com/94/1/Dances.with.Wolves.1990.Extended.Cut.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Digging.Up.the.Marrow.2014.BluRay.720p
+http://dl.tehmovies.com/94/1/Digging.Up.the.Marrow.2014.BluRay.720p.TehMovies.Com.mkv  
+#EXTINF:-1 group-title="Movies",Das Boot 1981 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Das%20Boot%20(1981)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Diabolique 1955 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Diabolique%20(1955)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Dial M for Murder 1954 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dial%20M%20for%20Murder%20(1954)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Die Hard 1988 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Die%20Hard%20(1988)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Dil Chahta Hai 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dil%20Chahta%20Hai%202001%20720p%20DVDRip%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Django Unchained 2012 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Django%20Unchained%20(2012)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Django Unchained 2012 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Django%20Unchained%20(2012)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Dog Day Afternoon 1975 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dog%20Day%20Afternoon%20(1975)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Donnie Darko 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Donnie%20Darko%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Double Indemnity 1944 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Double%20Indemnity%20(1944)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Downfall 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Downfall%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Dr Strangelove 1964 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dr.Strangelove%20(1964)%20720p%20(Bia2Movies).mkv  
 
 #EXTINF:0 group-title="Movies",Earth to Echo
 http://144.76.186.45/r57/5/tyler/movie/EarthtoEchoDVD-TylerMovieLand.mp4
@@ -7340,6 +7592,20 @@ http://www.deadlyblogger.com/NewRelease/empirestate.mp4
 https://archive.org/download/Enemy.At.The.Gates.2001.1080p.BrRip.x264.YIFY/Enemy.At.The.Gates.2001.1080p.BrRip.x264.YIFY.mp4
 #EXTINF:0 group-title="Movies",Escape Plan 2013
 http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
+#EXTINF:0 group-title="Movies",Edge of Tomorrow
+http://144.76.186.45/r57/5/tyler/movie/EdgeofTomorrowDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Epic(2013)
+http://bit.ly/1m7dyIN
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Elf
+http://deadlyblogger.com/NewRelease/elf1.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Everything Must Go
+http://deadlyblogger.com/NewRelease/mustgo.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/md/mdjvkmug.jpg", Escape Plan 2013
+http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
+#EXTINF:-1 group-title="Movies",Eight and a Half 1963 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eight%20and%20a%20Half%201963%20720p%20(Bia2Movies).m4a
+#EXTINF:-1 group-title="Movies",Eternal Sunshine of the Spotless Mind 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eternal%20Sunshine%20of%20the%20Spotless%20Mind%20(2004)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 tvg-logo="" group-title="Movies",Falcon Rising
 http://144.76.186.45/r57/5/tyler/movie/FalconRisingDVD-TylerMovieLand.mp4
@@ -7361,10 +7627,48 @@ http://144.76.186.45/r57/5/tyler/movie/FrankDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/FreeFallDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",Finding Nemo
 http://bit.ly/1nwBAOg
+#EXTINF:-1 group-title="Movies",Finding Nemo (2003)
+http://bit.ly/1PkEhfu
+#EXTINF:0 group-title="Movies",Flowers in the Attic
+http://144.76.186.45/r57/5/tyler/movie/FlowersintheAtticDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",Free Birds
 http://bit.ly/23BENwZ
 #EXTINF:-1 group-title="Movies",Frozen
 http://bit.ly/1SREb2E
+#EXTINF:0 group-title="Movies",Feeding Mr Baldwin
+http://144.76.186.45/r57/5/tyler/movie/FeedingMrBaldwinDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Four Brothers
+http://deadlyblogger.com/NewRelease/fourb.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Flubber
+http://deadlyblogger.com/NewRelease/flubber.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Friday  
+http://deadlyblogger.com/NewRelease/friday1.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Next Friday 
+http://deadlyblogger.com/NewRelease/friday2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Friday After Next 
+http://deadlyblogger.com/NewRelease/friday3.mp4
+‪#EXTINF:-, group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/x1/x1zhjkkb.jpg", Flight: Decisao de Risco 2012
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="Movies",Fifty.Shades.of.Grey.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/1/Fifty.Shades.of.Grey.2015.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",From.Russia.With.Love.1963.720p
+http://dl.tehmovies.com/94/1/From.Russia.With.Love.1963.720p.TehMovies.Com.mkv 
+#EXTINF:-1 group-title="Movies",Frankie.and.Johnny.1991.720p.HDTV
+http://dl.tehmovies.com/94/11/alpacino/Frankie.and.Johnny.1991.720p.HDTV.Tehmovies.net.mkv    
+#EXTINF:-1 group-title="Movies",Fany and Alexander 1982 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fany%20and%20Alexander%20(1982)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Fargo 1996 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fargo%20(1996)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Fight Club 1999 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fight%20Club%20(1999)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Finding Nemo 2003 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Finding%20Nemo%20(2003)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",For A Few Dollars More 1965 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/For%20A%20Few%20Dollars%20More%20(1965)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Forrest Gump 1994 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Forrest%20Gump%20(1994)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Full Metal Jacket 1987 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Full%20Metal%20Jacket%20(1987)%201080p%20(Bia2Movies).mp4   
 
 #EXTINF:0 group-title="Movies",Ghost In The Shell: The New Movie 2015(Japanese)
 https://2.bp.blogspot.com/47uaYW9NniaPzu%2D5I7BH3mqDcgYcDDBg21XlyLqxzqM%3Dm22
@@ -7374,6 +7678,52 @@ http://144.76.186.45/r57/5/tyler/movie/GetonUpDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/GodsPocketDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Good People
 http://144.76.186.45/r57/5/tyler/movie/GoodPeopleDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Godzilla
+http://144.76.186.45/r57/5/tyler/movie/GodzillaDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",GoodbyeWorld
+http://144.76.186.45/r57/5/tyler/movie/GoodbyeWorldDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Gods Not Dead
+http://144.76.186.45/r57/5/tyler/movie/GodsNotDeadDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Get Rich or Die Tryin 
+http://deadlyblogger.com/NewRelease/gunit.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Grown Ups
+http://deadlyblogger.com/NewRelease/grown1.mp4
+#EXTINF:-1,Grown Ups 2
+http://deadlyblogger.com/NewRelease/grown2.mp4
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/qp/qptxrvdh.jpg", Grudge Match 2013
+http://www.deadlyblogger.com/NewRelease/grudgematch.mp4 
+#EXTINF:-1 group-title="Movies",Good.Kill.2014.DVDrip
+http://dl.tehmovies.com/94/1/Good.Kill.2014.DVDrip.TehMovies.Com.mkv
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Gods of Egypt 2016 720p WEB.DL
+http://dl.tehmovies.com/94/95/2/Gods.of.Egypt.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Gods of Egypt 2016 720p WEB.DL
+http://dl.tehmovies.com/94/95/2/Gods.of.Egypt.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Gandhi 1982 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gandhi%20(1982)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Gladiator 2000 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gladiator%20(2000)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Gone Girl 2014 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20Girl%202014%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Gone Girl 2014 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20Girl%202014%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Gone with the Wind 1939 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20with%20the%20Wind%20(1939)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Good Will Hunting 1997 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Good%20Will%20Hunting%20(1997)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Goodfellas 1990 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Goodfellas%20(1990)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Gran Torino 2008 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gran%20Torino%20(2008)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Grave of the Fireflies 1988 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Grave%20of%20the%20Fireflies%20(1988)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Groundhog Day 1993 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Groundhog%20Day%20(1993)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%20720p%20(Bia2Movies).mkv
+G#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 dvdrip
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%20dvdrip%20(Bia2Movies).mkv
 
 #EXTINF:0 group-title="Movies",Helllion
 http://144.76.186.45/r57/5/tyler/movie/HelllionDVD-TylerMovieLand.mp4
@@ -7415,8 +7765,46 @@ http://bit.ly/1nW7B2Q
 http://bit.ly/1OYW4Zo
 #EXTINF:-1 group-title="Movies",Home Alone 4
 http://bit.ly/1KiXzTn
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 1
+http://deadlyblogger.com/NewRelease/hangover1.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 2
+http://deadlyblogger.com/NewRelease/hangover2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 3
+http://deadlyblogger.com/NewRelease/hangover3.mp4
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_10/2013/1528071/m_1528071_31ac2a01.jpg" group-title="Movies",Horns
 http://144.76.186.45/r57/5/tyler/movie/HornsDVD-TylerMovieLand.mp4
+#EXTINF:0,Heaven is For Real
+http://144.76.186.45/r57/5/tyler/movie/HeavenisForRealDVD-TylerMovieLand.mp4
+#EXTINF:0,Hide Your Smiling Faces HDRip
+http://144.76.186.45/r57/5/tyler/movie/HideYourSmilingFacesHDRip-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Her Webscr
+http://144.76.186.45/r57/5/tyler/movie/HerWebscr-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Happy.Valley.2014.DVDrip
+http://dl.tehmovies.com/94/1/Happy.Valley.2014.DVDrip.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Hyena.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/1/Hyena.2014.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Hachi A Dogs Tale 2009 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Hachi%20A%20Dog-s%20Tale%20(2009)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Harry Potter and the Deathly Hallows Part 2
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%202011%20Standard%20Edition%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Heat 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Heat%20(1995)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",High Noon 1952 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Her%20(2013)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Her 2013 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Her%20(2013)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",High Noon 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/High%20Noon%20(1952)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Hotel Rwanda 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Hotel%20Rwanda%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2010 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%20(2010)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2 2014 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%202%20(2014)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2 2014 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%202%20(2014)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Howls Moving Castle 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Howls%20Moving%20Castle%20(2004)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 tvg-logo="" group-title="Movies",I Am Ali
 http://144.76.186.45/r57/5/tyler/movie/IAmAliDVD-TylerMovieLand.mp4
@@ -7424,6 +7812,44 @@ http://144.76.186.45/r57/5/tyler/movie/IAmAliDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/IfIStayDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Into the Storm
 http://144.76.186.45/r57/5/tyler/movie/IntotheStormDVD-TyleMovieLand.mp4
+#EXTINF:0 group-title="Movies",I Frankenstein
+http://144.76.186.45/r57/5/tyler/movie/IFrankensteinDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",IntheBlood
+http://144.76.186.45/r57/5/tyler/movie/IntheBloodDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",In Too Deep
+http://deadlyblogger.com/NewRelease/deep1999.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Inside Man 
+http://deadlyblogger.com/NewRelease/insideman.mp4
+#EXTINF:-1 group-title="Movies",I.Am.Soldier.2014.720p
+http://dl.tehmovies.com/94/1/I.Am.Soldier.2014.720p.TehMovies.Com.mp4
+#EXTINF:-1 group-title="Movies",Interview.with.a.Hitman.2012.BluRay.720p.x264
+http://dl.tehmovies.com/94/1/Interview.with.a.Hitman.2012.BluRay.720p.x264.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Island.Of.Lemurs.Madagascar.2014.720p.BluRay
+http://dl.tehmovies.com/94/1/Island.Of.Lemurs.Madagascar.2014.720p.BluRay.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Island.of.Lemurs.Madagascar.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/1/Island.of.Lemurs.Madagascar.2014.1080p.5.1CH.TehMovies.Com.mkv  
+#EXTINF:-1 group-title="Movies",Ikiru 1952 Rip<
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ikiru%201952%20DVDRip%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",In the Name of the Father 1993 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/In%20the%20Name%20of%20the%20Father%20(1993)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Incendies 2010 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Incendies%20(2010)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Inception 2010 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Inception%20(2010)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Indiana Jones and the Last Crusade 1989 720p Bluray
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Indiana%20Jones%20and%20the%20Last%20Crusade%201989%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Infernal Affairs 2002 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Infernal%20Affairs%20(2002)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Inglourious Basterds 2009 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Inglourious%20Basterds%20(2009)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Into the Wild 2007 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Into%20the%20Wild%20(2007)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",It Happened One Night 1934 480p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/It%20Happened%20One%20Night%20(1934)%20480p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Its A Wonderful Life 1946 Colorized 720p BluRay
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Its%20A%20Wonderful%20Life%201946%20Colorized%20720p%20BluRay%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Its a Wonderful Life 1946 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Its%20a%20Wonderful%20Life%20(1946)%20720p%20(Bia2Movies).mkv    
 
 #EXTINF:0,tvg-name="Jurassic Prey 2015" tvg-language="English" tvg-country="US" tvg-id="Jurassic Prey 2015" tvg-logo="http://i.imgur.com/5WIC7gV.jpg" group-title="Movies",Jurassic Prey 2015
 https://lh3.googleusercontent.com/2KcSFi7gRJ9JdeF3%2DIfd32%5FaR0ZGFez5E%5F4%2DZK1LELw%3Dm18
@@ -7441,6 +7867,39 @@ http://bit.ly/1nP8dYr
 http://bit.ly/1QAhc93
 #EXTINF:-1 group-title="Movies",Jumanji
 http://bit.ly/1Vz0oQS
+#EXTINF:0 group-title="Movies",Jinn
+http://144.76.186.45/r57/5/tyler/movie/JinnDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Joe
+http://144.76.186.45/r57/5/tyler/movie/JoeDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Jersey Boys
+http://144.76.186.45/r57/5/tyler/movie/JerseyBoysDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Jawbreaker
+http://deadlyblogger.com/NewRelease/jawbreaker.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Juice  
+http://deadlyblogger.com/NewRelease/juice.mp4
+#EXTINF:0 group-title="Movies",Jack Ryan Shadow Recruit
+http://144.76.186.45/r57/5/tyler/movie/JackRyanShadowRecruitDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Justice League War
+http://144.76.186.45/r57/5/tyler/movie/JusticeLeagueWarDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Jesse.Stone.Lost.in.Paradise.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/11/Jesse.Stone.Lost.in.Paradise.2015.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Judgment at Nuremberg 1961 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jaws%20(1975)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Judgment at Nuremberg 1961 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Judgment%20at%20Nuremberg%20(1961)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Jurassic Park 1993 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%201080p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Jurassic Park 1993 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:0 group-title="Movies",Kid Cannabis
+http://144.76.186.45/r57/5/tyler/movie/KidCannabisDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Killa Season 
+http://deadlyblogger.com/NewRelease/killa1.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",King of Paper Chasin 
+http://deadlyblogger.com/NewRelease/kingpaper.mp4
+#EXTINF:-1 group-title="Movies",Kill Bill Vol 1 2003 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Kill%20Bill%20Vol%201%202003%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 group-title="Movies",Lets Be Cops
 http://144.76.186.45/r57/5/tyler/movie/LetsBeCopsDVD-TylerMovieLand.mp4
@@ -7450,6 +7909,46 @@ http://144.76.186.45/r57/5/tyler/movie/LifeofCrimeDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/LiveNudeGirlsDVD-TylerMovieLand.mp4
 #EXTINF:0 tvg-logo="" group-title="Movies",Left Behind
 http://144.76.186.45/r57/5/tyler/movie/LeftBehindDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Legends of Oz Dorothys Return
+http://144.76.186.45/r57/5/tyler/movie/LegendsofOzDorothysReturnDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Locke
+http://144.76.186.45/r57/5/tyler/movie/LockeDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Lucy
+http://144.76.186.45/r57/5/tyler/movie/LucyDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Lucy
+http://deadlyblogger.com/NewRelease/lucy2014.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Law Abiding Citizen 
+http://deadlyblogger.com/NewRelease/lawcitizen.mp4
+#EXTINF:-1 group-title="Movies",Lego Star Wars : The Yoda Chronicals
+http://bit.ly/1RTJY7M
+#EXTINF:-1 group-title="Movies", Lion King
+http://bit.ly/2011G8F
+#EXTINF:-1 group-title="Movies",Lion King
+http://bit.ly/1PkDRpu
+#EXTINF:-1 group-title="Movies",Love.the.Coopers.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/11/Love.the.Coopers.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Love.the.Coopers.2015.720p
+http://dl.tehmovies.com/94/11/Love.the.Coopers.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",L A Confidential 1997 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/L.A%20Confidential%20(1997)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",La Haine 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/La%20Haine%20(1995)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",La strada 1954 480p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/La%20strada%20(1954)%20480p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Lawrence of Arabia 1962 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lagaan%20Once%20Upon%20a%20Time%20in%20India%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Lagaan Once Upon a Time in India 2001 720p</b>
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lawrence%20of%20Arabia%20(1962)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Life Is Beautiful 1997 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Life%20Is%20Beautiful%20(1997)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Life of Brian 1979 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Life%20of%20Brian%20(1979)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Like Stars on Earth 2007 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Like%20Stars%20on%20Earth%20(2007)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Lock Stock and Two Smoking Barrels 1998 480p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lock%20Stock%20and%20Two%20Smoking%20Barrels%20(1998)%20480p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Leon The Professional 1994 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lon%20The%20Professional%20(1994)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 group-title="Movies",Maleficent 2014
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
@@ -7484,6 +7983,50 @@ http://bit.ly/1OYWcbi
 #EXTINF:-1 group-title="Movies",Mickey Saves Santa
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_09/2014/2409818/m_2409818_72f963c0.jpg" group-title="Movies",Open Windows
 http://144.76.186.45/r57/5/tyler/movie/OpenWindowsDVD-TylerMovieLand.mp4
+EXTINF:0 group-title="Movies",Mrs Browns Boys D Movie
+http://144.76.186.45/r57/5/tyler/movie/MrsBrownsBoysDMovieDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Mission: Impossible - Rogue Nation 
+http://deadlyblogger.com/NewRelease/mission5.mp4
+#EXTINF:-1 group-title="Movies",Mary Poppins (1964)
+http://bit.ly/1SHZ3dg
+#EXTINF:-1 group-title="Movies",Miricle On 34th Sstreet
+http://bit.ly/1SkiWa9
+#EXTINF:-1 group-title="Movies",Monsters University
+http://bit.ly/1Q3x8hb
+#EXTINF:-1 group-title="Movies",MR Peabody & Sherman
+http://bit.ly/1StKOXs
+#EXTINF:-1 group-title="Movies",My Neighbor Totoro
+http://bit.ly/1RTK1Ao
+#EXTINF:0,Mr Peabody and Sherman
+http://144.76.186.45/r57/5/tyler/movie/MrPeabodyandShermanDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Muppets Most Wanted
+http://144.76.186.45/r57/5/tyler/movie/MuppetsMostWantedDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2016.DVDrip
+http://dl.tehmovies.com/94/11/Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2016.DVDrip.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",Mustang.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/11/Mustang.2015.720p.WEB-DL.Tehmovies.net.mp4  
+#EXTINF:-1 group-title="Movies",M 1931 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/M%20(1931)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Mary and Max 2009 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Mary%20and%20Max%20(2009)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Memento 2000 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Memento%20(2000)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Memories of Murder 2003 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Memories%20of%20Murder%20(2003)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Metropolis 1927 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Metropolis%20(1927)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Million Dollar Baby 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Million%20Dollar%20Baby%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Modern Times 1936 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Modern%20Times%20(1936)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Monsters, Inc 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Monsters,%20Inc.%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Monty Python and the Holy Grail 1975 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Monty%20Python%20and%20the%20Holy%20Grail%20(1975)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Mr Smith Goes to Washington 1939 720p WEBDl
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Mr%20Smith%20Goes%20to%20Washington%20(1939)%20720p%20WEB-Dl%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",My Neighbor Totoro 1988 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/My%20Neighbor%20Totoro%20(1988)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0 group-title="Movies",Need For Speed 2014
 http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
@@ -7505,6 +8048,53 @@ http://www.deadlyblogger.com/NewRelease/elm7.mp4
 http://2.bp.blogspot.com/3WvXxqgx9L4P3a5GmE5kw7gzQiMAelZBFDjnPxJti6Rv=m22
 #EXTINF:0 group-title="Movies",Northpole: Open For Christmas 2015
 http://2.bp.blogspot.com/jX_VXCZfdTiA1NACYk6RJmIhYHYJtrrv2RYWp9NrxDfI=m18
+#EXTINF:0 group-title="Movies",Neighbors
+http://144.76.186.45/r57/5/tyler/movie/NeighborsDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Need for Speed
+http://144.76.186.45/r57/5/tyler/movie/NeedforSpeedDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Noah
+http://144.76.186.45/r57/5/tyler/movie/NoahDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Non Stop
+http://144.76.186.45/r57/5/tyler/movie/NonStopDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Nebraska DVDScr
+http://144.76.186.45/r57/5/tyler/movie/NebraskaDVDScr-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",National.Treasure.2004.BluRay.720p
+http://dl.tehmovies.com/94/1/National.Treasure.2004.BluRay.720p.x264.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",National.Treasure.Book.of.Secrets.2007.BluRay
+http://dl.tehmovies.com/94/1/National.Treasure.Book.of.Secrets.2007.BluRay.720p.x264.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Nausicaa of the Valley of the Wind 1984 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%201984%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Network 1976 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Network%20(1976)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",No Country for Old Men 2007
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/No%20Country%20for%20Old%20Men%20(2007)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",North by Northwest 1959 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/North%20by%20Northwest%20(1959)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Notorious 1946 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Notorious%20(1946)%20720p%20(Bia2Movies).mp4
+
+#EXTINF:0 group-title="Movies",Oculus 2013
+http://www.deadlyblogger.com/NewRelease/oculus2014.mp
+#EXTINF:0 group-title="Movies",Oculus
+http://144.76.186.45/r57/5/tyler/movie/OculusDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Odd Thomas
+http://144.76.186.45/r57/5/tyler/movie/OddThomasDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ouija 
+http://deadlyblogger.com/NewRelease/ouija.mp4
+#EXTINF:-1 group-title="Movies",Old Yeller (1957)
+http://bit.ly/1V3dFkE
+#EXTINF:-1 group-title="Movies",Oldboy 2013 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Oldboy%20(2013)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Oldboy 2013 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Oldboy%20(2013)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",the Waterfront 1954 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/On%20the%20Waterfront%20(1954)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Once Upon a Time in America 1984 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Once%20Upon%20a%20Time%20in%20America%20(1984)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Once Upon a Time in the West 1968 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Once%20Upon%20a%20Time%20in%20the%20West%20(1968)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",One Flew Over the Cuckoos Nest 1975 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/One%20Flew%20Over%20the%20Cuckoos%20Nest%20(1975)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:-1 group-title="Movies", Pac-Man And The Ghostly Adventures Ghost Patrol
 http://bit.ly/1QHPOG4
@@ -7526,6 +8116,43 @@ http://144.76.186.45/r57/5/tyler/movie/PredestinationDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/PostmanPatTheMovieDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies", Pokemon: Genesect and the Legend Awakened
 http://bit.ly/23KJOU3
+#EXTINF:0 group-title="Movies",Pompeii
+http://144.76.186.45/r57/5/tyler/movie/PompeiiDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Paranormal Activity The Marked Ones HDRip
+http://144.76.186.45/r57/5/tyler/movie/ParanormalActivityTheMarkedOnesHDRip-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Paul Blart: Mall Cop 2
+http://deadlyblogger.com/NewRelease/mallcop2.mp4
+#EXTINF:-1 group-title="Movies",Peter Pan
+http://bit.ly/2011M02
+#EXTINF:-1 group-title="Movies",Pinocchio
+http://bit.ly/1RTK3rR
+#EXTINF:-1 group-title="Movies", Peter Pan (1953)
+http://bit.ly/1o2orxk
+#EXTINF:-1 group-title="Movies",Pinocchio (1940)
+http://bit.ly/1QVcanH
+#EXTINF:-1 group-title="Movies",Pans Labyrinth 2006 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pans%20Labyrinth%20(2006)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Papillon 1973 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Papillon%20(1973)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Papillon 1973 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Papillon%20(1973)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Paths of Glory 1957 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Paths%20of%20Glory%20(1957)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Persona 1966 Rip
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Persona%20(1966)%20DVDRip%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Pirates of the Caribbean The Curse of the Black "https://image.tmdb.org/t/p/w200_and_h300_bestv2/tkt9xR1kNX5R9rCebASKck44si2.jpg"
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pirates%20of%20the%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%202003%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Platoon 1986 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Platoon%20(1986)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Princess Mononoke 1997 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Princess%20Mononoke%20(1997)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Psycho 1960 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Psycho%20(1960)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Pulp Fiction 1994 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pulp%20Fiction%20(1994)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:-1 group-title="Movies",Queen.of.the.Desert.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/11/Queen.of.the.Desert.2015.720p.WEB-DL.Tehmovies.net.mkv
 
 #EXTINF:-1 group-title="Movies",Ratatouille
 http://bit.ly/1Q3xfct
@@ -7549,13 +8176,61 @@ http://144.76.186.45/r57/5/tyler/movie/RampageCapitalPunishmentDVD-TylerMovieLan
 http://144.76.186.45/r57/5/tyler/movie/RobtheMobDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Rudderless
 http://144.76.186.45/r57/5/tyler/movie/RudderlessDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Rio 2
+http://144.76.186.45/r57/5/tyler/movie/Rio2DVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Reasonable Doubt
+http://144.76.186.45/r57/5/tyler/movie/ReasonableDoubtDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Ride Along
+http://144.76.186.45/r57/5/tyler/movie/RideAlongDVD-TylerMovieLand.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ride Along 2 
+http://deadlyblogger.com/NewRelease/ridealong2.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Rio 2
+http://deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="Movies",Robin Hood (1973)
+http://bit.ly/1Q708nQ
+#EXTINF:0 group-title="Movies",Robocop
+http://144.76.186.45/r57/5/tyler/movie/RobocopDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Reflections.in.a.Golden.Eye.1967.720p
+http://dl.tehmovies.com/94/11/marlon.brando/Reflections.in.a.Golden.Eye.1967.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Raging Bull 1980 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Raging%20Bull%20(1980)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Raiders of the Lost Ark 1981 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Raiders%20of%20the%20Lost%20Ark%20(1981)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Ran 1985 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ran%20(1985)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rashomon 1950 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rashomon%20(1950)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rear Window 1954 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rear%20Window%20(1954)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rebecca 1940 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rebecca%20(1940)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Requiem for a Dream 2000 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Requiem%20for%20a%20Dream%20(2000)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Reservoir Dogs 1992 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Reservoir%20Dogs%20(1992)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rocky 1976 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rocky%20(1976)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Roman Holiday 1953 480p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Roman%20Holiday%20(1953)%20480p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rope 1948 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rope%20(1948)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rope 1948 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rope%20(1948)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rush 2013 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rush%20(2013)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Rush 2013 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rush%20(2013)%20720p%20(Bia2Movies).mkv
 
+#EXTINF:-1 group-title="Movies",Still.The.Enemy.Within.2014.DVDrip
+http://dl.tehmovies.com/94/1/Still.The.Enemy.Within.2014.DVDrip.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Saving Mr Banks
 http://bit.ly/1WUNbmV
 #EXTINF:-1 group-title="Movies",Sleeping Beauty
 http://bit.ly/1Q3xh45
 #EXTINF:-1 group-title="Movies",Smurfs 2
 http://bit.ly/1QAhoF2
+#EXTINF:0 group-title="Movies",Sex Tape
+http://144.76.186.45/r57/5/tyler/movie/SexTapeDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Santas Little Helper 2015
 http://2.bp.blogspot.com/W0cWLS2v8LFp-q8GFpH3424rU36DXQnV3IQOUJ_pPcC5=m18
 #EXTINF:0,tvg-name="Sicario 2015" tvg-language="English" tvg-country="US" tvg-id="Sicario 2015" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/9/7/6/2/8/197628-sicario-0-230-0-345-crop.jpg?k=c196880f42" group-title="Movies",Sicario 2015
@@ -7582,7 +8257,6 @@ http://144.76.186.45/r57/5/tyler/movie/ScoobyDooFrankencreepyDVD-TylerMovieLand.
 http://144.76.186.45/r57/5/tyler/movie/ShockValueDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Sin City a Dame to Kill For
 http://144.76.186.45/r57/5/tyler/movie/SinCityaDametoKillForDVD-TylerMovieLand.mp4
-
 #EXTINF:0 group-title="Movies",Step Up All in
 http://144.76.186.45/r57/5/tyler/movie/StepUpAllinWebRip-TylerMovieLand.mp4
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_07/2014/3106120/m_3106120_6c293dae.jpg"group-title="Movies",See No Evil 2
@@ -7593,6 +8267,84 @@ http://144.76.186.45/r57/5/tyler/movie/StonehearstAsylumDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/StuckDVD-TylerMovieLand.mp4
 #EXTINF:0 tvg-name="Spectre 2015" tvg-language="English" tvg-country="US" tvg-id="Spectre 2015" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/10/spectre_poster.jpg" group-title="Movies",Spectre 2015
 https://2.bp.blogspot.com/lMdz%5FXJQkc6zB8dlnyaB8AOJJjPWlJri5JaCqdLJhjA%3Dm18
+#EXTINF:0 group-title="Movies",Schapelle
+http://144.76.186.45/r57/5/tyler/movie/SchapelleDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Son of God
+http://144.76.186.45/r57/5/tyler/movie/SonofGodDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Stalingrad
+http://144.76.186.45/r57/5/tyler/movie/StalingradDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",SmallTime
+http://144.76.186.45/r57/5/tyler/movie/SmallTimeDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Snowman
+http://bit.ly/1UzNz8S
+#EXTINF:-1 group-title="Movies",Snow White and the Seven Dwarves (1937)
+http://bit.ly/1PkDR90
+#EXTINF:-1 group-title="Movies",Sleeping Beauty (1959)
+http://bit.ly/1SHZpQX
+#EXTINF:-1 group-title="Movies",Swiss Family Robinson (1960)
+http://bit.ly/1Q8Cwpo
+#EXTINF:-1 group-title="Movies",Samurai.Cop.2.Deadly.Vengeance.2015.1080p
+http://dl.tehmovies.com/94/11/Samurai.Cop.2.Deadly.Vengeance.2015.1080p.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",Samurai.Cop.2.Deadly.Vengeance.2015.720p
+http://dl.tehmovies.com/94/11/Samurai.Cop.2.Deadly.Vengeance.2015.720p.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",Secret.In.Their.Eyes.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/11/Secret.In.Their.Eyes.2015.720p.WEB-DL.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Superman.II.The.Richard.Donner.Cut.2006.720p
+http://dl.tehmovies.com/94/11/marlon.brando/Superman.II.The.Richard.Donner.Cut.2006.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Saving Private Ryan 1998 720
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Saving%20Private%20Ryan%20(1998)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Scarface 1983 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Scarface%20(1983)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Schindlers List 1993 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Schindlers%20List%20(1993)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Se7en 1995 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Se7en%201995%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Seven Samurai 1954 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Seven%20Samurai%20(1954)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Shutter Island 2010 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Shutter%20Island%20(2010)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Sin City 2005 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Sin%20City%20(2005)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Singin in the Rain 1952 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Singin%20in%20the%20Rain%20(1952)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Slumdog Millionaire 2008 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Slumdog%20Millionaire%20(2008)%201080p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Slumdog Millionaire 2008 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Slumdog%20Millionaire%20(2008)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Snatch 2000 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Snatch%20(2000)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Some Like It Hot 1959 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Some%20Like%20It%20Hot%20(1959)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Spirited Away 2001 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Spirited%20Away%20(2001)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Stalag 17 1953 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalag%2017%20(1953)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Stalag 17 1953 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalag%2017%20(1953)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Stalker 1979 Rip
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalker%20(1979)%20DVDRip%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Stand by Me 1986 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stand%20by%20Me%20(1986)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode IV A New Hope 1977 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope%20(1977)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode IV A New Hope 1977  720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope%201977%20%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode V The Empire Strikes Back 1980 1080p  "https://image.tmdb.org/t/p/w533_and_h300_bestv2/AkE7LQs2hPMG5tpWYcum847Knre.jpg"
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%20(1980)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode V The Empire Strikes Back 1980 720pp  "https://image.tmdb.org/t/p/w533_and_h300_bestv2/AkE7LQs2hPMG5tpWYcum847Knre.jpg"
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%201980%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode VI 1983 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20VI%20(1983)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Star Wars Episode VI The Return of the Jedi 1983  "https://image.tmdb.org/t/p/w200_and_h300_bestv2/jx5p0aHlbPXqe3AH9G15NvmWaqQ.jpg"
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20VI%20-%20The%20Return%20of%20the%20Jedi%20(1983)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Strangers on a Train 1951 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Strangers%20on%20a%20Train%20(1951)%20720p%20(Bia2Movies).mp4
+#EXTINF:-1 group-title="Movies",Sunset Blvd 1950 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Sunset%20Blvd.%20(1950)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Swades 2004 1080p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%201080p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Swades 2004 720p
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%20720p%20(Bia2Movies).mkv
 
 #EXTINF:0,tvg-name="The Amazing Wizard Of Paws 2015" tvg-language="English" tvg-country="US" tvg-id="The Amazing Wizard Of Paws 2015″ tvg-logo=”http://ecx.images-amazon.com/images/I/61qXGhQg5FL.jpg" group-title="Movies",The Amazing Wizard Of Paws 2015 
 http://2.bp.blogspot.com/jVR6S03Usvmf8Xma6ucgXArWP7LUjfsNFeBtp_p4jPc=m18
@@ -7607,6 +8359,14 @@ http://2.bp.blogspot.com/uApGYRSo0A2q-n1vng9EikcTmiVmF6socJEAizyBG5zP=m18
 #EXTINF:0,tvg-name="The Last Witch Hunter 2015" tvg-language="English" tvg-country="US" tvg-id="The Last Witch Hunter 2015" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE%40._V1_SX214_AL_.jpg" group-title="Movies",The Last Witch Hunter 2015
 https://2.bp.blogspot.com/ibd%2D5R%5Ft%2Dl4NIKnNJjzW0EU3LzuPVTecF04zwdPinhU%3Dm18
 
+#EXTINF:-1 group-title="Movies",Herbie Rides Again (1974)
+http://bit.ly/1PkE6AU
+#EXTINF:-1 group-title="Movies",The Love Bug (1986)
+http://bit.ly/1V3dAh9
+#EXTINF:-1 group-title="Movies",The Jungle Book (1967)
+http://bit.ly/1T6VjQK
+#EXTINF:0 group-title="Movies",The Bag Man
+http://144.76.186.45/r57/5/tyler/movie/TheBagManDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",The Wolverine 2013
 http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
 #EXTINF:0 group-title="Movies",The World?s End 2013
@@ -7735,6 +8495,24 @@ http://bit.do/bmAXZ
 http://bit.do/bmAXY
 #EXTINF:-1 group-title="Movies",The Purge : Anarchy
 http://www.deadlyblogger.com/NewRelease/thepurge2014.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Taken 3 
+http://deadlyblogger.com/NewRelease/taken3.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Hateful Eight 
+http://deadlyblogger.com/NewRelease/hateful2015.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Maze Runner
+http://deadlyblogger.com/NewRelease/mazerunner.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Lego Movie  
+http://deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Peanuts Movie  
+http://deadlyblogger.com/NewRelease/peanuts2015.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Good Dinosaur
+http://deadlyblogger.com/NewRelease/goodd.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Equalizer 
+http://deadlyblogger.com/NewRelease/equalizer.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Teenage Mutant Ninja Turtles 
+http://deadlyblogger.com/NewRelease/ninjaturtle2014.mp4
+#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ted 2
+http://deadlyblogger.com/NewRelease/ted2.mp4
 #EXTINF:0 group-title="Movies",Tammy 2015 
 http://www.deadlyblogger.com/NewRelease/tammy2014.mp4
 #EXTINF:-1 group-title="Movies",Tangled
@@ -7765,80 +8543,13 @@ http://www.watch-simpsons.com/downloads/The%20Rise%20of%20the%20Krays%20%282015%
 http://deadlyblogger.com/NewRelease/shining.mp4
 #EXTINF:0 group-title="Movies",The Single Moms Club 2014
 http://www.deadlyblogger.com/NewRelease/singlemom.mp4
-
-#EXTINF:0 tvg-logo="" group-title="Movies",VHS Viral
-http://144.76.186.45/r57/5/tyler/movie/VHSViralDVD-TylerMovieLand.mp4
-
-#EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2290739/m_2290739_d4252a8f.jpg" group-title="Movies",Where The devil Hides
-http://144.76.186.45/r57/5/tyler/movie/WheretheDevilHidesDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",What If
-http://144.76.186.45/r57/5/tyler/movie/WhatIfDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",When the Game Stands Tall
-http://144.76.186.45/r57/5/tyler/movie/WhentheGameStandsTallDVD-TylerMovieland.mp4
-#EXTINF:0 tvg-logo="" group-title="Movies",Wrong Turn 6 LastResort
-http://144.76.186.45/r57/5/tyler/movie/WrongTurn6LastResortDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Walk of Shame
-http://144.76.186.45/r57/5/tyler/movie/WalkofShameDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Walking on Sunshine
-http://144.76.186.45/r57/5/tyler/movie/WalkingonSunshineDVD-TylerMovieLand.mp4
-#EXTINF:0,tvg-name="Wildlike 2014" tvg-language="English" tvg-country="US" tvg-id="Wildlike 2014" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTQ1MDk1MjkyMV5BMl5BanBnXkFtZTgwODk4Mjk2NjE@._V1_SX214_AL_.jpg" group-title="Movies",Wildlike 2014
-http://2.bp.blogspot.com/8V7TRxUnJrE4MGKGtACpDCBos_hM9Qxqpd5oonLYsjHE=m18
-#EXTINF:0 group-title="Movies",Willow Creek
-http://144.76.186.45/r57/5/tyler/movie/WillowCreekDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Wolf Creek 2
-http://144.76.186.45/r57/5/tyler/movie/WolfCreek2DVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",War Pigs 2015
-http://www.watch-simpsons.com/downloads/mp4/War.Pigs.2015.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:0 group-title="Movies",We're The Millers 2013
-http://www.deadlyblogger.com/NewRelease/millers.mp4
-#EXTINF:0 group-title="Movies",Wildlike 2014 
-http://2.bp.blogspot.com/8V7TRxUnJrE4MGKGtACpDCBos_hM9Qxqpd5oonLYsjHE=m18
-
-
-#EXTINF:0 group-title="Movies",X-Men 2000 
-http://www.deadlyblogger.com/NewRelease/xmen1.mp4
-#EXTINF:0 group-title="Movies",X-Men Origins: Wolverine 2009 
-http://www.deadlyblogger.com/NewRelease/origin.mp4
-#EXTINF:0 group-title="Movies",X-Men: Days Of Future Past 2014 
-http://www.deadlyblogger.com/NewRelease/xmenfuture.mp4
-#EXTINF:0 group-title="Movies",XMen Days of Future Past
-http://144.76.186.45/r57/5/tyler/movie/XMenDaysofFuturePastDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",X-Men: First Class 2011
-http://www.deadlyblogger.com/NewRelease/xmen4.mp4
-#EXTINF:0 group-title="Movies",X-Men: The Last Stand 2006
-http://www.deadlyblogger.com/NewRelease/xmen3.mp4
-#EXTINF:0 group-title="Movies",X2 2003
-http://www.deadlyblogger.com/NewRelease/xmen2.mp4
-#EXTINF:-1 group-title="Movies",X-Men : Days of Future Past
-http://www.deadlyblogger.com/NewRelease/xmenfuture.mp4
-
-#EXTINF:0 tvg-logo="http://ia.media-imdb.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UX182_CR0,0,182,268_AL_.jpg"  group-title="Movies",Zootopia
-http://www.deadlyblogger.com/NewRelease/zootopia.mp4
-#EXTINF:-1 tvg-language="English" tvg-country="US" tvg-id="Zombieworld 2015" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjIyMTk2MTYxNV5BMl5BanBnXkFtZTgwMDA2Mzc4MzE%40._V1_SY317_CR6%2C0%2C214%2C317_AL_.jpg" group-title="Movies",Zombieworld.2015
-http://bit.do/bsvZX
-#EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
-http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
-
-#EXTINF:0 group-title="Movies",Lucy
-http://144.76.186.45/r57/5/tyler/movie/LucyDVD-TylerMovieLand.mp4
-#EXTINF:0 tvg-logo="" group-title="Movies",Throwdown
-http://144.76.186.45/r57/5/tyler/movie/ThrowdownDVD-TylerMovieLand.mp4
-#EXTINF:0 WhatIf,Varsity Blood
-http://144.76.186.45/r57/5/tyler/movie/VarsityBloodDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Sex Tape
-http://144.76.186.45/r57/5/tyler/movie/SexTapeDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Tammy
-http://144.76.186.45/r57/5/tyler/movie/TammyDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",White Collar Hooligan 3
-http://144.76.186.45/r57/5/tyler/movie/WhiteCollarHooligan3DVD-TylerMovieLand.mp
-#EXTINF:0 group-title="Movies",The Congress
-http://144.76.186.45/r57/5/tyler/movie/TheCongressDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Belle
-http://144.76.186.45/r57/5/tyler/movie/BelleDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Jersey Boys
-http://144.76.186.45/r57/5/tyler/movie/JerseyBoysDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Mrs Browns Boys D Movie
-http://144.76.186.45/r57/5/tyler/movie/MrsBrownsBoysDMovieDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",The Legend of Hercules
+http://144.76.186.45/r57/5/tyler/movie/TheLegendofHerculesDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",The Nut Job HDRip
+http://144.76.186.45/r57/5/tyler/movie/TheNutJobHDRip-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",That Awkward Moment
+http://144.76.186.45/r57/5/tyler/movie/ThatAwkwardMomentDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Vampire Academy
 #EXTINF:0 group-title="Movies",The Fault in Our Stars
 http://144.76.186.45/r57/5/tyler/movie/TheFaultinOurStarsDVD-TylerMovieLand.mp4
 #EXTINF:0,Think Like a Man Too
@@ -7847,717 +8558,94 @@ http://144.76.186.45/r57/5/tyler/movie/ThinkLikeaManTooDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/TheSignalDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",Transformers Age of Extinction
 http://144.76.186.45/r57/5/tyler/movie/TransformersAgeofExtinctionDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Edge of Tomorrow
-http://144.76.186.45/r57/5/tyler/movie/EdgeofTomorrowDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Godzilla
-http://144.76.186.45/r57/5/tyler/movie/GodzillaDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Legends of Oz Dorothys Return
-http://144.76.186.45/r57/5/tyler/movie/LegendsofOzDorothysReturnDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Neighbors
-http://144.76.186.45/r57/5/tyler/movie/NeighborsDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Tapped Out
-http://144.76.186.45/r57/5/tyler/movie/TappedOutDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Brick Mansions
-http://144.76.186.45/r57/5/tyler/movie/BrickMansionsDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Feeding Mr Baldwin
-http://144.76.186.45/r57/5/tyler/movie/FeedingMrBaldwinDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",GoodbyeWorld
-http://144.76.186.45/r57/5/tyler/movie/GoodbyeWorldDVD-TylerMovieLand.mp4
-#EXTINF:0,Heaven is For Real
-http://144.76.186.45/r57/5/tyler/movie/HeavenisForRealDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",IntheBlood
-http://144.76.186.45/r57/5/tyler/movie/IntheBloodDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Jinn
-http://144.76.186.45/r57/5/tyler/movie/JinnDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Joe
-http://144.76.186.45/r57/5/tyler/movie/JoeDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Kid Cannabis
-http://144.76.186.45/r57/5/tyler/movie/KidCannabisDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Locke
-http://144.76.186.45/r57/5/tyler/movie/LockeDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Oculus
-http://144.76.186.45/r57/5/tyler/movie/OculusDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Rio2
-http://144.76.186.45/r57/5/tyler/movie/Rio2DVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",SmallTime
-http://144.76.186.45/r57/5/tyler/movie/SmallTimeDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Tokarev
-http://144.76.186.45/r57/5/tyler/movie/TokarevDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Cesar Chavez
-http://144.76.186.45/r57/5/tyler/movie/CesarChavezDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Oculus 2013
-http://www.deadlyblogger.com/NewRelease/oculus2014.mp
-#EXTINF:0 group-title="Movies",Divergent
-http://144.76.186.45/r57/5/tyler/movie/DivergentHD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Gods Not Dead
-http://144.76.186.45/r57/5/tyler/movie/GodsNotDeadDVD-TylerMovieLand.mp4
-#EXTINF:0,Hide Your Smiling Faces HDRip
-http://144.76.186.45/r57/5/tyler/movie/HideYourSmilingFacesHDRip-TylerMovieLand.mp4
-#EXTINF:0,Mr Peabody and Sherman
-http://144.76.186.45/r57/5/tyler/movie/MrPeabodyandShermanDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Muppets Most Wanted
-http://144.76.186.45/r57/5/tyler/movie/MuppetsMostWantedDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Need for Speed
-http://144.76.186.45/r57/5/tyler/movie/NeedforSpeedDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Noah
-http://144.76.186.45/r57/5/tyler/movie/NoahDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Pompeii
-http://144.76.186.45/r57/5/tyler/movie/PompeiiDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",VeronicaMars
-http://144.76.186.45/r57/5/tyler/movie/VeronicaMarsDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Beyonce Life is But a Dream
-http://144.76.186.45/r57/5/tyler/movie/BeyonceLifeisButaDreamDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Justice League War
-http://144.76.186.45/r57/5/tyler/movie/JusticeLeagueWarDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",The Monument sMen
-http://144.76.186.45/r57/5/tyler/movie/TheMonumentsMenDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",A Case o fYou
-http://144.76.186.45/r57/5/tyler/movie/ACaseofYouDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Odd Thomas
-http://144.76.186.45/r57/5/tyler/movie/OddThomasDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",About Last Night
-http://144.76.186.45/r57/5/tyler/movie/AboutLastNightDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Stalingrad
-http://144.76.186.45/r57/5/tyler/movie/StalingradDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",The Bag Man
-http://144.76.186.45/r57/5/tyler/movie/TheBagManDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Adult World
-http://144.76.186.45/r57/5/tyler/movie/AdultWorldDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Robocop
-http://144.76.186.45/r57/5/tyler/movie/RobocopDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Tammy
+http://144.76.186.45/r57/5/tyler/movie/TammyDVD-TylerMovieLand.mp4
+#EXTINF:0 tvg-logo="" group-title="Movies",Throwdown
+http://144.76.186.45/r57/5/tyler/movie/ThrowdownDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",The Lego Movie
 http://144.76.186.45/r57/5/tyler/movie/TheLegoMovieDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Son of God
-http://144.76.186.45/r57/5/tyler/movie/SonofGodDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Winters Tale
-http://144.76.186.45/r57/5/tyler/movie/WintersTaleDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Schapelle
-http://144.76.186.45/r57/5/tyler/movie/SchapelleDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Non Stop
-http://144.76.186.45/r57/5/tyler/movie/NonStopDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",The Congress
+http://144.76.186.45/r57/5/tyler/movie/TheCongressDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",The Patrol
 http://144.76.186.45/r57/5/tyler/movie/ThePatrolDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",August Osage County
-http://144.76.186.45/r57/5/tyler/movie/AugustOsageCountyDVDScr-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Her Webscr
-http://144.76.186.45/r57/5/tyler/movie/HerWebscr-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Back in th eDay
-http://144.76.186.45/r57/5/tyler/movie/BackintheDayDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Flowers in the Attic
-http://144.76.186.45/r57/5/tyler/movie/FlowersintheAtticDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Paranormal Activity The Marked Ones HDRip
-http://144.76.186.45/r57/5/tyler/movie/ParanormalActivityTheMarkedOnesHDRip-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Reasonable Doubt
-http://144.76.186.45/r57/5/tyler/movie/ReasonableDoubtDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Ride Along
-http://144.76.186.45/r57/5/tyler/movie/RideAlongDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Nebraska DVDScr
-http://144.76.186.45/r57/5/tyler/movie/NebraskaDVDScr-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",The Wee Man
-http://144.76.186.45/r57/5/tyler/movie/TheWeeManDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",I Frankenstein
-http://144.76.186.45/r57/5/tyler/movie/IFrankensteinDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",The Legend of Hercules
-http://144.76.186.45/r57/5/tyler/movie/TheLegendofHerculesDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",The Nut Job HDRip
-http://144.76.186.45/r57/5/tyler/movie/TheNutJobHDRip-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",That Awkward Moment
-http://144.76.186.45/r57/5/tyler/movie/ThatAwkwardMomentDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Vampire Academy
-http://144.76.186.45/r57/5/tyler/movie/VampireAcademyDVD-TylerMovieLand.mp4
-#EXTINF:0 group-title="Movies",Jack Ryan Shadow Recruit
-http://144.76.186.45/r57/5/tyler/movie/JackRyanShadowRecruitDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",TheyCameTogether
 http://144.76.186.45/r57/5/tyler/movie/TheyCameTogetherDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",The Shining
 http://bit.ly/1KsJxPk
 #EXTINF:-1 group-title="Movies",The Conjuring
 http://bit.ly/1PX5tEy
-#EXTINF:-1 group-title="Movies",Cinderella (1950)
-http://bit.ly/1StKtnz
-#EXTINF:-1 group-title="Movies",Ducktales: Treasure Of The Lost Lamp
-http://bit.ly/1Vz0fgo
-#EXTINF:-1 group-title="Movies",Epic(2013)
-http://bit.ly/1m7dyIN
-#EXTINF:-1 group-title="Movies",Snowman
-http://bit.ly/1UzNz8S
-#EXTINF:-1 group-title="Movies",Lego Star Wars : The Yoda Chronicals
-http://bit.ly/1RTJY7M
-#EXTINF:-1 group-title="Movies",Lion King
-http://bit.ly/2011G8F
-#EXTINF:-1 group-title="Movies",Miricle On 34th Sstreet
-http://bit.ly/1SkiWa9
-#EXTINF:-1 group-title="Movies",Monsters University
-http://bit.ly/1Q3x8hb
-#EXTINF:-1 group-title="Movies",MR Peabody & Sherman
-http://bit.ly/1StKOXs
-#EXTINF:-1 group-title="Movies",My Neighbor Totoro
-http://bit.ly/1RTK1Ao
-#EXTINF:-1 group-title="Movies",Peter Pan
-http://bit.ly/2011M02
-#EXTINF:-1 group-title="Movies",Pinocchio
-http://bit.ly/1RTK3rR
-#EXTINF:-1 group-title="Movies",Who Framed Rodger Rabbit
-http://bit.ly/1m7dzfY
-#EXTINF:-1 group-title="Movies",Despicable Me 2
-http://bit.do/bmAX7
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",007 Spectre 
-http://deadlyblogger.com/NewRelease/spectre.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ride Along 2 
-http://deadlyblogger.com/NewRelease/ridealong2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Taken 3 
-http://deadlyblogger.com/NewRelease/taken3.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Hateful Eight 
-http://deadlyblogger.com/NewRelease/hateful2015.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Maze Runner
-http://deadlyblogger.com/NewRelease/mazerunner.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Purge: Anarchy 
-http://deadlyblogger.com/NewRelease/thepurge2014.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Lego Movie  
-http://deadlyblogger.com/NewRelease/legomovie2014.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Peanuts Movie  
-http://deadlyblogger.com/NewRelease/peanuts2015.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Good Dinosaur
-http://deadlyblogger.com/NewRelease/goodd.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",The Equalizer 
-http://deadlyblogger.com/NewRelease/equalizer.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Teenage Mutant Ninja Turtles 
-http://deadlyblogger.com/NewRelease/ninjaturtle2014.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ted 2
-http://deadlyblogger.com/NewRelease/ted2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Rio 2
-http://deadlyblogger.com/NewRelease/rio2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Ouija 
-http://deadlyblogger.com/NewRelease/ouija.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Paul Blart: Mall Cop 2
-http://deadlyblogger.com/NewRelease/mallcop2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Mission: Impossible - Rogue Nation 
-http://deadlyblogger.com/NewRelease/mission5.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Lucy
-http://deadlyblogger.com/NewRelease/lucy2014.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",2 Guns 
-http://deadlyblogger.com/NewRelease/2guns.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",American Gangster 
-http://deadlyblogger.com/NewRelease/agangster.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",American Hustle 
-http://deadlyblogger.com/NewRelease/hustle2013.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Baller Blockin 
-http://deadlyblogger.com/NewRelease/blockin.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Belly
-http://deadlyblogger.com/NewRelease/belly1998.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Blood In Blood Out 
-http://deadlyblogger.com/NewRelease/blood.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Body Heat  
-http://deadlyblogger.com/NewRelease/bodyheat1981.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Boyz n the Hood  
-http://deadlyblogger.com/NewRelease/thehood.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Colors 
-http://deadlyblogger.com/NewRelease/colors.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dangerous Minds 
-http://deadlyblogger.com/NewRelease/minds.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dead Presidents 
-http://deadlyblogger.com/NewRelease/deadp.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dirty
-http://deadlyblogger.com/NewRelease/dirty1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Four Brothers
-http://deadlyblogger.com/NewRelease/fourb.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Get Rich or Die Tryin 
-http://deadlyblogger.com/NewRelease/gunit.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",In Too Deep
-http://deadlyblogger.com/NewRelease/deep1999.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Inside Man 
-http://deadlyblogger.com/NewRelease/insideman.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Jawbreaker
-http://deadlyblogger.com/NewRelease/jawbreaker.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Juice  
-http://deadlyblogger.com/NewRelease/juice.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Killa Season 
-http://deadlyblogger.com/NewRelease/killa1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",King of Paper Chasin 
-http://deadlyblogger.com/NewRelease/kingpaper.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Law Abiding Citizen 
-http://deadlyblogger.com/NewRelease/lawcitizen.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Menace II Society 
-http://deadlyblogger.com/NewRelease/menace2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",A Haunted House 2
-http://deadlyblogger.com/NewRelease/haunted2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Anchorman The Legend Of Ron Burgundy
-http://deadlyblogger.com/NewRelease/anchorman.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Anchorman 2: The Legend Continues
-http://deadlyblogger.com/NewRelease/anchorman2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",A Night At The Roxbury  
-http://deadlyblogger.com/NewRelease/roxbury.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Austin Powers 
-http://deadlyblogger.com/NewRelease/austin1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Austin Powers The Spy Who Shagged Me
-http://deadlyblogger.com/NewRelease/austin2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Bad Grandpa
-http://deadlyblogger.com/NewRelease/badgrandpa2013.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Bewitched
-http://deadlyblogger.com/NewRelease/bewitched.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Blades Of Glory
-http://deadlyblogger.com/NewRelease/glory.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Class Act  
-http://deadlyblogger.com/NewRelease/classact.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Delivery Man
-http://deadlyblogger.com/NewRelease/deliveryman.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dogma  
-http://deadlyblogger.com/NewRelease/dogma1999.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Dont Be A Menace 
-http://deadlyblogger.com/NewRelease/menace.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Don't Tell Mom the Babysitter's Dead 
-http://deadlyblogger.com/NewRelease/babysitter1991.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Elf
-http://deadlyblogger.com/NewRelease/elf1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Everything Must Go
-http://deadlyblogger.com/NewRelease/mustgo.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Flubber
-http://deadlyblogger.com/NewRelease/flubber.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Friday  
-http://deadlyblogger.com/NewRelease/friday1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Next Friday 
-http://deadlyblogger.com/NewRelease/friday2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Friday After Next 
-http://deadlyblogger.com/NewRelease/friday3.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Grown Ups
-http://deadlyblogger.com/NewRelease/grown1.mp4
-#EXTINF:-1,Grown Ups 2
-http://deadlyblogger.com/NewRelease/grown2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 1
-http://deadlyblogger.com/NewRelease/hangover1.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 2
-http://deadlyblogger.com/NewRelease/hangover2.mp4
-#EXTINF:-1 #EXTINF:-1 group-title="Movies",Hangover 3
-http://deadlyblogger.com/NewRelease/hangover3.mp4
-#EXTINF:-1 group-title="Movies",Freddy Mercury - Speciale 10Â°anniversario
-http://gtatemvod.com:43100/movie/server/server/13170.mkv
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/md/mdjvkmug.jpg", Escape Plan 2013
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4 
-‪#EXTINF:-, group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/x1/x1zhjkkb.jpg", Flight: Decisao de Risco 2012
-http://www.deadlyblogger.com/NewRelease/flight1.mp4
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.cinematerial.com/media/posters/md/qp/qptxrvdh.jpg", Grudge Match 2013
-http://www.deadlyblogger.com/NewRelease/grudgematch.mp4 
-#EXTINF:-1 group-title="Movies",Snow White and the Seven Dwarves (1937)
-http://bit.ly/1PkDR90
-#EXTINF:-1 group-title="Movies", Peter Pan (1953)
-http://bit.ly/1o2orxk
-#EXTINF:-1 group-title="Movies",Pinocchio (1940)
-http://bit.ly/1QVcanH
-#EXTINF:-1 group-title="Movies",Alice In Wonderland (1951)
-http://bit.ly/1QVceDS
-#EXTINF:-1 group-title="Movies",Herbie Rides Again (1974)
-http://bit.ly/1PkE6AU
-#EXTINF:-1 group-title="Movies",The Love Bug (1986)
-http://bit.ly/1V3dAh9
-#EXTINF:-1 group-title="Movies",Mary Poppins (1964)
-http://bit.ly/1SHZ3dg
-#EXTINF:-1 group-title="Movies",Old Yeller (1957)
-http://bit.ly/1V3dFkE
-#EXTINF:-1 group-title="Movies",The Jungle Book (1967)
-http://bit.ly/1T6VjQK
-#EXTINF:-1 group-title="Movies",Finding Nemo (2003)
-http://bit.ly/1PkEhfu
+#EXTINF:0 group-title="Movies",Tapped Out
+http://144.76.186.45/r57/5/tyler/movie/TappedOutDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Tokarev
+http://144.76.186.45/r57/5/tyler/movie/TokarevDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",The Monument sMen
+http://144.76.186.45/r57/5/tyler/movie/TheMonumentsMenDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",The Wee Man
+http://144.76.186.45/r57/5/tyler/movie/TheWeeManDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",The Sword in the Stone (1963)
 http://bit.ly/1SfFusb
-#EXTINF:-1 group-title="Movies",Robin Hood (1973)
-http://bit.ly/1Q708nQ
-#EXTINF:-1 group-title="Movies",Sleeping Beauty (1959)
-http://bit.ly/1SHZpQX
-#EXTINF:-1 group-title="Movies",Swiss Family Robinson (1960)
-http://bit.ly/1Q8Cwpo
 #EXTINF:-1 group-title="Movies",Tarzan & Jane
 http://bit.ly/1Qr0dn5
 #EXTINF:-1 group-title="Movies",That Darn Cat (1965)
 http://bit.ly/1PChf1K
 #EXTINF:-1 group-title="Movies",The Aristocats (1970)
 http://bit.ly/1V3e4ns
-#EXTINF:-1 group-title="Movies",Lion King
-http://bit.ly/1PkDRpu
-
-
-#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Gods of Egypt 2016 720p WEB.DL
-http://dl.tehmovies.com/94/95/2/Gods.of.Egypt.2016.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Allegiant (2016)
-http://dl.tehmovies.com/94/95/3/Allegiant.2016.720p.TC.Tehmovies.org.mkv
-#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BNjIzNTcwMDc3Nl5BMl5BanBnXkFtZTgwNzU5NTY5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Hardcore Henry (2015) HC 720p
-http://dl.tehmovies.com/94/95/3/Hardc0re.Henry.2016.HC.720p.HDrip.Tehmovies.org.mkv
-
-#EXTINF:-1 group-title="Movies",12 Years a Slave 2013 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12%20Years%20a%20Slave%20(2013)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",12 Years a Slave 2013 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12%20Years%20a%20Slave%20(2013)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",12 Angry Men 1957 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/12Angry%20Men%20(1957)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",3 Idiots 2009 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/3Idiots%20(2009)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",51 Life Is Beautiful 1997 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/51%20-%20Life%20Is%20Beautiful%20(1997)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Beautiful Mind 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Beautiful%20Mind%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Clockwork Orange 1971 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Clockwork%20Orange%20(1971)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",A Fistful of Dollars 1964 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Fistful%20of%20Dollars%20(1964)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",A Separation 2011 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Separation%20(2011)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",A Space Odyssey 1968 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Space%20Odyssey%20(1968)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Alien 1979 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Alien%20(1979)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Aliens 1986 "https://image.tmdb.org/t/p/w533_and_h300_bestv2/r2zB2vGLDQVxlRZISH7KzQ6reiC.jpg"
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Aliens%20(1986)%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",All About Eve 1950 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/All%20About%20Eve%20(1950)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Amadeus 1984 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amadeus%201984%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",American Beauty 1999 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/American%20Beauty%201999%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Amlie 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amlie%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Amores Perros 2000 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Amores%20Perros%20(2000)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Annie Hall 1977 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Annie%20Hall%20(1977)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Apocalypse Now 1979 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Apocalypse%20Now%20(1979)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Back to the Future 1985 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Back%20to%20the%20Future%20(1985)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Barry Lyndon 1975 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Barry%20Lyndon%20(1975)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Batman Begins 2005 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Batman%20Begins%20(2005)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Beauty and the Beast 1991 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Beauty%20and%20the%20Beast%20(1991)%201080p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Beauty and the Beast 1991 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Beauty%20and%20the%20Beast%20(1991)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Before Sunrise 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Before%20Sunrise%20(1995)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Before Sunset 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Before%20Sunset%20(2004)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",BenHur 1959 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ben-Hur%20(1959)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Bicycle Thieves 1948 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Bicycle%20Thieves%20(1948)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Blade Runner 1982 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blade%20Runner%20(1982)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Blood Diamond 2006 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blood%20Diamond%20(2006)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Blood Diamond 2006 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Blood%20Diamond%20(2006)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Boyhood 2014 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Boyhood%202014%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Boyhood 2014 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Boyhood%202014%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Braveheart 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Braveheart%20(1995)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Butch Cassidy and the Sundance Kid 1969 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Casablanca 1942 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Casablanca%20(1942)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Casino 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Casino%20(1995)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Castle in the Sky 1986 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Castle%20in%20the%20Sky%20(1986)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Chinatown 1974 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Chinatown%20(1974)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Cinema Paradiso 1988 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Cinema%20Paradiso%20(1988)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Citizen Kane 1941 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Citizen%20Kane%20(1941)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",City Lights 1931 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/City%20Lights%20(1931)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",City of God 2002 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/City%20of%20God%202002%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Cool Hand Luke 1967 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Cool%20Hand%20Luke%20(1967)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Das Boot 1981 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Das%20Boot%20(1981)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Diabolique 1955 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Diabolique%20(1955)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Dial M for Murder 1954 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dial%20M%20for%20Murder%20(1954)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Die Hard 1988 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Die%20Hard%20(1988)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Dil Chahta Hai 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dil%20Chahta%20Hai%202001%20720p%20DVDRip%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Django Unchained 2012 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Django%20Unchained%20(2012)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Django Unchained 2012 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Django%20Unchained%20(2012)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Dog Day Afternoon 1975 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dog%20Day%20Afternoon%20(1975)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Donnie Darko 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Donnie%20Darko%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Double Indemnity 1944 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Double%20Indemnity%20(1944)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Downfall 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Downfall%20(2004)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Dr Strangelove 1964 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Dr.Strangelove%20(1964)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Eight and a Half 1963 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eight%20and%20a%20Half%201963%20720p%20(Bia2Movies).m4a
-#EXTINF:-1 group-title="Movies",Eternal Sunshine of the Spotless Mind 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eternal%20Sunshine%20of%20the%20Spotless%20Mind%20(2004)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Fany and Alexander 1982 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fany%20and%20Alexander%20(1982)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Fargo 1996 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fargo%20(1996)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Fight Club 1999 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fight%20Club%20(1999)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Finding Nemo 2003 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Finding%20Nemo%20(2003)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",For A Few Dollars More 1965 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/For%20A%20Few%20Dollars%20More%20(1965)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Forrest Gump 1994 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Forrest%20Gump%20(1994)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Full Metal Jacket 1987 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Full%20Metal%20Jacket%20(1987)%201080p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Gandhi 1982 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gandhi%20(1982)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Gladiator 2000 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gladiator%20(2000)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Gone Girl 2014 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20Girl%202014%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Gone Girl 2014 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20Girl%202014%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Gone with the Wind 1939 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gone%20with%20the%20Wind%20(1939)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Good Will Hunting 1997 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Good%20Will%20Hunting%20(1997)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Goodfellas 1990 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Goodfellas%20(1990)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Gran Torino 2008 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gran%20Torino%20(2008)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Grave of the Fireflies 1988 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Grave%20of%20the%20Fireflies%20(1988)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Groundhog Day 1993 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Groundhog%20Day%20(1993)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%20720p%20(Bia2Movies).mkv
-G#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 dvdrip
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%20dvdrip%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Hachi A Dogs Tale 2009 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Hachi%20A%20Dog-s%20Tale%20(2009)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Harry Potter and the Deathly Hallows Part 2
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%202011%20Standard%20Edition%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Heat 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Heat%20(1995)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",High Noon 1952 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Her%20(2013)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Her 2013 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Her%20(2013)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",High Noon 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/High%20Noon%20(1952)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Hotel Rwanda 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Hotel%20Rwanda%20(2004)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2010 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%20(2010)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2 2014 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%202%20(2014)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",How to Train Your Dragon 2 2014 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%202%20(2014)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Howls Moving Castle 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Howls%20Moving%20Castle%20(2004)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Ikiru 1952 Rip<
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ikiru%201952%20DVDRip%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",In the Name of the Father 1993 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/In%20the%20Name%20of%20the%20Father%20(1993)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Incendies 2010 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Incendies%20(2010)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Inception 2010 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Inception%20(2010)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Indiana Jones and the Last Crusade 1989 720p Bluray
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Indiana%20Jones%20and%20the%20Last%20Crusade%201989%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Infernal Affairs 2002 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Infernal%20Affairs%20(2002)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Inglourious Basterds 2009 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Inglourious%20Basterds%20(2009)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Into the Wild 2007 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Into%20the%20Wild%20(2007)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",It Happened One Night 1934 480p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/It%20Happened%20One%20Night%20(1934)%20480p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Its A Wonderful Life 1946 Colorized 720p BluRay
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Its%20A%20Wonderful%20Life%201946%20Colorized%20720p%20BluRay%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Its a Wonderful Life 1946 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Its%20a%20Wonderful%20Life%20(1946)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Judgment at Nuremberg 1961 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jaws%20(1975)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Judgment at Nuremberg 1961 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Judgment%20at%20Nuremberg%20(1961)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Jurassic Park 1993 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%201080p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Jurassic Park 1993 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Kill Bill Vol 1 2003 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Kill%20Bill%20Vol%201%202003%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",L A Confidential 1997 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/L.A%20Confidential%20(1997)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",La Haine 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/La%20Haine%20(1995)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",La strada 1954 480p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/La%20strada%20(1954)%20480p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Lawrence of Arabia 1962 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lagaan%20Once%20Upon%20a%20Time%20in%20India%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Lagaan Once Upon a Time in India 2001 720p</b>
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lawrence%20of%20Arabia%20(1962)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Life Is Beautiful 1997 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Life%20Is%20Beautiful%20(1997)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Life of Brian 1979 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Life%20of%20Brian%20(1979)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Like Stars on Earth 2007 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Like%20Stars%20on%20Earth%20(2007)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Lock Stock and Two Smoking Barrels 1998 480p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lock%20Stock%20and%20Two%20Smoking%20Barrels%20(1998)%20480p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Leon The Professional 1994 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lon%20The%20Professional%20(1994)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",M 1931 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/M%20(1931)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Mary and Max 2009 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Mary%20and%20Max%20(2009)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Memento 2000 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Memento%20(2000)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Memories of Murder 2003 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Memories%20of%20Murder%20(2003)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Metropolis 1927 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Metropolis%20(1927)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Million Dollar Baby 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Million%20Dollar%20Baby%20(2004)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Modern Times 1936 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Modern%20Times%20(1936)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Monsters, Inc 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Monsters,%20Inc.%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Monty Python and the Holy Grail 1975 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Monty%20Python%20and%20the%20Holy%20Grail%20(1975)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Mr Smith Goes to Washington 1939 720p WEBDl
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Mr%20Smith%20Goes%20to%20Washington%20(1939)%20720p%20WEB-Dl%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",My Neighbor Totoro 1988 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/My%20Neighbor%20Totoro%20(1988)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Nausicaa of the Valley of the Wind 1984 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%201984%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Network 1976 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Network%20(1976)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",No Country for Old Men 2007
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/No%20Country%20for%20Old%20Men%20(2007)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",North by Northwest 1959 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/North%20by%20Northwest%20(1959)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Notorious 1946 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Notorious%20(1946)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Oldboy 2013 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Oldboy%20(2013)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Oldboy 2013 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Oldboy%20(2013)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",the Waterfront 1954 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/On%20the%20Waterfront%20(1954)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Once Upon a Time in America 1984 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Once%20Upon%20a%20Time%20in%20America%20(1984)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Once Upon a Time in the West 1968 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Once%20Upon%20a%20Time%20in%20the%20West%20(1968)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",One Flew Over the Cuckoos Nest 1975 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/One%20Flew%20Over%20the%20Cuckoos%20Nest%20(1975)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Pans Labyrinth 2006 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pans%20Labyrinth%20(2006)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Papillon 1973 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Papillon%20(1973)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Papillon 1973 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Papillon%20(1973)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Paths of Glory 1957 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Paths%20of%20Glory%20(1957)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Persona 1966 Rip
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Persona%20(1966)%20DVDRip%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Pirates of the Caribbean The Curse of the Black "https://image.tmdb.org/t/p/w200_and_h300_bestv2/tkt9xR1kNX5R9rCebASKck44si2.jpg"
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pirates%20of%20the%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%202003%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Platoon 1986 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Platoon%20(1986)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Princess Mononoke 1997 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Princess%20Mononoke%20(1997)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Psycho 1960 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Psycho%20(1960)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Pulp Fiction 1994 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pulp%20Fiction%20(1994)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Raging Bull 1980 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Raging%20Bull%20(1980)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Raiders of the Lost Ark 1981 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Raiders%20of%20the%20Lost%20Ark%20(1981)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Ran 1985 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ran%20(1985)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rashomon 1950 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rashomon%20(1950)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rear Window 1954 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rear%20Window%20(1954)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rebecca 1940 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rebecca%20(1940)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Requiem for a Dream 2000 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Requiem%20for%20a%20Dream%20(2000)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Reservoir Dogs 1992 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Reservoir%20Dogs%20(1992)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rocky 1976 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rocky%20(1976)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Roman Holiday 1953 480p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Roman%20Holiday%20(1953)%20480p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rope 1948 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rope%20(1948)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rope 1948 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rope%20(1948)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rush 2013 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rush%20(2013)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Rush 2013 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Rush%20(2013)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Saving Private Ryan 1998 720
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Saving%20Private%20Ryan%20(1998)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Scarface 1983 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Scarface%20(1983)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Schindlers List 1993 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Schindlers%20List%20(1993)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Se7en 1995 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Se7en%201995%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Seven Samurai 1954 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Seven%20Samurai%20(1954)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Shutter Island 2010 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Shutter%20Island%20(2010)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Sin City 2005 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Sin%20City%20(2005)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Singin in the Rain 1952 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Singin%20in%20the%20Rain%20(1952)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Slumdog Millionaire 2008 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Slumdog%20Millionaire%20(2008)%201080p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Slumdog Millionaire 2008 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Slumdog%20Millionaire%20(2008)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Snatch 2000 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Snatch%20(2000)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Some Like It Hot 1959 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Some%20Like%20It%20Hot%20(1959)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Spirited Away 2001 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Spirited%20Away%20(2001)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Stalag 17 1953 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalag%2017%20(1953)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Stalag 17 1953 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalag%2017%20(1953)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Stalker 1979 Rip
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stalker%20(1979)%20DVDRip%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Stand by Me 1986 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Stand%20by%20Me%20(1986)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode IV A New Hope 1977 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope%20(1977)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode IV A New Hope 1977  720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20IV%20-%20A%20New%20Hope%201977%20%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode V The Empire Strikes Back 1980 1080p  "https://image.tmdb.org/t/p/w533_and_h300_bestv2/AkE7LQs2hPMG5tpWYcum847Knre.jpg"
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%20(1980)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode V The Empire Strikes Back 1980 720pp  "https://image.tmdb.org/t/p/w533_and_h300_bestv2/AkE7LQs2hPMG5tpWYcum847Knre.jpg"
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20V%20-%20The%20Empire%20Strikes%20Back%201980%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode VI 1983 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20VI%20(1983)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Star Wars Episode VI The Return of the Jedi 1983  "https://image.tmdb.org/t/p/w200_and_h300_bestv2/jx5p0aHlbPXqe3AH9G15NvmWaqQ.jpg"
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Star%20Wars%20Episode%20VI%20-%20The%20Return%20of%20the%20Jedi%20(1983)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Strangers on a Train 1951 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Strangers%20on%20a%20Train%20(1951)%20720p%20(Bia2Movies).mp4
-#EXTINF:-1 group-title="Movies",Sunset Blvd 1950 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Sunset%20Blvd.%20(1950)%20720p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Swades 2004 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%201080p%20(Bia2Movies).mkv
-#EXTINF:-1 group-title="Movies",Swades 2004 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Takedown.The.DNA.of.GSP.2014
+http://dl.tehmovies.com/94/1/Takedown.The.DNA.of.GSP.2014.720p.TehMovies.Com.mp4
+#EXTINF:-1 group-title="Movies",The.Admiral.Roaring.Currents.2014.720p
+http://dl.tehmovies.com/94/1/The.Admiral.Roaring.Currents.2014.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Angriest.Man.in.Brooklyn.2014.1080p
+http://dl.tehmovies.com/94/1/The.Angriest.Man.in.Brooklyn.2014.1080p.TehMovies.Com.mp4
+#EXTINF:-1 group-title="Movies",The.Angriest.Man.in.Brooklyn.2014.720p
+http://dl.tehmovies.com/94/1/The.Angriest.Man.in.Brooklyn.2014.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Girl.is.in.Trouble.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/1/The.Girl.is.in.Trouble.2015.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Harvest.2013.720p.WEB-DL
+http://dl.tehmovies.com/94/1/The.Harvest.2013.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Little.Rascals.Save.the.Day.2014.720p
+http://dl.tehmovies.com/94/1/The.Little.Rascals.Save.the.Day.2014.720p.TehMovies.Com.mp4
+#EXTINF:-1 group-title="Movies",The.Man.With.The.Iron.Fists.2.2015.1080p.BluRay
+http://dl.tehmovies.com/94/1/The.Man.With.The.Iron.Fists.2.2015.1080p.BluRay.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Man.With.The.Iron.Fists.2.2015.720p.BluRay
+http://dl.tehmovies.com/94/1/The.Man.With.The.Iron.Fists.2.2015.720p.BluRay.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Marine.4.Moving.Target.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/1/The.Marine.4.Moving.Target.2015.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Mummy.Resurrected.2014.BluRay.720p
+http://dl.tehmovies.com/94/1/The.Mummy.Resurrected.2014.BluRay.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Night.Crew.2015.DVDRip
+http://dl.tehmovies.com/94/1/The.Night.Crew.2015.DVDRip.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Queen.2006.720p
+http://dl.tehmovies.com/94/1/The.Queen.2006.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Reconstruction.of.William.Zero.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/1/The.Reconstruction.of.William.Zero.2014.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Search.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/1/The.Search.2014.1080p.5.1CH.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Search.2014.BluRay.720p
+http://dl.tehmovies.com/94/1/The.Search.2014.BluRay.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Simpsons.Movie.2007.BluRay.720p.x264
+http://dl.tehmovies.com/94/1/The.Simpsons.Movie.2007.BluRay.720p.x264.TehMovies.Com.mkv 
+#EXTINF:-1 group-title="Movies",The.Wedding.Ringer.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/1/The.Wedding.Ringer.2015.1080p.5.1CH.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",The.Wedding.Ringer.2015.720p
+http://dl.tehmovies.com/94/1/The.Wedding.Ringer.2015.720p.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Tell.Spring.Not.To.Come.This.Year.2015.DVDrip
+http://dl.tehmovies.com/94/11/Tell.Spring.Not.To.Come.This.Year.2015.DVDrip.Tehmovies.net.mp4mkv
+#EXTINF:-1 group-title="Movies",Tell.Spring.Not.To.Come.This.Year.2015.DVDrip  
+http://dl.tehmovies.com/94/11/Tell.Spring.Not.To.Come.This.Year.2015.DVDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Night.Before.2015.1080p.6CH
+http://dl.tehmovies.com/94/11/The.Night.Before.2015.1080p.6CH.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies", The.Night.Before.2015.1080p.WEB-DL.6CH
+http://dl.tehmovies.com/94/11/The.Night.Before.2015.1080p.WEB-DL.6CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Second.Mother.2015  
+http://dl.tehmovies.com/94/11/The.Second.Mother.2015.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Devils.Advocate.1997.UNRATED.DC.720p
+http://dl.tehmovies.com/94/11/alpacino/The.Devils.Advocate.1997.UNRATED.DC.720p.Ganool.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Son.of.No.One.2011.720p.x264.YIFY
+http://dl.tehmovies.com/94/11/alpacino/The.Son.of.No.One.2011.720p.x264.YIFY.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",The.Island.of.Dr.Moreau.1996.DC.720p
+http://dl.tehmovies.com/94/11/marlon.brando/The.Island.of.Dr.Moreau.1996.DC.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Missouri.Breaks.1976.720p.YIFY
+http://dl.tehmovies.com/94/11/marlon.brando/The.Missouri.Breaks.1976.720p.YIFY.Tehmovies.net.mp4
 #EXTINF:-1 group-title="Movies",Taxi Driver 1976 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Taxi%20Driver%20(1976)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Terminator 2 Judgment Day 1991 720p
@@ -8706,14 +8794,59 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Toy%20Story%203%20720p%20(Bia2Mo
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Trainspotting%20(1996)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies", Twelve Monkeys 1995 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Twelve%20Monkeys%20(1995)%20720p%20(Bia2Movies).mkv
+
 #EXTINF:-1 group-title="Movies",Unforgiven 1992 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Unforgiven%20(1992)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Up 2009 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Up%20(2009)%20720p%20(Bia2Movies).mkv" 
+
+#EXTINF:0 group-title="Movies",Varsity Blood
+http://144.76.186.45/r57/5/tyler/movie/VarsityBloodDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",VeronicaMars
+http://144.76.186.45/r57/5/tyler/movie/VeronicaMarsDVD-TylerMovieLand.mp4
+#EXTINF:0 tvg-logo="" group-title="Movies",VHS Viral
+http://144.76.186.45/r57/5/tyler/movie/VHSViralDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies", Victor.Frankenstein.2015.720p.WEB-DL     
+http://dl.tehmovies.com/94/11/Victor.Frankenstein.2015.720p.WEB-DL.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",V for Vendetta 2005 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/V%20for%20Vendetta%20(2005)%20720p%20(Bia2Movies).mkv
-Vertigo 1958 720p
+#EXTINF:-1 group-title="Movies",Vertigo 1958 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Vertigo%20(1958)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2290739/m_2290739_d4252a8f.jpg" group-title="Movies",Where The devil Hides
+http://144.76.186.45/r57/5/tyler/movie/WheretheDevilHidesDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",What If
+http://144.76.186.45/r57/5/tyler/movie/WhatIfDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",When the Game Stands Tall
+http://144.76.186.45/r57/5/tyler/movie/WhentheGameStandsTallDVD-TylerMovieland.mp4
+#EXTINF:0 tvg-logo="" group-title="Movies",Wrong Turn 6 LastResort
+http://144.76.186.45/r57/5/tyler/movie/WrongTurn6LastResortDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Walk of Shame
+http://144.76.186.45/r57/5/tyler/movie/WalkofShameDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Walking on Sunshine
+http://144.76.186.45/r57/5/tyler/movie/WalkingonSunshineDVD-TylerMovieLand.mp4
+#EXTINF:0,tvg-name="Wildlike 2014" tvg-language="English" tvg-country="US" tvg-id="Wildlike 2014" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTQ1MDk1MjkyMV5BMl5BanBnXkFtZTgwODk4Mjk2NjE@._V1_SX214_AL_.jpg" group-title="Movies",Wildlike 2014
+http://2.bp.blogspot.com/8V7TRxUnJrE4MGKGtACpDCBos_hM9Qxqpd5oonLYsjHE=m18
+#EXTINF:0 group-title="Movies",Willow Creek
+http://144.76.186.45/r57/5/tyler/movie/WillowCreekDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Wolf Creek 2
+http://144.76.186.45/r57/5/tyler/movie/WolfCreek2DVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",War Pigs 2015
+http://www.watch-simpsons.com/downloads/mp4/War.Pigs.2015.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:0 group-title="Movies",We're The Millers 2013
+http://www.deadlyblogger.com/NewRelease/millers.mp4
+#EXTINF:0 group-title="Movies",Wildlike 2014 
+http://2.bp.blogspot.com/8V7TRxUnJrE4MGKGtACpDCBos_hM9Qxqpd5oonLYsjHE=m18
+#EXTINF:0 group-title="Movies",White Collar Hooligan 3
+http://144.76.186.45/r57/5/tyler/movie/WhiteCollarHooligan3DVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",Winters Tale
+http://144.76.186.45/r57/5/tyler/movie/WintersTaleDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Who Framed Rodger Rabbit
+http://bit.ly/1m7dzfY
+#EXTINF:-1 group-title="Movies",Wyrmwood.Road.Of.The.Dead.2014.1080p.BluRay
+http://dl.tehmovies.com/94/1/Wyrmwood.Road.Of.The.Dead.2014.1080p.BluRay.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Wyrmwood.Road.Of.The.Dead.2014.720p.BluRay
+http://dl.tehmovies.com/94/1/Wyrmwood.Road.Of.The.Dead.2014.720p.BluRay.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",WALL E 2008 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/WALL-E%20(2008)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Warrior 2011 720p
@@ -8724,12 +8857,39 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Whos%20Afraid%20of%20Virginia%20
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Wild%20Strawberries%20(1957)%20DVDRip%20(Bia2Movies).mkv
 Witness for the Prosecution 1957 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Witness%20for%20the%20Prosecution%20(1957)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:0 group-title="Movies",X-Men 2000 
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+#EXTINF:0 group-title="Movies",X-Men Origins: Wolverine 2009 
+http://www.deadlyblogger.com/NewRelease/origin.mp4
+#EXTINF:0 group-title="Movies",X-Men: Days Of Future Past 2014 
+http://www.deadlyblogger.com/NewRelease/xmenfuture.mp4
+#EXTINF:0 group-title="Movies",XMen Days of Future Past
+http://144.76.186.45/r57/5/tyler/movie/XMenDaysofFuturePastDVD-TylerMovieLand.mp4
+#EXTINF:0 group-title="Movies",X-Men: First Class 2011
+http://www.deadlyblogger.com/NewRelease/xmen4.mp4
+#EXTINF:0 group-title="Movies",X-Men: The Last Stand 2006
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+#EXTINF:0 group-title="Movies",X2 2003
+http://www.deadlyblogger.com/NewRelease/xmen2.mp4
+#EXTINF:-1 group-title="Movies",X-Men : Days of Future Past
+http://www.deadlyblogger.com/NewRelease/xmenfuture.mp4
 #EXTINF:-1 group-title="Movies",XMen Days of Future Past 2014 1080p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/X-Men%20Days%20of%20Future%20Past%20(2014)%201080p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",XMen Days of Future Past 2014 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/X-Men%20Days%20of%20Future%20Past%20(2014)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:-1 group-title="Movies",Youre.Not.You.2014.720p
+http://dl.tehmovies.com/94/1/Youre.Not.You.2014.720p.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Yojimbo 1961 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Yojimbo%20(1961)%20720p%20(Bia2Movies).mkv
+
+#EXTINF:0 tvg-logo="http://ia.media-imdb.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UX182_CR0,0,182,268_AL_.jpg"  group-title="Movies",Zootopia
+http://www.deadlyblogger.com/NewRelease/zootopia.mp4
+#EXTINF:-1 tvg-language="English" tvg-country="US" tvg-id="Zombieworld 2015" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjIyMTk2MTYxNV5BMl5BanBnXkFtZTgwMDA2Mzc4MzE%40._V1_SY317_CR6%2C0%2C214%2C317_AL_.jpg" group-title="Movies",Zombieworld.2015
+http://bit.do/bsvZX
+#EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
+http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
 
 #EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -9151,10 +9311,8 @@ http://www.deadlyblogger.com/NewRelease/fireflys1e14.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS28TFhIGFAj03W8F4bmJmrzmHgswK5vMyxerjEWxHf7TIjl_iF" group-title="Firefly",Firefly – Season 1 Episode 15
 http://www.deadlyblogger.com/NewRelease/fireflys1e15.mp4
 
-
 #EXTINF:-1 group-title="XXX TV",[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
 http://0.0.0.0:1234
-
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", JAZMIN TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
@@ -9166,14 +9324,6 @@ http://81.89.48.215:1935/xyz666wkz/xy6/chunklist.m3u8
 rtmp://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream
 #EXTINF:-1 group-title="XXX TV", Playboy Vietnam
 http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
-#EXTINF:-1,* ADULT *
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/920.ts
-#EXTINF:-1,XX: hot
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1469.ts
-#EXTINF:-1,XX: venus
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/921.ts
-#EXTINF:-1,XXX SEXTOSENTO TV
-http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/923.ts
 
 #EXTINF:-1 group-title="XXX TV", [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
