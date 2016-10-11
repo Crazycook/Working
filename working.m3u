@@ -3354,6 +3354,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 18
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 3 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://texastravestyarchives.com/2003_09/images/vh1.gif" group-title="Music",vh1
 http://62.210.251.159/iptv/LCCXW5PCPRZCUY/536/index.m3u8
 #EXTINF:-1 group-title="Music",VH1 CLASSIC (UK)
@@ -8891,7 +8897,72 @@ http://bit.do/bsvZX
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
 http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
 
-#EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
+#EXTINF:-1 group-title="Movies",Attack.on.Titan.Part.2.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Attack.on.Titan.Part.2.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Head.Full.of.Honey.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Head.Full.of.Honey.2014.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Hollywood.Adventure.2015.1080p.5.1CH   
+http://dl.tehmovies.com/94/12/Hollywood.Adventure.2015.1080p.5.1CH.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",How.To.Change.The.World.2015.DVDrip
+http://dl.tehmovies.com/94/12/How.To.Change.The.World.2015.DVDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264
+http://dl.tehmovies.com/94/12/In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.720p
+http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Just.Before.I.Go.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/2/Just.Before.I.Go.2014.720p.WEB-DL.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",Kill.Your.Friends.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Kill.Your.Friends.2015.1080p.5.1CH.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Kung.Fu.Panda.3.2016.HC.1080p.HDrip       
+http://dl.tehmovies.com/94/12/Kung.Fu.Panda.3.2016.HC.1080p.HDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Lost.River.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Lost.River.2014.1080p.5.1CH.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Pink.Floyd.The.Wall.1982.720p.HDTV
+http://dl.tehmovies.com/94/2/Pink.Floyd.The.Wall.1982.720p.HDTV.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",Project.Almanac.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Project.Almanac.2014.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip
+http://dl.tehmovies.com/94/12/Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
+http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
+http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",Shes.Lost.Control.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/3/Shes.Lost.Control.2014.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Sword.of.Vengeance.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Sword.of.Vengeance.2015.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",The.Age.of.Adaline.2015.720p.WEB-DL      
+http://dl.tehmovies.com/94/3/The.Age.of.Adaline.2015.720p.WEB-DL.TehMovies.com.mkv  
+#EXTINF:-1 group-title="Movies",The.Benefactor.2015.1080p.5.1CH 
+http://dl.tehmovies.com/94/12/The.Benefactor.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p 
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p.WEB-DL       
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Forbidden.Room.2015.720p   
+http://dl.tehmovies.com/94/12/The.Forbidden.Room.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Lady.in.the.Van.2015.720p  
+http://dl.tehmovies.com/94/12/The.Lady.in.the.Van.2015.720p.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",The.Scopia.Effect.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/2/The.Scopia.Effect.2014.720p.WEB-DL.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.Taking.of.Tiger.Mountain.2014.720p
+http://dl.tehmovies.com/94/2/The.Taking.of.Tiger.Mountain.2014.720p.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Unfinished.Business.2015.1080p.5.1CH           
+http://dl.tehmovies.com/94/3/Unfinished.Business.2015.1080p.5.1CH.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",We.Are.Still.Here.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/3/We.Are.Still.Here.2015.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",While.Were.Young.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/3/While.Were.Young.2014.720p.WEB-DL.Tehmovies.com.mkv
+   
+   #EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 
