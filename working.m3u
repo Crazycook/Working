@@ -465,6 +465,33 @@ http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp
 #EXTINF:0 tvg-logo="http://tal.tv/wp-content/uploads/2011/07/br-tvescola-novo-161x115.png" group-title="Brazil", TV ESCOLA
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
+#EXTINF:0 group-title="Brazil" , RÁDIO
+http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
+#EXTINF:0 group-title="Brazil" , RÁDIO
+http://srv6.zoeweb.tv:1935/z609-live/stream/livestream.m3u8
+#EXTINF:0 group-title="Brazil" , RÁDIO
+http://srv6.zoeweb.tv:1935/z633-live/stream/livestream.m3u8
+#EXTINF:0 group-title="Brazil" , RÁDIO 104.9 FM
+http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
+#EXTINF:0 group-title="Brazil" , RÁDIO CBN RJ
+http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
+#EXTINF:0 group-title="Brazil" , RÁDIO CBN SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:0 group-title="Brazil", RÁDIO GLOBO 1100 AM SP
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
+#EXTINF:0 group-title="Brazil", RÁDIO GLOBO 98.1 FM RJ
+http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
+#EXTINF:0 group-title="Brazil", RECORD AL
+http://hls.stream.tnh1.com.br:80/live/tvpajucara_1/livestream.m3u8
+#EXTINF:0 group-title="Brazil", REDE SÉCULO 21 SP
+http://257919-lh.akamaihd.net:80/i/TVSeculo21_hdlive@145740/index_250_av-p.m3u8
+#EXTINF:0 group-title="Brazil", REDE SÉCULO 21 SP
+http://257919-lh.akamaihd.net:80/i/TVSeculo21_hdlive@145740/master.m3u8
+#EXTINF:0 group-title="Brazil", REDE SÉCULO 21 SP
+http://257920-lh.akamaihd.net:80/i/TVSeculo21_hls@145741/index_250_av-p.m3u8
+#EXTINF:0 group-title="Brazil", REDE SÉCULO 21 SP
+http://257920-lh.akamaihd.net:80/i/TVSeculo21_hls@145741/master.m3u8
+
 #EXTINF:-1 group-title="Belize",[COLOR yellow]---------------------- Belize----------------------[/COLOR]
 http://0.0.0.0:1234
 
@@ -1435,10 +1462,6 @@ http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
 #EXTINF:0 group-title="Italy",[COLOR=FFFF4500]Italy[/COLOR]
 http://0.0.0.0
 
-#EXTINF: -1 group-title="Italy",cdn
-http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
-#EXTINF:-1 group-title="Italy",Corriere TV
-http://iphone4.rcs.it/h24_2_ipad.m3u8
 #EXTINF:-1 tvg-logo"https://lh3.googleusercontent.com/e82aD5PWaQ_OQ1rv27mkINS9dIt8xYl9NqFnxewc1vzrl0sy6to8m182wqKlaRyRBLkj=s170" group-title="Italy",E TV Marche
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF: -1 group-title="Italy",euronews_ewns
@@ -1469,8 +1492,6 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8?sd=10&
 http://originstream6.rai.it/italy/smil:raiscuola.smil/master.m3u8
 #EXTINF: -1 tvg-logo="http://apidge.altervista.org/wp-content/uploads/2016/06/rai-scuola.png" group-title="Italy", rai scuola
 http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF: -1 tvg-logo="http://www.boorp.com/tv_italiane_online_streaming/rai_storia.png" group-title="Italy",rai storia
-http://212.162.68.163:80/rai_storia
 #EXTINF: -1 tvg-logo="http://www.boorp.com/tv_italiane_online_streaming/rai_storia.png"  group-title="Italy",rai storia
 http://originstream6.rai.it/italy/raistoria.smil/master.m3u8
 #EXTINF: -1 tvg-logo="http://www.boorp.com/tv_italiane_online_streaming/rai_storia.png" group-title="Italy",rai storia
@@ -1485,16 +1506,10 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://radiomovidasanmango.it/wp-content/uploads/2014/10/RADIOVISIONE.png" group-title="Italy",radiovisione
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist_b784000.m3u8
-#EXTINF:-1 tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/SKY-TG24-LIVE.jpg"  group-title="Italy",Sky TG24
-rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564
-#EXTINF:-1 tvg-id="TG24.it" group-title="Italy" tvg-logo="021.png",Sky Tg24
+#EXTINF:-1 tvg-id="TG24.it" group-title="Italy" tvg-logo="http://tv-online.im/wp-content/uploads/2013/07/SKY-TG24-LIVE.jpg",Sky Tg24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 tvg-id="TG24Norba.it" group-title="Italy" tvg-logo="http://vazapp.it/wp-content/uploads/2015/11/vazapp.it_logo_tg-norba-24.jpg",Tg Norba24
 http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
-#EXTINF:-1 group-title="Italy",spilive
-http://spi.hystream.com:1935/spilive/spistream/chunklist.m3u8
-#EXTINF:0 tvg-name="Tele 8" tvg-language="Italian" tvg-country="IT" tvg-id="Tele 8" tvg-logo="http://seeklogo.com/images/T/Tele__-logo-0D8DF576D4-seeklogo.com.gif" group-title="Italy",Tele 8
-http://video2.kronopress.com:1935/tele8_live/tele8/playlist.m3u8
 #EXTINF:0 tvg-name="Telemilano' tvg-language="Italian" tvg-country="IT" tvg-id='Telemilano" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Telemilano.jpg" group-title="Italy",Telemilano
 http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
 #EXTINF:0 tvg-name="Telepavia" tvg-language="Italian" tvg-country="IT" tvg-id="Telepavia" tvg-logo='http://www.tv14.net/wp-content/uploads/2010/09/TelePavia1.jpg" group-title="Italy",Telepavia
@@ -1505,7 +1520,6 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 http://77.72.196.214:8554/live/TrentinoTV/sansar.m3u8
 #EXTINF:-1 tvg-logo="http://www.trmtv.it/home/wp-content/themes/trmtv/styles/default/img/logo_trm_site_big.png" group-title="Italian",TRM TV
 http://flash.streamingmedia.it:1935/TRM/livestream/BratuMarian.m3u8
-
 #EXTINF:-1 tvg-logo="http://wave-tech.it/img/video_brescia.png" group-title="Italy",Video Brescia
 http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8
 
@@ -1865,6 +1879,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-cnN3jE4sMW0/VhD_fVavuAI/AAAAAAAAMSk/z1-WoSWo8vc/s1600/trtbelgeselhd.jpg" group-title="Turkey",TRT BELGESEL
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-cnN3jE4sMW0/VhD_fVavuAI/AAAAAAAAMSk/z1-WoSWo8vc/s1600/trtbelgeselhd.jpg" group-title="Turkey",TRT BELGESEL HD 
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-name="TRT Cocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Cocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png" group-title="Turkey",TRT Cocuk
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.trtcocuk.net.tr/img/trt-cocuk-logo.png" group-title="Turkey",TRT ÇOCUK
@@ -2053,6 +2069,18 @@ http://0.0.0.0:1234
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.indiantelevision.com/images17/star_maja.jpg" group-title="Marathi",Star Maza
 http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+
+#EXTINF:-1 group-title="Indonesia",[COLOR yellow]---------------------- Indonesia----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="TVGuia_RCTI" tvg-name="RCTI" tvg-logo="RCTI.png" group-title="Indonesia",RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1 group-title="Indonesia",Lokal- Kompas TV
+rtmp://202.137.11.52/jakarta/offair.sdp 
+#EXTINF:-1 group-title="Indonesia",Lokal- INEWS
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/o_channel_id.png",group-title="local",O Channel
+http://v.nxstream.com/oc/smil:octv/chunklist_w1359065062_b768000.m3u8
 
 #EXTINF:-1 group-title="Malaysia",[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
 
@@ -3221,7 +3249,7 @@ http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:0 tvg-name="RomaTV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="RomaTV" tvg-logo="http://www.digital-news.it/files-admin/Simone/1437576511-roma-tv.jpg" group-title="Music",RomaTV (Music) (BG) (Bulgarian)
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0 group-title=”Music”,Retro TV
+#EXTINF:0 group-title="Music",Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0 group-title="Music",Ritmoson Latino      *
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?=%2FPROFILE00-801%2F.ts-1
@@ -4554,46 +4582,46 @@ http://relay-nyc.gameowls.com:8000/all.ogg
 #EXTINF:-1 tvg-logo="http://www.webradiostats.com/v3/wp-content/uploads/2015/10/icecast-200x200.png" group-title="Web Radio",Icecast Mutual Broadcast Network
 http://mutualbroadcast.com:8000/
 
-#EXTINF:-1 group-title="Web Radio",Radio Caprice Heavy Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice Heavy Metal
 http://79.111.14.76:9061/
-#EXTINF:-1 group-title="Web Radio",Radio Caprice Hardcore Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice Hardcore Metal
 http://79.111.14.76:9081/
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Viking Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Viking Metal
 http://79.111.14.76:9077/
 http://79.111.14.76:8000/vikingmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Power Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Power Metal
 http://79.120.77.11:9099/
 http://79.120.77.11:8000/powermetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Black Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Black Metal
 http://79.120.77.11:9003/
 http://79.120.77.11:8000/blackmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Pagan Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Pagan Metal
 http://79.111.119.111:9069/
 http://79.111.119.111:8000/paganmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Sludge Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Sludge Metal
 http://79.120.77.11:9087/
 http://79.120.77.11:8000/sludgemetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Doom Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Doom Metal
 http://79.111.14.76:9109/
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Progressive Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Progressive Metal
 http://79.120.77.11:9093/
 http://79.120.77.11:8000/progmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Progressive Death Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Progressive Death Metal
 http://79.111.119.111:9001/
 http://79.111.119.111:8000/progdeath?
 #EXTINF:-1 group-title="Web Radio",Radio Caprice - Technical Death Metal
 http://79.120.77.11:9095/
 http://79.120.77.11:8000/techdeathmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Brutal Death Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Brutal Death Metal
 http://79.111.119.111:9075/
 http://79.111.119.111:8000/brutaldeathmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Neoclassical Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Neoclassical Metal
 http://79.111.119.111:9033/
 http://79.111.119.111:8000/neoclassicalmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Speed Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Speed Metal
 http://79.111.119.111:9107/
 http://79.111.119.111:8000/speedmetal?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Dark Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Dark Metal
 http://79.111.119.111:9083/
 
 #EXTINF:-1 group-title="Web Radio",Death Metal!
@@ -7186,6 +7214,10 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/3Idiots%20(2009)%20720p%20(Bia2M
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/51%20-%20Life%20Is%20Beautiful%20(1997)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",101 Dalmations
 http://bit.ly/1Pqs0aL
+#EXTINF:-1 group-title="Movies",10.Cent.Pistol.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/5/10.Cent.Pistol.2014.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",6.Ways.To.Die.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/5/6.Ways.To.Die.2015.720p.WEB-DL.Tehmovies.com.mkv
 #EXTINF:0 group-title="Movies",13 Sins
 http://144.76.186.45/r57/5/tyler/movie/13SinsDVD-TylerMovieLand.mp4
 #EXTINF:-1 #EXTINF:-1 group-title="Movies",2 Guns 
@@ -7215,6 +7247,10 @@ http://144.76.186.45/r57/5/tyler/movie/300RisofAnEmpireHDRip-TylerMovieLand.mp4
 http://bit.ly/1m7dBEr
 #EXTINF:-1 group-title="Movies",A Disney Christmas Gift
 http://bit.ly/1UzNuln
+#EXTINF:-1 group-title="Movies",A.LEGO.Brickumentary.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/5/A.LEGO.Brickumentary.2014.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",A.Nightingale.Falling.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/7/A.Nightingale.Falling.2014.1080p.5.1CH.Tehmovies.ir.mkv
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_09/2014/2180994/m_2180994_d3030d6e.jpg" group-title="Movies",A Good Marriage
 http://144.76.186.45/r57/5/tyler/movie/AGoodMarriageDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",A million Ways to Die in the West Unrated
@@ -7292,6 +7328,8 @@ http://dl.tehmovies.com/94/1/American.Sniper.2014.720p.WEB-DL.TehMovies.Com.mkv
 http://dl.tehmovies.com/94/11/Assassination.Classroom.2015.720p.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",Attack.on.Titan.Part.1.2015.1080p
 http://dl.tehmovies.com/94/11/Attack.on.Titan.Part.1.2015.1080p.Tehmovies.net.mp4
+#EXTINF:-1 group-title="Movies",Attack.on.Titan.Part.2.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Attack.on.Titan.Part.2.2015.1080p.5.1CH.Tehmovies.net.mkv
 #EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Allegiant (2016)
 http://dl.tehmovies.com/94/95/3/Allegiant.2016.720p.TC.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",Any.Given.Sunday.DIRECTORS.CUT.1999.720p.YIFY
@@ -7403,6 +7441,10 @@ http://144.76.186.45/r57/5/tyler/movie/BackintheDayDVD-TylerMovieLand.mp4
 http://dl.tehmovies.com/94/11/Black.Mountain.Side.2016.720p.WEB-DL.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",Blinky.Bill.the.Movie.DVDRip
 http://dl.tehmovies.com/94/11/Blinky.Bill.the.Movie.DVDRip.Tehmovies.net.mp4 
+#EXTINF:-1 group-title="Movies",Bajrangi.Bhaijaan.2015.720p.DVDrip
+http://dl.tehmovies.com/94/7/Bajrangi.Bhaijaan.2015.720p.DVDrip.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Beasts.of.No.Nation.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/7/Beasts.of.No.Nation.2015.720p.WEB-DL.Tehmovies.ir.mkv    
 #EXTINF:-1 group-title="Movies",Breakdown.2016.HDrip   
 http://dl.tehmovies.com/94/11/Breakdown.2016.HDrip.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",Beautiful Mind 2001 720p
@@ -7557,6 +7599,15 @@ http://deadlyblogger.com/NewRelease/dirty1.mp4
 http://bit.ly/1Vz0fgo
 #EXTINF:-1 group-title="Movies",Despicable Me 2
 http://bit.do/bmAX7
+#EXTINF:-1 group-title="Movies",Dark.Places.2015.720p
+http://dl.tehmovies.com/94/5/Dark.Places.2015.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies", Dark.Was.the.Night.2014.720p.WEB-DL      
+http://dl.tehmovies.com/94/5/Dark.Was.the.Night.2014.720p.WEB-DL_Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Dead.Rising.Watchtower.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/5/Dead.Rising.Watchtower.2015.1080p.5.1CH.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Dead.Rising.Watchtower.2015.720p
+http://dl.tehmovies.com/94/5/Dead.Rising.Watchtower.2015.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Ill.See.You.in.My.Dreams.2015.720p
 #EXTINF:-1 group-title="Movies",Dances.with.Wolves.1990.Extended.Cut.720p
 http://dl.tehmovies.com/94/1/Dances.with.Wolves.1990.Extended.Cut.720p.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Digging.Up.the.Marrow.2014.BluRay.720p
@@ -7615,6 +7666,8 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eternal%20Sunshine%20of%20the%20
 
 #EXTINF:0 tvg-logo="" group-title="Movies",Falcon Rising
 http://144.76.186.45/r57/5/tyler/movie/FalconRisingDVD-TylerMovieLand.mp4
+#EXTINF:-1 group-title="Movies",Family.For.Christmas.2015.720p.HDTV
+http://dl.tehmovies.com/94/9/Family.For.Christmas.2015.720p.HDTV.Tehmovies.ir.mkv 
 #EXTINF:0 group-title="Movies",Fifty Shades Of Grey 2015
 http://www.watch-simpsons.com/downloads/mp4/Fifty.Shades.of.Grey.2015.720p.BluRay.x264.YIFY.mp4
 #EXTINF:0 group-title="Movies",Final Girl 2015
@@ -7674,7 +7727,8 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/For%20A%20Few%20Dollars%20More%2
 #EXTINF:-1 group-title="Movies",Forrest Gump 1994 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Forrest%20Gump%20(1994)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Full Metal Jacket 1987 1080p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Full%20Metal%20Jacket%20(1987)%201080p%20(Bia2Movies).mp4   
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Full%20Metal%20Jacket%20(1987)%201080p%20(Bia2Movies).mp4  
+http://dl.tehmovies.com/94/4/Furious.7.2015.EXTENDED.1080p.5.1CH.Tehmovies.com.mkv 
 
 #EXTINF:0 group-title="Movies",Ghost In The Shell: The New Movie 2015(Japanese)
 https://2.bp.blogspot.com/47uaYW9NniaPzu%2D5I7BH3mqDcgYcDDBg21XlyLqxzqM%3Dm22
@@ -7731,6 +7785,8 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%20
 G#EXTINF:-1 group-title="Movies",Guardians of the Galaxy 2014 dvdrip
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Guardians%20of%20the%20Galaxy%202014%20dvdrip%20(Bia2Movies).mkv
 
+#EXTINF:-1 group-title="Movies",He.Never.Died.2015.1080p.WEB-DL.6CH
+http://dl.tehmovies.com/94/9/He.Never.Died.2015.1080p.WEB-DL.6CH.Tehmovies.ir.mkv   
 #EXTINF:0 group-title="Movies",Helllion
 http://144.76.186.45/r57/5/tyler/movie/HelllionDVD-TylerMovieLand.mp4
 #EXTINF:0 group-title="Movies",How to Train Your Dragon 2
@@ -7811,6 +7867,29 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/How%20to%20Train%20Your%20Dragon%202%20(2014)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Howls Moving Castle 2004 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Howls%20Moving%20Castle%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Head.Full.of.Honey.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Head.Full.of.Honey.2014.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Hollywood.Adventure.2015.1080p.5.1CH   
+http://dl.tehmovies.com/94/12/Hollywood.Adventure.2015.1080p.5.1CH.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",How.To.Change.The.World.2015.DVDrip
+#EXTINF:-1 group-title="Movies",How.To.Change.The.World.2015.DVDrip
+http://dl.tehmovies.com/94/12/How.To.Change.The.World.2015.DVDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Hard.to.Be.a.God.2013.1080p.5.1CH
+http://dl.tehmovies.com/94/4/Hard.to.Be.a.God.2013.1080p.5.1CH.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Hollywood.Adventures.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/4/Hollywood.Adventures.2015.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Home.2015.BluRay.1080p.5.1CH.x264
+http://dl.tehmovies.com/94/4/Home.2015.BluRay.1080p.5.1CH.x264.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Hotel.Transylvania.2.2015.1080p.HDrip
+http://dl.tehmovies.com/94/9/Hotel.Transylvania.2.2015.1080p.HDrip.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Hotel.Transylvania.2.2015.1080p.WEB-DL.6CH
+http://dl.tehmovies.com/94/9/Hotel.Transylvania.2.2015.1080p.WEB-DL.6CH.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Hotel.Transylvania.2.2015.720p.HDrip
+http://dl.tehmovies.com/94/9/Hotel.Transylvania.2.2015.720p.HDrip.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Hotel.Transylvania.2.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/9/Hotel.Transylvania.2.2015.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Hotel.Transylvania.2.2015.HDrip
+http://dl.tehmovies.com/94/9/Hotel.Transylvania.2.2015.HDrip.Tehmovies.ir.mkv  
 
 #EXTINF:0 tvg-logo="" group-title="Movies",I Am Ali
 http://144.76.186.45/r57/5/tyler/movie/IAmAliDVD-TylerMovieLand.mp4
@@ -7834,6 +7913,14 @@ http://dl.tehmovies.com/94/1/Interview.with.a.Hitman.2012.BluRay.720p.x264.TehMo
 http://dl.tehmovies.com/94/1/Island.Of.Lemurs.Madagascar.2014.720p.BluRay.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Island.of.Lemurs.Madagascar.2014.1080p.5.1CH
 http://dl.tehmovies.com/94/1/Island.of.Lemurs.Madagascar.2014.1080p.5.1CH.TehMovies.Com.mkv  
+#EXTINF:-1 group-title="Movies",In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264
+http://dl.tehmovies.com/94/12/In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.720p
+http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",In.The.Heart.of.the.Sea.2015.DVDScr
+http://dl.tehmovies.com/94/9/In.The.Heart.of.the.Sea.2015.DVDScr.Tehmovies.ir.mkv 
 #EXTINF:-1 group-title="Movies",Ikiru 1952 Rip<
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Ikiru%201952%20DVDRip%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",In the Name of the Father 1993 720p
@@ -7897,6 +7984,12 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Judgment%20at%20Nuremberg%20(196
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%201080p%20(Bia2Movies).mp4
 #EXTINF:-1 group-title="Movies",Jurassic Park 1993 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Jurassic%20Park%20(1993)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Just.Before.I.Go.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/2/Just.Before.I.Go.2014.720p.WEB-DL.TehMovies.com.mkv
 
 #EXTINF:0 group-title="Movies",Kid Cannabis
 http://144.76.186.45/r57/5/tyler/movie/KidCannabisDVD-TylerMovieLand.mp4
@@ -7906,6 +7999,10 @@ http://deadlyblogger.com/NewRelease/killa1.mp4
 http://deadlyblogger.com/NewRelease/kingpaper.mp4
 #EXTINF:-1 group-title="Movies",Kill Bill Vol 1 2003 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Kill%20Bill%20Vol%201%202003%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Kill.Your.Friends.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/Kill.Your.Friends.2015.1080p.5.1CH.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Kung.Fu.Panda.3.2016.HC.1080p.HDrip       
+http://dl.tehmovies.com/94/12/Kung.Fu.Panda.3.2016.HC.1080p.HDrip.Tehmovies.net.mkv
 
 #EXTINF:0 group-title="Movies",Lets Be Cops
 http://144.76.186.45/r57/5/tyler/movie/LetsBeCopsDVD-TylerMovieLand.mp4
@@ -7935,6 +8032,12 @@ http://bit.ly/1PkDRpu
 http://dl.tehmovies.com/94/11/Love.the.Coopers.2015.1080p.5.1CH.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",Love.the.Coopers.2015.720p
 http://dl.tehmovies.com/94/11/Love.the.Coopers.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Lost.River.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Lost.River.2014.1080p.5.1CH.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Liza.the.Fox.Fairy.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/9/Liza.the.Fox.Fairy.2015.1080p.5.1CH.Tehmovies.ir.mkv   
+#EXTINF:-1 group-title="Movies",Landmine.Goes.Click.2015.WEB-DL.720p
+http://dl.tehmovies.com/94/8/Landmine.Goes.Click.2015.WEB-DL.720p.Tehmovies.ir.Mkv
 #EXTINF:-1 group-title="Movies",L A Confidential 1997 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/L.A%20Confidential%20(1997)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",La Haine 1995 720p
@@ -7960,6 +8063,8 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Lon%20The%20Professional%20(1994
 http://www.deadlyblogger.com/NewRelease/maleficent.mp4
 #EXTINF:0 group-title="Movies",Max 2015
 http://www.film4eg.net/momn/Max%202015-1.mp4
+#EXTINF:-1 group-title="Movies",Maze.Runner.Scorch.Trials.2015.720p.HDrip
+http://dl.tehmovies.com/94/8/Maze.Runner.Scorch.Trials.2015.720p.HDrip.Tehmovies.ir.mkv 
 #EXTINF:0 group-title="Movies",McFarland:USA 2015
 http://www.watch-simpsons.com/downloads/mp4/McFarland%20USA%20(2015)%201080p.mp4
 #EXTINF:0,Mistress America 2015
@@ -8010,7 +8115,11 @@ http://144.76.186.45/r57/5/tyler/movie/MuppetsMostWantedDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2016.DVDrip
 http://dl.tehmovies.com/94/11/Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2016.DVDrip.Tehmovies.net.mp4
 #EXTINF:-1 group-title="Movies",Mustang.2015.720p.WEB-DL
-http://dl.tehmovies.com/94/11/Mustang.2015.720p.WEB-DL.Tehmovies.net.mp4  
+http://dl.tehmovies.com/94/11/Mustang.2015.720p.WEB-DL.Tehmovies.net.mp4 
+#EXTINF:-1 group-title="Movies",Mad.Max.Fury.Road.2015.1080p.WEB-DL.6CH
+http://dl.tehmovies.com/94/4/Mad.Max.Fury.Road.2015.1080p.WEB-DL.6CH.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Mad.Max.Fury.Road.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/4/Mad.Max.Fury.Road.2015.720p.WEB-DL.Tehmovies.com.mkv 
 #EXTINF:-1 group-title="Movies",M 1931 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/M%20(1931)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Mary and Max 2009 720p
@@ -8068,6 +8177,8 @@ http://144.76.186.45/r57/5/tyler/movie/NebraskaDVDScr-TylerMovieLand.mp4
 http://dl.tehmovies.com/94/1/National.Treasure.2004.BluRay.720p.x264.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",National.Treasure.Book.of.Secrets.2007.BluRay
 http://dl.tehmovies.com/94/1/National.Treasure.Book.of.Secrets.2007.BluRay.720p.x264.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Northern.Limit.Line.2015.720p.HDrip
+http://dl.tehmovies.com/94/5/Northern.Limit.Line.2015.720p.HDrip.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",Nausicaa of the Valley of the Wind 1984 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%201984%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Network 1976 720p
@@ -8136,6 +8247,8 @@ http://bit.ly/1RTK3rR
 http://bit.ly/1o2orxk
 #EXTINF:-1 group-title="Movies",Pinocchio (1940)
 http://bit.ly/1QVcanH
+#EXTINF:-1 group-title="Movies",Pyaar.Ka.Punchnama.2.2015.720p.DVDrip
+http://dl.tehmovies.com/94/9/Pyaar.Ka.Punchnama.2.2015.720p.DVDrip.Tehmovies.ir.mkv
 #EXTINF:-1 group-title="Movies",Pans Labyrinth 2006 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pans%20Labyrinth%20(2006)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Papillon 1973 1080p
@@ -8156,6 +8269,16 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Princess%20Mononoke%20(1997)%207
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Psycho%20(1960)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Pulp Fiction 1994 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Pulp%20Fiction%20(1994)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Pink.Floyd.The.Wall.1982.720p.HDTV
+http://dl.tehmovies.com/94/2/Pink.Floyd.The.Wall.1982.720p.HDTV.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",Paul.Blart.Mall.Cops.2.2015.1080p.6CH
+http://dl.tehmovies.com/94/4/Paul.Blart.Mall.Cops.2.2015.1080p.6CH.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Poltergeist.2015.1080p.HDrip.6CH
+http://dl.tehmovies.com/94/4/Poltergeist.2015.1080p.HDrip.6CH.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Project.Almanac.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Project.Almanac.2014.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip
+http://dl.tehmovies.com/94/12/Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip.Tehmovies.net.mkv 
 
 #EXTINF:-1 group-title="Movies",Queen.of.the.Desert.2015.720p.WEB-DL
 http://dl.tehmovies.com/94/11/Queen.of.the.Desert.2015.720p.WEB-DL.Tehmovies.net.mkv
@@ -8198,6 +8321,12 @@ http://bit.ly/1Q708nQ
 http://144.76.186.45/r57/5/tyler/movie/RobocopDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies",Reflections.in.a.Golden.Eye.1967.720p
 http://dl.tehmovies.com/94/11/marlon.brando/Reflections.in.a.Golden.Eye.1967.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Regular.Show.The.Movie.2015.720p.HDTV
+http://dl.tehmovies.com/94/9/Regular.Show.The.Movie.2015.720p.HDTV.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Rise.of.the.Footsoldier.Part.II.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/9/Rise.of.the.Footsoldier.Part.II.2015.1080p.5.1CH.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Rise.of.the.Footsoldier.Part.II.2015.720p
+http://dl.tehmovies.com/94/9/Rise.of.the.Footsoldier.Part.II.2015.720p.Tehmovies.ir.mkv
 #EXTINF:-1 group-title="Movies",Raging Bull 1980 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Raging%20Bull%20(1980)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Raiders of the Lost Ark 1981 720p
@@ -8351,6 +8480,27 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Sunset%20Blvd.%20(1950)%20720p%2
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%201080p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Swades 2004 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Swades%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
+http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
+http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",Shes.Lost.Control.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/3/Shes.Lost.Control.2014.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Sword.of.Vengeance.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/2/Sword.of.Vengeance.2015.1080p.5.1CH.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Shes.Funny.That.Way.2014.Bluray.720p
+http://dl.tehmovies.com/94/9/Shes.Funny.That.Way.2014.Bluray.720p.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",San.Andreas.2015.1080p.6CH.Tehmovies
+http://dl.tehmovies.com/94/7/San.Andreas.2015.1080p.6CH.Tehmovies.ir.mkv     
+#EXTINF:-1 group-title="Movies",San.Andreas.2015.1080p.BluRay.x264
+http://dl.tehmovies.com/94/7/San.Andreas.2015.1080p.BluRay.x264.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",San.Andreas.2015.3D.1080p.BluRay.x264
+http://dl.tehmovies.com/94/7/San.Andreas.2015.3D.1080p.BluRay.x264.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Some.Kind.of.Hate.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/7/Some.Kind.of.Hate.2015.720p.WEB-DL.Tehmovies.ir.mkv  
+#EXTINF:-1 group-title="Movies",Spooks.The.Greater.Good.2015.1080p.6CH
+http://dl.tehmovies.com/94/7/Spooks.The.Greater.Good.2015.1080p.6CH.Tehmovies.ir.mkv  
+
 
 #EXTINF:0,tvg-name="The Amazing Wizard Of Paws 2015" tvg-language="English" tvg-country="US" tvg-id="The Amazing Wizard Of Paws 2015″ tvg-logo=”http://ecx.images-amazon.com/images/I/61qXGhQg5FL.jpg" group-title="Movies",The Amazing Wizard Of Paws 2015 
 http://2.bp.blogspot.com/jVR6S03Usvmf8Xma6ucgXArWP7LUjfsNFeBtp_p4jPc=m18
@@ -8529,6 +8679,14 @@ http://bit.ly/20A6PGQ
 http://bit.ly/1QAhn3Z
 #EXTINF:-1 group-title="Movies",Toy Story Of Terror
 http://bit.ly/1TuVA0x
+#EXTINF:-1 group-title="Movies",Terminator.Genisys.2015.1080p.BluRay.6CH
+http://dl.tehmovies.com/94/7/Terminator.Genisys.2015.1080p.BluRay.6CH.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Terminator.Genisys.2015.1080p.BluRay.x264
+http://dl.tehmovies.com/94/7/Terminator.Genisys.2015.1080p.BluRay.x264.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",Terminator.Genisys.2015.720p.HDrip
+http://dl.tehmovies.com/94/5/Terminator.Genisys.2015.720p.HDrip.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.End.of.the.Tour.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/7/The.End.of.the.Tour.2015.1080p.5.1CH.Tehmovies.ir.mkv
 #EXTINF:0 group-title="Movies",Third World Cop
 https://archive.org/download/ThirdWorldCop/Third%20World%20Cop.mp4
 #EXTINF:0 group-title="Movies",Tomorrowland 2015
@@ -8650,9 +8808,48 @@ http://dl.tehmovies.com/94/11/alpacino/The.Devils.Advocate.1997.UNRATED.DC.720p.
 http://dl.tehmovies.com/94/11/alpacino/The.Son.of.No.One.2011.720p.x264.YIFY.Tehmovies.net.mp4
 #EXTINF:-1 group-title="Movies",The.Island.of.Dr.Moreau.1996.DC.720p
 http://dl.tehmovies.com/94/11/marlon.brando/The.Island.of.Dr.Moreau.1996.DC.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Age.of.Adaline.2015.720p.WEB-DL      
+http://dl.tehmovies.com/94/3/The.Age.of.Adaline.2015.720p.WEB-DL.TehMovies.com.mkv  
+#EXTINF:-1 group-title="Movies",The.Benefactor.2015.1080p.5.1CH 
+http://dl.tehmovies.com/94/12/The.Benefactor.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.1080p.5.1CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p 
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p.WEB-DL       
+http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Forbidden.Room.2015.720p   
+http://dl.tehmovies.com/94/12/The.Forbidden.Room.2015.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Lady.in.the.Van.2015.720p  
+http://dl.tehmovies.com/94/12/The.Lady.in.the.Van.2015.720p.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",The.Scopia.Effect.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/2/The.Scopia.Effect.2014.720p.WEB-DL.TehMovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.Taking.of.Tiger.Mountain.2014.720p
+http://dl.tehmovies.com/94/2/The.Taking.of.Tiger.Mountain.2014.720p.TehMovies.com.mkv 
+#EXTINF:-1 group-title="Movies",The.Burning.Dead.2015.BluRay.1080p.5.1CH.x264
+http://dl.tehmovies.com/94/4/The.Burning.Dead.2015.BluRay.1080p.5.1CH.x264.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.Burning.Dead.2015.BluRay.720p
+http://dl.tehmovies.com/94/4/The.Burning.Dead.2015.BluRay.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.Golden.Dream.2013.BluRay.720p
+http://dl.tehmovies.com/94/4/The.Golden.Dream.2013.BluRay.720p.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",The.Hunt.For.Red.October.1990.BluRay.720p
+http://dl.tehmovies.com/94/4/The.Hunt.For.Red.October.1990.BluRay.720p.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",The.Missouri.Breaks.1976.720p.YIFY
 http://dl.tehmovies.com/94/11/marlon.brando/The.Missouri.Breaks.1976.720p.YIFY.Tehmovies.net.mp4
 #EXTINF:-1 group-title="Movies",Taxi Driver 1976 720p
+#EXTINF:-1 group-title="Movies",The.Man.from.U.N.C.L.E.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/8/The.Man.from.U.N.C.L.E.2015.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",The.Transporter.Refueled.2015.720p
+http://dl.tehmovies.com/94/8/The.Transporter.Refueled.2015.720p.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",The.Transporter.Refueled.2015.BluRay.1080p
+#EXTINF:-1 group-title="Movies",The.Transporter.Refueled.2015.BluRay.1080p
+http://dl.tehmovies.com/94/8/The.Transporter.Refueled.2015.BluRay.1080p.Tehmovies.ir.mkv 
+#EXTINF:-1 group-title="Movies",The.Bad.Education.Movie.2015.720p
+http://dl.tehmovies.com/94/9/The.Bad.Education.Movie.2015.720p.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",The.Kindergarten.Teacher.2014.1080p.5.1CH
+http://dl.tehmovies.com/94/9/The.Kindergarten.Teacher.2014.1080p.5.1CH.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",The.Kindergarten.Teacher.2014.720p
+http://dl.tehmovies.com/94/9/The.Kindergarten.Teacher.2014.720p.Tehmovies.ir.mkv  
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Taxi%20Driver%20(1976)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Terminator 2 Judgment Day 1991 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Terminator%202%20Judgment%20Day%20(1991)%20720p%20(Bia2Movies).mkv
@@ -8804,7 +9001,9 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Twelve%20Monkeys%20(1995)%20720p
 #EXTINF:-1 group-title="Movies",Unforgiven 1992 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Unforgiven%20(1992)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Up 2009 720p
-http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Up%20(2009)%20720p%20(Bia2Movies).mkv" 
+http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Up%20(2009)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Unfinished.Business.2015.1080p.5.1CH           
+http://dl.tehmovies.com/94/3/Unfinished.Business.2015.1080p.5.1CH.TehMovies.com.mkv 
 
 #EXTINF:0 group-title="Movies",Varsity Blood
 http://144.76.186.45/r57/5/tyler/movie/VarsityBloodDVD-TylerMovieLand.mp4
@@ -8814,6 +9013,8 @@ http://144.76.186.45/r57/5/tyler/movie/VeronicaMarsDVD-TylerMovieLand.mp4
 http://144.76.186.45/r57/5/tyler/movie/VHSViralDVD-TylerMovieLand.mp4
 #EXTINF:-1 group-title="Movies", Victor.Frankenstein.2015.720p.WEB-DL     
 http://dl.tehmovies.com/94/11/Victor.Frankenstein.2015.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Vendetta.2015.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/5/Vendetta.2015.2015.1080p.5.1CH.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",V for Vendetta 2005 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/V%20for%20Vendetta%20(2005)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Vertigo 1958 720p
@@ -8861,8 +9062,15 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Warrior%20(2011)%20720p%20(Bia2M
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Whos%20Afraid%20of%20Virginia%20Woolf%20(1966)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Wild Strawberries 1957 Rip
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Wild%20Strawberries%20(1957)%20DVDRip%20(Bia2Movies).mkv
-Witness for the Prosecution 1957 720p
+#EXTINF:-1 group-title="Movies",Witness for the Prosecution 1957 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Witness%20for%20the%20Prosecution%20(1957)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",We.Are.Still.Here.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/3/We.Are.Still.Here.2015.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",While.Were.Young.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/3/While.Were.Young.2014.720p.WEB-DL.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Furious.7.2015.EXTENDED.1080p.5.1CH
+#EXTINF:-1 group-title="Movies",Where.Hope.Grows.2014.720p.WEB-DL
+http://dl.tehmovies.com/94/5/Where.Hope.Grows.2014.720p.WEB-DL.Tehmovies.com.mkv
 
 #EXTINF:0 group-title="Movies",X-Men 2000 
 http://www.deadlyblogger.com/NewRelease/xmen1.mp4
@@ -8889,6 +9097,8 @@ http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/X-Men%20Days%20of%20Future%20Pas
 http://dl.tehmovies.com/94/1/Youre.Not.You.2014.720p.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Yojimbo 1961 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Yojimbo%20(1961)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Yakuza.Apocalypse.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/7/Yakuza.Apocalypse.2015.720p.WEB-DL.Tehmovies.ir.mkv
 
 #EXTINF:0 tvg-logo="http://ia.media-imdb.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UX182_CR0,0,182,268_AL_.jpg"  group-title="Movies",Zootopia
 http://www.deadlyblogger.com/NewRelease/zootopia.mp4
@@ -8897,72 +9107,83 @@ http://bit.do/bsvZX
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
 http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
 
-#EXTINF:-1 group-title="Movies",Attack.on.Titan.Part.2.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/12/Attack.on.Titan.Part.2.2015.1080p.5.1CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Head.Full.of.Honey.2014.1080p.5.1CH
-http://dl.tehmovies.com/94/12/Head.Full.of.Honey.2014.1080p.5.1CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Hollywood.Adventure.2015.1080p.5.1CH   
-http://dl.tehmovies.com/94/12/Hollywood.Adventure.2015.1080p.5.1CH.Tehmovies.net.mkv 
-#EXTINF:-1 group-title="Movies",How.To.Change.The.World.2015.DVDrip
-http://dl.tehmovies.com/94/12/How.To.Change.The.World.2015.DVDrip.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264
-http://dl.tehmovies.com/94/12/In.The.Heart.Of.The.Sea.2015.1080p.BluRay.DD.x264.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.1080p.5.1CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",In.the.Heart.of.the.Sea.2015.720p
-http://dl.tehmovies.com/94/12/In.the.Heart.of.the.Sea.2015.720p.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.1080p.5.1CH.TehMovies.com.mkv 
-#EXTINF:-1 group-title="Movies",Jupiter.Ascending.2015.720p.WEB-DL
-http://dl.tehmovies.com/94/2/Jupiter.Ascending.2015.720p.WEB-DL.TehMovies.Com.mkv
-#EXTINF:-1 group-title="Movies",Just.Before.I.Go.2014.720p.WEB-DL
-http://dl.tehmovies.com/94/2/Just.Before.I.Go.2014.720p.WEB-DL.TehMovies.com.mkv
-#EXTINF:-1 group-title="Movies",Kill.Your.Friends.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/12/Kill.Your.Friends.2015.1080p.5.1CH.Tehmovies.net.mkv 
-#EXTINF:-1 group-title="Movies",Kung.Fu.Panda.3.2016.HC.1080p.HDrip       
-http://dl.tehmovies.com/94/12/Kung.Fu.Panda.3.2016.HC.1080p.HDrip.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Lost.River.2014.1080p.5.1CH
-http://dl.tehmovies.com/94/2/Lost.River.2014.1080p.5.1CH.TehMovies.Com.mkv
-#EXTINF:-1 group-title="Movies",Pink.Floyd.The.Wall.1982.720p.HDTV
-http://dl.tehmovies.com/94/2/Pink.Floyd.The.Wall.1982.720p.HDTV.TehMovies.com.mkv
-#EXTINF:-1 group-title="Movies",Project.Almanac.2014.1080p.5.1CH
-http://dl.tehmovies.com/94/2/Project.Almanac.2014.1080p.5.1CH.TehMovies.com.mkv 
-#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip
-http://dl.tehmovies.com/94/12/Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip.Tehmovies.net.mkv 
-#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
-http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.Tehmovies.com.mkv
-#EXTINF:-1 group-title="Movies",San.Andreas.Quake.2015.BluRay.720p
-http://dl.tehmovies.com/94/3/San.Andreas.Quake.2015.BluRay.720p.TehMovies.com.mkv
-#EXTINF:-1 group-title="Movies",Shes.Lost.Control.2014.720p.WEB-DL
-http://dl.tehmovies.com/94/3/Shes.Lost.Control.2014.720p.WEB-DL.Tehmovies.com.mkv
-#EXTINF:-1 group-title="Movies",Sword.of.Vengeance.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/2/Sword.of.Vengeance.2015.1080p.5.1CH.TehMovies.com.mkv 
-#EXTINF:-1 group-title="Movies",The.Age.of.Adaline.2015.720p.WEB-DL      
-http://dl.tehmovies.com/94/3/The.Age.of.Adaline.2015.720p.WEB-DL.TehMovies.com.mkv  
-#EXTINF:-1 group-title="Movies",The.Benefactor.2015.1080p.5.1CH 
-http://dl.tehmovies.com/94/12/The.Benefactor.2015.1080p.5.1CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/12/The.Dressmaker.2015.1080p.5.1CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p 
-http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Dressmaker.2015.720p.WEB-DL       
-http://dl.tehmovies.com/94/12/The.Dressmaker.2015.720p.WEB-DL.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Forbidden.Room.2015.720p   
-http://dl.tehmovies.com/94/12/The.Forbidden.Room.2015.720p.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Lady.in.the.Van.2015.720p  
-http://dl.tehmovies.com/94/12/The.Lady.in.the.Van.2015.720p.Tehmovies.net.mkv 
-#EXTINF:-1 group-title="Movies",The.Scopia.Effect.2014.720p.WEB-DL
-http://dl.tehmovies.com/94/2/The.Scopia.Effect.2014.720p.WEB-DL.TehMovies.com.mkv
-#EXTINF:-1 group-title="Movies",The.Taking.of.Tiger.Mountain.2014.720p
-http://dl.tehmovies.com/94/2/The.Taking.of.Tiger.Mountain.2014.720p.TehMovies.com.mkv 
-#EXTINF:-1 group-title="Movies",Unfinished.Business.2015.1080p.5.1CH           
-http://dl.tehmovies.com/94/3/Unfinished.Business.2015.1080p.5.1CH.TehMovies.com.mkv
-#EXTINF:-1 group-title="Movies",We.Are.Still.Here.2015.720p.WEB-DL
-http://dl.tehmovies.com/94/3/We.Are.Still.Here.2015.720p.WEB-DL.Tehmovies.com.mkv
-#EXTINF:-1 group-title="Movies",While.Were.Young.2014.720p.WEB-DL
-http://dl.tehmovies.com/94/3/While.Were.Young.2014.720p.WEB-DL.Tehmovies.com.mkv
-   
-   #EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
+#EXTINF:-1 group-title="Movies",Bajira.Mastani.2015.720p
+http://dl.tehmovies.com/94/95/1/Bajira.Mastani.2015.720p.Tehmovies.net.mkv       
+#EXTINF:-1 group-title="Movies",Little.Dead.Rotting.Hood.2016.720p
+http://dl.tehmovies.com/94/95/1/Little.Dead.Rotting.Hood.2016.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.1080p.6CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.720p.WEB-DL.Tehmovies.net.mkv       
+#EXTINF:-1 group-title="Movies",Punks.Dead.SLC.Punk.2.2016.DVDrip
+http://dl.tehmovies.com/94/95/1/Punks.Dead.SLC.Punk.2.2016.DVDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.720p
+http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/1/The.Finest.Hours.2016.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.720p
+http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.720p.Tehmovies.org.mkv       
+#EXTINF:-1 group-title="Movies",The.Revenant.2015.1080p.BluRay.x264
+http://dl.tehmovies.com/94/95/1/The.Revenant.2015.1080p.BluRay.x264.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Survivalist.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Survivalist.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Breakup.Buddies.2014.HC.720p.WEBrip
+http://dl.tehmovies.com/94/95/2/Breakup.Buddies.2014.HC.720p.WEBrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Captain.America.Civil.War.2016.720p.HDTC
+http://dl.tehmovies.com/94/95/2/Captain.America.Civil.War.2016.720p.HDTC.Tehmovies.org.mkv   
+#EXTINF:-1 group-title="Movies",Creative.Control.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/Creative.Control.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Despite.the.Falling.Snow.2016.720p
+http://dl.tehmovies.com/94/95/2/Despite.the.Falling.Snow.2016.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Dirty.Grandpa.2016.720p
+http://dl.tehmovies.com/94/95/2/Dirty.Grandpa.2016.720p.Tehmovies.org.mkv         
+#EXTINF:-1 group-title="Movies",Eddie.The.Eagle.2016.HC.720p.HDrip
+http://dl.tehmovies.com/94/95/2/Eddie.The.Eagle.2016.HC.720p.HDrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Fire.City.End.of.Days.2015.DVDrip
+http://dl.tehmovies.com/94/95/2/Fire.City.End.of.Days.2015.DVDrip.Tehmovies.org.mkv       
+#EXTINF:-1 group-title="Movies",Ghayal.Once.Again.2016.720p.DVDrip
+http://dl.tehmovies.com/94/95/2/Ghayal.Once.Again.2016.720p.DVDrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p
+http://dl.tehmovies.com/94/95/2/LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Lemon.Tree.Passage.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/Lemon.Tree.Passage.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.1080p.WEB-DL
+http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.1080p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Louder.Than.Bombs.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Louder.Than.Bombs.2015.720p.WEB-DL.Tehmovies.org.mkv  
+#EXTINF:-1 group-title="Movies",One.Eyed.Girl.2014.1080p.6CH
+http://dl.tehmovies.com/94/95/2/One.Eyed.Girl.2014.1080p.6CH.Tehmovies.org.mkv     
+#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.And.Zombies.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/2/Pride.and.Prejudice.And.Zombies.2016.1080p.6CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Sheep.and.Wolves.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Sheep.and.Wolves.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Special.Correspondents.2016.720p.WEBrip
+http://dl.tehmovies.com/94/95/2/Special.Correspondents.2016.720p.WEBrip.Tehmovies.org.mkv   
+#EXTINF:-1 group-title="Movies",The.American.Side.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/The.American.Side.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Asian.Connection.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/The.Asian.Connection.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Correspondence.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/The.Correspondence.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/The.Finest.Hours.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Snake.Brothers.2015.720p.HDTV
+http://dl.tehmovies.com/94/95/2/The.Snake.Brothers.2015.720p.HDTV.Tehmovies.org.mkv   
+#EXTINF:-1 group-title="Movies",They.Found.Hell.2015.720p..WEB-DL
+http://dl.tehmovies.com/94/95/2/They.Found.Hell.2015.720p..WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Walt.Before.Mickey.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Walt.Before.Mickey.2015.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Where.to.Invade.Next.2015.1080p.6CH
+http://dl.tehmovies.com/94/95/2/Where.to.Invade.Next.2015.1080p.6CH.Tehmovies.org.mkv
+
+
+#EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 
