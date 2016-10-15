@@ -148,8 +148,26 @@ http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&re
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="SRC7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC7" group-title="Canada",ICI Radio-Canada - Montréal
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="USA",CBC (FRE)(CAN)
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b1/Ici_Tele_logo.png" group-title="Canada",CBC (FRE)(CAN)
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/calgary_2x.png" group-title="Canada", Global Calgary HD
+http://link.theplatform.com/s/dtjsEC/7cZIekSWbaTh?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/edmonton.png" group-title="Canada", Global Edmonton HD
+http://link.theplatform.com/s/dtjsEC/166zTdtbfhcW?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/halifax_2x.png" group-title="Canada",Global Halifax HD
+http://link.theplatform.com/s/dtjsEC/Hf3kzMuKfZCO?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/toronto_2x.png" group-title="Canada",Global Toronto HD
+http://link.theplatform.com/s/dtjsEC/VhMJVcROT2P4?feed=PROD%20-%20Live%20Stream%20Feed
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/TWN_HD.PNG/200px-TWN_HD.PNG" group-title="Canada",WEATHER NETWORK CANADA HD
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/66/Tsn3hd.png/revision/latest?cb=20150709184218" group-title="Canada",TSN 3 HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4b/Tsn4hd.png/revision/latest?cb=20150709184509" group-title="Canada",TSN 4 HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
+#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png" group-title="Canada",TSN 5 HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1 tvg-logo="http://linkopa.com/images/ts/2016/04/nbcnews.com_.r.png" group-title="Canada",NBC News HD
+http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV TORONTO
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto (2)
@@ -279,6 +297,8 @@ http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8?b=110-700
 http://77.92.76.135:1935/ltv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tvkinglive.com/wp-content/uploads/2016/07/Tv-Man%C3%A1-Maputo.jpg" group-title="Africa",Africa:TV Maná-Maputo
 http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/TVC_News_Africa.jpg/200px-TVC_News_Africa.jpg" group-title="Africa",TVC News
+rtmp://77.92.76.135:1935/tvcnews/livestream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/TVC_News_Africa.jpg/200px-TVC_News_Africa.jpg" group-title="Africa",TVC NEWS
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://diaspora24tv.com/wp-content/uploads/2016/03/logo.png" group-title="Africa",DIASPORA 24 (Senagal)
@@ -392,8 +412,6 @@ http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 http://wowza.netpoint.com.br:1935/wendel/live/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/Rede-TV.jpg" group-title="Brazil" group-title="Brazil",Rede TV
 http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/Rede-TV.jpg" group-title="Brazil",Rede TV
-http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/ExabyteTV.m3u8
 #EXTINF:-1 tvg-logo="http://redefamilia.com.br/imagens/logo-rede-familia.png" group-title="Brazil",Rede Familia
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-logo="http://redegenesis.tv.br/content/themes/rede-genesis/assets/img/favicon.ico" group-title="Brazil",Rede Genesis
@@ -500,7 +518,7 @@ http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597f
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B65ue3U04WY/AAAAAAAAAAI/AAAAAAAAACE/zQEoUZLW9D8/s120-c/photo.jpg"  group-title="Chile",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/co.png" group-title="Columbia",[COLOR yellow]---- Columbia---[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/co.png" group-title="Columbia",---- Columbia-------
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/360-tv-digital-en-vivo.jpg?160930095606"  group-title="Columbia",360 TV col
@@ -545,7 +563,6 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Win_Sport_logo.png" group-title="Columbia",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/cr.png" group-title="Costa Rica",[COLOR yellow]--- Costa Rica---[/COLOR]
 http://0.0.0.0:1234
@@ -925,37 +942,35 @@ http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/cz.png" group-title="Czech Republic",[COLOR yellow]---------------------- Czech Republic ---------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://www.mediaguru.cz/wp-content/uploads/2012/12/PrimaFamily_CMYK-01-248x148.jpg" group-title="Czech Republic",Prima FAMILY
+#EXTINF:-1 tvg-logo="http://www.mediaguru.cz/wp-content/uploads/2012/12/PrimaFamily_CMYK-01-248x148.jpg" group-title="Czech Republic",Prima Family
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_family/playlist/cze/live_mq.m3u8
-#EXTINF:-1 tvg-logo="http://www.mediaguru.cz/wp-content/uploads/2012/12/PrimaFamily_CMYK-01-248x148.jpg" group-title="Czech Republic",Prima FAMILY
+#EXTINF:-1 tvg-logo="http://www.mediaguru.cz/wp-content/uploads/2012/12/PrimaFamily_CMYK-01-248x148.jpg" group-title="Czech Republic",Prima Family
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://www.votvirak.cz/img/partneri/prima-cool-2013.jpg" group-title="Czech Republic",Prima COOL
+#EXTINF:-1 tvg-logo="http://www.votvirak.cz/img/partneri/prima-cool-2013.jpg" group-title="Czech Republic",Prima Cool
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_cool/playlist/cze/live_mq.m3u8
-#EXTINF:-1 tvg-logo="http://www.votvirak.cz/img/partneri/prima-cool-2013.jpg" group-title="Czech Republic",Prima COOL
+#EXTINF:-1 tvg-logo="http://www.votvirak.cz/img/partneri/prima-cool-2013.jpg" group-title="Czech Republic",Prima Cool
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima LOVE
+#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima Love
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_love/playlist/cze/live_lq.m3u8
-#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima LOVE
+#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima Love
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_love/playlist/cze/live_mq.m3u8
-#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima LOVE
+#EXTINF:-1 tvg-logo="http://www.mirecekp.net/wp-content/uploads/2011/03/prima-love-logo-280x87.png" group-title="Czech Republic",Prima Love
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8
- #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR895Ll9xoUWzBwUYWmDYQxaFd25p1svOWloY4VqvqI4rqC48uG" group-title="Czech Republic",Prima ZOOM
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR895Ll9xoUWzBwUYWmDYQxaFd25p1svOWloY4VqvqI4rqC48uG" group-title="Czech Republic",Prima Zoom
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 group-title="France", [COLOR red]  *****France CHANNELS***** [/COLOR]
+#EXTINF:-1 group-title="France", [COLOR red]  ----------------------France CHANNELS---------------------- [/COLOR]
 http://0.0.0.0
 
-#EXTINF:0 tvg-name="TELE VESDRE" tvg-language="French" tvg-country="FR" tvg-id="TELE VESDRE" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="France",TELE VESDRE 
+#EXTINF:0 tvg-name="TELE VESDRE" tvg-language="French" tvg-country="FR" tvg-id="TELE VESDRE" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="France",Tele Vesdre 
 http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.europartenaires.net/wp-content/uploads/2015/11/LCP1-150x100.png" group-title="France",Assemblée Nationale
 http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.quizz.biz/uploads/quizz/830897/1_eH82E.jpg" group-title="France",BFM TV
-http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:0 tvg-id="Alpha" tvg-logo="alpha.png" tvg-name="Alpha" group-title="France", Canal Alpha
 http://rtmp.infomaniak.ch/livecast/canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://beecity.fr/content/uploads/2015/03/logo_grandlilletv-2015.jpg" group-title="France",Grand Lille TV
 rtsp://str81.creacast.com/grandlilletv/high
-#EXTINF:0  tvg-id="ITELE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1KRqcbZ14Yp8O3DBcHpnxlaqQEz3a8595pzsZ_wneAlldJL1Lcg" tvg-name="ITELE" group-title="France",ITELE
+#EXTINF:0  tvg-id="ITELE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1KRqcbZ14Yp8O3DBcHpnxlaqQEz3a8595pzsZ_wneAlldJL1Lcg" tvg-name="ITELE" group-title="France",Itele
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.investinormandie.fr/images/cache/c1af7a175859ec5b68a7516d4bb00b31_w200_h140_cp.JPG" group-title="France",La Chaine Normande
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
@@ -965,23 +980,23 @@ rtsp://rtmp.infomaniak.ch/livecast/latele
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.notele.be/webfiles/logo/logo.png" group-title="France",No Tele BE
 rtmp://streaming06.axeweb.be:1935/live/direct.stream
-#EXTINF: -1 group-title="France",LA TELE X
+#EXTINF: -1 group-title="France",La Tele X
 http://rtmp.infomaniak.ch/livecast/latele/chunklist_w1497174121.m3u8
 #EXTINF:0 tvg-id="LaTele2" tvg-logo="tele.png" tvg-name="LaTele2" group-title="France", La Télé
 rtsp://rtmp.infomaniak.ch/livecast/latele
-#EXTINF: -1 group-title="France",1 TELE
+#EXTINF: -1 group-title="France",1 Tele
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
-#EXTINF: -1 tvg-logo="http://www.brest-opencampus.com/app/uploads/2016/01/3-160x100.jpg" group-title="France",TEBEO
+#EXTINF: -1 tvg-logo="http://www.brest-opencampus.com/app/uploads/2016/01/3-160x100.jpg" group-title="France",Tebo
 http://live1.awedia.com/hls/tebeo.m3u8
 #EXTINF: -1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/04/RTC-Tele-Liege-Logo.jpg" group-title="France",RTC
 http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.antennecentre.tv/site/FCK_STOCK/Image/NET7.jpg" group-title="France",ANTENNE CENTRE TV
+#EXTINF: -1 tvg-logo="http://www.antennecentre.tv/site/FCK_STOCK/Image/NET7.jpg" group-title="France",Antenne Centre TV
 http://vm109.imust.org:1935/live/livestream/chunklist_w1650441944.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/ENORME_TV_LOGO.png/250px-ENORME_TV_LOGO.png"  group-title="France",ENORME TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/ENORME_TV_LOGO.png/250px-ENORME_TV_LOGO.png" group-title="France",ENORME TV
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6_Ea-TltSWLlTMvoptaG-xid8raCeJbQQv-DnrT_s7pd5KVEL" group-title="France",LUX TV
+#EXTINF: -1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6_Ea-TltSWLlTMvoptaG-xid8raCeJbQQv-DnrT_s7pd5KVEL" group-title="France",Lux TV
 http://wowza.tvlux.imust.org:1935/live/tvlux-live/chunklist_w179584825.m3u8
-#EXTINF: -1 tvg-logo="http://www.notele.be/webfiles/logo/logo.png" group-title="France",NO TELE
+#EXTINF: -1 tvg-logo="http://www.notele.be/webfiles/logo/logo.png" group-title="France",No Tele
 http://streaming06.axeweb.be/live//direct.stream/chunklist_w1993793147.m3u8
 #EXTINF:0 tvg-id="RTC1" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/Watch-RTC-Tele-Liege-Live-TV-from-Belgium-207x112.jpg" tvg-name="RTC1" group-title="France", RTC
 http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
@@ -989,14 +1004,14 @@ http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
 http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
 #EXTINF:0 tvg-id="WEO" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXmB34cvxjUHitLUi6g4y1pvnt3M2bVL9SshVcLGY31JrBYDsd" tvg-name="WEO" group-title="France", Wéo
 rtmp://str81.creacast.com:80/weo/high
-#EXTINF:0 tvg-name="YVELINES PREMIER" tvg-language="French" tvg-country="FR" tvg-id="YVELINES PREMIER" tvg-logo="http://gazette-montfortois.fr/wp-content/uploads/2015/06/logo-yvelines.jpg" group-title="France",YVELINES PREMIER
+#EXTINF:0 tvg-name="YVELINES PREMIER" tvg-language="French" tvg-country="FR" tvg-id="YVELINES PREMIER" tvg-logo="http://gazette-montfortois.fr/wp-content/uploads/2015/06/logo-yvelines.jpg" group-title="France",Yvelines Premier
 http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
 #EXTINF:0 tvg-name="La chaine Normande" tvg-language="French" tvg-country="FR" tvg-id="La chaine Normande" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="France",La chaine Normande
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TV7_Bordeaux.jpg/240px-TV7_Bordeaux.jpg" group-title="France",TV7 Bordeaux
 rtmp://62.210.204.108/livtv7vo/mystream700.sdp
 
-#EXTINF:-1 group-title="Germany", [COLOR blue]  *****Germany CHANNELS***** [/COLOR]
+#EXTINF:-1 group-title="Germany", [COLOR blue] ---------------------Germany CHANNELS---------------------[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/austria_24_tv_at.jpg"  group-title="Germany",Austria 24 TV
@@ -1005,22 +1020,18 @@ rtmp://streaming.austria24.tv/live/stream_360p
 rtmp://streaming.austria24.tv/live/stream_240p
 #EXTINF:-1 tvg-logo="http://www.tvbayern.de/storage/thumbs/520x292c/r:1428498355/26739.jpg" group-title="Germany",Augsburg TV
 rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
-#EXTINF:-1 tvg-logo="http://www.enfocus.tv/wp-content/uploads/2013/01/ARD-logo-e1357958747758.png" group-title="Germany",ARD
+#EXTINF:-1 tvg-logo="http://www.enfocus.tv/wp-content/uploads/2013/01/ARD-logo-e1357958747758.png" group-title="Germany",Ard
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:0 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-ARTE-TV-Live-TV-from-Germany.jpg" group-title="Germany",ARTE
+#EXTINF:0 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-ARTE-TV-Live-TV-from-Germany.jpg" group-title="Germany",Arte
 http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
-#EXTINF:-1 tvg-logo="http://www.wikibox.tv/wp-content/uploads/2015/05/ALEX-Berlin.jpg" group-title="Germany",Alex TV 
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
-#EXTINF:0 tvg-logo="http://www.wikibox.tv/wp-content/uploads/2015/05/ALEX-Berlin.jpg" group-title="Germany",alex TV
+#EXTINF:0 tvg-logo="http://www.wikibox.tv/wp-content/uploads/2015/05/ALEX-Berlin.jpg" group-title="Germany",Alex TV
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_w690170040_b1200000_slGER.m3u8
 #EXTINF:-1 tvg-logo="http://www.blkregional.de/wp-content/uploads/2015/04/BLKregionalTV.jpg\' group-title="Germany",BLK Regional TV Burgenlandkreis
 rtmp://62.113.210.250/medienasa-live//BLKonline_high
-#EXTINF:0 group-title="Germany",daf-ios-
+#EXTINF:0 group-title="Germany",daf
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/250px-Das_Erste_2014.svg.png" group-title="Germany",Das Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.38chessolympiad.com/images/logos/logo_dresden_fernsehen.gif" group-title="Germany",Dresden Fernsehen
-rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
 #EXTINF:-1 tvg-logo="http://image1.tvdigital.de/files/station_logos/585.png" group-title="Germany",Deutsches Anlegerfernsehen
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
 #EXTINF:0 tvg-logo="http://wwitv.com/tvlogos/b2482.jpg" group-title="Germany",Elbe Kanal De
@@ -1029,26 +1040,20 @@ rtmp://62.113.210.250/medienasa-live/elbe_high
 mms://wmsstream22.v4.mytv.ris.at/live/stream_149
 #EXTINF:-1 tvg-logo="http://www.halle-lions.de/fileadmin/user_upload/partner/medienpartner/tv-halle.jpg" group-title="Germany", Tv Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",HR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",hr
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",HR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",hr
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",HR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Germany",hr
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_1628_av-p.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSikuUjnLqaFwfewtGIw_pyodoas4Yvs16QYOeD4_2KWyLKNYIu14hjGjnS" group-title="Germany",kanal8.de
-rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
-#EXTINF:0 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/06/Leipzig-Fernsehen-TV.jpg" group-title="Germany",leipzigfernsehen live
-rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
-#EXTINF:-1 group-title="Germany",LL mms
+#EXTINF:-1 group-title="Germany",LL
 mms://wmsstream22.v4.mytv.ris.at/live/stream_156
-#EXTINF:0 tvg-logo="http://download.avm.de/tv/logos/joiz.png" group-title="Germany",JOIZ
+#EXTINF:0 tvg-logo="http://download.avm.de/tv/logos/joiz.png" group-title="Germany",Joiz
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
-#EXTINF:0 tvg-logo="http://download.avm.de/tv/logos/joiz.png" group-title="Germany",JOIZ DE
+#EXTINF:0 tvg-logo="http://download.avm.de/tv/logos/joiz.png" group-title="Germany",Joiz
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
-#EXTINF:0 group-title="Germany",medienasa-live
+#EXTINF:0 group-title="Germany",medienasa live
 rtmp://62.113.210.250/medienasa-live/tvhalle_high
-#EXTINF:0 group-title="Germany",Melodie
-http://83.169.58.40:1935/live/_definst_/Melodie/chunklist_w98768430.m3u8
 #EXTINF:0 tvg-logo="http://www.tvznet.com/video-elements/files/2009/10/Muenchen-TV.jpg" group-title="Germany",muenchen tv
 rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
 #EXTINF:0 tvg-logo="http://timbercoast.com/wp-content/uploads/2016/03/2000px-NDR_Dachmarke.svg_-e1458729543109.png" group-title="Germany",NDR
@@ -1065,21 +1070,19 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXGLQInMkDKvb5j9ytBEU5WGiaZ9XXP5g3xlsYZLKpIV81AQqig" group-title="Germany",NDR Schleswig-Hol. HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://images.viaway.com/3198935_640.png"  group-title="Germany",Ok Stendal De
+#EXTINF:-1 tvg-logo="http://images.viaway.com/3198935_640.png"  group-title="Germany",Ok Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:0 tvg-logo="http://images.viaway.com/3198935_640.png" group-title="Germany",ok-stendal
+#EXTINF:0 tvg-logo="http://images.viaway.com/3198935_640.png" group-title="Germany",ok Stendal
 rtmp://62.113.210.250/medienasa-live/ok-stendal_high
-#EXTINF:0 tvg-logo="http://www.ok-dessau.de/fileadmin/okdessau/templates/img/logo_okdessau_v2.jpg" group-title="Germany",ok dessau
-rtmp://62.113.210.250/medienasa-live/ok dessau
 #EXTINF:0 tvg-logo="http://expeditionberuf.ok-magdeburg.de/wp-content/uploads/2012/11/Logo_OffenerKanal_mitSCHRIFT_kleiner.jpg" group-title="Germany",ok magdeburg
 rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
-#EXTINF:-1 tvg-logo="http://expeditionberuf.ok-magdeburg.de/wp-content/uploads/2012/11/Logo_OffenerKanal_mitSCHRIFT_kleiner.jpg" group-title="Germany",OK MAGDEBURG m3u8 720*576
+#EXTINF:-1 tvg-logo="http://expeditionberuf.ok-magdeburg.de/wp-content/uploads/2012/11/Logo_OffenerKanal_mitSCHRIFT_kleiner.jpg" group-title="Germany",OK Magdeburg
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",ok-salzwedel_
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",Ok Salzwedel 
 rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",OK SALZWEDEL m3u8 720*576
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",Ok Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:0 tvg-logo="http://www.sachsen-anhalt-wiki.de/images/thumb/8/80/Offener-kanal-logo.jpg/180px-Offener-kanal-logo.jpg" group-title="Germany",ok-wernigerode
+#EXTINF:0 tvg-logo="http://www.sachsen-anhalt-wiki.de/images/thumb/8/80/Offener-kanal-logo.jpg/180px-Offener-kanal-logo.jpg" group-title="Germany",ok Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
 #EXTINF:-1 group-title="Germany",Quelle
 rtmp://fms.daf.tmt.de:1935/live/dafstream100
@@ -1089,16 +1092,10 @@ rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 rtmp://62.113.210.250/medienasa-live/ran1_high
 #EXTINF:-1 tvg-logo="http://www.tvopedia.com/gallery/channelimage-2347.jpg" group-title="Germany",RBW
 rtmp://62.113.210.250/medienasa-live/rbw_high
-#EXTINF:0 group-title="Germany",Rfhv De
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/8d/f8/21/8df82162f88b0d9b99958650e608fa44.jpg" group-title="Germany",RFH
 rtmp://62.113.210.250/medienasa-live/RFH_high
 #EXTINF:0 tvg-logo="https://www.orange.sk/uploads/tx_oskdslftth/RiK_logo_v1..jpg" group-title="Germany",RIC
 http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/be/ServusTV.svg/175px-ServusTV.svg.png" group-title="Germany",SERVUS TV AT
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/be/ServusTV.svg/175px-ServusTV.svg.png" group-title="Germany",SERVUS TV DE
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/be/ServusTV.svg/175px-ServusTV.svg.png" group-title="Germany",Servus TV HD
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.phpman89.de/thome/sender/tagesschau24-hd.png" group-title="Germany",Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.phpman89.de/thome/sender/tagesschau24-hd.png" group-title="Germany",tagesschau 24 HD
@@ -1134,7 +1131,7 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/220px-WDR_Dachmarke.svg.png" group-title="Germany",WDR HD
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
 
-#EXTINF:-1 group-title="Greece",[COLOR yellow]---------------------- Greece----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/gr.png" group-title="Greece",[COLOR yellow]---------------------- Greece----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.pravoslavie.ru/sas/image/100568/56864.p.jpg" group-title="Greece",4E
@@ -1143,88 +1140,59 @@ http://mail.tv4e.gr:1935/live/myStream.sdp/chunklist_w1931995611.m3u8
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.pravoslavie.ru/sas/image/100568/56864.p.jpg" group-title="Greece",4E TV
 http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/jYdwvZB.png" group-title="Greece",AIGAIO TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/jYdwvZB.png" group-title="Greece",Aigaio TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="Greece",ANT1
-http://antennatv-lh.akamaihd.net/i/live_1@329667/master.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="Greece",ANT1 BUP
-http://94.23.218.186:1935/galanos11/galanos11/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/Pk6b6et.png" group-title="Greece",ANT1 BUP 2
-http://38.140.63.250:1935/gr-live/ant1.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="http://cdn.thebest.gr/media/images/frontNews/iyvgouxenx4f2c26ee0f27c.jpg" group-title="Greece",ACHAIA CHANNEL
+#EXTINF:0 tvg-logo="http://cdn.thebest.gr/media/images/frontNews/iyvgouxenx4f2c26ee0f27c.jpg" group-title="Greece",Achaia Channel
 http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/RW83YYe.png" group-title="Greece",ACHELOOS TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/RW83YYe.png" group-title="Greece",Acheloos TV
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/DFeXxxO.png" group-title="Greece",ASTRA TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/DFeXxxO.png" group-title="Greece",Astra TV
 http://www.astratv.gr:8090/hls/livestream.m3u8
-#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Vergina-TV-Greece_o.jpg" group-title="Greece",BERGINA
-http://195.81.140.80:1935/live/VerginaStream1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Best-TV-Greece_o.jpg" group-title="Greece",BEST TV
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Best-TV-Greece_o.jpg" group-title="Greece",Best TV
 http://138.201.57.212:1935/best/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-T7hHkK4KqYpEOkkTD3u-TNSxkRpL3cVidfJAaRxTYUvDojDf" group-title="Greece",BLUE SKY
-http://136.243.200.188:1935/tvlive/tvlive/playlist.m3u8
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-JMWKfEooH8g/UTKN3RcBVJI/AAAAAAAAJ5Y/8sM2RSryWLU/s1600/VOULI+%CE%92%CE%BF%CF%85%CE%BB%CE%AE+Tv+Channel+Live+Streaming.jpg" group-title="Greece",BOYLH TV
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-JMWKfEooH8g/UTKN3RcBVJI/AAAAAAAAJ5Y/8sM2RSryWLU/s1600/VOULI+%CE%92%CE%BF%CF%85%CE%BB%CE%AE+Tv+Channel+Live+Streaming.jpg" group-title="Greece",Boylh TV
 http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:0 group-title="Greece",CANNALI
+#EXTINF:0 group-title="Greece",Cannali
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nSIaZhH.png" group-title="Greece",Creta TV
 http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/5fAgbi5.png"group-title="Greece",DELTA TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/5fAgbi5.png"group-title="Greece",DeltaTV
 mms://deltatv1.dyndns.org:1194
-#EXTINF:0 tvg-logo="http://www.diavatatv.gr/images/LIVE%20TV.jpg" group-title="Greece",DIAVATA TV
+#EXTINF:0 tvg-logo="http://www.diavatatv.gr/images/LIVE%20TV.jpg" group-title="Greece",Diavata TV
 http://138.201.25.26:1935/diavatatv/diavatatv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/iOv12tV.png"group-title="Greece",DIKTYO TV
-http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://i.imgur.com/M1vn8hv.png" group-title="Greece",EBS
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/n907AGO.png"group-title="Greece",EBS PLUS
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZVmCknP.png" group-title="Greece",Ellinikos FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-#EXTINFO:-1 tvg-logo="http://i.imgur.com/QTqlToQ.png" group-title="Greece",ENA CHANNEL
-http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-#EXTINF:0 tvg-logo="http://www.epirustv1.gr/wp-content/uploads/2016/02/tv1-2.png" group-title="Greece",EPIRUS TV1
+#EXTINF:0 tvg-logo="http://www.epirustv1.gr/wp-content/uploads/2016/02/tv1-2.png" group-title="Greece",Epirus TV1
 http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
-EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/3/30/ETVHD-300x240.png/220px-ETVHD-300x240.png" group-title="Greece",Epsilon TV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/master.m3u8
-#EXTINF:0 group-title="Greece",ETV
-http://mgrouphdlive4-f.akamaihd.net/i/live_1@324569/index_1000_av-p.m3u8?sd=10&rebase=o
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-3Bxw_bslGEs/UNF9Bx2FY7I/AAAAAAAAJCA/_Qstii8fvoA/s1600/EGR.png" group-title="Greece",EURONEWS
+group-title="Greece",EURONEWS
 rtsp://ewns-hls-p-stream.hexaglobe.net/rtpeuronewslive/gr_vidan350_rtp.sdp
 #EXTINFO:-1 tvg-logo="https://1.bp.blogspot.com/-3Bxw_bslGEs/UNF9Bx2FY7I/AAAAAAAAJCA/_Qstii8fvoA/s1600/EGR.png" group-title="Greece",EURONEWS GR
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp
 #EXTINFO:-1 tvg-logo="http://3.bp.blogspot.com/-M_wAUke1poA/VNskYOROVaI/AAAAAAAATbE/VWYTb5qvJ14/s1600/Extratv.png: group-title="Greece",EXTRA CHANNEL
 rtmp://213.16.167.186:1935/live/mpegts_256.stream
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/--dG5b0hq8o4/VKpiRQymTrI/AAAAAAAASNM/__n7F1qf0UI/s1600/flash%2Btv%2Blive.jpg" group-title="Greece",FLASH TV
-http://www.ustream.tv/channel/flash-tv-ch
-#EXTINF:0 tvg-logo="http://greektv.upg.gr/img/imageslow/greekvoice.jpg" group-title="Greece",GREEK VOICE TV
-http://www.ustream.tv/embed/1989576
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Fs1wQbm.png" group-title="Greece",HELLAS TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Fs1wQbm.png" group-title="Greece",Hellas TV
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-#EXTINF:0 group-title="Greece",JASMIN
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lakatamia.tv/media/images/articles2/jz_thumb.jpg" group-title="Greece",JAYZEE
+#EXTINF:-1 tvg-logo="http://www.lakatamia.tv/media/images/articles2/jz_thumb.jpg" group-title="Greece",Jayzee HD
 http://77.92.76.135:1935/jayzee/livestream/master.m3u8
 #EXTINF:0 tvg-logo="http://kanali6.gr/site/wp-content/uploads/2016/04/k6logo-300x104.png" group-title="Greece",KANALI 6
 http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBMFWpIua76itZZ83yOeA7ufwEYCkf5qAxHnxNM9k97u3toI5Tt-pKQI" group-title="Greece",KANALI 28
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBMFWpIua76itZZ83yOeA7ufwEYCkf5qAxHnxNM9k97u3toI5Tt-pKQI" group-title="Greece",Kanali 28
 mmsh://live.onestreaming.com/super28
-#EXTINF:-1 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg" group-title="Greece",Kontra News
-rtmp://flashcloud.mediacdn.com/live/kontratv
-#EXTINF:0 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg"  group-title="Greece",KONTRA TV
+#EXTINF:0 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg"  group-title="Greece",Kontra TV
 rtmp://flashcloud.mediacdn.com:1935/live/kontratv
-#EXTINF:0 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg" group-title="Greece",KONTRA CHANNEL
+#EXTINF:0 tvg-logo="http://www.voicenews.gr/images/eidisis/2016/ioulios/01072016-eos-10072016/03072016/kontra.jpg" group-title="Greece",Kontra Tv
 http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV-Kosmos-Greece_o.jpg" group-title="Greece",KOSMOS
-rtmp://edge.vidblee.com/tvkosmos/mp4:tvkosmos.mp4 live=1 timeout=10
 #EXTINF:0 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="Greece",KPHTH TV
 rtmp://live.cretetv.gr/cretetv/myStream
 #EXTINF:0 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="Greece",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="Greece",KPHTH TV
 rtmp://live.cretetv.gr/cretetv/myStream live=1 timeout=10
-#EXTINF:0 tvg-logo="http://i.imgur.com/Glp0YiN.png" group-title="Greece",LYCHNOS
+#EXTINF:0 tvg-logo="http://i.imgur.com/Glp0YiN.png" group-title="Greece",Lychnos
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mad-TV-Cyprus_o.jpg" group-title="Greece",MAD Tv
 rtmp://eradio.networksolutions.com.cy/live/livestream
@@ -1232,17 +1200,14 @@ rtmp://eradio.networksolutions.com.cy/live/livestream
 rtmp://144.76.2.213:1935/live/livestream
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mad-TV-Cyprus_o.jpg" group-title="Greece",MAD tv
 http://144.76.2.213:1935/live/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.elladatv.gr/images/logo.png" group-title="Greece",MANA ELLADA TV
+#EXTINF:0 tvg-logo="http://www.elladatv.gr/images/logo.png" group-title="Greece",Mana ElladaTV
 http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/tSNcPRn.gif" group-title="Greece",MEGA
-http://megahdlive1-f.akamaihd.net/i/live_1@105260/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1458429501.png" group-title="Greece",MESSINIA
+#EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1458429501.png" group-title="Greece",Messiania
 rtmp://176.9.123.140:1935/messinia/messinia
-#EXTINF:0 tvg-logo="http://i.imgur.com/cF6mgTb.png" group-title="Greece",MPAXALO TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/cF6mgTb.png" group-title="Greece",MpaxaloTV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-YS1XZ4akdd4/UOfRGmvNSpI/AAAAAAAAIjM/bMK96aJkhno/s200/NATURA+TV+ELLINIKES+TAINIES+LOGO.png" group-title="Greece",Cinema: Natura TV HD
 http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-
 #EXTINF:0 tvg-logo="http://www.24htv.eu/Portals/45/PropertyAgent/4771/Images/354.jpg" group-title="Greece",Νέα TV
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.24htv.eu/Portals/45/PropertyAgent/4771/Images/354.jpg" group-title="Greece",Νέα TV
@@ -1251,70 +1216,58 @@ http://srv.viiideo.gr:1935/neatv/live/chunklist_w359085084.m3u8
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0 group-title="Greece",NEW TV
 http://wowzacontrol.com:1935/8108/8108/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/7o98X3F.png" group-title="Greece",OMEGA
+#EXTINF:0 tvg-logo="http://i.imgur.com/7o98X3F.png" group-title="Greece",Omega TV
 http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/7o98X3F.png" group-title="Greece",OMEGA TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/7o98X3F.png" group-title="Greece",Omega TV
 rtmp://stream2.omegatv.net:1935/livepkgr/omegatv live=1 timeout=10
-#EXTINF:0 group-title="Greece",PALMOS TV
+#EXTINF:0 group-title="Greece",Palmos TV
 http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/%CE%A1%CE%99%CE%9A_Sat_2015.png/revision/latest?cb=20150225094217" group-title="Greece",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/%CE%A1%CE%99%CE%9A_Sat_2015.png/revision/latest?cb=20150225094217" group-title="Greece",RIK SAT BUP
+#EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/%CE%A1%CE%99%CE%9A_Sat_2015.png/revision/latest?cb=20150225094217" group-title="Greece",RIK SAT
 rtmp://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh?PHPSESSID=8blpkkmbb990ekhc80gfht1cq3
-#EXTINF:0 tvg-logo="http://i.imgur.com/ENwk1Qq.png" group-title="Greece",SAMIAKI TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/ENwk1Qq.png" group-title="Greece",Samiaki TV
 rtmp://94.23.218.186/samiaki/samiaki
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sJ4xLl0.png" group-title="Greece",Start tv
 http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/xTy0Qww.gif" group-title="Greece",SBC
-http://www.livestream.com/sbcgr
 #EXTINF:0 tvg-logo="http://i.imgur.com/xTy0Qww.gif"group-title="Greece",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.tv-greek.gr/wp-content/uploads/2011/11/sigma-tv-1.jpg" group-title="Greece",SIGMA
+#EXTINF:0 tvg-logo="http://www.tv-greek.gr/wp-content/uploads/2011/11/sigma-tv-1.jpg" group-title="Greece",Sigma
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0 tvg-logo="http://www.tv-greek.gr/wp-content/uploads/2011/11/sigma-tv-1.jpg" group-title="Greece",SIGMA (2)
+#EXTINF:0 tvg-logo="http://www.tv-greek.gr/wp-content/uploads/2011/11/sigma-tv-1.jpg" group-title="Greece",Sigma
 http://www.lakatamia.tv/kupros-tv/sigma-tv.html
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-amn75EF_aRM/VNuSZgdZX8I/AAAAAAAATgc/OkOA_ixmK2E/w1200-h630-p-nu/TV1%2BSUROS.jpg" group-title="Greece",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-KwCQ5cTBr6A/UARmKrv-pKI/AAAAAAAABrY/U9QCpEEPsE4/s150/THRAKINET.png" group-title="Greece",thraki net
-http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/WXlf12i.png" group-title="Greece",THRAKINET
+#EXTINF:0 tvg-logo="http://i.imgur.com/WXlf12i.png" group-title="Greece",Thrakinet
 rtmp://hls.onestreaming.com:1935/live/thrakinettv
-#EXTINF:0 tvg-logo="http://i.imgur.com/piGhf3m.png" group-title="Greece",TILEMOUSIKI
+#EXTINF:0 tvg-logo="http://i.imgur.com/piGhf3m.png" group-title="Greece",Tilemouski
 mmsh://wpso.com:200/music
-#EXTINF:0 tvg-logo="http://i.imgur.com/0Ovqq2f.png" group-title="Greece",TILESPORT
+#EXTINF:0 tvg-logo="http://i.imgur.com/0Ovqq2f.png" group-title="Greece",Tilesport
 http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w104411760.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/0Ovqq2f.png" group-title="Greece",TILESPORT
+#EXTINF:0 tvg-logo="http://i.imgur.com/0Ovqq2f.png" group-title="Greece",Tilesport
 rtmp://78.47.151.114/tilesport/movie1
-#EXTINF:0 tvg-logo="http://i.imgur.com/MVrLjre.png" group-title="Greece" ,TOP CHANNEL
-http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mAhkgEw.png" group-title="Greece",TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/--icitPtB0Ls/VNupe6NjENI/AAAAAAAATi0/NGOZRXODsv4/s1600/Tv100%2B(1).jpg" group-title="Greece",TV 100
 http://178.62.176.153:1935/TV100/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/PNlJ9g5.png" group-title="Greece",TV EPILOGES
-http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-BPaleOWMBNg/VhWxAFT_jjI/AAAAAAAABSI/JikvgHEsXVQ/s1600/377305-%CE%B1b89.jpg" group-title="Greece",TV FILOPOLI
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-BPaleOWMBNg/VhWxAFT_jjI/AAAAAAAABSI/JikvgHEsXVQ/s1600/377305-%CE%B1b89.jpg" group-title="Greece",TV Filopoli
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/6xRxPun.png" group-title="Greece",TV GOLD
+#EXTINF:0 tvg-logo="http://i.imgur.com/6xRxPun.png" group-title="Greece",TV Gold
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:0 tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",VOULI
+#EXTINF:0 tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",Vouli
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:0 tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",VOULI BUP
+#EXTINF:0 tvg-name="VOULI" tvg-language="Greek" tvg-country="GR" tvg-id="VOULI" tvg-logo="http://canalesparabolica.com/img/cha/gr/vouliTV_95x84.gif" group-title="Greece",Vouli
 mms://media19.internet.gr/ParliamentTV-HQ
-#EXTINF:0 group-title="Greece",VOLCANO
-rtmp://176.9.123.140:1935/santorini/santorini
-#EXTINF:0 tvg-logo="http://www.media.net.gr/images/west.jpg" group-title="Greece",WEST CHANNEL
-http://www.ustream.tv/channel/west-channel
 #EXTINF:0 tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="Greece",WZRA
 http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="Greece",WZRA KIDS
 mmsh://wpso.com:200/kids
-#EXTINF:0 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",ZOUGLA TV
+#EXTINF:0 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",Zougla TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8?rebase=on
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",ZOUGLA TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",Zougla TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 
-#EXTINF:0 group-title="Hungary",[COLOR=FFFF4500]Hungary[/COLOR]
+#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/hu.png" group-title="Hungary",[COLOR=FFFF4500]Hungary[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/24/Atv_h.png/revision/latest/scale-to-width-down/194?cb=20151225180748&format=webp" group-title="Hungary",ATV hungary
@@ -1324,12 +1277,12 @@ http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
 #EXTINF:-1 group-title="Hungary",FixHD TV hungary
 http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Italy",[COLOR=FFFF4500]Italy[/COLOR]
+#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/it.png" group-title="Italy",[COLOR=FFFF4500]Italy[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo"https://lh3.googleusercontent.com/e82aD5PWaQ_OQ1rv27mkINS9dIt8xYl9NqFnxewc1vzrl0sy6to8m182wqKlaRyRBLkj=s170" group-title="Italy",E TV Marche
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
-#EXTINF: -1 group-title="Italy",euronews_ewns
+#EXTINF: -1 group-title="Italy",euronews ewns
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Italy" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuaeackHK_Quf_BGmlcQyNOunoMUUaIUgf34xa2kke-KTaePfw",La7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
@@ -1347,12 +1300,14 @@ http://stream12.rai.it/live/rai5.smil/master.m3u8
 http://b2.stream12.rai.it/live/rai5.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-logo"https://1.bp.blogspot.com/-uHxW7rxYv2k/Vx3rhcr93jI/AAAAAAAABIA/NRnbujYHqbUhzexDdPu051bBWD-EpDHOQCLcB/s200/RAI_Movie.png" group-title="Italy",rai movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="Italy", RAI MOVIE ITALIA
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="Italy", RAI Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rai_premium.jpg/120px-Rai_premium.jpg" group-title="Italy",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
-#EXTINF: -1 tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png" group-title="Italy",rainews
+#EXTINF: -1 tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png" group-title="Italy",Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" group-title="Italy" tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png",Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF: -1 tvg-logo="http://apidge.altervista.org/wp-content/uploads/2016/06/rai-scuola.png" group-title="Italy",rai scuola
 http://originstream6.rai.it/italy/smil:raiscuola.smil/master.m3u8
 #EXTINF: -1 tvg-logo="http://apidge.altervista.org/wp-content/uploads/2016/06/rai-scuola.png" group-title="Italy", rai scuola
@@ -1363,10 +1318,8 @@ http://originstream6.rai.it/italy/raistoria.smil/master.m3u8
 http://originstream6.rai.it/italy/raistoria.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-logo="http://www.wikibox.tv/wp-content/uploads/2016/01/Rai-YoYo-160x90.png" group-title="Italy",rai yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RAIGulp.it" group-title="Italy" tvg-logo="030.png",Rai Gulp
+#EXTINF:-1 tvg-id="RAIGulp.it" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rai_Gulp_2010.svg/200px-Rai_Gulp_2010.svg.png",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-id="" group-title="Italy" tvg-logo="032.png",Rai News
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF: -1 tvg-logo="http://radiomovidasanmango.it/wp-content/uploads/2014/10/RADIOVISIONE.png" group-title="Italy",radiovisione
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://radiomovidasanmango.it/wp-content/uploads/2014/10/RADIOVISIONE.png" group-title="Italy",radiovisione
@@ -1388,49 +1341,42 @@ http://flash.streamingmedia.it:1935/TRM/livestream/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="http://wave-tech.it/img/video_brescia.png" group-title="Italy",Video Brescia
 http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8
 
-#EXTINF:-1 group-title="Kosovo",[COLOR yellow]---------------------- Kosovo----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ks.png" group-title="Kosovo",[COLOR yellow]---------------------- Kosovo----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://img.webme.com/pic/o/opojatv/rrokum.png" group-title="Kosovo",RROKUM TV
 rtmp://82.114.65.202/live//rrokumtv
 
-#EXTINF:-1 group-title="Malta",[COLOR yellow]---------------------- Malta----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/mt.png" group-title="Malta",[COLOR yellow]---------------------- Malta----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="TVM 1" tvg-language="Maltese" tvg-country="MT" tvg-id="TVM 1" tvg-logo="http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tv-tvm.png" group-title="Malta",TVM 1
-http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8
-#EXTINF:0 tvg-name="TVM 2" tvg-language="Maltese" tvg-country="MT" tvg-id="TVM 2" tvg-logo="http://www.lavaletteclub.net/uploads/5/2/7/6/5276435/4649864_orig.jpg" group-title="Malta",TVM 2
-http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8
 
-#EXTINF:-1 group-title="Macedonia",[COLOR yellow]---------------------- Macedonia----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/mk.png" group-title="Macedonia",[COLOR yellow]---------------------- Macedonia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxAUvBVtUp7ef06uqH6kXoar_WfpxMTBNo7CGvLdygXhm8SEetC8yplg" group-title="Macedonia",Alfa TV
 rtmp://ataka.tv/live/live
-#EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Russia-Vesti-24-Live-TV-from-Russia-150x150.jpg" group-title="Macedonia",VESTI 24
+#EXTINF:-1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/02/Watch-Russia-Vesti-24-Live-TV-from-Russia-150x150.jpg" group-title="Macedonia",Vesti 24
 mms://62.162.58.55/24vesti
 
 
-#EXTINF:-1 group-title="Moldova",[COLOR yellow]---------------------- Moldova----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/md.png" group-title="Moldova",[COLOR yellow]---------------------- Moldova----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1449152361.png" group-title="Moldova", Super TV
 http://cdn.magictvbox.eu/set.m3u8
 
-#EXTINF:-1 group-title="Portugal",[COLOR yellow]---------------------- Potugal----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/pt.png" group-title="Portugal",[COLOR yellow]---------------------- Potugal----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo"http://4.bp.blogspot.com/_XWUDhcU683Y/TJd4SWe9pGI/AAAAAAAAHV0/BT8n065rd_A/s200/agueda+tv.jpeg" group-title="Portugal",AGUEDA TV
+#EXTINF:-1 tvg-logo"http://4.bp.blogspot.com/_XWUDhcU683Y/TJd4SWe9pGI/AAAAAAAAHV0/BT8n065rd_A/s200/agueda+tv.jpeg" group-title="Portugal",Agueda TV
 http://agueda.tv:1756/stream.flv
 #EXTINF:0 tvg-logo="http://i.imgur.com/0CAXYoU.png" group-title="Portugal", TVI
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:0 tvg-name="TVi" tvg-language="Portuguese" tvg-country="PT" tvg-id="TVi" tvg-logo="http://i.imgur.com/aKyYgoF.png" group-title="Family",TVi
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8?Grupo_UP_e_DOWN
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e28881a5a03fadc514aaf7f23c761f60.jpg",TV LISBOA
-http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
-
-#EXTINF:-1 group-title="Russia",[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ru.png" group-title="Russia",[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",1REPUBLIC
@@ -1444,27 +1390,19 @@ http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR
 #EXTINF:0 group-title="Russia",bnptv
 
 mms://bnptv.info:10801/
-#EXTINF:-1 group-title="Russia",BTN1
-rtmp://193.43.26.198:1935/live/bnt1
-#EXTINF:-1 group-title="Russia",BTN2
-rtmp://193.43.26.198:1935/live/bnt2
 #EXTINF:0 tvg-logo="http://cdn.bulbagarden.net/upload/thumb/1/1e/Channel_One_Russia.png/250px-Channel_One_Russia.png" group-title="Russia",Channel 1
 http://gourl.su/tl?m3u8 
 #EXTINF:0 tvg-logo="http://www.elant.cz/Loga%20TV/meteotv.jpg" group-title="Russia",meteotv (armenian weather)
 http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/220px-Rossiya-24_Logo.svg.png" group-title="Russia",News 24 HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
-#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",NOVOROSSIA TV
+#EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/9/4/7/19473511/19473511,640x360,b:2.jpg" group-title="Russia",NovorossiaTV
 http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR 
 #EXTINF:0 tvg-logo="http://www.peertrackslive.com/resize.php?w=350&h=280&src=http://www.peertrackslive.com/uploads/channels/8/logo_thumb.jpg&zc=1&a=m" group-title="Russia",Pik tv
 
 rtmp://fms.pik-tv.com/live/piktv2pik2tv
 #EXTINF:-1 group-title="Russia",Россия 1 HD
 http://cdn-01.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1469703292/eol/20200101T0000/hash/1b7599c0021067fe3590d9ed45db70712b2b1ef8/playlist.m3u8
-#EXTINF:-1 group-title="Russia", ROMA TV
+#EXTINF:-1 group-title="Russia", Roma TV
 http://185.46.161.3/hls/sd.m3u8 
-#EXTINF:-1 group-title="Russia",Shant TV
-rtmp://shanttv.cdnvideo.ru/shanttv/shanttv.sdp
 #EXTINF:0 group-title="Russia",TS-TV.RU
 
 mms://213.141.145.170/ts_tv11
@@ -1509,21 +1447,12 @@ mms://213.141.145.170/ts_tv3
 
 mms://213.141.145.170/ts_tv7
 
-#EXTINF:0 tvg-logo= group-title="Russia",Zolotoy
-Vek
-rtsp://195.62.63.238/tv_zolotoy_vek
-
-#EXTINF:0 tvg-logo= group-title="Russia",Канал Золотой Век(Zoltoy Vek)
-mms://195.62.63.238/tv_zolotoy_vek
-
-#EXTINF:0 group-title="Russia",Russian language overdub movie channel
-http://rlu.ru/10fxY?m3u8 
 #EXTINF:0 group-title="Russia",notsure
 rtmp://77.243.11.114/live/live?mir
 #EXTINF:0 group-title="Russia",notsure
 http://hls.goodgame.ru/hls/33226.m3u8?version=2 
 
-#EXTINF:-1 group-title="Serbia",[COLOR yellow]---------------------- Serbia----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/rs.png" group-title="Serbia",[COLOR yellow]---------------------- Serbia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Serbia",ATV+1
@@ -1545,7 +1474,7 @@ http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/HasBahCa.m3
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=150x150:format=jpg/path/s3d4439f9020cd100/image/ie6a8afc8e4ccfa50/version/1465630545/image.jpg" group-title="Serbia",TV Osijek
 mms://89.201.164.181/stv
 
-#EXTINF:-1 group-title="Slovakia",[COLOR yellow]---------------------- Slovakia----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/sk.png" group-title="Slovakia",[COLOR yellow]---------------------- Slovakia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://wtvpc.com/wp-content/uploads/logos/TV+Lux+Catholic+TV+logo_1720.png"  group-title="Slovakia",TV Lux  
@@ -1568,8 +1497,6 @@ rtmp://s1.media-planet.sk:80/live/reduta
 http://s1.media-planet.sk:80/live/senica1/HasBahCa.m3u8
 #EXTINF:-1 group-title="Slovakia",Senica
 rtmp://s1.media-planet.sk:80/live/senica1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67oGNbjqsvvD6OgrfP3-YJAV3CO_6iAou9ENuGTRkrb_JyCDT2A" group-title="Slovakia",TA3
-http://88.212.10.27:81/streams/ta3.m3u8?
 #EXTINF:-1 tvg-logo="http://folklorneslavnosti.sk/2009/images/stories/loga/logo-tvm_260x102.gif" group-title="Slovakia",TV Mijava
 rtmp://s1.media-planet.sk:80/live/myjava1
 #EXTINF:-1 tvg-logo="http://www.ezahorie.sk/images/stories/tvskalica.gif" group-title="Slovakia",TV Skalica
@@ -7312,6 +7239,12 @@ http://dl.tehmovies.com/94/7/Bajrangi.Bhaijaan.2015.720p.DVDrip.Tehmovies.ir.mkv
 http://dl.tehmovies.com/94/7/Beasts.of.No.Nation.2015.720p.WEB-DL.Tehmovies.ir.mkv    
 #EXTINF:-1 group-title="Movies",Breakdown.2016.HDrip   
 http://dl.tehmovies.com/94/11/Breakdown.2016.HDrip.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Bajira.Mastani.2015.720p
+http://dl.tehmovies.com/94/95/1/Bajira.Mastani.2015.720p.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Before.I.Wake.2016.HC.720p.WEBrip
+http://dl.tehmovies.com/94/95/3/Before.I.Wake.2016.HC.720p.WEBrip.Tehmovies.org.mkv     
+#EXTINF:-1 group-title="Movies",Breakup.Buddies.2014.HC.720p.WEBrip
+http://dl.tehmovies.com/94/95/2/Breakup.Buddies.2014.HC.720p.WEBrip.Tehmovies.org.mkv     
 #EXTINF:-1 group-title="Movies",Beautiful Mind 2001 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Beautiful%20Mind%20(2001)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Back to the Future 1985 720p
@@ -7399,6 +7332,14 @@ http://deadlyblogger.com/NewRelease/classact.mp4
 http://dl.tehmovies.com/94/11/Coconut.The.Little.Dragon.2014.720p.Tehmovies.net.mkv
 #EXTINF:-1 group-title="Movies",contracted 720 BluRay
 http://dl.tehmovies.com/94/1/contractedbd72.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Chongqing.Hot.Pot.2016.HC.720p.WEBrip
+http://dl.tehmovies.com/94/95/3/Chongqing.Hot.Pot.2016.HC.720p.WEBrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Chronicle.Of.A.Blood.Merchant.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/3/Chronicle.Of.A.Blood.Merchant.2015.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Captain.America.Civil.War.2016.720p.HDTC
+http://dl.tehmovies.com/94/95/2/Captain.America.Civil.War.2016.720p.HDTC.Tehmovies.org.mkv   
+#EXTINF:-1 group-title="Movies",Creative.Control.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/Creative.Control.2015.1080p.5.1CH.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",Clockwork Orange 1971 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/A%20Clockwork%20Orange%20(1971)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Casablanca 1942 720p
@@ -7476,7 +7417,11 @@ http://dl.tehmovies.com/94/5/Dead.Rising.Watchtower.2015.720p.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",Dances.with.Wolves.1990.Extended.Cut.720p
 http://dl.tehmovies.com/94/1/Dances.with.Wolves.1990.Extended.Cut.720p.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Digging.Up.the.Marrow.2014.BluRay.720p
-http://dl.tehmovies.com/94/1/Digging.Up.the.Marrow.2014.BluRay.720p.TehMovies.Com.mkv  
+http://dl.tehmovies.com/94/1/Digging.Up.the.Marrow.2014.BluRay.720p.TehMovies.Com.mkv 
+#EXTINF:-1 group-title="Movies",Despite.the.Falling.Snow.2016.720p
+http://dl.tehmovies.com/94/95/2/Despite.the.Falling.Snow.2016.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Dirty.Grandpa.2016.720p
+http://dl.tehmovies.com/94/95/2/Dirty.Grandpa.2016.720p.Tehmovies.org.mkv          
 #EXTINF:-1 group-title="Movies",Das Boot 1981 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Das%20Boot%20(1981)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Diabolique 1955 720p
@@ -7528,6 +7473,18 @@ http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eight%20and%20a%20Half%201963%20720p%20(Bia2Movies).m4a
 #EXTINF:-1 group-title="Movies",Eternal Sunshine of the Spotless Mind 2004 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Eternal%20Sunshine%20of%20the%20Spotless%20Mind%20(2004)%20720p%20(Bia2Movies).mkv
+#EXTINF:-1 group-title="Movies",Eddie.The.Eagle.2016.HC.720p.HDrip
+http://dl.tehmovies.com/94/95/2/Eddie.The.Eagle.2016.HC.720p.HDrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Eddie.The.Eagle.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/3/Eddie.The.Eagle.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Eddie.the.Eagle.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/3/Eddie.the.Eagle.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Embrace.of.the.Serpent.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/3/Embrace.of.the.Serpent.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Embrace.of.the.Serpent.2015.720p
+http://dl.tehmovies.com/94/95/3/Embrace.of.the.Serpent.2015.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Embrace.of.the.Serpent.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/3/Embrace.of.the.Serpent.2015.720p.WEB-DL.Tehmovies.org.mkv
 
 #EXTINF:0 tvg-logo="" group-title="Movies",Falcon Rising
 http://144.76.186.45/r57/5/tyler/movie/FalconRisingDVD-TylerMovieLand.mp4
@@ -7578,7 +7535,9 @@ http://dl.tehmovies.com/94/1/Fifty.Shades.of.Grey.2015.720p.WEB-DL.TehMovies.Com
 #EXTINF:-1 group-title="Movies",From.Russia.With.Love.1963.720p
 http://dl.tehmovies.com/94/1/From.Russia.With.Love.1963.720p.TehMovies.Com.mkv 
 #EXTINF:-1 group-title="Movies",Frankie.and.Johnny.1991.720p.HDTV
-http://dl.tehmovies.com/94/11/alpacino/Frankie.and.Johnny.1991.720p.HDTV.Tehmovies.net.mkv    
+http://dl.tehmovies.com/94/11/alpacino/Frankie.and.Johnny.1991.720p.HDTV.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Fire.City.End.of.Days.2015.DVDrip
+http://dl.tehmovies.com/94/95/2/Fire.City.End.of.Days.2015.DVDrip.Tehmovies.org.mkv       
 #EXTINF:-1 group-title="Movies",Fany and Alexander 1982 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Fany%20and%20Alexander%20(1982)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Fargo 1996 720p
@@ -7623,6 +7582,8 @@ http://dl.tehmovies.com/94/1/Good.Kill.2014.DVDrip.TehMovies.Com.mkv
 http://dl.tehmovies.com/94/95/2/Gods.of.Egypt.2016.720p.WEB-DL.Tehmovies.org.mkv
 #EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Movies",Gods of Egypt 2016 720p WEB.DL
 http://dl.tehmovies.com/94/95/2/Gods.of.Egypt.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Ghayal.Once.Again.2016.720p.DVDrip
+http://dl.tehmovies.com/94/95/2/Ghayal.Once.Again.2016.720p.DVDrip.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",Gandhi 1982 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Gandhi%20(1982)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Gladiator 2000 720p
@@ -7710,6 +7671,12 @@ http://144.76.186.45/r57/5/tyler/movie/HerWebscr-TylerMovieLand.mp4
 http://dl.tehmovies.com/94/1/Happy.Valley.2014.DVDrip.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Hyena.2014.720p.WEB-DL
 http://dl.tehmovies.com/94/1/Hyena.2014.720p.WEB-DL.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Hardc0re.Henry.2016.HC.720p.HDrip
+http://dl.tehmovies.com/94/95/3/Hardc0re.Henry.2016.HC.720p.HDrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Hello.My.Name.Is.Doris.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/3/Hello.My.Name.Is.Doris.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Hello.My.Name.is.Doris.2015.720p
+http://dl.tehmovies.com/94/95/3/Hello.My.Name.is.Doris.2015.720p.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",Hachi A Dogs Tale 2009 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Hachi%20A%20Dog-s%20Tale%20(2009)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Harry Potter and the Deathly Hallows Part 2
@@ -7903,6 +7870,18 @@ http://dl.tehmovies.com/94/2/Lost.River.2014.1080p.5.1CH.TehMovies.Com.mkv
 http://dl.tehmovies.com/94/9/Liza.the.Fox.Fairy.2015.1080p.5.1CH.Tehmovies.ir.mkv   
 #EXTINF:-1 group-title="Movies",Landmine.Goes.Click.2015.WEB-DL.720p
 http://dl.tehmovies.com/94/8/Landmine.Goes.Click.2015.WEB-DL.720p.Tehmovies.ir.Mkv
+#EXTINF:-1 group-title="Movies",Lemon.Tree.Passage.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/Lemon.Tree.Passage.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.1080p.WEB-DL
+http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.1080p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Louder.Than.Bombs.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Louder.Than.Bombs.2015.720p.WEB-DL.Tehmovies.org.mkv  
+#EXTINF:-1 group-title="Movies",Little.Dead.Rotting.Hood.2016.720p
+http://dl.tehmovies.com/94/95/1/Little.Dead.Rotting.Hood.2016.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p
+http://dl.tehmovies.com/94/95/2/LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",L A Confidential 1997 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/L.A%20Confidential%20(1997)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",La Haine 1995 720p
@@ -7985,6 +7964,8 @@ http://dl.tehmovies.com/94/11/Mustang.2015.720p.WEB-DL.Tehmovies.net.mp4
 http://dl.tehmovies.com/94/4/Mad.Max.Fury.Road.2015.1080p.WEB-DL.6CH.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",Mad.Max.Fury.Road.2015.720p.WEB-DL
 http://dl.tehmovies.com/94/4/Mad.Max.Fury.Road.2015.720p.WEB-DL.Tehmovies.com.mkv 
+#EXTINF:-1 group-title="Movies",Miracles.from.Heaven.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/3/Miracles.from.Heaven.2016.1080p.5.1CH.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",M 1931 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/M%20(1931)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Mary and Max 2009 720p
@@ -8044,6 +8025,10 @@ http://dl.tehmovies.com/94/1/National.Treasure.2004.BluRay.720p.x264.TehMovies.C
 http://dl.tehmovies.com/94/1/National.Treasure.Book.of.Secrets.2007.BluRay.720p.x264.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Northern.Limit.Line.2015.720p.HDrip
 http://dl.tehmovies.com/94/5/Northern.Limit.Line.2015.720p.HDrip.Tehmovies.com.mkv
+#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.1080p.6CH.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.720p.WEB-DL.Tehmovies.net.mkv    
 #EXTINF:-1 group-title="Movies",Nausicaa of the Valley of the Wind 1984 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Nausicaa%20of%20the%20Valley%20of%20the%20Wind%201984%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Network 1976 720p
@@ -8065,6 +8050,8 @@ http://144.76.186.45/r57/5/tyler/movie/OddThomasDVD-TylerMovieLand.mp4
 http://deadlyblogger.com/NewRelease/ouija.mp4
 #EXTINF:-1 group-title="Movies",Old Yeller (1957)
 http://bit.ly/1V3dFkE
+#EXTINF:-1 group-title="Movies",One.Eyed.Girl.2014.1080p.6CH
+http://dl.tehmovies.com/94/95/2/One.Eyed.Girl.2014.1080p.6CH.Tehmovies.org.mkv 
 #EXTINF:-1 group-title="Movies",Oldboy 2013 1080p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Oldboy%20(2013)%201080p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Oldboy 2013 720p
@@ -8144,6 +8131,12 @@ http://dl.tehmovies.com/94/4/Poltergeist.2015.1080p.HDrip.6CH.Tehmovies.com.mkv
 http://dl.tehmovies.com/94/2/Project.Almanac.2014.1080p.5.1CH.TehMovies.com.mkv 
 #EXTINF:-1 group-title="Movies",Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip
 http://dl.tehmovies.com/94/12/Pride.and.Prejudice.and.Zombies.2016.720p.WEBrip.Tehmovies.net.mkv 
+#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.And.Zombies.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/2/Pride.and.Prejudice.And.Zombies.2016.1080p.6CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Pure.Pwnage.Teh.Movie.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/3/Pure.Pwnage.Teh.Movie.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Punks.Dead.SLC.Punk.2.2016.DVDrip
+http://dl.tehmovies.com/94/95/1/Punks.Dead.SLC.Punk.2.2016.DVDrip.Tehmovies.net.mkv
 
 #EXTINF:-1 group-title="Movies",Queen.of.the.Desert.2015.720p.WEB-DL
 http://dl.tehmovies.com/94/11/Queen.of.the.Desert.2015.720p.WEB-DL.Tehmovies.net.mkv
@@ -8291,6 +8284,10 @@ http://dl.tehmovies.com/94/11/Samurai.Cop.2.Deadly.Vengeance.2015.720p.Tehmovies
 http://dl.tehmovies.com/94/11/Secret.In.Their.Eyes.2015.720p.WEB-DL.Tehmovies.net.mkv 
 #EXTINF:-1 group-title="Movies",Superman.II.The.Richard.Donner.Cut.2006.720p
 http://dl.tehmovies.com/94/11/marlon.brando/Superman.II.The.Richard.Donner.Cut.2006.720p.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",Sheep.and.Wolves.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Sheep.and.Wolves.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Special.Correspondents.2016.720p.WEBrip
+http://dl.tehmovies.com/94/95/2/Special.Correspondents.2016.720p.WEBrip.Tehmovies.org.mkv  
 #EXTINF:-1 group-title="Movies",Saving Private Ryan 1998 720
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Saving%20Private%20Ryan%20(1998)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Scarface 1983 720p
@@ -8552,6 +8549,18 @@ http://dl.tehmovies.com/94/7/Terminator.Genisys.2015.1080p.BluRay.x264.Tehmovies
 http://dl.tehmovies.com/94/5/Terminator.Genisys.2015.720p.HDrip.Tehmovies.com.mkv
 #EXTINF:-1 group-title="Movies",The.End.of.the.Tour.2015.1080p.5.1CH
 http://dl.tehmovies.com/94/7/The.End.of.the.Tour.2015.1080p.5.1CH.Tehmovies.ir.mkv
+#EXTINF:-1 group-title="Movies",The.American.Side.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/The.American.Side.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Asian.Connection.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/The.Asian.Connection.2016.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Correspondence.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/The.Correspondence.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/2/The.Finest.Hours.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Snake.Brothers.2015.720p.HDTV
+http://dl.tehmovies.com/94/95/2/The.Snake.Brothers.2015.720p.HDTV.Tehmovies.org.mkv   
+#EXTINF:-1 group-title="Movies",They.Found.Hell.2015.720p..WEB-DL
+http://dl.tehmovies.com/94/95/2/They.Found.Hell.2015.720p..WEB-DL.Tehmovies.org.mkv
 #EXTINF:0 group-title="Movies",Third World Cop
 https://archive.org/download/ThirdWorldCop/Third%20World%20Cop.mp4
 #EXTINF:0 group-title="Movies",Tomorrowland 2015
@@ -8715,6 +8724,27 @@ http://dl.tehmovies.com/94/9/The.Bad.Education.Movie.2015.720p.Tehmovies.ir.mkv
 http://dl.tehmovies.com/94/9/The.Kindergarten.Teacher.2014.1080p.5.1CH.Tehmovies.ir.mkv
 #EXTINF:-1 group-title="Movies",The.Kindergarten.Teacher.2014.720p
 http://dl.tehmovies.com/94/9/The.Kindergarten.Teacher.2014.720p.Tehmovies.ir.mkv  
+#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.720p
+http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.720p.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/1/The.Finest.Hours.2016.720p.WEB-DL.Tehmovies.net.mkv
+#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.720p
+http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.720p.Tehmovies.org.mkv       
+#EXTINF:-1 group-title="Movies",The.Revenant.2015.1080p.BluRay.x264
+http://dl.tehmovies.com/94/95/1/The.Revenant.2015.1080p.BluRay.x264.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Survivalist.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/1/The.Survivalist.2015.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Brothers.Grimsby.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/3/The.Brothers.Grimsby.2016.1080p.6CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Witness.2015.HC.720p.WEBrip
+http://dl.tehmovies.com/94/95/3/The.Witness.2015.HC.720p.WEBrip.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",The.Young.Messiah.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/3/The.Young.Messiah.2016.1080p.5.1CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Taxi Driver
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Taxi%20Driver%20(1976)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Terminator 2 Judgment Day 1991 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/Terminator%202%20Judgment%20Day%20(1991)%20720p%20(Bia2Movies).mkv
@@ -8919,6 +8949,12 @@ http://bit.ly/1m7dzfY
 http://dl.tehmovies.com/94/1/Wyrmwood.Road.Of.The.Dead.2014.1080p.BluRay.TehMovies.Com.mkv
 #EXTINF:-1 group-title="Movies",Wyrmwood.Road.Of.The.Dead.2014.720p.BluRay
 http://dl.tehmovies.com/94/1/Wyrmwood.Road.Of.The.Dead.2014.720p.BluRay.TehMovies.Com.mkv
+#EXTINF:-1 group-title="Movies",Walt.Before.Mickey.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/2/Walt.Before.Mickey.2015.720p.WEB-DL.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Where.to.Invade.Next.2015.1080p.6CH
+http://dl.tehmovies.com/94/95/2/Where.to.Invade.Next.2015.1080p.6CH.Tehmovies.org.mkv
+#EXTINF:-1 group-title="Movies",Whiskey.Tango.Foxtrot.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/3/Whiskey.Tango.Foxtrot.2016.720p.WEB-DL.Tehmovies.org.mkv
 #EXTINF:-1 group-title="Movies",WALL E 2008 720p
 http://sv1.bia2dl.xyz/Movies/250%20Top%20Movies/WALL-E%20(2008)%20720p%20(Bia2Movies).mkv
 #EXTINF:-1 group-title="Movies",Warrior 2011 720p
@@ -8971,82 +9007,6 @@ http://www.deadlyblogger.com/NewRelease/zootopia.mp4
 http://bit.do/bsvZX
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
 http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
-
-#EXTINF:-1 group-title="Movies",Bajira.Mastani.2015.720p
-http://dl.tehmovies.com/94/95/1/Bajira.Mastani.2015.720p.Tehmovies.net.mkv       
-#EXTINF:-1 group-title="Movies",Little.Dead.Rotting.Hood.2016.720p
-http://dl.tehmovies.com/94/95/1/Little.Dead.Rotting.Hood.2016.720p.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.1080p.6CH
-http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.1080p.6CH.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",Norm.of.the.North.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/1/Norm.of.the.North.2016.720p.WEB-DL.Tehmovies.net.mkv       
-#EXTINF:-1 group-title="Movies",Punks.Dead.SLC.Punk.2.2016.DVDrip
-http://dl.tehmovies.com/94/95/1/Punks.Dead.SLC.Punk.2.2016.DVDrip.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Brand.New.Testament.2015.720p
-http://dl.tehmovies.com/94/95/1/The.Brand.New.Testament.2015.720p.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/1/The.Finest.Hours.2016.720p.WEB-DL.Tehmovies.net.mkv
-#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.1080p.5.1CH
-http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Monkey.King.2.2016.720p
-http://dl.tehmovies.com/94/95/1/The.Monkey.King.2.2016.720p.Tehmovies.org.mkv       
-#EXTINF:-1 group-title="Movies",The.Revenant.2015.1080p.BluRay.x264
-http://dl.tehmovies.com/94/95/1/The.Revenant.2015.1080p.BluRay.x264.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Survivalist.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/95/1/The.Survivalist.2015.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Breakup.Buddies.2014.HC.720p.WEBrip
-http://dl.tehmovies.com/94/95/2/Breakup.Buddies.2014.HC.720p.WEBrip.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Captain.America.Civil.War.2016.720p.HDTC
-http://dl.tehmovies.com/94/95/2/Captain.America.Civil.War.2016.720p.HDTC.Tehmovies.org.mkv   
-#EXTINF:-1 group-title="Movies",Creative.Control.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/95/2/Creative.Control.2015.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Despite.the.Falling.Snow.2016.720p
-http://dl.tehmovies.com/94/95/2/Despite.the.Falling.Snow.2016.720p.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Dirty.Grandpa.2016.720p
-http://dl.tehmovies.com/94/95/2/Dirty.Grandpa.2016.720p.Tehmovies.org.mkv         
-#EXTINF:-1 group-title="Movies",Eddie.The.Eagle.2016.HC.720p.HDrip
-http://dl.tehmovies.com/94/95/2/Eddie.The.Eagle.2016.HC.720p.HDrip.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Fire.City.End.of.Days.2015.DVDrip
-http://dl.tehmovies.com/94/95/2/Fire.City.End.of.Days.2015.DVDrip.Tehmovies.org.mkv       
-#EXTINF:-1 group-title="Movies",Ghayal.Once.Again.2016.720p.DVDrip
-http://dl.tehmovies.com/94/95/2/Ghayal.Once.Again.2016.720p.DVDrip.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p
-http://dl.tehmovies.com/94/95/2/LEGO.Scooby.Doo.Haunted.Hollywood.2016.720p.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Lemon.Tree.Passage.2015.1080p.5.1CH
-http://dl.tehmovies.com/94/95/2/Lemon.Tree.Passage.2015.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.1080p.WEB-DL
-http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.1080p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",London.Has.Fallen.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/London.Has.Fallen.2016.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Louder.Than.Bombs.2015.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/Louder.Than.Bombs.2015.720p.WEB-DL.Tehmovies.org.mkv  
-#EXTINF:-1 group-title="Movies",One.Eyed.Girl.2014.1080p.6CH
-http://dl.tehmovies.com/94/95/2/One.Eyed.Girl.2014.1080p.6CH.Tehmovies.org.mkv     
-#EXTINF:-1 group-title="Movies",Pride.and.Prejudice.And.Zombies.2016.1080p.6CH
-http://dl.tehmovies.com/94/95/2/Pride.and.Prejudice.And.Zombies.2016.1080p.6CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Sheep.and.Wolves.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/Sheep.and.Wolves.2016.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Special.Correspondents.2016.720p.WEBrip
-http://dl.tehmovies.com/94/95/2/Special.Correspondents.2016.720p.WEBrip.Tehmovies.org.mkv   
-#EXTINF:-1 group-title="Movies",The.American.Side.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/The.American.Side.2016.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Asian.Connection.2016.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/The.Asian.Connection.2016.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Correspondence.2016.1080p.5.1CH
-http://dl.tehmovies.com/94/95/2/The.Correspondence.2016.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Finest.Hours.2016.1080p.5.1CH
-http://dl.tehmovies.com/94/95/2/The.Finest.Hours.2016.1080p.5.1CH.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",The.Snake.Brothers.2015.720p.HDTV
-http://dl.tehmovies.com/94/95/2/The.Snake.Brothers.2015.720p.HDTV.Tehmovies.org.mkv   
-#EXTINF:-1 group-title="Movies",They.Found.Hell.2015.720p..WEB-DL
-http://dl.tehmovies.com/94/95/2/They.Found.Hell.2015.720p..WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Walt.Before.Mickey.2015.720p.WEB-DL
-http://dl.tehmovies.com/94/95/2/Walt.Before.Mickey.2015.720p.WEB-DL.Tehmovies.org.mkv
-#EXTINF:-1 group-title="Movies",Where.to.Invade.Next.2015.1080p.6CH
-http://dl.tehmovies.com/94/95/2/Where.to.Invade.Next.2015.1080p.6CH.Tehmovies.org.mkv
-
 
 #EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
