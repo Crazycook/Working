@@ -158,17 +158,9 @@ http://link.theplatform.com/s/dtjsEC/166zTdtbfhcW?feed=PROD%20-%20Live%20Stream%
 http://link.theplatform.com/s/dtjsEC/Hf3kzMuKfZCO?feed=PROD%20-%20Live%20Stream%20Feed
 #EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/toronto_2x.png" group-title="Canada",Global Toronto HD
 http://link.theplatform.com/s/dtjsEC/VhMJVcROT2P4?feed=PROD%20-%20Live%20Stream%20Feed
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/TWN_HD.PNG/200px-TWN_HD.PNG" group-title="Canada",WEATHER NETWORK CANADA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/TWN_HD.PNG/200px-TWN_HD.PNG" group-title="Canada",Weather Network Canada HD
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/66/Tsn3hd.png/revision/latest?cb=20150709184218" group-title="Canada",TSN 3 HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/4/4b/Tsn4hd.png/revision/latest?cb=20150709184509" group-title="Canada",TSN 4 HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
-#EXTINF:-1 tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png" group-title="Canada",TSN 5 HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
-#EXTINF:-1 tvg-logo="http://linkopa.com/images/ts/2016/04/nbcnews.com_.r.png" group-title="Canada",NBC News HD
-http://46.166.162.35:9090/load/b0922f3fa8aa/1.m3u8
-#EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV TORONTO
+#EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto (2)
 rtmp://live.netvtoronto.com/NetvToronto/NetvToronto
@@ -2407,7 +2399,7 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 http://5.133.162.203/silk_sport4/index.m3u8
 #EXTINF:0 tvg-name="Sportal TV" tvg-language="Russian" tvg-country='RU" tvg-id="Sportal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtlG9MoODVstvCCrcCqd9SyE2yu5adl9GA3P11KGVsHJRVhsQiGUYAeU" group-title="Sports",Sportal TV (Russian)
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:0 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sports TV" tvg-logo="http://bmilan.elpo.sk/New_logos_2006/sports_tv_tr.jpg" group-title="Sports",Sports TV(TR) (Turkish)
+#EXTINF:0 tvg-name="Sports TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sports TV" tvg-logo="http://bmilan.elpo.sk/New_logos_2006/sports_tv_tr.jpg" group-title="Sports",Sports TV (Turkish)
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Supertennis
 http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
@@ -2417,17 +2409,17 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-super-sports-4.png" group-title="Sports",Super Sports 4 (Albania)
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 tvg-name="TILESPORT" tvg-language="Greek" tvg-country="GR' tvg-id="TILESPORT" tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports",TILESPORT (Sports) (GR) (Greek)
+#EXTINF:0 tvg-name="TILESPORT" tvg-language="Greek" tvg-country="GR' tvg-id="TILESPORT" tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports",TILESPORT (Greek)
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0 tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports", TileSport TV
 rtmp://tv1.streampulse.eu/tilesport/movie1
-#EXTINF:0 tvg-name="Tribuna Channel" tvg-language="Amharic" tvg-country="AL" tvg-id="Tribuna Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tribuna-Channel-Kosovo_o.jpg" group-title="Sports",Tribuna Channel (Entertainment) (AL) (Amharic)
+#EXTINF:0 tvg-name="Tribuna Channel" tvg-language="Amharic" tvg-country="AL" tvg-id="Tribuna Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tribuna-Channel-Kosovo_o.jpg" group-title="Sports",Tribuna Channel (AL) (Amharic)
 http://84.22.48.253:89/tribuna/mono.m3u8
 #EXTINF:0 tvg-name="TVJ SPORTS NETWORK 2 Jamaica" tvg-language="Jamaican" tvg-country="JM" tvg-id="TVJ SPORTS NETWORK 2 Jamaica" tvg-logo="https://www.discoverflow.co/uploads/channels/201208020005495019fc9d8085f.png?v6" group-title="Sports",TVJ SPORTS NETWORK 2 Jamaica
 http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
 #EXTINF:0 tvg-name="TVJ Sport" tvg-language="English" tvg-country="JM" tvg-id="TVJ Sport" tvg-logo="http://www.caribbeanlogos.com/wp-content/uploads/2013/08/TVJ-Sports-vector-logo.jpg" group-title="Sports",TVJ Sport
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0 tvg-name="Varzesh TV" tvg-language="Farsi" tvg-country="IR" tvg-id="Varzesh TV" tvg-logo="http://www.sedaye-iran.com/images/emblems/iran-tv/irib_varzesh_tv.png" group-title="Sports",Varzesh TV (Sports) (IR) (Farsi)
+#EXTINF:0 tvg-name="Varzesh TV" tvg-language="Farsi" tvg-country="IR" tvg-id="Varzesh TV" tvg-logo="http://www.sedaye-iran.com/images/emblems/iran-tv/irib_varzesh_tv.png" group-title="Sports",Varzesh TV (IR) (Farsi)
 http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Viasatsport.png/200px-Viasatsport.png" group-title="Sports",Viasat (Sport Baltic)
 http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes
@@ -9007,6 +8999,53 @@ http://www.deadlyblogger.com/NewRelease/zootopia.mp4
 http://bit.do/bsvZX
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
 http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
+
+#EXTINF:-1 group-title="Movies",Barbershop.The.Next.Cut.2016.1080p.6CH
+http://dl.tehmovies.com/94/95/4/Barbershop.The.Next.Cut.2016.1080p.6CH.Tehmovies.org.mkv 
+group-title="Movies",Barbershop.The.Next.Cut.2016.720p
+http://dl.tehmovies.com/94/95/4/Barbershop.The.Next.Cut.2016.720p.Tehmovies.org.mkv
+group-title="Movies",Barbershop.The.Next.Cut.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/4/Barbershop.The.Next.Cut.2016.720p.WEB-DL.Tehmovies.org.mkv
+group-title="Movies",Barney.Thomson.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/4/Barney.Thomson.2015.1080p.5.1CH.Tehmovies.org.mkv             
+group-title="Movies",Brothers.of.the.Wind.2015.1080p.5.1CH
+http://dl.tehmovies.com/94/95/4/Brothers.of.the.Wind.2015.1080p.5.1CH.Tehmovies.org.mkv
+group-title="Movies",Brothers.of.the.Wind.2015.720p
+http://dl.tehmovies.com/94/95/4/Brothers.of.the.Wind.2015.720p.Tehmovies.org.mkv              
+group-title="Movies",Diving.Into.The.Unknown.2016.720p
+http://dl.tehmovies.com/94/95/4/Diving.Into.The.Unknown.2016.720p.Tehmovies.org.mkv          
+group-title="Movies",Outlaws.and.Angels.2016.720p.WEB-DL
+http://dl.tehmovies.com/94/95/4/Outlaws.and.Angels.2016.720p.WEB-DL.Tehmovies.org.mkv
+group-title="Movies",Septembers.of.Shiraz.2015.720p.WEB-DL
+http://dl.tehmovies.com/94/95/4/Septembers.of.Shiraz.2015.720p.WEB-DL.Tehmovies.org.mkv
+group-title="Movies",Shirin.In.Love.2014.1080p.WEB-DL.6CH
+http://dl.tehmovies.com/94/95/4/Shirin.In.Love.2014.1080p.WEB-DL.6CH.Tehmovies.org.mkv
+group-title="Movies",Something.in.the.Woods.2015.HDrip
+http://dl.tehmovies.com/94/95/4/Something.in.the.Woods.2015.HDrip.Tehmovies.org.mkv
+group-title="Movies",The.Dark.Side.of.the.Moon.2015.720p
+http://dl.tehmovies.com/94/95/4/The.Dark.Side.of.the.Moon.2015.720p.Tehmovies.org.mkv
+group-title="Movies",The.Fundamentals.of.Caring.2016.720p.WEBrip
+http://dl.tehmovies.com/94/95/4/The.Fundamentals.of.Caring.2016.720p.WEBrip.Tehmovies.org.mkv
+group-title="Movies",The.Purge.Election.Year.2016.HC.1080p.HDrip
+http://dl.tehmovies.com/94/95/4/The.Purge.Election.Year.2016.HC.1080p.HDrip.Tehmovies.org.mkv
+group-title="Movies",The.Purge.Election.Year.2016.HC.720p.HDrip
+http://dl.tehmovies.com/94/95/4/The.Purge.Election.Year.2016.HC.720p.HDrip.Tehmovies.org.mkv
+group-title="Movies",Tiny.Giants.2014.1080p.3D.HSBS.6CH
+http://dl.tehmovies.com/94/95/4/Tiny.Giants.2014.1080p.3D.HSBS.6CH.Tehmovies.org.mkv       
+group-title="Movies",To.Steal.From.A.Thief.2016.1080p.5.1CH
+http://dl.tehmovies.com/94/95/4/To.Steal.From.A.Thief.2016.1080p.5.1CH.Tehmovies.org.mkv
+group-title="Movies",Tom.and.Jerry.Back.to.Oz.2016.DVDrip
+http://dl.tehmovies.com/94/95/4/Tom.and.Jerry.Back.to.Oz.2016.DVDrip.Tehmovies.org.mkv
+group-title="Movies",X-Men.Apocalypse.2016.HC.720p.HDrip
+http://dl.tehmovies.com/94/95/4/X-Men.Apocalypse.2016.HC.720p.HDrip.Tehmovies.org.mkv
+group-title="Movies",Arthur_and_the_Invisibles.2006.720p
+http://dl.tehmovies.com/94/95/5/robert.deniro/Arthur_and_the_Invisibles.2006.720p.Tehmovies.biz.mkv
+group-title="Movies",Everybodys.Fine.2009.720p.ShAaNiG
+http://dl.tehmovies.com/94/95/5/robert.deniro/Everybodys.Fine.2009.720p.ShAaNiG.Tehmovies.biz.mkv
+group-title="Movies",The.Ages.of.Love.2011.BluRay.720p.Ganool
+http://dl.tehmovies.com/94/95/5/robert.deniro/The.Ages.of.Love.2011.BluRay.720p.Ganool.Tehmovies.biz.mkv     
+
+
 
 #EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
