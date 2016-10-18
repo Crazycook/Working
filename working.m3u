@@ -1695,10 +1695,7 @@ http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/gb.png" group-title="UK",[COLOR yellow]---------------------- UK----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Create and Craft" tvg-language="English" tvg-country="UK" tvg-id="Create and Craft" tvg-logo="http://www.createandcraft.com/img/create-and-craft-logo.png" group-title="UK",Create and Craft
-http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
-#EXTINF:0 tvg-name="Ideal World" tvg-language="English" tvg-country="UK" tvg-id="Ideal World" tvg-logo="http://www.vouchercodespro.co.uk/images/ideal-world-logo.jpg" group-title="UK",Ideal World 
-http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cb/Discovery_Turbo_2009.png/revision/latest/scale-to-width-down/300?cb=20100413144122&format=webp" group-title="UK",Discovery Turbo
 http://bb1.sendevric.com:8000/live/marksat64/DMzjwa0FSe/183.ts
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2016/01/Londonlive.png" group-title="UK",London Live
@@ -1709,8 +1706,6 @@ http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
 #EXTINF:-1 group-title="UK",Show HD
 http://bit.do/h3EhkG4g6mst0l
-#EXTINF:-1 tvg-logo="http://www.shoppingtelly.com/images/rocksandco.png?crc=3758614054" group-title="UK",Rocks & Co. TV
-rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002
 
 #EXTINF:-1,[COLOR yellow]---------------------- Asia----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2343,7 +2338,6 @@ rtmp://tv1.streampulse.eu/tilesport/movie1
 http://84.22.48.253:89/tribuna/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/tt/tring_al_sport_news.png" group-title="Sports",TRING SPORT NEWS
 http://bit.ly/2e5LPJp
-
 #EXTINF:0 tvg-name="TVJ SPORTS NETWORK 2 Jamaica" tvg-language="Jamaican" tvg-country="JM" tvg-id="TVJ SPORTS NETWORK 2 Jamaica" tvg-logo="https://www.discoverflow.co/uploads/channels/201208020005495019fc9d8085f.png?v6" group-title="Sports",TVJ SPORTS NETWORK 2 Jamaica
 http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
 #EXTINF:0 tvg-name="TVJ Sport" tvg-language="English" tvg-country="JM" tvg-id="TVJ Sport" tvg-logo="http://www.caribbeanlogos.com/wp-content/uploads/2013/08/TVJ-Sports-vector-logo.jpg" group-title="Sports",TVJ Sport
@@ -2356,12 +2350,12 @@ http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 
 
-#EXTINF:-1 group-title="Religious",[COLOR yellow]---------------------- Religious----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="https://poietes.files.wordpress.com/2010/08/freedom_religion_l.jpg" group-title="Religious",[COLOR yellow]---------------------- Religious----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Religious",3ABN Kidz
+#EXTINF:0 tvg-logo="http://www.kidstime4jesus.org/assets/kids_network_logo.jpg" group-title="Religious",3ABN Kidz
 http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
-#EXTINF:0 group-title="Religious",Catholic TV - 268CTV - Watertown - MA Massachusetts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="Religious",Catholic TV - 268CTV - Watertown - MA Massachusetts
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:0 tvg-logo="http://logowow.net/logos/thumb-UvBjieFfj.png" group-title="USA",WHBR CTN 33 - 34 DT - Pensacola - FL Florida
 http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8
@@ -2375,11 +2369,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u
 http://jimmyadamsmedia.mpl.miisolutions.net:1935/jimmyadamsmedia-live-1/smil:DRTV.smil/playlist.m3u8
 #EXTINF:0 tvg-logo=”https://www.optimum.com/content/optimum/en/home/services/digital-cable-tv/enespanol/_jcr_content/service-page-heading-parsys/bgcolorcomponent/mid-content-withoutline-parsys/bgcolorcomponent_54/full-content-parsys/image.img.gif/1468269706181.gif" group-title="Religious",EWTN(spanish)
 rtmp://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/_definst_/900.mp4
-#EXTINF:0 tvg-name="Family Friendly Entertainment" tvg-language="English" tvg-country="US" tvg-id="Family Friendly Entertainment" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="Religious",Family Friendly Entertainment(US) (English)
+#EXTINF:0 tvg-name="Family Friendly Entertainment" tvg-language="English" tvg-country="US" tvg-id="Family Friendly Entertainment" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="Religious",Family Friendly Entertainment
 http://54.225.64.228:1935/live/roku1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.dtti.it/wp-content/uploads/2012/01/fano-tv.jpg" group-title="Religious",Fano TV
-http://live.streamcaster.net:1935/live/fanotv/playlist.m3u8
-#EXTINF:0 group-title="Religious",JUCE TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/JUCE_TV_logo.png/200px-JUCE_TV_logo.png" group-title="Religious",Juce TV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
 #EXTINF:0 tvg-logo="http://www.newsmax.com/Newsmax/files/e5/e5ed5d4c-a11b-4b44-bec0-7d838556d6f4.jpg"  group-title="USA",Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
@@ -2393,19 +2385,13 @@ http://cdn.rbm.tv/rightbrainmedia-live-122/stream_8085_2/playlist.m3u8
 http://fss28.streamhoster.com/lv_rod_tvf1/lv_rod_tvf1-wbpi.smil/master.m3u8
 #EXTINF:0 tvg-logo="http://www.kfxb.net/uploads/8/6/3/3/8633007/9816592.gif?131" group-title="USA",KFXB CTN40 - 43 DT - Dubuque - IA Iowa
 rtsp://media.ctntv.net/kfxb
-#EXTINF:0 group-title="Religious",WTCT 27.1 TCT - 17 DT - Marion - IL Illinois
-http://brightcove03-f.akamaihd.net/TCT_Live_1200@69088
-#EXTINF:0 group-title="Religious",WTCT 27.3 TCT Family - 17 DT - Marion - IL Illinois
-http://brightcove03-f.akamaihd.net/TCTHD_Live_1200@69088
-#EXTINF:0 group-title="Religious",WTCT 27.3 TCT Kids - 17 DT - Marion - IL Illinois
-http://brightcove03-f.akamaihd.net/Family_Live_1200@69088
-#EXTINF:0 group-title="Religious",WTJR CTN16 - 32 DT - Quincy - IL Illinois
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/CTN_Network.gif" group-title="Religious",WTJR CTN16 - 32 DT - Quincy - IL Illinois
 rtsp://wtjrtv.serverroom.net/wtjrtv
 #EXTINF:0 tvg-logo="http://compass1.org/wp-content/uploads/2014/06/logo-g.jpg" group-title="Religious",WTGL Good Life 45 - 46 DT - Orlando - FL Florida
 http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
-#EXTINF:0 group-title="Religious",KAZQ TV32 - 17 DT - Albuquerque - NM New Mexico
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/KAZQ-logo.png" group-title="Religious",KAZQ TV32 - 17 DT - Albuquerque - NM New Mexico
 http://156.obj.netromedia.net/KAZQH264/KAZQH264/playlist.m3u8
-#EXTINF:0 group-title="Religious",KDTN Daystar 2 - 43 DT - Dallas - TX Texas
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/KDTN_Daystar.jpg" group-title="Religious",KDTN Daystar 2 - 43 DT - Dallas - TX Texas
 http://brightcove03-f.akamaihd.net/daystar_HD_720@112478
 #EXTINF:0 group-title="Religious",WLFG 68 LFTv - 49 DT - Abingdon - VA Virginia
 http://johndash.videocdn.scaleengine.net:1935/johndash-iphone/play/livingfaith/playlist.m3u8
@@ -2419,11 +2405,11 @@ http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 rtmp://media.btbn.tv/mtmtv/live
 #EXTINF:-1 tvg-logo="http://www.tvcristiana.tv/inicio/templates/tx_freemium/images/logo.png"  group-title="Religious", Cristiana TV
 rtmp://188.165.135.22/malaga/livestream
-#EXTINF:-1 group-title="Religious", Gospel TV
+#EXTINF:-1 tvg-logo="http://gospeltv.ca/media/photos/channels/1/1KTIr6F7_527x281_8814a166ace7ce0eeb78e08e23ad1abe.png" group-title="Religious",Gospel TV
 rtmp://188.165.135.22/gospeltv/livestream
 #EXTINF:0 tvg-name="Kingdom tv Christian" tvg-language="English" tvg-country="US" tvg-id="Kingdom tv Christian" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh0prDq7bYmuUZxBgUjdLGcmJWf-gbBZFfu–5_PkSG9Z1pyopveJjQO0" group-title="Religious",Kingdom tv
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ss/sonlife_broadcasting_network_global.png" group-title="Religious",[COLOR yellow]SBN GLOBAL [/COLOR]
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ss/sonlife_broadcasting_network_global.png" group-title="Religious",SBN GLOBAL
 http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
 #EXTINF:0 tvg-name="TBN salsa" tvg-language="English" tvg-country="US" tvg-id="TBN salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jhrj9Mvl2VaIw6wxqHDvbk4Me5K6rYmKMwQz8AKNoGu7Eh6KotNKRLA" group-title="Religious",TBN salsa
 http://acaooyalahd2-lh.akamaihd.net/i/TBN11a_delivery@332897/master.m3u8
@@ -2435,26 +2421,24 @@ http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 rtmp://s1.thedove.us/theDoveTV/2theDoveTV.sdp
 #EXTINF:0 tvg-logo="http://kscetv.com/wp-content/uploads/2015/11/logo4.png" group-title="Religious",KSCE Life 38 - 39 DT - El Paso - TX Texas
 http://fss28.streamhoster.com/lv_rod_tvf1/broadcast16/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",CBN
+#EXTINF:-1 tvg-logo="http://i.forbesimg.com/media/lists/companies/christian-broadcasting-network_416x416.jpg" group-title="Religious",CBN
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_900_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",CANAL SHOW DA FÉ
+#EXTINF:-1 tvg-logo="http://www.canalshowdafe.com.br/images/img/logo.png" group-title="Religious",CANAL SHOW DA FÉ
 http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",CANCAO NOVA
+#EXTINF:-1 tvg-logo="http://images9.engageya.com/8e/ec/website_122794/c8/15/9f/tvtuga.com.cancao_2Dnova_2Dtv_2_187173_2.jpg" group-title="Religious",CANCAO NOVA
 http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",IGREJA ONLINE TV
-http://nossatvhls03-lh.akamaihd.net/i/nossatv_hls@381920/index_600_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",REDE FAMÍLIA
 http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",REDE VIDA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" group-title="Religious",REDE VIDA
 http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",TV APARECIDA
+#EXTINF:-1 tvg-logo="http://www.npdbrasil.net.br/images/logo_tvapr.png" group-title="Religious",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",TV JESUS CRISTO
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4716523735d59bafd5650bae01b15700.jpg" group-title="Religious",TV JESUS CRISTO
 http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?wowzasessionid=2034189416
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFoxlNY.png" group-title="Religious",TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="http://www6.novotempo.org.br/glpi/pics/logo_big.png" group-title="Religious",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
 
-#EXTINF:-1 group-title="Shopping",[COLOR yellow]---------------------- Shopping ----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://coachproject.com/img/logo05.png" group-title="Shopping",[COLOR yellow]---------------------- Shopping ----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-name="QVC 1" tvg-logo="http://www.lyngsat-logo.com/hires/qq/qvc_us_hd.png" group-title="Shopping",By Home TV
@@ -2475,8 +2459,14 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31 playpa
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 #EXTINF:0 tvg-logo="http://www.acmecable.com/wp-content/uploads/2016/02/evine-logo.png" group-title="Shopping",EVINE Live 
 http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8
+#EXTINF:0 tvg-name="Create and Craft" tvg-language="English" tvg-country="UK" tvg-id="Create and Craft" tvg-logo="http://www.createandcraft.com/img/create-and-craft-logo.png" group-title="Shopping",Create and Craft
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+#EXTINF:0 tvg-name="Ideal World" tvg-language="English" tvg-country="UK" tvg-id="Ideal World" tvg-logo="http://www.vouchercodespro.co.uk/images/ideal-world-logo.jpg" group-title="Shopping",Ideal World 
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.shoppingtelly.com/images/rocksandco.png?crc=3758614054" group-title="Shopping",Rocks & Co. TV
+rtmp://rockscolivefs.fplive.net/rockscolive-live/stream002
 
-#EXTINF:-1 group-title="Music",[COLOR yellow]---------------------- Music ----------------------[/COLOR]
+#EXTINF:-1 tvg-logo="http://static-files03.cdnandroid.com/a4/1e/ed/e3/imagen-world-streaming-tv-news-0thumb.jpg" group-title="Music",[COLOR yellow]---------------------- Music ----------------------[/COLOR]
 http://0.0.0.0:1234
  
 #EXTINF:0 tvg-logo="http://www.omkc.ru/uploads/images/tv_logo/1hd.png" group-title="Music",1HD
@@ -2487,99 +2477,72 @@ mmsh://mediatv2.topix.it/24RockOne66
 http://194.116.83.15:80/24RockOne66
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/TV_538_logo.jpg/170px-TV_538_logo.jpg" group-title="Music",538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
-#EXTINF:0 tvg-name="7S MUSIC" tvg-language="Tamil" tvg-country="IN" tvg-id="7S MUSIC" tvg-logo="http://logowow.net/logos/thumb-EoUSpsEtX.png" group-title="Music",7S MUSIC (IN) (Tamil)
-http://dogwamnhemjme.cloudfront.net/7smusicorg/smil:7smusic.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/8fm-tv.jpg" group-title="Music", 8 FM TV
-http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8 
 #EXTINF:0 tvg-name="9x Jalwa Music" tvg-language="Hindi" tvg-country="IN" tvg-id="9X Jalwa Music" tvg-logo="http://103.250.10.39:9090/image/contenticons/183647_large" group-title="Music",9x Jalwa Music (IN) (Hindi)
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xjalwa_all/playlist.m3u8
 #EXTINF:0 tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-id="9XM" tvg-logo="http://www.india-forums.com/tellybuzz/images/uploads/FBD_mtv_thm.jpg" group-title="Music",9XM (IN) (Hindi)
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b500000.m3u8
 #EXTINF:0 tvg-name="9XTashan" tvg-language="Punjabi" tvg-country="IN" tvg-id="9XTashan" tvg-logo="http://www.9xmedia.in/images/9xtashan_reflection.jpg" group-title="Music",9XTashan (IN) (Punjabi)
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xtashan_all/chunklist_b650000.m3u8
-#EXTINF:0 group-title="Music", Africa tv Musica HD
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png" group-title="Music",AFRO MUSIC
 
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
 
-#EXTINF:0 tvg-name="Albmusic" tvg-language="Albanian" tvg-country="AL" tvg-id="Albmusic" tvg-logo="http://i.imgur.com/wF0f2vn.png" group-title="Music",Albmusic (Music) (AL) (Albanian)
+#EXTINF:0 tvg-name="Albmusic" tvg-language="Albanian" tvg-country="AL" tvg-id="Albmusic" tvg-logo="http://i.imgur.com/wF0f2vn.png" group-title="Music",Alb music(Albanian)
 http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:0 tvg-name="Albmusic" tvg-language="Albanian" tvg-country="AL" tvg-id="Albmusic" tvg-logo="http://i.imgur.com/wF0f2vn.png" group-title="Music", Albmusic HD (Albania)
+#EXTINF:0 tvg-name="Albmusic" tvg-language="Albanian" tvg-country="AL" tvg-id="Albmusic" tvg-logo="http://i.imgur.com/wF0f2vn.png" group-title="Music", Alb music HD (Albania)
 rtmp://188.138.17.8:1935/albuk/albmus.stream
-#EXTINF:0 tvg-name="Aloula TV" tvg-language="Arabic" tvg-country="SY" tvg-id="Aloula TV" tvg-logo='http://tvarab.org/wp-content/uploads/2015/08/Aloula.jpg" group-title="Music",Aloula TV (Music) (SY) (Arabic)
+#EXTINF:0 tvg-name="Aloula TV" tvg-language="Arabic" tvg-country="SY" tvg-id="Aloula TV" tvg-logo='http://tvarab.org/wp-content/uploads/2015/08/Aloula.jpg" group-title="Music",Aloula TV(SY) (Arabic)
 http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
 #EXTINF:-1 tvg-name="aMazing" tvg-logo="http://www.amazingtv.pl/resources/public/multimedia/css/plecakpelenwrazen/image/template/logo.png" group-title="Music", aMazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0 group-title="Music", Anadolu TV
+#EXTINF:0 tvg-logo="http://hdwebtvizle.com/wp-content/uploads/2014/01/anadolu-tv.png" group-title="Music", Anadolu TV
 rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",ATOMIC TV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",Atomic TV
 rtmp://5.154.185.153/live/live.flv
 
 #EXTINF:-1 group-title="Music",b4u music
 http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
-#EXTINF:0 tvg-name="B4U Music" tvg-language="Hindi" tvg-country="IN" tvg-id="B4U Music" tvg-logo="https://lh5.ggpht.com/Sqzw2iW_ZHGB9TfJ11vH41xFuGdlIcW8Opz93abaeCv2_bfB_sUyoutlVgy02R69NxM=w300" group-title="Music",B4U Music (Test) (IN) (Hindi)
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/b34umus14-mobile.3gp.m3u8?
-#EXTINF:0 group-title="Music",Bandamax
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6qoMb5aQqZ8/Vabn9Wf0BxI/AAAAAAAAM08/jLP9su4l1Bk/s1600/107-Atomic-TV-1.jpg" group-title="Music",Beatz HD
-http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://bgmusic.tv/assets/img/logo.png" group-title="Music",BG MUSIC CHANNEL
-
-http://87.120.201.2:80/rtplive/bgmusic_live.stream/.m3u8
-#EXTINF:-1 tvg-logo="http://www.trumantheband.com/wp-content/uploads/2014/07/BPM.png" group-title="Music",BIG POND MUSIC
+#EXTINF:-1 tvg-logo="http://www.trumantheband.com/wp-content/uploads/2014/07/BPM.png" group-title="Music",Big Pond Music
 
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
-#EXTINF:0 tvg-name="Bollywood Masala" tvg-language="Hindi" tvg-country="IN" tvg-id="Bollywood Masala" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdaAd_w6h7e7r8y9r1Lf9mPEQS3N99x9t24kjccJpWzNvS-Q8utzLLEq0" group-title="Music",Bollywood Masala (IN) (Hindi)
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD191_W_150.sdp/playlist.m3u8
-#EXTINF:0 group-title="Music", CAPITAL TV HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Capital_TV_logo.png/200px-Capital_TV_logo.png" group-title="Music",Capital TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0 group-title=,C Music World TV
+#EXTINF:0 group-title="Music",C Music World TV
 mmsh://streaming.cmusic.tv/cmusicworld-tv
-#EXTINF:0 tvg-name="Channel UFX" tvg-language="Tamil" tvg-country="IN" tvg-id="Channel UFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZ1sCPxBqrxNWIjTo8o-glM4AoDGty3FgBtNNivDgCmFOHhpQ6glhCA" group-title="Music",Channel UFX (Music) (IN) (Tamil)
+#EXTINF:0 tvg-name="Channel UFX" tvg-language="Tamil" tvg-country="IN" tvg-id="Channel UFX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZ1sCPxBqrxNWIjTo8o-glM4AoDGty3FgBtNNivDgCmFOHhpQ6glhCA" group-title="Music",Channel UFX (IN) (Tamil)
 http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",Chartshow Dance
-http://46.249.55.240:8000/play/a01h
-#EXTINF:0  tvg-logo="http://www.cmusic.tv/images/cmusiclogo.png" group-title="Music", CMUSICTV
-http://91.219.136.73:4022/udp/239.1.0.23:1234
 #EXTINF:-1 group-title="Music",CANALE RADIO 51
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png” group-title="Music",CANTINAZO
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png” group-title="Music",Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://www.capital.it/capital/static_includes/images/logo_tivu.png" group-title="Music",RADIO CAPITAL TV
+#EXTINF:-1 tvg-logo="http://www.capital.it/capital/static_includes/images/logo_tivu.png" group-title="Music",Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Capital_TV_logo.png/200px-Capital_TV_logo.png" group-title="Music",CAPITAL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Capital_TV_logo.png/200px-Capital_TV_logo.png" group-title="Music",Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:0 group-title="Music", CineStreamTV HD / Nation 720P
+#EXTINF:0 tvg-logo="http://www.cinestreamtv.com/img/logo.png" group-title="Music", CineStreamTV HD (Barbados)
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg" group-title="Music",City TV (Music) (England)
+#EXTINF:0 tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2016-03/1458403062_city_tv.jpg" group-title="Music",City TV (England)
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
-#EXTINF:-1 group-title="Music",Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="Music",CONGO PLANET TV
-mms://vworks.congoplanet.com/Congo_Planet_TV
-#EXTINF:-1 group-title="Music",Congo Planet tv 2
-mms://vworks.congoplanet.com/Congo_Planete_TV_2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fAaopsekpUCM8niDfMAbAWXbqiMxQCA8Djd2INnjabAfUOlDndHYNRo" group-title="Music",Cool HD - 103.7 TV (Argentina)
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-tv.in/wp-content/uploads/2014/04/Deluxe-Music-live.gif" group-title="Music", Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 #EXTINF:0 tvg-name="Demais TV" tvg-language='Portuguese" tvg-country="BR" tvg-id="Demais TV" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/DemaisTV-Logo-300×300.jpg" group-title="Music",Demais TV (Music) (BR) (Portuguese)
 http://wz3.dnip.com.br:1935/dmtv/dmtv.sdp/live.m3u8
-#EXTINF:0 tvg-name="Desi Channel" tvg-language="Punjabi" tvg-country="IN" tvg-id="Desi Channel" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAsD-7W1QDamphtZNRp2jVJ2i3lH8hbuaNfH5f85RCBZ1Wp1cx6UkdQzc" group-title="Music",Desi Channel (Music) (IN) (Punjabi)
+#EXTINF:0 tvg-name="Desi Channel" tvg-language="Punjabi" tvg-country="IN" tvg-id="Desi Channel" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAsD-7W1QDamphtZNRp2jVJ2i3lH8hbuaNfH5f85RCBZ1Wp1cx6UkdQzc" group-title="Music",Desi Channel (IN) (Punjabi)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://dreadd.org/wp-content/uploads/2016/03/dnblines-tv-logo-140x130.jpg" group-title="Music",DnBTV
 
 rtmp://fms1.drumandbasslines.com/DnBTV/ch1
 
 
-#EXTINF:0 group-title="Music", Djing  
+#EXTINF:0 tvg-logo="http://www.djing.com/newimages/logo.png" group-title="Music", Djing  
 http://cdn.djing.com/tv/05.m3u8
-#EXTINF:0 group-title="Music", Djing HD
+#EXTINF:0 tvg-logo="http://www.djing.com/newimages/logo.png" group-title="Music", Djing HD
 http://www.djing.com/tv/h-05.m3u8
-#EXTINF:0 group-title="Music", Djind DJS HD
+#EXTINF:0 tvg-logo="http://www.djing.com/newimages/logo.png" group-title="Music", Djind DJS HD
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="Music",DJing Animation
 http://www.djing.com/tv/a-05.m3u8?time=1454038733694
@@ -2591,12 +2554,12 @@ http://www.djing.com/tv/i-05.m3u8?time=1454039152638
 
 #EXTINF:0 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg" group-title="Music", Djing Classic HD
 http://www.djing.com/tv/i-05.m3u8
-#EXTINF:0 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJING Hot Hot Hot HD (Music) (US) (English)
+#EXTINF:0 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJING Hot Hot Hot HD 
 http://www.djing.com/tv/hothothot.m3u8
 #EXTINF:-1 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJing Dance FLoor
 
 http://djing.com/tv/dancefloor.m3u8
-#EXTINF:0 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJING Dancefloor HD (Music)
+#EXTINF:0 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="Music",DJING Dancefloor HD 
 http://www.djing.com/tv/d-05.m3u8
 #EXTINF:-1 tvg-logo="http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Ibiza-TV.png" group-title="Music",DJing Ibiza
 
@@ -2608,89 +2571,80 @@ http://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/u-05.m3u8
 #EXTINF:0 tvg-logo="http://dotdance.tv/wp-content/uploads/2015/09/dot_100_100.png" group-title="Music",Dot Dance
 http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBve7W2PTb2GPu0QzYC7lpUlJNtxcDadcxGmcq3LipGT8-ZfHz" group-title="Music",DREAM TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBve7W2PTb2GPu0QzYC7lpUlJNtxcDadcxGmcq3LipGT8-ZfHz" group-title="Music",Drea TV
 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 
-#EXTINF:0 tvg-name="Dream TV" tvg-language="Turkish" tvg-country="TK" tvg-id="Dream TV" tvg-logo="http://2.bp.blogspot.com/-VjspsntmQrU/UOXzEd-azBI/AAAAAAAAA6o/3mj0N-xhRS8/s1600/Dreamtv.gif" group-title="Music",Dream TV (Music) (TK) (Turkish)
+#EXTINF:0 tvg-name="Dream TV" tvg-language="Turkish" tvg-country="TK" tvg-id="Dream TV" tvg-logo="http://2.bp.blogspot.com/-VjspsntmQrU/UOXzEd-azBI/AAAAAAAAA6o/3mj0N-xhRS8/s1600/Dreamtv.gif" group-title="Music",Dream TV (Turkey)
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0 tvg-name="Dream TV" tvg-language="Turkish" tvg-country="TK" tvg-id="Dream TV" tvg-logo="http://2.bp.blogspot.com/-VjspsntmQrU/UOXzEd-azBI/AAAAAAAAA6o/3mj0N-xhRS8/s1600/Dreamtv.gif" group-title="Music", dream TV HD (2)
+#EXTINF:0 tvg-name="Dream TV" tvg-language="Turkish" tvg-country="TK" tvg-id="Dream TV" tvg-logo="http://2.bp.blogspot.com/-VjspsntmQrU/UOXzEd-azBI/AAAAAAAAA6o/3mj0N-xhRS8/s1600/Dreamtv.gif" group-title="Music", Dream TV HD (2)
 http://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:0 tvg-name="Dream TV" tvg-language="Turkish" tvg-country="TK" tvg-id="Dream TV" tvg-logo="http://2.bp.blogspot.com/-VjspsntmQrU/UOXzEd-azBI/AAAAAAAAA6o/3mj0N-xhRS8/s1600/Dreamtv.gif" group-title="Music", dream TV TÜRK HD
-http://212.224.108.76:80/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="Music",DnBTV
+#EXTINF:-1 tvg-logo="https://dnbdrive.ru/wp-content/uploads/2012/02/DB-TV.jpg" group-title="Music",DnBTV
 rtmp://fms1.drumandbasslines.com/DnBTV/ch1
-#EXTINF:0 tvg-name="DSTV" tvg-language="English" tvg-country="BG" tvg-id="DSTV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Music",DSTV (Music) (BG) (English)
+#EXTINF:0 tvg-name="DSTV" tvg-language="English" tvg-country="BG" tvg-id="DSTV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Music",DSTV (BG) 
 rtmp://46.249.95.140/live/livestream
 #EXTINF:0 tvg-name="E 24" tvg-language="Hindi/English" tvg-country="IN" tvg-id="E 24" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgs_-dx29PrRUr1cz_gWxoz-N9afZXexHfT0KH1eFF4MgTm-G6DsxOPfQ" group-title="Music",E 24 (IN) (Hindi/English)
 http://d3ibnxavurfby0.cloudfront.net/bagnetworks/ngrp:e24_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music", Electrosound
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:0 tvg-name="El Pinguino" tvg-language="Spanish" tvg-country="CL" tvg-id="El Pinguino" tvg-logo="http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png" group-title="Music",El Pinguino (Music) (CL) (Spanish)
+#EXTINF:0 tvg-name="El Pinguino" tvg-language="Spanish" tvg-country="CL" tvg-id="El Pinguino" tvg-logo="http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png" group-title="Music",El Pinguino(CL) (Spanish)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
-#EXTINF:-1 group-title="Music",English Knob Ch3 music mms
+#EXTINF:-1 group-title="Music",English Knob Ch3 music
 mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
-#EXTINF:0 group-title="Music",Enorme TV
+#EXTINF:0 tvg-logo="http://www.mog-technologies.com/wp-content/uploads/lenorme-tv.jpg" group-title="Music",Enorme TV
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/europa-plus.png" group-title="Music",EuropaPlus
 http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Best-Music-TV_o.jpg" group-title="Music",ESKA BEST MUSIC
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Best-Music-TV_o.jpg" group-title="Music",Eska Best Music
 
-rtmp://stream.smcloud.net/live2/best/best_720p
+rtmp://stream.smcloud.net/tv/best/best_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Best-Music-TV_o.jpg" group-title="Music",Eska Best Music 720p
+rtmp://stream.smcloud.net/tv/best/best_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="Music",Eska Rock
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="Music",ESKA ROCK
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_480p
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Eska.rock.jpg/revision/latest?cb=20121023154708" group-title="Music",Eska Rock 720p
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_720p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/WAWA-TV-Polska_o.jpg" group-title="Music",Wawa TV 
+rtmp://stream.smcloud.net/tv/wawa/wawa_480p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/WAWA-TV-Polska_o.jpg" group-title="Music",Wawa TV 720p
+rtmp://stream.smcloud.net/tv/wawa/wawa_720p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",Eska Party
 
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
-
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/WAWA-TV-Polska_o.jpg" group-title="Music",ESKA WAWA
-
-http://stream.smcloud.net/live2/wawa/wawa_720p/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/WAWA-TV-Polska_o.jpg"  group-title="Music",WAWA HD
-rtmp://stream.smcloud.net/live2/wawa/wawa_720p
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",ESKA PARTY
-
-http://stream.smcloud.net/live2/eska_party/eska_party_720p/Eska&Party&TV.m3u8
-#EXTINF:-1  group-title="Music",ESKA PARTY
-http://s4w.deb1.scdn.smcloud.net/live/_definst_/eska_party/chunklist_w608648097.m3u8
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_480p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",Eska Party 720p
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_720p
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eska-Party-TV_o.jpg" group-title="Music",Eska Vox
-http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg" group-title="Music",POLO PARTY TV
+rtmp://stream.smcloud.net/tv/eska_vox/eska_vox_720p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg" group-title="Music",Polo Party TV
 
-rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+rtmp://stream.smcloud.net/tv/polo_party/polo_party_480p
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg" group-title="Music",Polo Party TV
 
-#EXTINF:0 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H2_OtslAtFhN4elda9KrqTxTIwDEv54BGqet6LAHlmoJsKPA" group-title="Music",Family Friendly Entertainment
+rtmp://stream.smcloud.net/tv/polo_party/polo_party_720p
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/n/R/s/nR205101219o3.jpg/ru-0-r-108,108-n-nR205101219o3.jpg"group-title="Music",VOX Music TV
+rtmp://stream.cdn.smcloud.net/vox2-p/stream1
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg"group-title="Music",VOX Old School TV
+rtmp://stream.smcloud.net/tv/vox/vox_480p
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/r/d/s/rd2005530kqU2.jpg/ru-0-r-108,108-n-rd2005530kqU2.jpg"group-title="Music",VOX Old School TV
+rtmp://stream.smcloud.net/tv/vox/vox_720p
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/2/2/s/2250616Wp9x.jpg/ru-0-ra-230,230-n-2250616Wp9x.jpg"group-title="Music",Hip Hop TV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/2/2/s/2292317hT2C.jpg/ru-0-ra-230,230-n-2292317hT2C.jpg"group-title="Music",8 TV
+rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_480p
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-H2_OtslAtFhN4elda9KrqTxTIwDEv54BGqet6LAHlmoJsKPA" group-title="Music",Family Friendly Entertainment
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",Flava
-http://46.249.55.240:8000/play/a01d
-#EXTINF:0 tvg-name="FLOW RAP AND R&B NONSTOP" tvg-language="English" tvg-country="US" tvg-id="FLOW RAP AND R&B NONSTOP" tvg-logo="http://cdn-radiotime-logos.tunein.com/p489184q.png" group-title="Music",FLOW RAP AND R&B NONSTOP (Music) (US) (English)
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/572029553032175616/D_Lw88lW_400x400.png" group-title="Music", For Music TV SD (Italy)
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/bratumarian.m3u8
-#EXTINF:0 group-title="Music", FINEST TV SD (Turkey)
+#EXTINF:0 tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/06/Finest-TV-Turkey.jpg" group-title="Music",Finest TV(Turkey)
 http://62.153.171.60:1466
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572029553032175616/D_Lw88lW_400x400.png" group-title="Music",FOR MUSIC TV
-
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-flava.png" group-title="Music",Flava TV
-http://86.189.202.228:65332/udp/224.1.2.1:1234
-#EXTINF:0 group-title="Music", Fun 1 TV
-mms://portal.satplus.cz/TV_FUN1
-#EXTINF:0 group-title="Music",FusionPlus TV
+#EXTINF:0 tvg-logo="http://www.fusionplustv.com/wp-content/uploads/2015/07/logo-fptv.png" group-title="Music",FusionPlus TV
 http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u
-#EXTINF:0 tvg-name="Gem Kurd" tvg-language="Arabic" tvg-country="IR" tvg-id="Gem Kurd" tvg-logo="http://gemgroup.tv/wp-content/uploads/2012/06/GEM-GROUP-s_site1.png" group-title="Music",Gem Kurd (Music) (IR) (Arabic)
+#EXTINF:0 tvg-name="Gem Kurd" tvg-language="Arabic" tvg-country="IR" tvg-id="Gem Kurd" tvg-logo="http://gemgroup.tv/wp-content/uploads/2012/06/GEM-GROUP-s_site1.png" group-title="Music",Gem Kurd (IR) (Arabic)
 http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:0 group-title="Music", GIS GRENADA 
-rtmp://cdn6.iviplanet.com/GIS/_definst_/myStream.sdp
-#EXTINF:0 group-title="Music", Greek Music Hits SD-
+#EXTINF:0 group-title="Music", Greek Music Hits SD
 mmsh://wpso.com:200/music
-#EXTINF:0 group-title="Music",HTV
-http://co.exabytetv.info:8000/live/visita-facebook-ExabyteTV/9872e/152.m3u8
-#EXTINF:0 tvg-name="Hamdard TV" tvg-language="Punjabi" tvg-country="IN" tvg-id="Hamdard TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDPwQjaBMdoSp_uObhcjN284nqTjrFZl26r1FjrJ21PqvhFRpy-wnRtg" group-title="Music",Hamdard TV (Music) (IN) (Punjabi)
+#EXTINF:0 tvg-name="Hamdard TV" tvg-language="Punjabi" tvg-country="IN" tvg-id="Hamdard TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDPwQjaBMdoSp_uObhcjN284nqTjrFZl26r1FjrJ21PqvhFRpy-wnRtg" group-title="Music",Hamdard TV (IN) (Punjabi)
 rtmp://live.wmncdn.net/hamdard/997831f276885a936ac3ce2dc96d82aa.sdp
-#EXTINF:0 tvg-name="Hawacom Tv" tvg-language="Arabic" tvg-country="LB" tvg-id="Hawacom Tv" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/hawacom.gif" group-title="Music",Hawacom Tv (Music) (LB) (Arabic)
+#EXTINF:0 tvg-name="Hawacom Tv" tvg-language="Arabic" tvg-country="LB" tvg-id="Hawacom Tv" tvg-logo="http://www.businessnews.com.lb/cms/Portals/2/Business/2013/hawacom.gif" group-title="Music",Hawacom Tv (LB) (Arabic)
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:0 group-title="Music",Hard & Heavy
 http://mediatv2.topix.it/24hard66
@@ -2698,7 +2652,7 @@ http://mediatv2.topix.it/24hard66
 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Music", HEART TV HD (2)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Music", HEART TV HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0 tvg-name="Heavy Metal Television" tvg-language="English" tvg-country="US" tvg-id="HMTV" tvg-logo="http://jimmyachenbach.com/testsite/HEAVY_METAL_files/HEAVY%20METAL%20TV2.jpg" group-title="Music",Heavy Metal Television (Music) (US) (English)
 rtmp://70.166.98.130:1935/hmtv/myStream
@@ -2706,34 +2660,25 @@ rtmp://70.166.98.130:1935/hmtv/myStream
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hit TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png" group-title="Music", Hit TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0 tvg-name="Hit TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png" group-title="Music", HIT TV SD
+#EXTINF:0 tvg-name="Hit TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/277.png" group-title="Music", Hit TV SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
-#EXTINF:0 group-title="Music", INDIES LIVE 
+#EXTINF:0 tvg-logo="http://nasdy.website/indieslive/wp-content/uploads/sites/47/2016/08/logo_il-2.png" group-title="Music", Indies Live
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 group-title="Music", JAZZ HD
-rtmp://91.201.78.3:1935/live/jazzhd
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music",JAZZ ONE
-
-rtmp://91.201.78.3:1935/live/jazzhd
-
-#EXTINF:-1 tvg-logo="http://www.gruenderszene.de/jobboerse/uploads/logo_big/1379593916joiz_rgb_whiteonblack.jpg" group-title="Music",JOIZ
+#EXTINF:-1 tvg-logo="http://www.gruenderszene.de/jobboerse/uploads/logo_big/1379593916joiz_rgb_whiteonblack.jpg" group-title="Music",Joiz
 http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8?sd=10&rebase=on&time=1451946826672
 #EXTINF:-1 tvg-name="JuCeTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music", JuCeTV US
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0 tvg-logo="https://www.evotv.hr/images/programi/export_buketi/jugoton.png" group-title="Music",JUGOTON TV
+#EXTINF:0 tvg-logo="https://www.evotv.hr/images/programi/export_buketi/jugoton.png" group-title="Music",JugotonTV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:0 tvg-name="Kenh 9 Music" tvg-language="Vietnamese" tvg-country="VN" tvg-id="Kenh 9 Music" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJzV5Y0DAqoLwLsZL5aSHLyqOG3pC1RsALvA3LnZV84vFiO1OLq33BFxA" group-title="Music",Kenh 9 Music(Vietnamese)
 rtmp://203.162.121.230/live/9_music?securetoken=#ed?#w@1
-#EXTINF:-1 tvg-name="tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Kiss_(TV_channel_logo).png" group-title="Music",KISS TV
-
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:0 http://entworld.net/wp-content/uploads/2016/03/Klipkar-TV-NL_o.jpg" group-title="Music",Klipkar TV
+#EXTINF:0 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/Klipkar-TV-NL_o.jpg" group-title="Music",Klipkar TV
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:0 group-title="Music", KRAL (Turkey)
+#EXTINF:0 tvg-logo="http://www.kralmuzik.com.tr/Content/i/kraltv-56.png" group-title="Music",Kral (Turkey)
 http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHUyjdMaYxiAgw2bzinnf73xsqZo-Ys46GhMUXbVMjkweDWYFg" group-title="Music",Kronehit
 http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
-#EXTINF:0 tvg-name="Lembranca" tvg-language="Portuguese" tvg-country="BR" tvg-id="Lembranca TV" tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/169/0c9/136ea49.jpg" group-title="Music",Lembranca (Music) (BR) (Portuguese)
+#EXTINF:0 tvg-name="Lembranca" tvg-language="Portuguese" tvg-country="BR" tvg-id="Lembranca TV" tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/169/0c9/136ea49.jpg" group-title="Music",Lembranca (BR) (Portuguese)
 http://96.47.239.167:1935/lembranca/lembrancatv/live.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png" group-title="Music",Live Beatz
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
@@ -2769,7 +2714,7 @@ http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
 http://d2tunwguqq620e.cloudfront.net/mktv/ngrp:mknews_all/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="http://rs1198.pbsrc.com/albums/aa444/kys666/italy-radio-monte-carlo.jpg~c20" group-title="Music",MONTECARLO MUSIC
 rtmp://fms.105.net/live/rmc1
-#EXTINF:0 tvg-name="Monte Carlo TV" tvg-language="English" tvg-country="US" tvg-id="Monte Carlo TV" tvg-logo="http://wwitv.com/tvlogos/b6799.jpg" group-title="Music",Monte Carlo TV (Music) (US) (English)
+#EXTINF:0 tvg-name="Monte Carlo TV" tvg-language="English" tvg-country="US" tvg-id="Monte Carlo TV" tvg-logo="http://wwitv.com/tvlogos/b6799.jpg" group-title="Music",Monte Carlo TV (US) 
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:0 group-title="Music", Music Box HD (Russia)
 http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
@@ -2795,7 +2740,7 @@ http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKEq0VNCYgLlcIcMd9WnMM95JOMJtdkUHxtAgPh1g-6lOIozO" group-title="Music",MUZZ ONE
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="MTV AM" tvg-language="English" tvg-country="RU" tvg-id="MTV AM" tvg-logo="http://viparsh.do.am/Nkarner/TV/mtv-am-armeniana.jpg" group-title="Music",MTV AM (RU) (English)
+#EXTINF:0 tvg-name="MTV AM" tvg-language="English" tvg-country="RU" tvg-id="MTV AM" tvg-logo="http://viparsh.do.am/Nkarner/TV/mtv-am-armeniana.jpg" group-title="Music",MTV AM (RU)
 http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.believe-dance.dk/wp-content/uploads/2012/03/mtv-dance2.gif" group-title="Music",mtv dance
 http://62.210.251.159/iptv/LCCXW5PCPRZCUY/558/index.m3u8
@@ -2869,11 +2814,11 @@ http://pablogott.videocdn.scaleengine.net/pablogott-iphone/play/ooftv.smil/playl
 #EXTINF:0 group-title="Music", PIK TV HD
 rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
-#EXTINF:0 tvg-name="PBN Music" tvg-language="Punjabi" tvg-country="IN" tvg-id="PBN Music" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Music",PBN Music (Music) (IN) (Punjabi)
+#EXTINF:0 tvg-name="PBN Music" tvg-language="Punjabi" tvg-country="IN" tvg-id="PBN Music" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Music",PBN Music (IN) (Punjabi)
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
 #EXTINF:0 group-title="Music", PIK
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
-#EXTINF:0 tvg-name="PMC" tvg-language="Farsi" tvg-country="IR" tvg-id="PMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Music",PMC (Music) (IR) (Farsi)
+#EXTINF:0 tvg-name="PMC" tvg-language="Farsi" tvg-country="IR" tvg-id="PMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Music",PMC (IR) (Farsi)
 http://63.237.48.23/ios/PMC/PMC.m3u8
 #EXTINF:0 tvg-name="POLO Party Polska" tvg-language="Polish" tvg-country="PL" tvg-id="POLO Party Polska" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Polish_tv_rating_system_12_2011.svg/100px-Polish_tv_rating_system_12_2011.svg.png" group-title="Music",POLO Party Polska (Polish)
 http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
@@ -2911,17 +2856,17 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://wow01.105.net/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="Music",RADIO 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-#EXTINF:0 tvg-name="RE tv" tvg-language="English" tvg-country="JM" tvg-id="RE tv" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQ1RTUPAENb4teusLhQhxU-lL7Nvz8fC8YXQUoq58c8voyYMNY2oiAHyQ" group-title="Music",RE tv (JM) (English)
+#EXTINF:0 tvg-name="RE tv" tvg-language="English" tvg-country="JM" tvg-id="RE tv" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQ1RTUPAENb4teusLhQhxU-lL7Nvz8fC8YXQUoq58c8voyYMNY2oiAHyQ" group-title="Music",RE tv (JM) 
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:0 tvg-name="Radio America Guayaquil" tvg-language="Spanish" tvg-country="EC" tvg-id="Radio America Guayaquil" tvg-logo="http://puu.sh/nySbP/adc766facd.png" group-title="Music",Radio America Guayaquil (EC) (Spanish)
+#EXTINF:0 tvg-name="Radio America Guayaquil" tvg-language="Spanish" tvg-country="EC" tvg-id="Radio America Guayaquil" tvg-logo="http://puu.sh/nySbP/adc766facd.png" group-title="Music",Radio America Guayaquil (EC) 
 http://audiohostingecuador.com:1935/radioamericaguayaquil/radioamericaguayaquil/playlist.m3u8
-#EXTINF:0 tvg-name="Radio America Quito" tvg-language="Spanish" tvg-country="EC" tvg-id="Radio America Quito" tvg-logo="http://puu.sh/nySbP/adc766facd.png" group-title="Music",Radio America Quito(EC) (Spanish)
+#EXTINF:0 tvg-name="Radio America Quito" tvg-language="Spanish" tvg-country="EC" tvg-id="Radio America Quito" tvg-logo="http://puu.sh/nySbP/adc766facd.png" group-title="Music",Radio America Quito(EC) 
 http://audiohostingecuador.com:1935/radioamericaquito/radioamericaquito/playlist.m3u8
-#EXTINF:0 tvg-name="Radio Javan" tvg-language="Arabic" tvg-country="IR" tvg-id="Radio Javan" tvg-logo="http://radio.vinternete.com/logos/2013-01-06/8500/logo.png" group-title="Music",Radio Javan (IR) (Arabic)
+#EXTINF:0 tvg-name="Radio Javan" tvg-language="Arabic" tvg-country="IR" tvg-id="Radio Javan" tvg-logo="http://radio.vinternete.com/logos/2013-01-06/8500/logo.png" group-title="Music",Radio Javan (IR) 
 http://63.237.48.3/ios/PNG/PNG.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",MagicTV
 http://91.187.113.181:8000/play/a021
-#EXTINF:0 tvg-name="Radio Monte Carlo TV" tvg-language="English/Italian" tvg-country="IT" tvg-id="Radio Monte Carlo TV" tvg-logo="http://i.imgur.com/wE5N6H3.jpg" group-title="Music",Radio Monte Carlo TV (IT) (English/Italian)
+#EXTINF:0 tvg-name="Radio Monte Carlo TV" tvg-language="English/Italian" tvg-country="IT" tvg-id="Radio Monte Carlo TV" tvg-logo="http://i.imgur.com/wE5N6H3.jpg" group-title="Music",Radio Monte Carlo TV (IT) 
 http://fms.105.net:1935/live/rmc1/.m3u8
 #EXTINF:0 tvg-logo="http://thegreatwestervillefoodtruckfest.org/wp-content/uploads/2014/05/radiou-main430-300x62.png" group-title="Music", RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
@@ -2976,13 +2921,13 @@ http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovis
 http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YlB6wt4.jpg" group-title="Music", Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0 tvg-name="Slam TV" tvg-language="English" tvg-country="NL" tvg-id="Slam TV" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcT7PC2Uw_f_9MBpiypVQcUM36wMXXb5UR38IgaK58ErdJLuHU2nL2FxSmw" group-title="Music",Slam TV (Music) (NL) (English)
+#EXTINF:0 tvg-name="Slam TV" tvg-language="English" tvg-country="NL" tvg-id="Slam TV" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcT7PC2Uw_f_9MBpiypVQcUM36wMXXb5UR38IgaK58ErdJLuHU2nL2FxSmw" group-title="Music",Slam TV (NL) (English)
 http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8
 #EXTINF:0 group-title="Music",Telehit HD 
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:0 group-title="Music", Telemusica HD
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:0 tvg-name="TRT Musik" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Muzik" tvg-logo="http://img339.imageshack.us/img339/6636/logo2zls.png" group-title="Music",TRT Musik (Music) (TR) (Turkish)
+#EXTINF:0 tvg-name="TRT Musik" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Muzik" tvg-logo="http://img339.imageshack.us/img339/6636/logo2zls.png" group-title="Music",TRT Musik (TR) 
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",Scuzz
 http://46.249.55.240:8000/play/a01g
@@ -2999,7 +2944,7 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 http://edge.wms28.lorini.net/telemax/telemax/playlist.m3u8
 #EXTINF:0 tvg-name="The Box" tvg-language="English" tvg-country="UK" tvg-id="The Box" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj-kahL5jGkYh4ZUU-m_XaUIu8R-S323zLPOX_vlN0o0xH7CUU29UaqaLf" group-title="Music",The Box (Music) (UK) (English)
 http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
-#EXTINF:0 tvg-name="The Voice" tvg-language="English" tvg-country="BG" tvg-id="The Voice" tvg-logo="http://www.predavatel.com/bg/1/thevoice/thevoice.png" group-title="Music",The Voice (Music) (BG) (English)
+#EXTINF:0 tvg-name="The Voice" tvg-language="English" tvg-country="BG" tvg-id="The Voice" tvg-logo="http://www.predavatel.com/bg/1/thevoice/thevoice.png" group-title="Music",The Voice (BG) (English)
 http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.roomy-tv.com/images/681.png" group-title="Music",The Beat 104.1 FM Barbados
 http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlist.m3u8
@@ -3016,12 +2961,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="Music",TOP MUSIC
 http://5.35.240.130:30005
-#EXTINF:0 tvg-name="Trace Urban HD" tvg-language="English" tvg-country="FR" tvg-id="Trace Urban HD" tvg-logo="http://eng.thematv.ru/images/channels/trace-urban.png" group-title="Music",Trace Urban HD (Music) (FR) (English)
+#EXTINF:0 tvg-name="Trace Urban HD" tvg-language="English" tvg-country="FR" tvg-id="Trace Urban HD" tvg-logo="http://eng.thematv.ru/images/channels/trace-urban.png" group-title="Music",Trace Urban HD (FR)
 http://58.97.57.152:1935/live/hd06.stream/playlist.m3u8?id=298&type=live&ch=hd06
-#EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",TRENDY MUSICA
+#EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",Trendy Musica
 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:0 tvg-name="tunes6" tvg-language="Hindi" tvg-country="IN" tvg-id="tunes6" tvg-logo="https://lh3.googleusercontent.com/9Li1ifus7bFBIorh_WnHkjRKjDM9tzgRssW_aUiIfzH8EyrLOTnWkHAEwc0SUjSUpEo=h900" group-title="Music",tunes6 (Music) (IN) (Hindi)
+#EXTINF:0 tvg-name="tunes6" tvg-language="Hindi" tvg-country="IN" tvg-id="tunes6" tvg-logo="https://lh3.googleusercontent.com/9Li1ifus7bFBIorh_WnHkjRKjDM9tzgRssW_aUiIfzH8EyrLOTnWkHAEwc0SUjSUpEo=h900" group-title="Music",tunes6 (IN) (Hindi)
 http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",TV Blast
 http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
@@ -3029,80 +2974,10 @@ http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 http://caikrondatacenter.com.br:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
 #EXTINF:-1 group-title="Music",UTV ?
 http://81.201.52.159:8016
-#EXTINF:0 tvg-name="VH1 Shuffle" tvg-language="English" tvg-country="RU" tvg-id="VH1 Shuffle" tvg-logo="https://img-i.zeebox.com/280×200/vh1_logo_v4.png" group-title="Music",VH1 Shuffle (Music) (RU) (English)
+#EXTINF:0 tvg-name="VH1 Shuffle" tvg-language="English" tvg-country="RU" tvg-id="VH1 Shuffle" tvg-logo="https://img-i.zeebox.com/280×200/vh1_logo_v4.png" group-title="Music",VH1 Shuffle(RU)
 http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
-#EXTINF:0 tvg-name="Virgin TV" tvg-language="English" tvg-country="UK" tvg-id="Virgin TV" tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg" group-title="Music",Virgin TV (Music) (UK) (English)
+#EXTINF:0 tvg-name="Virgin TV" tvg-language="English" tvg-country="UK" tvg-id="Virgin TV" tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg" group-title="Music",Virgin TV (UK) 
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 tvg-name="Vevo TV 1" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",Vevo TV 1 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo=tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635",VEVO US/CA 1
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/05/prog_index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635",VEVO US/CA 1 HD
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-name="Vevo TV 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",Vevo TV 2 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO US/CA 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO US/CA 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO US/CA 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO US/CA 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" tvg-name="Vevo TV 3" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",Vevo TV 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 4
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 5
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 6
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 7
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 8
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 9
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 10
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 11
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 12
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 13
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 14
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 15
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 16
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 17
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Vevoityirimage.jpeg/revision/latest/scale-to-width-down/200?cb=20160211222635" group-title="Music",VEVO 18
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
-#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.online-downloader.com/Online-Downloader/vevo.png",Vevo 3 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://texastravestyarchives.com/2003_09/images/vh1.gif" group-title="Music",vh1
 http://62.210.251.159/iptv/LCCXW5PCPRZCUY/536/index.m3u8
 #EXTINF:-1 group-title="Music",VH1 CLASSIC (UK)
@@ -3121,30 +2996,28 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://fms.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:0 tvg-name="Virgin Radio TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music", Virgin TV Radio (6)
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music",VIRGIN TV
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music",Virgin TV
 
 rtmp://fms.105.net:1935/live/virgin2
 
 #EXTINF:-1 tvg-logo="" group-title="Music",VISUAL RADIO TV
 
 http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u
-#EXTINF:0 tvg-name="VM Music" tvg-language="English" tvg-country="CR" tvg-id="VM Music" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/11899772_1489407541369326_7912657918966924807_n.jpg?oh=d2de5973a824b732137944c97e3a4066&oe=566DF2F6&__gda__=1451329760_83a04d398ce53e1b92aec4619178d838" group-title="Music",VM Music (Music) (CR) (English)
+#EXTINF:0 tvg-name="VM Music" tvg-language="English" tvg-country="CR" tvg-id="VM Music" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/11899772_1489407541369326_7912657918966924807_n.jpg?oh=d2de5973a824b732137944c97e3a4066&oe=566DF2F6&__gda__=1451329760_83a04d398ce53e1b92aec4619178d838" group-title="Music",VM Music (CR) (English)
 http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
-#EXTINF:0 tvg-name="Wawa Music" tvg-language="Arabic" tvg-country="AR" tvg-id="Wawa Music" tvg-logo="https://dogmaandgeopolitics.files.wordpress.com/2012/09/cropped-315_earth_globe_logo.jpg" group-title="Music",Wawa Music (Music) (AR) (Arabic)
-http://stream.smcloud.net/live2/wawa/wawa_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/120px-Xite_Logo_New.jpg" group-title="Music",Xite Ger
 http://highvolume02.streampartner.nl/vleugels2/livestream/playlist.m3u8
-#EXTINF:0 tvg-name="Y TV" tvg-language="Hindi" tvg-country="IN" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Music",Y TV (Music) (IN) (Hindi)
+#EXTINF:0 tvg-name="Y TV" tvg-language="Hindi" tvg-country="IN" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Music",Y TV (IN) (Hindi)
 http://live.wmncdn.net/ytv_mbt/live1001.stream/playlist.m3u8
 #EXTINF:0 group-title="Music", Yumor TV HD (Russia)
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
 #EXTINF:0 tvg-name="ZNS TV Bahamas" tvg-language="English" tvg-country="BS" tvg-id="ZNS TV Bahamas" tvg-logo="http://www.thebahamasinvestor.com/wp-content/uploads/2011/12/zns.png" group-title="Music",ZNS TV Bahamas (BS) (English)
 http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-name="ZOUGLA" tvg-language="Greek" tvg-country="GR" tvg-id="ZOUGLA" tvg-logo="http://i.imgur.com/kkRVhiu.jpg" group-title="Music",ZOUGLA (Music) (GR) (Greek)
+#EXTINF:0 tvg-name="ZOUGLA" tvg-language="Greek" tvg-country="GR" tvg-id="ZOUGLA" tvg-logo="http://i.imgur.com/kkRVhiu.jpg" group-title="Music",ZOUGLA (GR) 
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
-#EXTINF:0 tvg-name="Zing UK" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing UK" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing UK (Music) (IN) (Hindi)
+#EXTINF:0 tvg-name="Zing UK" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing UK" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing UK(IN) (Hindi)
 http://zeefamily-i.akamaihd.net/hls/live/227854/zinguk/chunklist.m3u8
-#EXTINF:0 tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing (Music) (IN) (Hindi)
+#EXTINF:0 tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing  (IN) (Hindi)
 http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music", ???
 rtmp://kippingmultimediaal.nl:1935/live/ZFM1
