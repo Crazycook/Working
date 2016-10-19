@@ -512,7 +512,7 @@ http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597f
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B65ue3U04WY/AAAAAAAAAAI/AAAAAAAAACE/zQEoUZLW9D8/s120-c/photo.jpg"  group-title="Chile",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 
-#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/co.png" group-title="Columbia",---- Columbia-------
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/co.png" group-title="Columbia",[COLOR yellow]---------------------- Columbia----------------------[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://television-internet.com.ar/360-tv-digital-en-vivo.jpg?160930095606"  group-title="Columbia",360 TV col
@@ -1263,7 +1263,7 @@ http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8?rebase=on
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="Greece",Zougla TV
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
 
-#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/hu.png" group-title="Hungary",[COLOR=FFFF4500]Hungary[/COLOR]
+#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/hu.png" group-title="Hungary",[COLOR=FFFF4500] ----------------------Hungary----------------------[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/24/Atv_h.png/revision/latest/scale-to-width-down/194?cb=20151225180748&format=webp" group-title="Hungary",ATV hungary
@@ -1273,7 +1273,7 @@ http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
 #EXTINF:-1 group-title="Hungary",FixHD TV hungary
 http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/it.png" group-title="Italy",[COLOR=FFFF4500]Italy[/COLOR]
+#EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/it.png" group-title="Italy",[COLOR=FFFF4500]----------------------Italy----------------------[/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo"https://lh3.googleusercontent.com/e82aD5PWaQ_OQ1rv27mkINS9dIt8xYl9NqFnxewc1vzrl0sy6to8m182wqKlaRyRBLkj=s170" group-title="Italy",E TV Marche
@@ -1724,11 +1724,6 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/500px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="China",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/media.playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia",[COLOR yellow]---------------------- Indonesia----------------------[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",Rajawali TV
-rtmp://203.153.97.35/live/livestream
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/in.png", [COLOR blue]---------------------- India ---------------------[/COLOR]
 http://0.0.0.0
@@ -1817,6 +1812,8 @@ rtmp://202.137.11.52/jakarta/offair.sdp
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/o_channel_id.png",group-title="Indonesia",O Channel
 http://v.nxstream.com/oc/smil:octv/chunklist_w1359065062_b768000.m3u8
+#EXTINF:-1 tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",Rajawali TV
+rtmp://203.153.97.35/live/livestream
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/my.png group-title="Malaysia" group-title="Indonesia",[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
 
@@ -2032,7 +2029,7 @@ http://172.93.110.130:1935/gvnews/gvnews/live.m3u8
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" group title="News", Aljazeera Arabic
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" group-title="News", ALJAZEERA
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uxyyyp1433940740.png" group-title="News", AljazeeraL
 rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
 #EXTINF:0 tvg-logo="http://sohail786.com/wp-content/uploads/2014/02/samaa.png" group-title="News",SAMAA News (pak)
 http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
@@ -2678,8 +2675,6 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 http://149.255.152.69/hls-live/livepkgr/kral/kral/kral.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHUyjdMaYxiAgw2bzinnf73xsqZo-Ys46GhMUXbVMjkweDWYFg" group-title="Music",Kronehit
 http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
-#EXTINF:0 tvg-name="Lembranca" tvg-language="Portuguese" tvg-country="BR" tvg-id="Lembranca TV" tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/169/0c9/136ea49.jpg" group-title="Music",Lembranca (BR) (Portuguese)
-http://96.47.239.167:1935/lembranca/lembrancatv/live.m3u8
 #EXTINF:-1 tvg-logo="kiss tv.png" group-title="Music",Live Beatz
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:0 group-title="Music", M1
@@ -2704,60 +2699,36 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfRWDDA_cX_8KU9gnG8rVaZo7xyCgL89X5wIyHIjBBt9lEFa1" group-title="Music", MIMUSICA HD (2)
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg logo="https://static.wixstatic.com/media/8ee394_2a335e94816cc97d997cef280a86fe16.jpg/v1/fill/w_258,h_86,al_c,q_80,usm_0.66_1.00_0.01/8ee394_2a335e94816cc97d997cef280a86fe16.jpg" group-title="Music",MIAMI MUSIC TV
-
-http://74.208.152.93/music/stream3/stream.m3u8
-
 #EXTINF:0 tvg-name="Mifa TV" tvg-language="Arabic" tvg-country="IR" tvg-id="Mifa TV" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/GEM-MIFA-150×150.png" group-title="Music",Mifa TV (IR) (Arabic)
 http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8
-#EXTINF:0 tvg-name="Mk TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Mk TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/MK-TV-India_o.jpg" group-title="Music",Mk TV (IN) (Tamil)
-http://d2tunwguqq620e.cloudfront.net/mktv/ngrp:mknews_all/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="http://rs1198.pbsrc.com/albums/aa444/kys666/italy-radio-monte-carlo.jpg~c20" group-title="Music",MONTECARLO MUSIC
+#EXTINF:-1 tvg-logo="http://rs1198.pbsrc.com/albums/aa444/kys666/italy-radio-monte-carlo.jpg~c20" group-title="Music",Montecarlo Music
 rtmp://fms.105.net/live/rmc1
 #EXTINF:0 tvg-name="Monte Carlo TV" tvg-language="English" tvg-country="US" tvg-id="Monte Carlo TV" tvg-logo="http://wwitv.com/tvlogos/b6799.jpg" group-title="Music",Monte Carlo TV (US) 
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
-#EXTINF:0 group-title="Music", Music Box HD (Russia)
-http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:0 group-title="Music", Music Box UA (Russia)
 rtmp://212.26.132.86/live/mb_ua
 #EXTINF:0 tvg-logo="http://www.tvaovivolista.com/Multishow.png" group-title="Music", MultiShow SD
 http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg", Musicbox
-http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
-#EXTINF:0 group-title="Music", Music Box TV
+#EXTINF:0 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="Music", Music Box TV
 http://u.to/jaacAg
-#EXTINF:0  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UOuLKSfS_nFVfeLfkdVNYs_JBxNLy7DPhjBMXQJhh-_HDzYs" group-title="Music",My JAM TV
-http://108.61.159.243:1935/XStreamEngine-243/smil:MyJamTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-08Oqh6qSeEM/VcSVu3WiTJI/AAAAAAAABCA/2UmT8_qolMI/s1600/VOX%2BOlds%2BCool%2BTV%2BLive%2BStream%2BOnline.png" group-title="Music",Music Vox TV
-rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1 tvg-logo="http://i0.wp.com/www.canlitvde.com/wp-content/uploads/2015/03/musicbox.gif?resize=138%2C93" , Musicbox
-http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Music",mtunes
-http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/master.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9vSAj7vAjAQ/UP8G7a4y4aI/AAAAAAAAOVw/mt9Tfy5DWYw/s200/Muz_Tv.png" group-title="Music",MUZ TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-9vSAj7vAjAQ/UP8G7a4y4aI/AAAAAAAAOVw/mt9Tfy5DWYw/s200/Muz_Tv.png" group-title="Music",Muz TV
 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKEq0VNCYgLlcIcMd9WnMM95JOMJtdkUHxtAgPh1g-6lOIozO" group-title="Music",MUZZ ONE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKEq0VNCYgLlcIcMd9WnMM95JOMJtdkUHxtAgPh1g-6lOIozO" group-title="Music",Muzz One
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 #EXTINF:0 tvg-name="MTV AM" tvg-language="English" tvg-country="RU" tvg-id="MTV AM" tvg-logo="http://viparsh.do.am/Nkarner/TV/mtv-am-armeniana.jpg" group-title="Music",MTV AM (RU)
 http://mtvam.ru/hlsam/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.believe-dance.dk/wp-content/uploads/2012/03/mtv-dance2.gif" group-title="Music",mtv dance
-http://62.210.251.159/iptv/LCCXW5PCPRZCUY/558/index.m3u8
-#EXTINF:-1 tvg-logo="https://pp.vk.me/c629103/v629103740/1e37b/o5ostP1-GOw.jpg" group-title="Music",mtv hits
-rtmp://fr456.edem.tv/iptv/153?key=6TGEMRUHCLH9PG
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI8zpYWPSLLeWt-IRi139c_8PsEiBXdd69MNGg7TqdgI6M5ArXUg" group-title="Music",mtv live hd
-http://iliketot.dyndns.tv/tot/web/8d45473ff4ca44d79e1abc4516c2fee0.m3u
-#EXTINF:0 group-title="Music",My Music HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0 group-title="Music", Muzzone
-http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://w3.satkurier.pl/pliki/22492.png" group-title="Music",Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:0 group-title="Music", NR1 TURK SD
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Number-One-Turk_o.jpg" group-title="Music", NR1 TURK SD
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
-#EXTINF:0 group-title="Music", NR1 TURK SD-
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Number-One-Turk_o.jpg" group-title="Music", NR1 TURK SD-
 rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/nn/number1_turk_tv.png" group-title="Music",NUMBER ONE HD
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/nn/number1_turk_tv.png" group-title="Music",NUMBER ONE TURK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sites.google.com/site/toutquebectv/_/rsrc/1431248845137/tv-france/NRJ_Hits.jpg?height=193&width=200" group-title="Music",NRJ HITS
 
 rtsp://5.196.138.6:1935/live/nrjbelgique_360p
@@ -2768,13 +2739,11 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1913418838.m3u8
 http://rtmp.infomaniak.ch:1935/livecast/energytv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lh6.ggpht.com/vbPslWdSxB8dTTL0yRgezUCjmIjFKXrBW2xw1RebjV_crQ09g231JK_TdWhB8YzMnja2=w300" group-title="Music",Ocko Gold
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
-#EXTINF:0 tvg-logo="http://lh6.ggpht.com/vbPslWdSxB8dTTL0yRgezUCjmIjFKXrBW2xw1RebjV_crQ09g231JK_TdWhB8YzMnja2=w300" group-title="Music", Ócko Gold SD
-http://81.201.52.159:8012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/%C3%93%C4%8Dko_logo.png/250px-%C3%93%C4%8Dko_logo.png" group-title="Music",OCKO
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
 #EXTINF:-1 tvg-logo="http://www.czechdigitalgroup.cz/common-digitv/images/tv/ocko-expres-hd.png" group-title="Music",OCKO Express
 http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
-#EXTINF:0 group-title="Music",OneTV Arg
+#EXTINF:0 tvg-logo="http://www.stweb.tv/indalo/radioone1037/one.jpg" group-title="Music",OneTV 
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music",ONE BY
 http://rtmp.one.by:1200
@@ -2809,10 +2778,11 @@ rtmp://91.201.78.3:1935/live/rockhd
 rtmp://91.201.78.3:1935/live/dancehd
 #EXTINF:0 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music", ONE Jazz HD
 rtmp://91.201.78.3:1935/live/jazzhd
-#EXTINF:0 tvg-name="OutOfFocus.TV" tvg-language="English" tvg-country="US" tvg-id="OutOfFocus.TV" tvg-logo="http://puu.sh/npqvj/c6e0a505f2.jpg" group-title="Music",OutOfFocus.TV (US) (English)
+#EXTINF:0 tvg-name="OutOfFocus.TV" tvg-language="English" tvg-country="US" tvg-id="OutOfFocus.TV" tvg-logo="http://puu.sh/npqvj/c6e0a505f2.jpg" group-title="Music",OutOfFocus.TV 
 http://pablogott.videocdn.scaleengine.net/pablogott-iphone/play/ooftv.smil/playlist.m3u8
-#EXTINF:0 group-title="Music", PIK TV HD
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/pp/perviy_internet_kanal_ru.png" group-title="Music",PIK TV HD
 rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
+#EXTINF:0 tvg-logo="http://okteve.com/wp-content/uploads/media/efa81f6d5dad1af188e3b0216b7dab18.jpeg" group-title="Music",radioutv
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
 #EXTINF:0 tvg-name="PBN Music" tvg-language="Punjabi" tvg-country="IN" tvg-id="PBN Music" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Music",PBN Music (IN) (Punjabi)
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
@@ -2820,39 +2790,35 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3
 http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
 #EXTINF:0 tvg-name="PMC" tvg-language="Farsi" tvg-country="IR" tvg-id="PMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" group-title="Music",PMC (IR) (Farsi)
 http://63.237.48.23/ios/PMC/PMC.m3u8
-#EXTINF:0 tvg-name="POLO Party Polska" tvg-language="Polish" tvg-country="PL" tvg-id="POLO Party Polska" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Polish_tv_rating_system_12_2011.svg/100px-Polish_tv_rating_system_12_2011.svg.png" group-title="Music",POLO Party Polska (Polish)
-http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
-#EXTINF:0 group-title="Music", Power Turk HD
-http://185.28.3.10/powertv/powerturktvh.stream/chunklist.m3u8
-#EXTINF:0 group-title="Music", Power Turk HD (2)
-http://0100dyndns.tv:7879/live/tazia/tazia/817.m3u8
-#EXTINF:0 tvg-name="Peppers TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Peppers TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLrUpeEOVmU0VQpGp_FvT-s3gjIITNDgauwidg-VGpRxEc7mu7wa1_xr0" group-title="Music",Peppers TV (Music) (UK) (Tamil)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Music",Power TV HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683989928783523841/TA-gVtwF.jpg" group-title="Music",POWERTURK HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Peppers TV" tvg-language="Tamil" tvg-country="UK" tvg-id="Peppers TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLrUpeEOVmU0VQpGp_FvT-s3gjIITNDgauwidg-VGpRxEc7mu7wa1_xr0" group-title="Music",Peppers TV (Tamil)
 http://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp/playlist.m3u8
 #EXTINF:-1 vg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Power_TV_logosu.png/150px-Power_TV_logosu.png" group-title="Music",Power TV HD
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
-#EXTINF:0 group-title="Music", QUIERO MUSICA EN MI IDIOMA ARGENTINA
-mms://streamqm.uigc.net/qmusica
-#EXTINF:0 group-title="Music", QUIERO MUSICA EN MI IDIOMA ARGENTINA (2)
+#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="Music",Quiero Musica En Mi Idioma (Argentina) 
 mms://200.42.92.6:1755/qmusica
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="MUSIC",QUIERO MUSICA EN MI IDIOMA ARGENTINA LATAM
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="MUSIC",Quiero Musica En Mi Idioma (Argentina) 
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0 group-title="Music", RTL TV 102.5 (Italy)
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/53/32/11719/c175.png" group-title="Music", RTL TV 102.5 (Italy)
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:0 group-title="Music", RADIO 105 TV SD (Italy)
+#EXTINF:-1 tvg-logo="http://img.rtl.it/www.rtl.it/img/header/logo_rtl.gif" group-title="Music",RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist-b1164000.m3u8
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/Radio-105-TV_o.jpg" group-title="Music", RADIO 105 TV SD (Italy)
 rtmp://fms.105.net/live/105Test1
-#EXTINF:0 group-title="Music", RADIO 105 TV HD (Italy)
-rtmp://fms.105.net/live/105Test1
-#EXTINF:0 group-title="Music", Rádio CAPITAL TiVu SD (Italy)
+#EXTINF:0 tvg-logo="http://www.capital.it/capital/static_includes/images/logo_tivu.png" group-title="Music",Rádio CAPITAL TiVu SD (Italy)
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 tvg-id="RadioItalia.it" group-title="Music" tvg-logo="042.png",Radio Italia Tv
+#EXTINF:-1 tvg-id="RadioItalia.it" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/it/5/51/Radio_Italia_TV_Logo.png",Radio Italia Tv
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:0 group-title="Music", Radio Musichie Luna TV Partenopeo (Italy)
+#EXTINF:0 tvg-logo="http://www.lunatvlive.it/images/logo%20LunaTV%20Live.png" group-title="Music",Radio Musichie Luna TV Partenopeo (Italy)
 mmsh://83.216.165.134/rltv?MSWMExt=.asf
-#EXTINF:0 group-title="Music", RADIO MONTE CARLO TV HD (Italy)
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Radio-Monte-Carlo-TV.jpg" group-title="Music",Radio Monte Carlo TV HD (Italy)
 rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0 group-title="Music", RADIO MONTE CARLO TV (2) (Italy)
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Radio-Monte-Carlo-TV.jpg" group-title="Music",Radio Monte Carlo TV (Italy)
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:0 group-title="Music", RADIO MONTE CARLO TV (3) (Italy)
+#EXTINF:0 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Radio-Monte-Carlo-TV.jpg" group-title="Music",Radio Monte Carlo TV  (Italy)
 http://wow01.105.net/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="Music",RADIO 538 TV
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
@@ -2864,25 +2830,21 @@ http://audiohostingecuador.com:1935/radioamericaguayaquil/radioamericaguayaquil/
 http://audiohostingecuador.com:1935/radioamericaquito/radioamericaquito/playlist.m3u8
 #EXTINF:0 tvg-name="Radio Javan" tvg-language="Arabic" tvg-country="IR" tvg-id="Radio Javan" tvg-logo="http://radio.vinternete.com/logos/2013-01-06/8500/logo.png" group-title="Music",Radio Javan (IR) 
 http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",MagicTV
-http://91.187.113.181:8000/play/a021
 #EXTINF:0 tvg-name="Radio Monte Carlo TV" tvg-language="English/Italian" tvg-country="IT" tvg-id="Radio Monte Carlo TV" tvg-logo="http://i.imgur.com/wE5N6H3.jpg" group-title="Music",Radio Monte Carlo TV (IT) 
 http://fms.105.net:1935/live/rmc1/.m3u8
 #EXTINF:0 tvg-logo="http://thegreatwestervillefoodtruckfest.org/wp-content/uploads/2014/05/radiou-main430-300x62.png" group-title="Music", RADIO U TV 
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8
-#EXTINF:0 tvg-name="ReTV 1" tvg-language="Jamaican" tvg-country="JM" tvg-id="ReTV 1" tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/cache/c7/4c/c74c01ac041f23c34eb4acf31fefe41a.jpg" group-title="Music",ReTV 1 (Music) (JM) (Jamaican)
+#EXTINF:0 tvg-name="ReTV 1" tvg-language="Jamaican" tvg-country="JM" tvg-id="ReTV 1" tvg-logo="https://d2uykijsw1jrmd.cloudfront.net/media/cache/c7/4c/c74c01ac041f23c34eb4acf31fefe41a.jpg" group-title="Music",ReTV 1 (Jamaica)
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www1.rhn.tv/_RefFiles/logo.gif" group-title="Music",Real Hip Hop Network (Music) 
+#EXTINF:0 tvg-logo="http://www1.rhn.tv/_RefFiles/logo.gif" group-title="Music",Real Hip Hop Network 
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://watch-tv-online.ru/channels/retromusictv.jpg" group-title="Music",RETRO TV
+#EXTINF:-1 tvg-logo="http://watch-tv-online.ru/channels/retromusictv.jpg" group-title="Music",Retro TV
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 
-#EXTINF:-1 tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" group-title="Music", RETRO MUSIC HD
+#EXTINF:-1 tvg-logo="http://on-line-televize.cz/wp-content/uploads/2014/01/retromusic.png" group-title="Music", Retro Music HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/KGyj2LowLb2FgeJdgN8wzpjE95Uu97c4RpZlZUzrmmiD7WT6GwzZRB4-1fagMnhedt-O6OF52i7qecL0szSqJQFo3b8mX0VU1KyeEa-6R4WMUzU=w120-h120" group-title="Music",Real Jamaican Television
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.mediakey.tv/typo3temp/pics/3464ed3d32.png" group-title="Music", Radionorba Tv
-http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediakey.tv/typo3temp/pics/3464ed3d32.png" group-title="Music",Radionarbo TV RTV38
 http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.bprworld.com/new/wp-content/uploads/2013/09/radio-105.jpg" group-title="Music",RADIO 105 TV
@@ -2892,56 +2854,34 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/Radio-Monte-Carlo-TV.jpg" group-title="Music",  Radio Monte Carlo TV
-rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:-1 tvg-logo="http://www.anwb.nl/bestanden/w200/content/gallery/anwb/portal/verkeer/logo-radiozenders-verkeersinformatie/logo-radio-veronica-200-150.gif" group-title="Music",Radio Veronica
 http://b2b.rr.kpnstreaming.nl/hls/live/b2b/skyradio/live/skyradio/veronica/1600.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png" group-title="Music", Radio Deejay  (solo audio)
 http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
-tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/531.png"
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-oE6gtA2PXR8/VRCOhX-6m-I/AAAAAAAAAMQ/vheqRlqyCKU/s1600/One%2Btv.jpg" group-title="Argentina", Radio One TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:0 tvg-name="Real Hip Hop Network" tvg-language="English" tvg-country="US" tvg-id="Real Hip Hop Network" tvg-logo="https://yt3.ggpht.com/-c3TBqmO1YgE/AAAAAAAAAAI/AAAAAAAAAAA/wNkEvmNC3eM/s100-c-k-no/photo.jpg" group-title="Music",Real Hip Hop Network (Music) (US) (English)
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 #EXTINF:0 tvg-name="Real Jamaican Television" tvg-language="English" tvg-country="US" tvg-id="Real Jamaican Television" tvg-logo="http://realjamaicantelevision.com/sites/default/files/retv_logo.png" group-title="Music",Real Jamaican Television (Music) (US) (English)
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:0 tvg-name="Reggae TV" tvg-language="English" tvg-country="JM" tvg-id="Reggae TV" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRcevjcEFc77s6YTjr_fVsDdpIO6N8gkUkE5Zj9MM_POHXN2Vr9ZsaF6yo" group-title="Music",Reggae TV (Music) (JM) (English)
-http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
-#EXTINF:0 tvg-name="RomaTV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="RomaTV" tvg-logo="http://www.digital-news.it/files-admin/Simone/1437576511-roma-tv.jpg" group-title="Music",RomaTV (Music) (BG) (Bulgarian)
+#EXTINF:0 tvg-name="RomaTV" tvg-language="Bulgarian" tvg-country="BG" tvg-id="RomaTV" tvg-logo="http://www.digital-news.it/files-admin/Simone/1437576511-roma-tv.jpg" group-title="Music",RomaTV (Bulgaria)
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0 group-title="Music",Retro TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 group-title="Music",Ritmoson Latino      *
-http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?=%2FPROFILE00-801%2F.ts-1
 #EXTINF:-1 group-title="Music", Rock TV
 mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1 tvg-logo="http://img.rtl.it/www.rtl.it/img/header/logo_rtl.gif" group-title="Music",RTL 102.5
-http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/chunklist-b1164000.m3u8
 #EXTINF:-1 tvg-logo="http://ru.tv/upload/images/css/img/logo.png" group-title="Music",RU TV
 http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YlB6wt4.jpg" group-title="Music", Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0 tvg-name="Slam TV" tvg-language="English" tvg-country="NL" tvg-id="Slam TV" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcT7PC2Uw_f_9MBpiypVQcUM36wMXXb5UR38IgaK58ErdJLuHU2nL2FxSmw" group-title="Music",Slam TV (NL) (English)
+#EXTINF:0 tvg-name="Slam TV" tvg-language="English" tvg-country="NL" tvg-id="Slam TV" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcT7PC2Uw_f_9MBpiypVQcUM36wMXXb5UR38IgaK58ErdJLuHU2nL2FxSmw" group-title="Music",Slam TV (NL) 
 http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8
-#EXTINF:0 group-title="Music",Telehit HD 
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?=%2FPROFILE00-801%2F.ts-1
-#EXTINF:0 group-title="Music", Telemusica HD
+#EXTINF:0 tvg-logo="http://telemusica.tv/images/logotelemusicahit.png" group-title="Music",Telemusica HD
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 #EXTINF:0 tvg-name="TRT Musik" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Muzik" tvg-logo="http://img339.imageshack.us/img339/6636/logo2zls.png" group-title="Music",TRT Musik (TR) 
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music",Scuzz
-http://46.249.55.240:8000/play/a01g
-#EXTINF:0 group-title="Music", SKY GOSPEL WEB TV
-http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszu0vO_x8BYrBBWp_3O37U57pU5KHrVQ1F-XvcQOzJ-pxKWOT" group-title="Music",SMO Positive Channel
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/533.png" group-title="Music", Spirit TV
 http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.roomy-tv.com/images/681.png" group-title="Music",Super Sonic TV
-http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0 group-title="Music",Telemax Música
-http://edge.wms28.lorini.net/telemax/telemax/playlist.m3u8
 #EXTINF:0 tvg-name="The Box" tvg-language="English" tvg-country="UK" tvg-id="The Box" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj-kahL5jGkYh4ZUU-m_XaUIu8R-S323zLPOX_vlN0o0xH7CUU29UaqaLf" group-title="Music",The Box (Music) (UK) (English)
 http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
 #EXTINF:0 tvg-name="The Voice" tvg-language="English" tvg-country="BG" tvg-id="The Voice" tvg-logo="http://www.predavatel.com/bg/1/thevoice/thevoice.png" group-title="Music",The Voice (BG) (English)
@@ -2951,37 +2891,13 @@ http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlis
 #EXTINF:-1 tvg-logo="the real hip hop.png" group-title="Music",The Real Hip Hop 
 http://rhn.tulix.tv/live/Stream1/playlist.m3u8
 
-#EXTINF:0 tvg-name="Tiankov Popfolk" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Tiankov Popfolk" tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/tiankovtv-logo.png" group-title="Music",Tiankov Popfolk (Music) (BG) (Bulgarian)
-http://31.13.223.103:1935/tiankov/tiankov-popfolk.stream/playlist.m3u8
-#EXTINF:0 group-title="Music", The Voice
-http://87.120.201.2:80/rtplive/thevoice_live.stream/.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uguE8o4.jpg" group-title="Music",Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="Music",TOP MUSIC
-http://5.35.240.130:30005
-#EXTINF:0 tvg-name="Trace Urban HD" tvg-language="English" tvg-country="FR" tvg-id="Trace Urban HD" tvg-logo="http://eng.thematv.ru/images/channels/trace-urban.png" group-title="Music",Trace Urban HD (FR)
-http://58.97.57.152:1935/live/hd06.stream/playlist.m3u8?id=298&type=live&ch=hd06
 #EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",Trendy Musica
 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:0 tvg-name="tunes6" tvg-language="Hindi" tvg-country="IN" tvg-id="tunes6" tvg-logo="https://lh3.googleusercontent.com/9Li1ifus7bFBIorh_WnHkjRKjDM9tzgRssW_aUiIfzH8EyrLOTnWkHAEwc0SUjSUpEo=h900" group-title="Music",tunes6 (IN) (Hindi)
-http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hvtv.co/assets/images/channels/04.png" group-title="Music",TV Blast
-http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
-#EXTINF:-1 group-title="Music", Tv Sertaneja
-http://caikrondatacenter.com.br:1935/tvsertaneja/tvsertaneja.stream/live.m3u8
-#EXTINF:-1 group-title="Music",UTV ?
-http://81.201.52.159:8016
-#EXTINF:0 tvg-name="VH1 Shuffle" tvg-language="English" tvg-country="RU" tvg-id="VH1 Shuffle" tvg-logo="https://img-i.zeebox.com/280×200/vh1_logo_v4.png" group-title="Music",VH1 Shuffle(RU)
-http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183860sd2000000/a7e4d34646b475190d0c99a717f7478a546958ed/track_2_1200/playlist.m3u8
 #EXTINF:0 tvg-name="Virgin TV" tvg-language="English" tvg-country="UK" tvg-id="Virgin TV" tvg-logo="http://www.nj43.com/productsimg/itm_s_71.jpg" group-title="Music",Virgin TV (UK) 
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 tvg-logo="http://texastravestyarchives.com/2003_09/images/vh1.gif" group-title="Music",vh1
-http://62.210.251.159/iptv/LCCXW5PCPRZCUY/536/index.m3u8
-#EXTINF:-1 group-title="Music",VH1 CLASSIC (UK)
-http://163.172.14.11:12000/live/36AEg3hEXWGXgry8/725fST9spTbSSQRA/1457.ts
 #EXTINF:-1 tvg-name="Virgin Radio TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music",Virgin TV Radio
 rtmp://fms.105.net:1935/live/virgin1
 #EXTINF:0 tvg-name="Virgin Radio TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music", Virgin TV SD
@@ -2996,33 +2912,15 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://fms.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:0 tvg-name="Virgin Radio TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music", Virgin TV Radio (6)
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/04/VIRGIN_RADIO_TV_2014.jpg/revision/latest/scale-to-width-down/266?cb=20150316130915" group-title="Music",Virgin TV
-
-rtmp://fms.105.net:1935/live/virgin2
-
-#EXTINF:-1 tvg-logo="" group-title="Music",VISUAL RADIO TV
+#EXTINF:-1 tvg-logo="" group-title="Music",Visual Radio TV
 
 http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u
-#EXTINF:0 tvg-name="VM Music" tvg-language="English" tvg-country="CR" tvg-id="VM Music" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/11899772_1489407541369326_7912657918966924807_n.jpg?oh=d2de5973a824b732137944c97e3a4066&oe=566DF2F6&__gda__=1451329760_83a04d398ce53e1b92aec4619178d838" group-title="Music",VM Music (CR) (English)
-http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/120px-Xite_Logo_New.jpg" group-title="Music",Xite Ger
-http://highvolume02.streampartner.nl/vleugels2/livestream/playlist.m3u8
-#EXTINF:0 tvg-name="Y TV" tvg-language="Hindi" tvg-country="IN" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Music",Y TV (IN) (Hindi)
-http://live.wmncdn.net/ytv_mbt/live1001.stream/playlist.m3u8
-#EXTINF:0 group-title="Music", Yumor TV HD (Russia)
-http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
-#EXTINF:0 tvg-name="ZNS TV Bahamas" tvg-language="English" tvg-country="BS" tvg-id="ZNS TV Bahamas" tvg-logo="http://www.thebahamasinvestor.com/wp-content/uploads/2011/12/zns.png" group-title="Music",ZNS TV Bahamas (BS) (English)
+#EXTINF:0 tvg-name="ZNS TV Bahamas" tvg-language="English" tvg-country="BS" tvg-id="ZNS TV Bahamas" tvg-logo="http://www.thebahamasinvestor.com/wp-content/uploads/2011/12/zns.png" group-title="Music",ZNS TV Bahamas (BS) 
 http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-name="ZOUGLA" tvg-language="Greek" tvg-country="GR" tvg-id="ZOUGLA" tvg-logo="http://i.imgur.com/kkRVhiu.jpg" group-title="Music",ZOUGLA (GR) 
+#EXTINF:0 tvg-name="ZOUGLA" tvg-language="Greek" tvg-country="GR" tvg-id="ZOUGLA" tvg-logo="http://i.imgur.com/kkRVhiu.jpg" group-title="Music",Zougla (GR) 
 http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
-#EXTINF:0 tvg-name="Zing UK" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing UK" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing UK(IN) (Hindi)
-http://zeefamily-i.akamaihd.net/hls/live/227854/zinguk/chunklist.m3u8
-#EXTINF:0 tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-id="Zing" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQgEgOqpjAYxL_5nQutxY_lHfRWKWH0pHLAYqs9A_qqkCEP7MqNNCuGNgoL" group-title="Music",Zing  (IN) (Hindi)
-http://zeefamily-i.akamaihd.net/hls/live/227854/zing/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music", ???
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/289.png" group-title="Music", ZFM
 rtmp://kippingmultimediaal.nl:1935/live/ZFM1
-#EXTINF:0 group-title="Music", [Alguem Russo que me ajude a escrever] (Russia)
-rtmp://grey.ether.tv:1935/live/pfo/broadcast4 
 
 #EXTINF:-1 group-title="Web Radio",[COLOR yellow]------------ Web Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -3042,17 +2940,6 @@ http://streams.blindy.tv:8000/brain.mp3
 #EXTINF:-1 tvg-logo="https://abs.twimg.com/sticky/default_profile_images/default_profile_1_bigger.png" group-title="Web Radio",Blindy ETtc
 http://streams.blindy.tv:8000/etc.mp3
 
-
-#EXTINF:0 group-title="Web Radio",Nostalgie
-Http://www.listenlive.eu/nostalgie_fr.m3u
-#EXTINF:0 group-title="Web Radio",Nostalgie 60's
-Http://www.listenlive.eu/nostalgie_60.m3u
-#EXTINF:0 group-title="Web Radio",Nostalgie 70's
-Http://www.listenlive.eu/nostalgie_70.m3u
-#EXTINF:0 group-title="Web Radio",Nostalgie Chansons francaises
-Http://www.listenlive.eu/nostalgie_chansons.m3u
-#EXTINF:0 group-title="Web Radio",Nostalgie Top 100
-Http://www.listenlive.eu/nostalgie_top100.m3u
 
 #EXTINF:0 tvg-logo="http://cdn-images.audioaddict.com/1/c/c/8/b/5/1cc8b5c256d603302446b51cc242b9fd.png" group-title="Web Radio",DI.FM—VOCAL CHILLOUT
 http://pub2.diforfree.org:8000/di_vocalchillout_hi
@@ -3614,18 +3501,7 @@ http://82.200.209.236:8000/1fmblues
 http://82.200.209.236:8000/1fmurbanad
 #EXTINF:-1 tvg-logo="http://www.181.fm/banners/181fm-125x125.gif" group-title="Web Radio",Radio Santa Claus
 http://82.200.209.236:8000/christmasof
-#EXTINF:-1 tvg-name="NRJ ARIANA GRANDE" tvg-logo="http://38.media.tumblr.com/avatar_ba885fc3a04f_128.png" group-title="Web Radio",RADIO NRJ:NRJ ARIANA GRANDE
-http://95.81.155.24/10081/nrj_161132.mp3
-#EXTINF:-1 tvg-name="NRJ DAVID GUETTA" tvg-logo="https://f.thumbs.redditmedia.com/p8f0m4Bra3ZmI69Y.jpg" group-title="Web Radio",RADIO NRJ:NRJ DAVID GUETTA
-http://95.81.147.7/4456/nrj_123046.mp3
-#EXTINF:-1 tvg-name="NRJ RIHANNA" tvg-logo="https://33.media.tumblr.com/avatar_4194a1bd6008_128.png" group-title="Web Radio",RADIO NRJ:NRJ RIHANNA
-http://95.81.155.20/3808/nrj_3808.mp3
-#EXTINF:-1 tvg-name="NRJ SELENA GOMEZ" tvg-logo="http://image.cdn.ispot.tv/topic/Ic/selena-gomez.png" group-title="Web Radio",RADIO NRJ:NRJ SELENA GOMEZ
-http://95.81.147.20/7595/nrj_174257.mp3
-#EXTINF:-1 group-title="Web Radio",RADIO NRJ:NRJ TAYLOR SWIFT
-http://95.81.155.7/5756/nrj_113514.mp3
-#EXTINF:0 group-title="Web Radio",NRJ GANGSTA RAP (Radio) (FR) (English)
-http://95.81.147.7/4703/nrj_110456.mp3
+
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Web Radio",RADIO ROUGE:ROUGE 70s RADIO
 http://rouge-70s.ice.infomaniak.ch/rouge-70s-64.aac
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Web Radio",RADIO ROUGE:ROUGE 80s RADIO
@@ -3665,7 +3541,7 @@ http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-64.aac
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Web Radio",RADIO ROUGE:ROUGE MADE IN ITALIA
 http://rouge-italia.ice.infomaniak.ch/rouge-italia-64.aac
 
-#EXTINF:0 group-title="Web Radio",1FM - Music From The 1960s - Today!
+#EXTINF:0 tvg-logo="http://www.feirox.com/rivu/2014/03/1.FM-Online-Radio-1-120x120.png" group-title="Web Radio",1FM - Music From The 1960s - Today!
 Http://uk2.internet-radio.com:8008
 #EXTINF:-1 tvg-logo="http://www.feirox.com/rivu/2014/03/1.FM-Online-Radio-1-120x120.png" group-title="Web Radio",1.FM - Absolute 90s Radio
 
@@ -4082,32 +3958,6 @@ http://music.myradio.ua/shanson_news128.mp3
 http://music.myradio.ua/sheshory128.mp3
 
 
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",ABBA
-http://108.166.162.179:7130/;stream.mp3
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",AC/DC
-http://209.105.238.78:7176
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Black Sabbath
-http://209.105.238.78:7184
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Limp Bizkit
-http://209.105.238.78:7178
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Clannad
-http://209.105.238.78:7166
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Nash & Young
-http://209.105.238.78:7194
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Dixie Chicks
-http://209.105.238.78:7164
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Eagles
-http://209.105.238.78:7186
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Earth Wind & Fire
-http://209.105.238.78:7188
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Lake & Palmer
-http://209.105.238.78:7196
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Within Temptation & Nightwish
-http://209.105.238.78:7192
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",Simon & Garfunkel
-http://209.105.238.78:7172
-#EXTINF:-1 tvg-logo="http://raven-radio.com/wp-content/uploads/dfdfdfdfdfd.png" group-title="Web Radio",The Doors
-http://209.105.238.78:7168
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Web Radio", BON JOVI
 http://icecasthd.net:27200/live?
 
@@ -4197,7 +4047,7 @@ http://79.120.77.11:8000/progmetal?
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Progressive Death Metal
 http://79.111.119.111:9001/
 http://79.111.119.111:8000/progdeath?
-#EXTINF:-1 group-title="Web Radio",Radio Caprice - Technical Death Metal
+#EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Technical Death Metal
 http://79.120.77.11:9095/
 http://79.120.77.11:8000/techdeathmetal?
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Brutal Death Metal
@@ -4219,24 +4069,24 @@ http://listen.radionomy.com/deathmetal-.m3u
 http://0.0.0.0:1234
 
 #EXTINF:0 group-title="Canada Radio",CKRM 620 AM Regina
-http://www.blumedialab.com/streamitall/playlists/64.ca.ckrm-620.aac.low.pls
+http://ckrm.streamon.fm:8000/CKRM-48k.aac
 #EXTINF:0 tvg-logo="http://d3cihxiq4ifcu2.cloudfront.net/logo/44298.jpg" group-title="Canada Radio",CFCK 103.9 FM Canoe Lake Saskatchewan
 http://cfck.streamon.fm:8000/CFCK-24k.aac?type=.flv
 #EXTINF:0 tvg-logo="http://cdn-radiotime-logos.tunein.com/s89525q.png" group-title="Canada Radio",CJCQ Q98 97.9 FM North Battleford Saskatchewan
-http://208.92.55.61/Q98.mp3
+http://cjcq.streamon.fm:8000/CJCQ-48k.aac
 #EXTINF:0 tvg-logo="http://cjnb.ca/sites/all/themes/cjnb/logo.png" group-title="Canada Radio",CJNB 1050 AM North Battleford Saskatchewan  
 http://3103.live.streamtheworld.com/CJNB_SC
 #EXTINF:0 tvg-name="CKLM The Goat 106.1 FM Lloydminster Alberta" tvg-logo="http://cdn-radiotime-logos.tunein.com/s11797q.png" group-title="Canada Radio",CKLM The Goat 106.1 FM Lloydminster Alberta 
 http://s1.hotdogradio.com/CKLM
-#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream 128kbps McGill University
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/CKUT-FM_logo.png" group-title="Canada Radio",CKUT 90.3 FM live stream 128kbps McGill University
 http://icecast.ckut.ca:8000/903fm-128-stereo
-#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream 192kbps
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/CKUT-FM_logo.png" group-title="Canada Radio",CKUT 90.3 FM live stream 192kbps
 http://icecast.ckut.ca:8000/903fm-192-stereo
-#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/CKUT-FM_logo.png" group-title="Canada Radio",CKUT 90.3 FM live stream (64kbps MP3 mono)
 http://icecast.ckut.ca:8000/903fm-64-mono
-#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/CKUT-FM_logo.png" group-title="Canada Radio",CKUT 90.3 FM live stream (AAC+ 64kbps stereo)
 http://icecast.ckut.ca:8000/903fm-64-stereo.aac
-#EXTINF:-1 group-title="Canada Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/CKUT-FM_logo.png" group-title="Canada Radio",CKUT 90.3 FM live stream (OGG Q6 stereo)
 http://icecast.ckut.ca:8000/903fm-q6-stereo.ogg
 #EXTINF: -1 group-title="Canada Radio",- THE HITZ CHANNEL
 http://live.hunterfm.com/hitz320
@@ -4251,120 +4101,114 @@ http://174.37.16.73:8291/
 
 http://108.178.13.122:8152/
 
-#EXTINF:-1 group-title="Canada Radio",( ONLYROCKFM ) La seule radio rock et metal de Montreal ! (ONLYROCKFM)
-http://94.23.205.82:4520
-#EXTINF:-1 group-title="Canada Radio",+SHEMROON PLUS RADIO+ | The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
+
+#EXTINF:-1 group-title="Canada Radio",SHEMROON PLUS RADIO The Best Persian Music & Talk Farsi Iran KIRN Canada News mardom pas Javan
 http://192.99.4.210:3290/stream
-#EXTINF:-1 group-title="Canada Radio",Virgin 98.5 Calgary CIBK
-http://icecastsource2.amri.ca:80/cibk-aac
-#EXTINF:-1 group-title="Canada Radio",103.9 MHz – CISN-FM CISN COUNTY, Edmonton, AB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Virgin_calgary_new.png/150px-Virgin_calgary_new.png group-title="Canada Radio",Virgin 98.5 Calgary CIBK
+http://7309.live.streamtheworld.com/CIBKFMAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Virgin_calgary_new.png/150px-Virgin_calgary_new.png" group-title="Canada Radio",Virgin 95.9 Montreal CJFM
+http://15133.live.streamtheworld.com/CJFMFMAAC.aac
+#EXTINF:-1 tvg-logo="http://rockthepark.ca/images/virgin-radio.png" group-title="Canada Radio",Virgin 97.5 London CIQM
+http://16813.live.streamtheworld.com/CIQMFMAAC.aac
+#EXTINF:-1 tvg-logo="http://valleynewsnetwork.ca/wp-content/uploads/2016/08/ZPKCULnv.jpg" group-title="Canada Radio",Virgin 104.9 Edmonton CFMG
+http://10813.live.streamtheworld.com/CFMGFMAAC.aac
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CpU0WCMWcAAQIoc.jpg" group-title="Canada Radio",Virgin 101.3 Halifax CJCH
+http://8303.live.streamtheworld.com/CJCHFMAAC.aac
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CpU0WCMWcAAQIoc.jpg" group-title="Canada Radio",Virgin 103.1 Vancouver CFBT
+http://16643.live.streamtheworld.com/CFBTFMAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/VirginRadioWinnipegLogo2012.png" group-title="Canada Radio",Virgin 94.5 Winnipeg CKMM
+http://8283.live.streamtheworld.com/CKMMFMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.radio4g.com/sites/default/files/virgin_radio_toronto.99.9.jpeg" group-title="Canada Radio",Virgin 99.9 Toronto CKFM
+http://16143.live.streamtheworld.com/CKFMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="http://rmhcna.org/wp-content/uploads/2015/04/cisn-new_transparent.jpg" group-title="Canada Radio",103.9 MHz – CISN-FM CISN COUNTY Edmonton AB
 http://live.leanstream.co/CISNFM-MP3
-#EXTINF:-1 group-title="Canada Radio",105.1 MHz – CKRY-FM Edmonton, AB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Ckry.PNG/300px-Ckry.PNG" group-title="Canada Radio",105.1 MHz – CKRY-FM Edmonton AB
 http://live.leanstream.co/CKRYFM-MP3
-#EXTINF:-1 group-title="Canada Radio",1490 MHz – CJOY-AM
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/40/hero_logo-57b378f9577be.png group-title="Canada Radio",1490 MHz – CJOY-AM Guelph On
 http://live.leanstream.co/CJOYAM-MP3
-#EXTINF:-1 group-title="Canada Radio",630 kHz – CHED-AM Edmonton
+#EXTINF:-1 tvg-logo="https://rmhcna.org/wp-content/uploads/2015/08/chedamsmall.jpg" group-title="Canada Radio",630 kHz – CHED-AM Edmonton
 http://live.leanstream.co/CHEDAM-MP3?
-#EXTINF:-1 group-title="Canada Radio",770 kHz – CHQR-FM Edmonton, AB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CHQR-AM.png" group-title="Canada Radio",770 kHz – CHQR-FM Edmonton AB
 http://live.leanstream.co/CHQRAM-MP3?tunein
 #EXTINF:-1 group-title="Canada Radio",91.7 MHz – CHBH-FM The Bounce, Edmonton, AB
 http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917
-#EXTINF:-1 group-title="Canada Radio",CFLG-FM Variety 104
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/584231541d80f4231782b6f48385d6f2.png" group-title="Canada Radio",CFLG-FM Variety 104 Corwal On
 http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rHqoqRmpMCI/hqdefault.jpg" group-title="Canada Radio",CFLT-FM 92.9 FM Jack FM Dartmouth, NS, Canada
 http://hal929.akacast.akamaistream.net/7/220/79488/v1/rogers.akacast.akamaistream.net/hal929
-#EXTINF:-1 group-title="Canada Radio",CFMI-FM
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/82/fbShare.png?r=7086" group-title="Canada Radio",CFMI-FM Vancouver
 http://live.leanstream.co/CFMIFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CFMK-FM FM 96 Kington
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/CFMK_BIG96.3_logo.png/220px-CFMK_BIG96.3_logo.png" group-title="Canada Radio",CFMK-FM FM 96 Kington
 http://live.leanstream.co/CFMKFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CFNY-FM 102.1 The Edge
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/hero_logo-57b1bdccacd12.png" group-title="Canada Radio",CFNY-FM 102.1 The Edge Brampton On
 http://live.leanstream.co/CFNYFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CFPL-FM FM 96 London’s Best Rock, London, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/CFPL-FM.png" group-title="Canada Radio",CFPL-FM FM 96 London’s Best Rock London ON
 http://live.leanstream.co/CFPLFM-MP3
-#EXTINF:-1 group-title="Canada Radio",,Virgin 999 Toronto CKFM
-http://ckfm-mp3.akacast.akamaistream.net/7/318/102120/v1/astral.akacast.akamaistream.net/ckfm-mp3
-#EXTINF:-1 group-title="Canada Radio",CFRQ-FM Dartmouth, NS, Canada
-http://6093.live.streamtheworld.com/CFRQFMAAC?
-#EXTINF:-1 group-title="Canada Radio",CHOZ-FM – OZFM 94.7 MHz St. John’s, NL, Canada
-http://206.190.130.180:8028/ozfm.aac
-#EXTINF:-1 group-title="Canada Radio",CIMJ-FM MAGIC 106
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/39/hero_logo-57b375445c9d0.png" group-title="Canada Radio",CIMJ-FM MAGIC 106 Guelph On
 http://live.leanstream.co/CIMJFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CIQB-FM B101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/CIQB-FM_BigFM_logo.svg/220px-CIQB-FM_BigFM_logo.svg.png" group-title="Canada Radio",CIQB-FM 101.1 Barrie On
 http://live.leanstream.co/CIQBFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CJKR-FM POWER 97 Winnipeg
+#EXTINF:-1 tvg-logo="http://www.pugetsoundradio.com/wp-content/uploads/2016/08/hero_logo-57adf3088e725-250x112.png" group-title="Canada Radio",CJKR-FM POWER 97 Winnipeg
 http://live.leanstream.co/CJKRFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CJNI-FM 95.7 FM Halifax, NS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CJNI_Logo.PNG" group-title="Canada Radio",CJNI-FM 95.7 FM Halifax, NS
 http://hal957.akacast.akamaistream.net/7/280/80893/v1/rogers.akacast.akamaistream.net/hal957
-#EXTINF:-1 group-title="Canada Radio",CJRS Radio Montreal
-http://68.168.122.124:8138
-#EXTINF:-1 group-title="Canada Radio",CJSS-FM 101.9 Greatest Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Boom_101_9_logo.png/220px-Boom_101_9_logo.png" group-title="Canada Radio",CJSS-FM 101.9 Greatest Hits Cornwal On
 http://live.leanstream.co/CJSSFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Umfm_Logo_2006.jpg/150px-Umfm_Logo_2006.jpg"  group-title="Canada Radio",CJUM-FM – College & Community Radio from the University of Manitoba, Winnipeg, Canada
 http://130.179.97.69:8080
-#EXTINF:-1 group-title="Canada Radio",CKBT-FM 91.5 The Beat
+#EXTINF:-1 tvg-logo="http://www.915thebeat.com/files/2014/05/BeatRevisedLogo1.png" group-title="Canada Radio",CKBT-FM 91.5 The Beat kitchener On
 http://live.leanstream.co/CKBTFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CKCB-FM The Peak
+#EXTINF:-1 tvg-logo="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/46/hero_logo-579b93ee0e583.png" group-title="Canada Radio",CKCB-FM The Peak Collingwood On
 http://live.leanstream.co/CKCBFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CKCM-AM 620 AM Grand Falls-Windsor, NL, Canada
-http://1842.live.streamtheworld.com/CKCMAMAAC?
-#EXTINF:-1 group-title="Canada Radio",CKDK-FM 103.9 Woodstock, ON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CKDK_FM_2014.png" group-title="Canada Radio",CKDK-FM 103.9 Woodstock, ON
 http://live.leanstream.co/CKDKFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CKOE FM Moncton New Brunswick Canada
+#EXTINF:-1 tvg-logo="http://ckoradio.com/logo%20CKO-1%20.jpg" group-title="Canada Radio",CKOE FM Moncton New Brunswick 
 http://173.193.205.96:8110
-#EXTINF:-1 group-title="Canada Radio",CKRU-FM 100.5 Greatest Hits
+#EXTINF:-1 tvg-logo="http://ckoradio.com/cko2-logo.jpg" group-title="Canada Radio",CJRP 103.5 FM Saint John New Brunswick
+http://us2.streamingpulse.com:8112/;stream.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/CKRU_FreshRADIO100.5_logo.png" group-title="Canada Radio",CKRU-FM 100.5 Greatest Hits Winnipeg MB
 http://live.leanstream.co/CKRUFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CKWF-FM The Wolf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/CKWF-FM.png" group-title="Canada Radio",CKWF-FM The Wolf  Peterborough, Ontario
 http://live.leanstream.co/CKWFFM-MP3
-#EXTINF:-1 group-title="Canada Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/CKXG_krock1023_logo.png/220px-CKXG_krock1023_logo.png" group-title="Canada Radio",CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada
 http://3303.live.streamtheworld.com/CKXGFMAAC?
-#EXTINF:-1 group-title="Canada Radio",Cool Jazz radio from Vancouver BC. Live Stream
-http://205.250.57.196:8000
 #EXTINF:-1 group-title="Canada Radio",CRPL-FM
 http://live.leanstream.co/CFPLFM-MP3
 #EXTINF:-1 group-title="Canada Radio",Culture Failure
 http://64.51.127.10:8000/stream/1/
-#EXTINF:-1 group-title="Canada Radio",FM The X – CFBX. Kamloops, B.C. Canada
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/CFBX-FM.png" group-title="Canada Radio",FM The X – CFBX. Kamloops, B.C. Canada
 http://198.162.21.84:8002
-#EXTINF:-1 group-title="Canada Radio",Guarani Montreal
+#EXTINF:-1 tvg-logo="http://www.guaranimontreal.com/wp-content/uploads/2013/12/logo_200x200.jpg" group-title="Canada Radio",Guarani Montreal
 http://50.7.77.114:8335/stream
-#EXTINF:-1 group-title="Canada Radio",Karaoke Quebec
-http://69.64.41.64:9560
-#EXTINF:-1 group-title="Canada Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/QdThGIt7QpveXOWsPafvWykV-jqoXzVA9EPZSiLWnafkgD_gV1nv3mmdWsl1uFBPFA=w300-rw" group-title="Canada Radio",Khalsa FM – Edmonton, Canada – VC – LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
 http://198.178.123.8:7798
-#EXTINF:-1 group-title="Canada Radio",MIX FM OTTAWA CKLI
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/d0a8c30f6cc71ba38c4d45e5288e4dbf.png" group-title="Canada Radio",MIX FM OTTAWA CKLI
 http://204.45.126.170:8179
-#EXTINF:-1 group-title="Canada Radio",MULTIMIX – Online LIVE from Hamilton, Ontario. Canada. multimixradio
-http://64.182.119.196:7640
-#EXTINF:-1 group-title="Canada Radio",Punjabi Radio CANADA
+#EXTINF:-1 tvg-logo="http://static.radio.net/images/broadcasts/66/64/15297/c175.png" group-title="Canada Radio",Punjabi Radio CANADA
 http://174.37.16.73:5270/Live
 
-#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Canada Radio",Energie 94.3
+#EXTINF:0 tvg-id="radio1" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31268q.png" tvg-name="radio1" group-title="Canada Radio",Energie 94.3 CKMF Montreal QC
 http://ckmf-mp3.akacast.akamaistream.net/7/863/102120/v1/astral.akacast.akamaistream.net/ckmf-mp3
-#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Canada Radio",CKOI 96.9
+#EXTINF:0 tvg-id="radio2" tvg-logo="http://cdn-radiotime-logos.tunein.com/s24774q.png" tvg-name="radio2" group-title="Canada Radio",CKOI 96.9 Montreal QC
 http://142.4.207.11:8000/ckoi.mp3
-#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Canada Radio",CHOM 97.7
+#EXTINF:0 tvg-id="radio3" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31168q.png" tvg-name="radio3" group-title="Canada Radio",CHOM 97.7 Montreal QC
 http://chom-mp3.akacast.akamaistream.net/7/996/102120/v1/astral.akacast.akamaistream.net/chom-mp3
-#EXTINF:0 tvg-id="radio4" tvg-logo="boomfm.png" tvg-name="radio4" group-title="Canada Radio", Boom FM 104.1
+#EXTINF:0 tvg-id="radio4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Boom1041.png" tvg-name="radio4" group-title="Canada Radio", Boom FM 104.1 CFZZ  Saint-Jean-sur-Richelieu, Quebec
 http://cfzz-aac.akacast.akamaistream.net/7/115/102120/v1/astral.akacast.akamaistream.net/cfzz-aac
 #EXTINF:0 tvg-id="radio5" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31119q.png" tvg-name="radio5" group-title="Canada Radio",Rythme FM 105.7
 http://142.4.207.11:8000/cfgl.mp3
-#EXTINF:0 tvg-id="radio6" tvg-logo="rouge1073.png" tvg-name="radio6" group-title="Canada Radio", Rouge FM 107.3
+#EXTINF:0 tvg-id="radio6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Rouge_FM_Montreal.jpg" tvg-name="radio6" group-title="Canada Radio", Rouge FM 107.3 Montreal QC
 http://cite-aac.akacast.akamaistream.net/7/275/102120/v1/astral.akacast.akamaistream.net/cite-aac
-#EXTINF:0 tvg-id="radio7" tvg-logo="http://cdn-radiotime-logos.tunein.com/s31238q.png" tvg-name="radio7" group-title="Canada Radio",Radio Circulation 730 (Traffic)
-http://142.4.207.11:8000/ckac.mp3
 #EXTINF:-1 group-title="Canada Radio",Quebec Radio
 http://184.95.52.178:8062
-#EXTINF:-1 group-title="Canada Radio",Radio Patriotique 100% Hip Hop Quebecois 24h/24h
-http://192.81.248.91:8155
-#EXTINF:-1 group-title="Canada Radio",Salamontreal Radio
+#EXTINF:-1 tvg-logo="http://www.radioendirect.net/assets/images/radio/item/4214.jpg" group-title="Canada Radio",Salamontreal Radio
 http://199.195.194.92:8018
 #EXTINF:-1 group-title="Canada Radio",Steve Madden Quebec
 http://184.95.52.178:9408
-#EXTINF:0 group-title="Canada Radio",Rouge FM Gatineau-Ottawa (CIMF-FM)
-Http://5903.live.streamtheworld.com:443/CIMFFMAAC_SC
-#EXTINF:0 group-title="Canada Radio",104,7FM Gatineau (CKOF-FM)
+#EXTINF:0 tvg-logo="http://static.mytuner.mobi/media/tvos_radios/DNsAUSQybn.png" group-title="Canada Radio",104,7FM Gatineau (CKOF-FM)
 Http://142.4.207.11:8000/ckof.mp3
-#EXTINF:0 group-title="Canada Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Energie.png/120px-Energie.png" group-title="Canada Radio",Energie Est du Québec (Rimouski) (CIKI-FM)
 Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC
 #EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png"group-title="Canada Radio" ,Montreal / McGill Campus Community Radio AAC+ 64kbps stereo
 http://stream.ckut.ca:8000/903fm-64-stereo.aac
@@ -4374,34 +4218,36 @@ http://stream.ckut.ca:8000/903fm-128-stereo
 http://stream.ckut.ca:8000/903fm-192-stereo
 #EXTINF:0 tvg-logo="https://ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png" group-title="Canada Radio",Montreal / McGill Campus Community Radio OGG Q6 stereo
 http://stream.ckut.ca:8000/903fm-q6-stereo.ogg
-#EXTINF:-1 group-title="Canada Radio",Trans Radio Canada
+#EXTINF:-1 tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/USGBUIp2xA8Xcr2NUgo-IQ/l.jpg" group-title="Canada Radio",Trans Radio Canada
 http://46.105.125.110:4610
-#EXTINF:-1 group-title="Canada Radio",UCB Canada – Chatham-Kent
+#EXTINF:-1 tvg-logo="http://mytobaccofreepledge.ca/wp-content/uploads/2013/07/Chatham-Logo-300x300.jpg" group-title="Canada Radio",UCB Canada – Chatham-Kent
 http://67.228.150.175:8930
-#EXTINF:-1 group-title="Canada Radio",underGround Quebec
+#EXTINF:-1 tvg-logo="http://www.myfmradiolive.com/uploads/radio_image/radio_canada_19_Underground-Quebec-Radio.jpg" group-title="Canada Radio",underGround Quebec
 http://174.142.97.228:8040
-#EXTINF:-1 group-title="Canada Radio",VANCOUVER CHRISTIAN RADIO
+#EXTINF:-1 tvg-logo="http://www.raddios.com/public/radios/original/11591.jpg?0000-00-00-00:00:00" group-title="Canada Radio",Vancouver Christian Radio
 http://198.27.83.198:5166
-EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Canada Radio", COPE ROCK FM
+EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s55500q.png" group-title="Canada Radio",COPE ROCK FM
 http://195.55.74.211/cope/rockfm.mp3
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167" group-title="Canada Radio",CKOC Hamilton TSN 1150
-http://5403.live.streamtheworld.com/CKOCAM_SC
+http://14853.live.streamtheworld.com/CKOCAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=toronto-1050&width=167&height=167" group-title="Canada Radio",CHUM Toronto TSN 1050
-http://8283.live.streamtheworld.com/CHUMAM_SC
+http://5843.live.streamtheworld.com/CHUMAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=montreal-690&width=167&height=167" group-title="Canada Radio",CKGM Montreal TSN 690
-http://9453.live.streamtheworld.com/CKGMAMAAC
+http://13753.live.streamtheworld.com/CKGMAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=winnipeg-1290&width=167&height=167" group-title="Canada Radio",CFRW Winnepeg TSN 1290
-http://13583.live.streamtheworld.com/CFRWAMAAC
+http://14133.live.streamtheworld.com/CFRWAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=edmonton-1260&width=167&height=167" group-title="Canada Radio",CFRN Edmonton TSN 1260
-http://10813.live.streamtheworld.com/CFRNAMAAC
+http://10813.live.streamtheworld.com/CFRNAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Canada Radio",CKST Vancouver TSN 1040
-http://13683.live.streamtheworld.com/CKSTAMAAC
+http://16643.live.streamtheworld.com/CKSTAMAAC.aac
 #EXTINF:-1 tvg-logo="http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=vancouver-1040-1410&width=167&height=167" group-title="Canada Radio",Vancouver TSN 1410
-http://www.tsn.ca/radio/vancouver-1040-i-1410
+http://16643.live.streamtheworld.com/CKSTAMAAC.aac
 #EXTINF:-1 tvg-logo="http://proxy.amri.ca/sites/default/files/player_image/f4/logo_24.png" group-title="Canada Radio",CFGO OTTAWA TSN 1200
-http://6693.live.streamtheworld.com/CFGOAMAAC
-#EXTINF:-1 group-title="Canada Radio",590 CJCL Toronto Sports Radio “The Fan”
+http://14993.live.streamtheworld.com/CFTEAMAAC.aac
+#EXTINF:-1 group-title="Canada Radio",590 CJCL Toronto Sports Radio The Fan
 http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
+http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
+http://radio_cjcl-lh.akamaihd.net/z/TOR590_1@176950/48_744ad104c179dc65-p.bootstrap?g=VKUDWOLFXOTH&hdcore=3.5.0&plugin=aasp-3.5.0.151.81
 EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn590.png" group-title="Canada Radio", CJCL Sportsnet 590 The FAN Toronto
 http://radio_cjcl-lh.akamaihd.net/i/TOR590_1@176950/master.m3u8
 EXTINF:-1 tvg-logo="http://www.sportsnet.ca/wp-content/themes/sportsnet/images/logo_sn960.png" group-title="Canada Radio", CFAC Sportsnet 960 The FAN Calgary
@@ -4410,16 +4256,14 @@ EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/f4/f2/f4f22e35d
 http://ckrm.streamon.fm:8000/CKRM-48k.aac
 #EXTINF:-1 group-title="Canada Radio",Ontario Sports Radio
 http://174.36.206.197:8146
-#EXTINF:-1 group-title="Canada Radio",Radio Canada Internationale
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/RCI_Logo.svg/200px-RCI_Logo.svg.png" group-title="Canada Radio",Radio Canada Internationale
 http://82.200.209.236:8000/rci
-#EXTINF:-1 group-title="Canada Radio",first Channel  Radio-Canada
+#EXTINF:-1 tvg-logo="http://www.siriusxm.ca/wp-content/uploads/2014/05/Header-CBC-Radio-One.png" group-title="Canada Radio",first Channel Radio-Canada
 http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0
-#EXTINF:-1 group-title="Canada Radio",Espace Musique  Radio-Canada
+#EXTINF:-1 tvg-logo="http://www.orchestrefranco.com/wp-content/uploads/2013/07/Espace_Musique_color.png" group-title="Canada Radio",Espace Musique  Radio-Canada
 http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0
 #EXTINF:-1 group-title="Canada Radio",RDI (Audio) Radio-Canada
 http://RDIRADIO.akacast.akamaistream.net:80/7/501/177423/v1/rc.akacast.akamaistream.net/RDIRADIO
-#EXTINF:-1 group-title="Canada Radio"CBC Canada Now Nova Scotia
-http://3383.live.streamtheworld.com:443/CBC_R1_HFX_H_SC
 
 #EXTINF:-1 group-title="USA Radio",[COLOR yellow]------------  USA Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
