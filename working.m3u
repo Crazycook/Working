@@ -42,6 +42,10 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
 #EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/ab/200px-NASA_TV_svg.png/revision/latest?cb=20100919035605" group-title="USA",NASA HD Public
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Telemundo-2012.png" group-title="USA", TELEMUNDO HD
+http://iphone-streaming.ustream.tv:80/uhls/22690280/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/150px-Logo_Univision_2013.svg.png" group-title="USA", UNIVISION - UniMás
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
 #EXTINF:0 tvg-name="e/i" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/6f/PBS_e-i_bug2.png/revision/latest?cb=20130830051240" group-title="USA",e/i
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 #EXTINF:0 tvg-logo="http://www.uctv.tv/images/logos/UCTV-Logo-Only.jpg" group-title="USA",UCTV
@@ -110,6 +114,10 @@ rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001
 http://hls.ksl.com/t/strata/playlist.m3u8
 #EXTINF:-1 group-title="USA",HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="USA",US:MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" group-title="USA",US:LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ca.png" group-title="Canada",[COLOR yellow]---------------------- Canada ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -531,6 +539,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 #EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ee/el_tiempo_tv_co.png" group-title="Columbia",El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ee/el_tiempo_tv_co.png" group-title="Columbia",El Tiempo Television
+http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-name="G12 tv" tvg-language="Spanish" tvg-country="CO" tvg-id="G12 tv" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-7ESGMMGgsRgIAsjz_xo3oM9lKX0jDMOtOJrOC1YP_LVrwlsuC0XIAAk" group-title="Columbia",G12 tv 
 http://g12.tv:1935/g12tvlive/smil:g12live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png" group-title="Columbia",Life design
@@ -1723,6 +1733,8 @@ http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w10818572
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/500px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="China",TV Chosun
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/media.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="China",China History Channel
+http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/in.png", [COLOR blue]---------------------- India ---------------------[/COLOR]
@@ -1946,6 +1958,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/ABC_News.jpg/220px-ABC_News.jpg" group-title="News", ABC News (stream 2)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/WFTS_ABC_Action_News_logo.jpg/250px-WFTS_ABC_Action_News_logo.jpg" group-title="News", ABC Action News
+ http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/348k/prog.m3u8?anv=1428346792363&amp;X-Anvato-Adst-Auth=J7VEixU5Z5zgsiCOwKDDDhuAwX49h37NWMVCFr3hUCHNgTxYyuhgN6KQit0+5qqh
 #EXTINF:0 tvg-logo="http://audienceservices.cbs.com/feedback/cbsn.jpg" group-title="News",CBSN HD (1080p)
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0 tvg-logo="http://audienceservices.cbs.com/feedback/cbsn.jpg" group-title="News",CBSN HD (720p)
@@ -1987,6 +2001,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rte_news_now.jpg" group-title="News",RTE News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://lh6.googleusercontent.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAJQ/eLqpEclFajI/s0-c-k-no-ns/photo.jpg" group-title="News",Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
 #EXTINF:0 tvg-logo="http://crimeastar.net/wp-content/uploads/2016/07/232.png" group-title="News",RT Documentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Bni9xGeu74Y/Vfv-ziPCSiI/AAAAAAAAO10/hGdtOz32anc/s1600/DW%2BTV%2BAsia.jpg" group-title="News",DW (UK)
@@ -2206,9 +2222,11 @@ mms://100automoto.tv/channel_mercedes
 mms://100automoto.tv/channel_porsche
 
 
-#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/-p6iL4GmIoQ4/TgdW4ASEcQI/AAAAAAAAATc/Ef8JZ0tyFIk/s288/banner-bigpond-sport.jpg" group-title="SPORT", BIGPOND SPORTS (AUS)  
+#EXTINF:-1 tvg-logo="http://sportsradiopd.com/wp-content/uploads/2016/07/1057thefan-1.jpeg" group-title="Sport",105.7 The Fan
+http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/-p6iL4GmIoQ4/TgdW4ASEcQI/AAAAAAAAATc/Ef8JZ0tyFIk/s288/banner-bigpond-sport.jpg" group-title="Sport", Bipond Sports (AUS)  
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-#EXTINF:0 tvg-name="BURSASPORT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BURSASPORT TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-Bursaspor-TV-Logo.jpg" group-title="Sports",BURSASPORT TV(Turkey)
+#EXTINF:0 tvg-name="BURSASPORT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BURSASPORT TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-Bursaspor-TV-Logo.jpg" group-title="Sports",Bursport TV(Turkey)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:0 tvg-logo="http://hogar.movistar.cl/negocios/iptv/imagenes/logo_cdo_premium.png" roup-title="Sports",CDO Premium (Chile)
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
@@ -2220,9 +2238,9 @@ http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0 tvg-name="Eurosport FRANCE" tvg-language="French" tvg-country="FR" tvg-id="Eurosport FRANCE" tvg-logo="http://www.agenceblackboard.com/images/eurosport_fr.png" group-title="Sports",Eurosport FRANCE 
+#EXTINF:0 tvg-name="Eurosport FRANCE" tvg-language="French" tvg-country="FR" tvg-id="Eurosport FRANCE" tvg-logo="http://www.agenceblackboard.com/images/eurosport_fr.png" group-title="Sports",Eurosport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:0 group-title="Sports",EUROSPORT 2
+#EXTINF:0 group-title="Sports",Eurosport 2
 http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
 #EXTINF:0 tvg-name="IRIB Varzesh Tv" tvg-language="Arabic" tvg-country="IR" tvg-id="IRIB Varzesh Tv" tvg-logo="http://www.sedaye-iran.com/images/emblems/iran-tv/irib_varzesh_tv.png" group-title="Sports",IRIB Varzesh Tv (Arabic)
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
@@ -2235,9 +2253,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_gefmxs_1800&tag=live&ext=m3u8&
 #EXTINF:0 tvg-name="NFL Now HD' tvg-language="English" tvg-country="US" tvg-id="NFL Now HD' tvg-logo="https://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png" group-title="Sports",NFL Now HD (Sports) (US) (English)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
-#EXTINF:0 tvg-name="NFL Now" tvg-language="English" tvg-country="US" tvg-id="NFL Now" tvg-logo="http://www.panthersgamelivestream.com/wp-content/uploads/2015/07/NFL_NOW_vert_RGB.jpg' group-title="Sports",NFL Now (Sports) (US) (English)
+#EXTINF:0 tvg-name="NFL Now" tvg-language="English" tvg-country="US" tvg-id="NFL Now" tvg-logo="http://www.panthersgamelivestream.com/wp-content/uploads/2015/07/NFL_NOW_vert_RGB.jpg' group-title="Sports",NFL Now 
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:0 tvg-name="One Channel" tvg-language="Arabic" tvg-country="US" tvg-id="One Channel" tvg-logo="https://ash.ms/barstool/tv-channel-icons/icons-plain-plain/png/one.png" group-title="Sports",One Channel (Sports) (US) (Arabic)
+#EXTINF:0 tvg-name="One Channel" tvg-language="Arabic" tvg-country="US" tvg-id="One Channel" tvg-logo="https://ash.ms/barstool/tv-channel-icons/icons-plain-plain/png/one.png" group-title="Sports",One Channel  (Arabic)
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="Sports",Pac 12 Network National HD
 
@@ -2295,9 +2313,9 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8canale.jpg" group-title="Sports",RETE SPORT 8 (360p)
+#EXTINF:0 tvg-logo="http://www.rete8.it/wp-content/uploads/2015/07/rete8canale.jpg" group-title="Sports",Rete Sport 8 
 http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
-#EXTINF:0 tvg-logo="http://revntv.com/media/site/images/logo_revntv.png" group-title="Sports",REV´N
+#EXTINF:0 tvg-logo="http://revntv.com/media/site/images/logo_revntv.png" group-title="Sports",Rev´n
 http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
@@ -4527,6 +4545,14 @@ http://06.stmip.net:7780/
 http://mob.sgr.globo.com:9000/igamrj
 #EXTINF:-1 tvg-logo="http://radioglobo.globo.com/estaticos/img/radioglobo_logo_share.jpg" group-title="Brazil Radio", Radio Globo SP
 http://mob.sgr.globo.com:9000/igamsp
+#EXTINF:-1 tvg-logo="http://hunter.fm/sertanejo/img/hunterfm_logocountry2016.png" group-title="Brazil Radio", Hunter FM Sertanejo
+http://live.hunterfm.com:80/country
+#EXTINF:-1 tvg-logo="http://hunter.fm/live/img/hunterfm_logo2016.png" group-title="Brazil Radio", Hunter FM Hits Channel
+http://live.hunter.fm:80/hitz
+#EXTINF:-1 tvg-logo="http://hunter.fm/pop2khits/img/hunterfm_logopop2khits2016.png" group-title="Brazil Radio", Hunter FM Pop2KHits
+http://live.hunter.fm:80/pop2k320
+#EXTINF:-1 tvg-logo="http://hunter.fm/electronic/img/hunterfm_logoelectronic2016.png" group-title="Brazil Radio", Hunter FM Electronic Channel
+http://live.hunterfm.com:80/electronic
 
 #EXTINF:-1 group-title="Czech Republic Radio",[COLOR yellow]------------  Czech Republic Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -5561,6 +5587,68 @@ http://144.76.84.8:8206/;
 mms://live.istoikona.com/zenith
 #EXTINF:0 group-title="Greece Radio",ZOO RADIO 90.8
 http://s10.voscast.com:9940/;
+
+#EXTINF:-1 group-title="Hungary Radio",[COLOR yellow]------------ Hungary Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 group-title="Hungary Radio",Kossuth
+http://mr-stream.mediaconnect.hu/4736/mr1.mp3
+#EXTINF:-1 group-title="Hungary Radio",Petőfi
+http://mr-stream.mediaconnect.hu/4738/mr2.mp3
+#EXTINF:-1 group-title="Hungary Radio",Bartók
+http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
+#EXTINF:-1 group-title="Hungary Radio",Dankó
+http://mr-stream.mediaconnect.hu/4748/mr7.mp3
+#EXTINF:-1 group-title="Hungary Radio",Class FM
+http://109.199.57.91/4784/live.mp3
+#EXTINF:-1 group-title="Hungary Radio",Music FM
+http://79.172.241.238:8000/musicfm.mp3
+#EXTINF:-1 group-title="Hungary Radio",Jazzy
+http://94.199.183.186:80/jazzy.mp3
+#EXTINF:-1 group-title="Hungary Radio",Lánchíd Rádió
+http://91.82.85.44:9004/;stream
+#EXTINF:-1 group-title="Hungary Radio",Klubrádió
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1 group-title="Hungary Radio",InfoRádió
+http://radioszerver.hu:8400/;stream
+#EXTINF:-1 group-title="Hungary Radio",Gazdasági Rádió
+http://radio.nordtelekom.hu:8000/gazdasagiradio
+#EXTINF:-1 group-title="Hungary Radio",Klasszik Rádió
+http://94.199.183.186:80/klasszik.mp3
+#EXTINF:-1 group-title="Hungary Radio",Best FM
+http://stream2.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 group-title="Hungary Radio",Rádió 1 Pécs
+http://stream.klubradio.hu:8080/source
+#EXTINF:-1 group-title="Hungary Radio",Retro Rádió Nyíregyháza
+http://stream.retrofm.hu:8000/listen
+#EXTINF:-1 group-title="Hungary Radio",Kék Duna Rádió Győr
+http://87.229.53.9:8006/;stream
+#EXTINF:-1 group-title="Hungary Radio",Radio88 Szeged
+http://stream1.radio88.hu:8300/;stream
+#EXTINF:-1 roup-title="Rádió",MegaDance Radio
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 group-title="Rádió",Sunshine FM
+http://195.56.193.129:8100/;stream
+#EXTINF:-1 group-title="Hungary Radio",Aktív Rádio Szolnok
+http://195.56.65.180:8000/aktiv.mp3
+#EXTINF:-1 group-title="Hungary Radio",COOL FM
+http://193.23.139.18:8000/stream/dds
+#EXTINF:-1 group-title="Hungary Radio",Tilos Radio
+http://stream.tilos.hu:80/tilos_128.mp3
+#EXTINF:-1 group-title="Hungary Radio",Rádió Gold
+http://37.221.209.146:6200/live.mp3
+#EXTINF:-1 group-title="Hungary Radio",Poptarisznya
+http://adas.poptarisznya.hu:8200/live.mp3
+#EXTINF:-1 group-title="Hungary Radio",LUXFUNK RADIO
+http://37.221.209.146:5000/luxfunkradio.mp3
+#EXTINF:-1 group-title="Hungary Radio",Luxfunk Blackmix
+http://37.221.209.146:5000/luxfunkblackmix.mp3
+#EXTINF:-1 group-title="Hungary Radio",Disco's Hit Rádió
+http://212.108.220.144:1039/stream.mp3
+#EXTINF:-1 group-title="Hungary Radio",MegaDance Radio
+http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 group-title="Hungary Radio",All In PartyRadio
+http://adas3.allinparty.hu:8430/hq
 
 #EXTINF:-1 group-title="Singapore Radio",[COLOR yellow]------------ Singapore Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6636,6 +6724,23 @@ http://198.154.106.101:8624
 http://198.154.106.101:8654
 #EXTINF:-1 group-title="Radio",youfm_2
 http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
+
+#EXTINF:-1 radio=true group-title="Radio",Oldies Radio - Radio Bayern
+http://94.23.62.189:5638/live.mp3
+#EXTINF:-1 radio=true group-title="Radio",Enjoy Hits! Italo Disco-Dance
+http://79.172.194.189:11540/live.mp3
+#EXTINF:-1 radio=true group-title="Radio",Capital 95.8
+http://media-ice.musicradio.com:80/CapitalMP3
+#EXTINF:-1 radio=true group-title="Radio",LBC 97.3
+http://media-ice.musicradio.com/LBC973
+#EXTINF:-1 radio=true group-title="Radio",Heart 106.2 London
+http://media-ice.musicradio.com/HeartLondon
+#EXTINF:-1 radio=true group-title="Radio",Gold
+http://media-ice.musicradio.com/GoldMP3
+#EXTINF:-1 radio=true group-title="Radio",Classic FM
+http://media-ice.musicradio.com/ClassicFM
+#EXTINF:-1 radio=true group-title="Radio",Gay FM (de)
+http://tuner.gayfm.de:80
 
 #EXTINF:-1 group-title="Movies",[COLOR BISQUE]--------------Movies--------------[/COLOR]
 http://0.0.0.0:1234
@@ -9403,7 +9508,9 @@ http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
 #EXTINF:-1 group-title="XXX TV", [COLOR red]--- XXX-VOD ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://cache-bitify.netdna-ssl.com/wp-content/uploads/2015/11/private_logo.gif" group-title="XXX TV", xx-vod
+#EXTINF:-1 group-title="XXX-VOD +18",Yunyun Paradise (Japanese hentai)
+http://www.blogger.com/video-play.mp4?contentId=349fd424ece121b8
+#EXTINF:-1 tvg-logo="https://cache-bitify.netdna-ssl.com/wp-content/uploads/2015/11/private_logo.gif" group-title="XXX-VOD +18", xx-vod
 http://rfhahlsr.porndig.com/videos/2014/03/50864_20140307.smil/chunklist_b730000.m3u8
 #EXTINF:-1 tvg-logo="http://i.anysex.com/logo-2.png" group-title="XXX-VOD +18",XXX-Babes 1
 http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
