@@ -1312,6 +1312,8 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF: -1 tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png" group-title="Italy",Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1 tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png" group-title="Italy",Rai News 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" group-title="Italy" tvg-logo="http://www.canlitelevizyonlar.net/wp-content/uploads/2014/12/rainews-24.png",Rai News
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF: -1 tvg-logo="http://apidge.altervista.org/wp-content/uploads/2016/06/rai-scuola.png" group-title="Italy",rai scuola
@@ -1826,13 +1828,30 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
 http://v.nxstream.com/oc/smil:octv/chunklist_w1359065062_b768000.m3u8
 #EXTINF:-1 tvg-name="Rajawali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",Rajawali TV
 rtmp://203.153.97.35/live/livestream
+#EXTINF:-1 group-title="Indonesia",Lokal- MNC
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+#EXTINF:-1 tvg-id="TVGuia_GLOBALTV" tvg-name="GLOBALTV" tvg-logo="GLOBALTV.png" group-title="Indonesia",GLOBALTV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/my.png group-title="Malaysia" group-title="Indonesia",[COLOR yellow]---------------------- Malaysia----------------------[/COLOR]
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Awani.jpg/220px-Awani.jpg" group-title="Malaysia", Astro Awani
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Awani.jpg/220px-Awani.jpg" group-title="Malaysia", Astro Awani
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer1.m3u
+
+#EXTINF:-1,[COLOR orange]--- Myanmar--[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 group-title="Myanmar",Channel7 1
+http://ooyala-i.akamaihd.net/hls/live/247397/forevergrouphls03/master/stream2/streamPlaylist.m3u8
+#EXTINF:0 group-title="Myanmar",Channel7 2
+http://ooyala-i.akamaihd.net/hls/live/247397/forevergrouphls03/master/stream1/streamPlaylist.m3u8
+#EXTINF:0 group-title="Myanmar",MRTV4 HD
+http://ooyala-i.akamaihd.net/hls/live/247396/forevergrouphls02/master/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Myanmar",SkyNet HD
+http://livestream-f.akamaihd.net/7228455_3875178_lsi19u5a6h274it7a52_1_446@174839?v=3.8.0&fp=WIN%2022,0,0,192&r=CJQIU&g=PTTUIJOZKUJN
+#EXTINF:-1 group-title="Myanmar",MNTV HD
+http://livestream-f.akamaihd.net/7228455_3875913_lsiamfyw4zk7wrigj3t_1_446@306438?v=3.8.0&fp=WIN%2022,0,0,192&r=SQICG&g=XJHRSYRRIUBE
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/pk.png" group-title="Pakistan",[COLOR yellow]---------------------- Pakistan----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2055,6 +2074,8 @@ http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.sm
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-Sueq2cYIIZk/UJ1F9_r4tqI/AAAAAAAAA4I/kz8u05qYi34/s1600/Palestine+today+TV+Channel+Frequency.png" group title="News", Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RAI_News_logo_%282010%29.svg/320px-RAI_News_logo_%282010%29.svg.png" group title="News", Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group title="News", TVI24 (Portugal)
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.thelogodb.com/images/media/logo/qqtssw1436894339.png" group title="News", TVE 24h
@@ -9491,7 +9512,266 @@ http://www.deadlyblogger.com/NewRelease/fireflys1e14.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS28TFhIGFAj03W8F4bmJmrzmHgswK5vMyxerjEWxHf7TIjl_iF" group-title="Firefly",Firefly – Season 1 Episode 15
 http://www.deadlyblogger.com/NewRelease/fireflys1e15.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",[COLOR yellow]---------2 Broke Girls---------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E00
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E00.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E01
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E01.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E02.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E03.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E04.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E05.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E06
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E06.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E07
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E07.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E08
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E08.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E09
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E09.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E10
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E10.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E11
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E11.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E12
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E12.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E13
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E13.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E14
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E14.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E15
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E15.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E16
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E16.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E17
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E17.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E18
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E18.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E19
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E19.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E20
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E20.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E21
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E21.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E22
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E22.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S01E24
+http://dl.tehmovies.com/94/series/2.broke.girls/s1/2BG.S01E24.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E01
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E01.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E02.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E03.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E04.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E05.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E06
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E06.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E07
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E07.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E08
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E08.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E09
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E09.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E10
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E10.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E11
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E11.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E12
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E12.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E13
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E13.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E14
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E14.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E15
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E15.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E16
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E16.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E17
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E17.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E18
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E18.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E19
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E19.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E20
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E20.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E21
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E21.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E22
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E22.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E23
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E23.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S02E24
+http://dl.tehmovies.com/94/series/2.broke.girls/s2/2.Broke.Girls.S02E24.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E01
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E01.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E02.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E03.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E04.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E05.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E06
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E06.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E07
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E07.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E08
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E08.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E09
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E09.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E10
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E10.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E11
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E11.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E12
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E12.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E13
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E13.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E14
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E14.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E15
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E15.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E16
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E16.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E17
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E17.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E18
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E18.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E19
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E19.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E20
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E20.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E21
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E21.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E22
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E22.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E23
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E23.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S03E24
+http://dl.tehmovies.com/94/series/2.broke.girls/s3/2.Broke.Girls.S03E24.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E01
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E01.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E02.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E03.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E04.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E05.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E06
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E06.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E07
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E07.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E08
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E08.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E09
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E09.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E10
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E10.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E11
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E11.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E12
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E12.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E13
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E13.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E14
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E14.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E15
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E15.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E16
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E16.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E17
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E17.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E18
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E18.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E19
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E19.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E20
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E20.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E21
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E21.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S04E22
+http://dl.tehmovies.com/94/series/2.broke.girls/s4/2.Broke.Girls.S04E22.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E01
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E01.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E02.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E03.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E04.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E05.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E06
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E06.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E07
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E07.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E08
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E08.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E09
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E09.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E10
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E10.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E11
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E11.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E12
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E12.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E13
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E13.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E14
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E14.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E15
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E15.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E16
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E16.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E17
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E17.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E18
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E18.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E19
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E19.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E20
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E20.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E21
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E21.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S05E22
+http://dl.tehmovies.com/94/series/2.broke.girls/s5/2.Broke.Girls.S05E22.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S06E01-E02
+http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E01-E02.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S06E03
+http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E03.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S06E04
+http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E04.480p.Tehmovies.biz.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S06E05
+http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E05.480p.Tehmovies.biz.mkv
+
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",[COLOR yellow]---------Aftermath---------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E01
+https://1fiag5i.oloadcdn.net/dl/l/UOQs_KX2x1XDo7t2/BchmuAQHPh0/Aftermath.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E02
+https://1fgqft7.oloadcdn.net/dl/l/HX9EqrFDd2NLLZrZ/mWhiCdFGB6U/Aftermath.S01E02.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E03
+https://pgli2v.oloadcdn.net/dl/l/CfnK944eSKq2O_bV/EgC6EPGx1XM/Aftermath.S01E03.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E04
+https://1fgqfmu.oloadcdn.net/dl/l/DRwOJNxOai54kX8L/tJix3yk-4jY/aftermath.s01e04.720p.hdtv.hevc.x265.rmteam.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E05
+https://15zf8e5.oloadcdn.net/dl/l/7EEPvMZRjYK5SSMu/rI7e2JsqpPQ/Aftermath.S01E05.HDTV.x264-FLEET.mkv.mp4?mime=true
+
 #EXTINF:-1 group-title="XXX TV",[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
+
 http://0.0.0.0:1234
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png" group-title="XXX TV", JAZMIN TV
