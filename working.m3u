@@ -1550,7 +1550,7 @@ http://media.ilmeteo.it/video/iphone/oggi.m4v
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png" group-title="Spain",Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1609401237/LOGOTIPO.JPG" group-title="Spanish",Mediterraneo TV
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1609401237/LOGOTIPO.JPG" group-title="Span",Mediterraneo TV
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://clinicavillararagon.com/wp-content/uploads/2014/09/RTV-MARBELLA.jpg" group-title="Spain",RTV Marbella
 http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
@@ -2227,6 +2227,8 @@ http://play-prod1.live.anvato.net/server/play/pns-wdiv-dfp/master.m3u8
 http://play-prod1.live.anvato.net/server/play/gray-wtvg-dfp/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Wtap_2008.png/275px-Wtap_2008.png" group-title="USA Local News",WTAP News 15 - 49 DT - Parkersburg - WV West Virginia
 http://play-prod1.live.anvato.net/server/play/gray-wtap-dfp/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.christinelusita.com/wp-content/uploads/2013/06/ktl5.png" group-title="USA Local News",KTLA 5 
+https://player-api.new.livestream.com/accounts/9262780/events/3189705/broadcasts/141125211.m3u8
 
 #EXTINF:-1 tvg-logo="http://turkiyeninsesiradyosu.com/files/radio_pics/1446631520_4391587-sports-equipment.jpg" group-title="Sports",[COLOR yellow]---------------------- Sports ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -2242,10 +2244,9 @@ mms://100automoto.tv/channel_mercedes
 #EXTINF:-1 group-title="Sports",Porsche
 mms://100automoto.tv/channel_porsche
 
-
-#EXTINF:-1 tvg-logo="http://sportsradiopd.com/wp-content/uploads/2016/07/1057thefan-1.jpeg" group-title="Sport",105.7 The Fan
+#EXTINF:-1 tvg-logo="http://sportsradiopd.com/wp-content/uploads/2016/07/1057thefan-1.jpeg" group-title="Sports",105.7 The Fan
 http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
-#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/-p6iL4GmIoQ4/TgdW4ASEcQI/AAAAAAAAATc/Ef8JZ0tyFIk/s288/banner-bigpond-sport.jpg" group-title="Sport", Bipond Sports (AUS)  
+#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/-p6iL4GmIoQ4/TgdW4ASEcQI/AAAAAAAAATc/Ef8JZ0tyFIk/s288/banner-bigpond-sport.jpg" group-title="Sports", Bipond Sports (AUS)  
 mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
 #EXTINF:0 tvg-name="BURSASPORT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BURSASPORT TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-Online-Bursaspor-TV-Logo.jpg" group-title="Sports",Bursport TV(Turkey)
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
@@ -2278,33 +2279,6 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:0 tvg-name="One Channel" tvg-language="Arabic" tvg-country="US" tvg-id="One Channel" tvg-logo="https://ash.ms/barstool/tv-channel-icons/icons-plain-plain/png/one.png" group-title="Sports",One Channel  (Arabic)
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/437.png" group-title="Sports",Pac 12 Network National HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/441.png" group-title="Sports",Pac 12 Washington HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/439.png" group-title="Sports",Pac 12 Network Los Angeles HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="Sports",Pac 12 Network Arizona HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/345.png" group-title="Sports",Pac 12 Network Oregon HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png"  group-title="Sports",Pac 12 Network Bay Area HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
-
-#EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/343.png" group-title="Sports",Pac 12 Network Moutain HD
-
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
 #EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="Sports",PAC-12 Net. (Arizona)
 http://xrxs.net/video/live-p12ariz-4728.m3u8?
 #EXTINF:0 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/435.png"  group-title="Sports",PAC-12 Net. (Bay Area)
@@ -2330,7 +2304,7 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
     
 #EXTINF:0 group-title="Sports",Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
+#EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (ES) (Spanish)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="http://4.bp.blogspot.com/-4jZFfXZxJg8/UE_6-rwQw4I/AAAAAAAACRI/PJfR6sfs85k/s200/RedBullTV.png" group-title="Sports",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
@@ -2364,17 +2338,17 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/200-sports/204-super-sports-4.png" group-title="Sports",Super Sports 4 (Albania)
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/tt/telesport_al.png" group-title="Sports",TELESPORT
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/tt/telesport_al.png" group-title="Sports",Telesport
 http://bit.ly/2dhCPNg
-#EXTINF:0 tvg-name="TILESPORT" tvg-language="Greek" tvg-country="GR' tvg-id="TILESPORT" tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports",TILESPORT (Greek)
+#EXTINF:0 tvg-name="TILESPORT" tvg-language="Greek" tvg-country="GR' tvg-id="TILESPORT" tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports",Tilesport (Greek)
 http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 #EXTINF:0 tvg-logo="http://www.guidetosa.com.au/wp-content/uploads/2015/07/55935d3cdb9ad-bmt-logo.jpg" group-title="Sports", TileSport TV
 rtmp://tv1.streampulse.eu/tilesport/movie1
 #EXTINF:0 tvg-name="Tribuna Channel" tvg-language="Amharic" tvg-country="AL" tvg-id="Tribuna Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Tribuna-Channel-Kosovo_o.jpg" group-title="Sports",Tribuna Channel (AL) (Amharic)
 http://84.22.48.253:89/tribuna/mono.m3u8
-#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/tt/tring_al_sport_news.png" group-title="Sports",TRING SPORT NEWS
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/tt/tring_al_sport_news.png" group-title="Sports",Tring Sport News
 http://bit.ly/2e5LPJp
-#EXTINF:0 tvg-name="TVJ SPORTS NETWORK 2 Jamaica" tvg-language="Jamaican" tvg-country="JM" tvg-id="TVJ SPORTS NETWORK 2 Jamaica" tvg-logo="https://www.discoverflow.co/uploads/channels/201208020005495019fc9d8085f.png?v6" group-title="Sports",TVJ SPORTS NETWORK 2 Jamaica
+#EXTINF:0 tvg-name="TVJ SPORTS NETWORK 2 Jamaica" tvg-language="Jamaican" tvg-country="JM" tvg-id="TVJ Sports Network 2 Jamaica" tvg-logo="https://www.discoverflow.co/uploads/channels/201208020005495019fc9d8085f.png?v6" group-title="Sports",TVJ SPORTS NETWORK 2 Jamaica
 http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
 #EXTINF:0 tvg-name="TVJ Sport" tvg-language="English" tvg-country="JM" tvg-id="TVJ Sport" tvg-logo="http://www.caribbeanlogos.com/wp-content/uploads/2013/08/TVJ-Sports-vector-logo.jpg" group-title="Sports",TVJ Sport
 http://68.71.42.179/live/livestream1/playlist.m3u8
@@ -2839,7 +2813,7 @@ http://live.wmncdn.net/pepperstv/51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp/playlist.m
 http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="Music",Quiero Musica En Mi Idioma (Argentina) 
 mms://200.42.92.6:1755/qmusica
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="MUSIC",Quiero Musica En Mi Idioma (Argentina) 
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Isologo-Quiero.jpg" group-title="Music",Quiero Musica En Mi Idioma (Argentina) 
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/53/32/11719/c175.png" group-title="Music", RTL TV 102.5 (Italy)
 http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
@@ -3205,6 +3179,9 @@ http://pub2.diforfree.org:8000/di_vocalchillout_hi
 http://pub2.diforfree.org:8000/di_vocallounge_hi
 #EXTINF:-1 tvg-logo="https://pp.vk.me/c621627/v621627581/2ac80/EsfWlMYruLw.jpg" group-title="Web Radio",Vocal Trance
 http://pub2.diforfree.org:8000/di_vocaltrance_hi
+#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Web Radio",Radio Metallica 
+http://107.6.132.210:9400/
+
 #EXTINF:-1 tvg-logo="http://101.ru/design/images/logo.png" group-title="Web Radio",101.RU - ABBA
 
 http://ic2.101.ru:8000/c13_13?setst=052698400134736894720120911
@@ -4488,6 +4465,8 @@ Http://media-ice.musicradio.com/HeartLondonMP3.m3u
 #EXTINF:-1 group-title="Brazil Radio",[COLOR yellow]------------  Brazil Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Brazil Radio", Adele 92.3 FM - Bauru
+http://media1.publici.com.br:8088/valedosol?type=.mp3
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Brazil Radio", Clube Fm Curitiba
 http://200.192.112.45:8000/clubefm.mp3
 #EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Brazil Radio", Cidade 99.1 FM Fortaleza
@@ -4548,6 +4527,8 @@ http://fms.skyradios.com.br:7018
 http://167.114.103.39:8470/
 #EXTINF:-1 tvg-logo="http://oucaradio.com/wp-content/uploads/2014/07/rb.jpg" group-title="Brazil Radio", Radio Bandeirantes Florianópolis
 http://streaming01.maxcast.com.br:8234/live
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="radios1.png" group-title="Brazil Radio", Vale FM
+http://a9.fabricahost.com.br:1935/valefm/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN Recife 105.7
 http://sh2.upx.com.br:8012/;stream.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosetvs.com/images/cbn.jpg" group-title="Brazil Radio", CBN BH
@@ -5982,8 +5963,6 @@ http://209.9.238.4:9844
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Radio",Hatchet Radio
 http://198.154.106.101:8266/
 
-#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Radio",Radio Metallica 
-http://107.6.132.210:9400/
 
 #EXTINF:0 group-title="Radio", CONSUMING FIRE RADIO
 http://212.48.88.39:8070
@@ -9092,9 +9071,25 @@ http://bit.do/bsvZX
 #EXTINF:0 tvg-logo="http://www.movieposterdb.com/img/posters/14_02/2013/2784512/m_2784512_dbd05c8e.jpg" group-title="Movies",Zombeavers
 http://144.76.186.45/r57/5/tyler/movie/ZombeaversDVD-TylerMovieLand.mp4
 
-#EXTINF:-1,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
+#EXTINF:-1 ,[COLOR yellow]---------------------- TV Series ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",[COLOR yellow]---------------------- Aftermath ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E01
+https://1fhjltx.oloadcdn.net/dl/l/mICbdFQcM3e9GW4K/BchmuAQHPh0/Aftermath.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E02
+https://1fgqft7.oloadcdn.net/dl/l/Mt3frK2cjdqCdG_z/mWhiCdFGB6U/Aftermath.S01E02.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E03
+https://pgli2v.oloadcdn.net/dl/l/eax0_2bXHX-cFxwQ/EgC6EPGx1XM/Aftermath.S01E03.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E04
+https://1fgqfmu.oloadcdn.net/dl/l/WwzEvvaVMnhiNXS0/tJix3yk-4jY/aftermath.s01e04.720p.hdtv.hevc.x265.rmteam.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E05
+https://15zf8e5.oloadcdn.net/dl/l/uazst4AjnoOvU5l7/rI7e2JsqpPQ/Aftermath.S01E05.HDTV.x264-FLEET.mkv.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/315179/tvthumb/aftermath-2016-57c053e5dc66c.jpg" group-title="Aftermath",Aftermath S01E06
+https://oqt1ox.oloadcdn.net/dl/l/7SCK-Sb3FoiDp0rO/x3GnoN_8Xe0/Aftermath.S01E06.HDTV.x264-FLEET.mkv.mp4?mime=true
 
 #EXTINF:-1 group-title="Game of Thrones",[COLOR yellow]---------------------- Game of Thrones ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -9755,20 +9750,6 @@ http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E03.480p.Teh
 http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E04.480p.Tehmovies.biz.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/2_Broke_Girls_logo.jpg" group-title="2 Broke Girls",2 Broke Girls – S06E05
 http://dl.tehmovies.com/94/series/2.broke.girls/s6/2.Broke.Girls.S06E05.480p.Tehmovies.biz.mkv
-
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",[COLOR yellow]---------Aftermath---------[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E01
-https://1fiag5i.oloadcdn.net/dl/l/UOQs_KX2x1XDo7t2/BchmuAQHPh0/Aftermath.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E02
-https://1fgqft7.oloadcdn.net/dl/l/HX9EqrFDd2NLLZrZ/mWhiCdFGB6U/Aftermath.S01E02.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E03
-https://pgli2v.oloadcdn.net/dl/l/CfnK944eSKq2O_bV/EgC6EPGx1XM/Aftermath.S01E03.720p.HDTV.2CH.x265.HEVC-PSA.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E04
-https://1fgqfmu.oloadcdn.net/dl/l/DRwOJNxOai54kX8L/tJix3yk-4jY/aftermath.s01e04.720p.hdtv.hevc.x265.rmteam.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://i.onionstatic.com/avclub/5999/75/1x1/150.jpg" group-title="Aftermath",Aftermath – S01E05
-https://15zf8e5.oloadcdn.net/dl/l/7EEPvMZRjYK5SSMu/rI7e2JsqpPQ/Aftermath.S01E05.HDTV.x264-FLEET.mkv.mp4?mime=true
 
 #EXTINF:-1 group-title="XXX TV",[COLOR yellow]---------------------- XXX TV ----------------------[/COLOR]
 
@@ -13092,7 +13073,7 @@ http://vpiter.tv:8083/camera1/h264
 http://vpiter.tv:8083/camera13/h264
 #EXTINF:-1 group-title="Webcams",RUS-St Petersburg 14
 http://vpiter.tv:8083/camera14/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 16
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 16
 http://vpiter.tv:8083/camera16/h264
 #EXTINF:-1 group-title="Webcams",RUS-St Petersburg 17
 http://vpiter.tv:8083/camera17/h264
@@ -13114,11 +13095,11 @@ http://vpiter.tv:8083/camera28/h264
 http://vpiter.tv:8083/camera3/h264
 #EXTINF:-1 group-title="Webcams",RUS-St Petersburg 4
 http://vpiter.tv:8083/camera4/0,0,640,480/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 5
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 5
 http://vpiter.tv:8083/camera4/640,480,640,480/h264
-#EXTINF:-1 group-title="WEBCAM",RUS-St Petersburg 6
+#EXTINF:-1 group-title="Webcams",RUS-St Petersburg 6
 http://vpiter.tv:8083/camera6/h264
-#EXTINF:-1 group-title="WEBCAM",NL:Zaandam - Niederlande
+#EXTINF:-1 group-title="Webcams",NL:Zaandam - Niederlande
 rtmp://stream.livespotting.tv/windit-edge/LS_e8463_720p.stream
 #EXTINF:-1 group-title="Webcams",RUS-St Petersburg
 http://vpiter.tv:8083/hermitage/h264
@@ -13530,7 +13511,7 @@ rtmp://cdn-01.whatsupcams.com/live//hr_zgbana2
 rtmp://cdn-01.whatsupcams.com/live//hr_sljeme1
 #EXTINF:-1 group-title="Webcams",Meia Praia webcam
 http://213.13.26.11:1935/live/meiapraia.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="WEBCAM",Estação Espacial Internacional
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Estação Espacial Internacional
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:0 group-title="Webcams",EarthCam TV - Cam TV - Nationwide TV - DC Dis Columbia
 rtmp://video1.earthcam.com/earthcamtv/Stream1
