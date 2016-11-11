@@ -22,6 +22,8 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/us.png" group-title="USA",[COLOR yellow]---------------------- USA----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 group-title="USA",ANIMAL CHANNEL
+http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
 #EXTINF:0 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
 http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
 #EXTINF:0 tvg-name="360North" tvg-logo="http://wtvpc.com/wp-content/uploads/logos/360+North+logo_59.png" group-title="USA" tvg-name=”360 North” tvg-language=”English” tvg-country=”US” tvg-id=”360 North” tvg-logo=”http://www.tv-logo.com/pt-data/uploads/images/logo/360_north.jpg”,360 North
@@ -150,7 +152,7 @@ http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0  tvg-id="SRC4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC4" group-title="Canada",ICI Radio-Canada - Rimouski - CJBR-DT
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="SRC5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC5" group-title="Canada",ICI Radio-Canada - Saguenay [COLOR yellow](lâ lâ)[/COLOR] - CKTV-DT
+#EXTINF:0 tvg-id="SRC5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC5" group-title="Canada",ICI Radio-Canada - Saguenay - CKTV-DT
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="SRC6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/ICI_RDI.png" tvg-name="SRC6" group-title="Canada",ICI Radio-Canada - Sherbrooke - CKSH-DT
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
@@ -168,6 +170,8 @@ http://link.theplatform.com/s/dtjsEC/Hf3kzMuKfZCO?feed=PROD%20-%20Live%20Stream%
 http://link.theplatform.com/s/dtjsEC/VhMJVcROT2P4?feed=PROD%20-%20Live%20Stream%20Feed
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/TWN_HD.PNG/200px-TWN_HD.PNG" group-title="Canada",Weather Network Canada HD
 http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1 tvg-logo="http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png" group-title="Canada",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png group-title="Canada",NETV Toronto (2)
@@ -1373,6 +1377,8 @@ mms://62.162.58.55/24vesti
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/md.png" group-title="Moldova",[COLOR yellow]---------------------- Moldova----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="http://www.hotelroomsearch.net/im/hotels/at/acasa.jpg" group-title="Moldova",Acasa
+http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:0 tvg-logo="https://soombo.com/assets/images/200_1449152361.png" group-title="Moldova", Super TV
 http://cdn.magictvbox.eu/set.m3u8
 
@@ -1517,7 +1523,8 @@ rtmp://s1.media-planet.sk:80/live/skalica1
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/es.png" group-title="Spain",[COLOR yellow]---------------------- Spain----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwBM_PLrl_o-oNtPVGe3ilwz2MAoT_PhldykcSplnyql54bHdb" group-title="Spain",Andalucia TV
+#EXTINF:-1 group-title="Spain",40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
 #EXTINF:0 tvg-name="ANTENA 3" tvg-language="Spanish" tvg-country="ES" tvg-id="ANTENA 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6EVpx9ua891pEc79Aji07ydfI__6s7__1pXawrKm4k61JNXZVvhZbhkw" group-title="Spain",ANTENA 3 
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tele_asturias_spain.jpg" group-title="Spain",Asturias
@@ -1526,6 +1533,8 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/710119234530107392/OOswIGYU.jpg"  group-title="Spain",andalucia television
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,BEAUTIES ESPANHA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/1375951694/logo.png" group-title="Spain",Canal Costa
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tutele.s3.amazonaws.com/wp-content/uploads/2012/01/canal-extremadura.jpg" group-title="Spain",Canal Estremadura
@@ -4585,6 +4594,26 @@ http://mp3stream.abradio.cz/seejay128.mp3
 #EXTINF:-1 group-title="France Radio",[COLOR yellow]------------  France Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 tvg-logo="http://www.alouette.fr/profiles/alouette_profile/themes/alouette_theme/img/logo.png" group-title="France Radio",Alouette AAC+
+http://broadcast.infomaniak.net/alouette-high.aac
+#EXTINF:0 tvg-logo="http://www.alouette.fr/profiles/alouette_profile/themes/alouette_theme/img/logo.png" group-title="France Radio",Alouette FM (AAC)
+http://www.alouette.fr/alouette_aac.m3u
+#EXTINF:0 tvg-logo="http://www.alouette.fr/profiles/alouette_profile/themes/alouette_theme/img/logo.png" group-title="France Radio",Alouette FM (MP3)
+http://www.alouette.fr/alouette.m3u
+#EXTINF:0 group-title="France Radio",Beur FM
+http://broadcast.infomaniak.ch/beurfm-high.mp3
+#EXTINF:0 group-title="France Radio",Beur FM
+http://broadcast.infomaniak.net/beurfm-high.mp3
+#EXTINF:0 group-title="France Radio",Beur FM AAC+
+http://broadcast.infomaniak.net/beurfm-high.aac
+#EXTINF:0 group-title="France Radio",Beur FM Kabyle
+http://broadcast.infomaniak.ch/beurfm-kabyle-high.mp3
+#EXTINF:0 group-title="France Radio",Beur FM Maroc
+http://broadcast.infomaniak.ch/beurfm-marocain-high.mp3
+#EXTINF:0 group-title="France Radio",Beur FM Oriental
+http://broadcast.infomaniak.ch/beurfm-annonces-high.mp3
+#EXTINF:0 group-title="France Radio",Beur FM Raï
+http://broadcast.infomaniak.ch/beurfm-rai-high.mp3
 #EXTINF:0 group-title="France Radio",M2 80's
 Http://www.m2radio.fr/pls/m280.m3u
 #EXTINF:0 group-title="France Radio",M2 90's
@@ -5589,6 +5618,62 @@ http://144.76.84.8:8206/;
 mms://live.istoikona.com/zenith
 #EXTINF:0 group-title="Greece Radio",ZOO RADIO 90.8
 http://s10.voscast.com:9940/;
+
+#EXTINF:-1 group-title="Germany Radio",[COLOR yellow]------------ Germany Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern (MP3)
+http://www.antenne.de/webradio/antenne.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern 80er Kulthits (AAC)
+http://www.antenne.de/webradio/channels/80er-kulthits.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern 80er Kulthits (MP3)
+http://www.antenne.de/webradio/channels/80er-kulthits.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Black Beatz (AAC)
+http://www.antenne.de/webradio/channels/black-beatz.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Black Beatz (MP3)
+http://www.antenne.de/webradio/channels/black-beatz.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Chillout (AAC)
+http://www.antenne.de/webradio/channels/chillout.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Chillout (MP3)
+http://www.antenne.de/webradio/channels/chillout.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Classic Rock Live (AAC)
+http://www.antenne.de/webradio/channels/classic-rock-live.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Classic Rock Live (MP3 Surround)
+http://www.antenne.de/webradio/channels/classic-rock-live-surround.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Classic Rock Live (MP3)
+http://www.antenne.de/webradio/channels/classic-rock-live.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Das Antenne Bayern 'Event' Radio (M
+http://www.antenne.de/webradio/channels/event.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Die jungen Wilden (AAC)
+http://www.antenne.de/webradio/channels/die-jungen-wilden.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Die jungen Wilden (MP3)
+http://www.antenne.de/webradio/channels/die-jungen-wilden.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Hits fur Kids (AAC)
+http://www.antenne.de/webradio/channels/hits-fuer-kids.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Hits fur Kids (MP3)
+http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Kino Hits (AAC)
+http://www.antenne.de/webradio/channels/kino-hits.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Kino Hits (MP3)
+http://www.antenne.de/webradio/channels/kino-hits.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Lovesongs (AAC)
+http://www.antenne.de/webradio/channels/lovesongs.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Lovesongs (MP3)
+http://www.antenne.de/webradio/channels/lovesongs.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Oldies but Goldies (AAC)
+http://www.antenne.de/webradio/channels/oldies-but-goldies.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Oldies but Goldies (MP3)
+http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Partyschlager (AAC)
+http://www.antenne.de/webradio/channels/das-schlager-karussell.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Partyschlager (MP3)
+http://www.antenne.de/webradio/channels/das-schlager-karussell.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Top 40 (AAC)
+http://www.antenne.de/webradio/channels/top-40.aac.pls
+#EXTINF:0 group-title="Germany Radio",Antenne Bayern Top 40 (MP3)
+http://www.antenne.de/webradio/channels/top-40.m3u
+#EXTINF:0 group-title="Germany Radio",Antenne Brandenburg (MP3)
+http://www.antennebrandenburg.de/live.m3u
 
 #EXTINF:-1 group-title="Hungary Radio",[COLOR yellow]------------ Hungary Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6725,22 +6810,86 @@ http://198.154.106.101:8654
 #EXTINF:-1 group-title="Radio",youfm_2
 http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
 
-#EXTINF:-1 radio=true group-title="Radio",Oldies Radio - Radio Bayern
+#EXTINF:-1 group-title="Radio",Oldies Radio - Radio Bayern
 http://94.23.62.189:5638/live.mp3
-#EXTINF:-1 radio=true group-title="Radio",Enjoy Hits! Italo Disco-Dance
+#EXTINF:-1 group-title="Radio",Enjoy Hits! Italo Disco-Dance
 http://79.172.194.189:11540/live.mp3
-#EXTINF:-1 radio=true group-title="Radio",Capital 95.8
+#EXTINF:-1 group-title="Radio",Capital 95.8
 http://media-ice.musicradio.com:80/CapitalMP3
-#EXTINF:-1 radio=true group-title="Radio",LBC 97.3
+#EXTINF:-1 group-title="Radio",LBC 97.3
 http://media-ice.musicradio.com/LBC973
-#EXTINF:-1 radio=true group-title="Radio",Heart 106.2 London
+#EXTINF:-1 group-title="Radio",Heart 106.2 London
 http://media-ice.musicradio.com/HeartLondon
-#EXTINF:-1 radio=true group-title="Radio",Gold
+#EXTINF:-1 group-title="Radio",Gold
 http://media-ice.musicradio.com/GoldMP3
-#EXTINF:-1 radio=true group-title="Radio",Classic FM
+#EXTINF:-1 group-title="Radio",Classic FM
 http://media-ice.musicradio.com/ClassicFM
-#EXTINF:-1 radio=true group-title="Radio",Gay FM (de)
+#EXTINF:-1 group-title="Radio",Gay FM (de)
 http://tuner.gayfm.de:80
+
+#EXTINF:0 group-title="Radio",100% NL
+http://stream.100p.nl
+#EXTINF:0 group-title="Radio",103 Radio (128kb/s)
+http://streaming.103radio.fr/128
+#EXTINF:0 group-title="Radio",103 Radio (320kb/s)
+http://streaming.103radio.fr/320
+#EXTINF:0 group-title="Radio",103.7 UnserDing (MP3)
+http://streaming01.sr-online.de/unserding_2.m3u
+#EXTINF:0 group-title="Radio",7 fm AAC+
+http://broadcast.infomaniak.net/7fm2-0.aac
+#EXTINF:0 group-title="Radio",7 fm mp3
+http://broadcast.infomaniak.net/7fm2.mp3
+#EXTINF:0 group-title="Radio",89.3 KPCC - Southern California Public Radio
+http://kpcclive1.publicradio.org:80/
+#EXTINF:0 group-title="Radio",AKŞEHİR AK MEGA RADYO
+http://yayin1.canliyayin.org:7078/
+#EXTINF:0 group-title="Radio",Aktív Rádió
+http://aktivradio.hu:8000/aktiv.mp3.m3u
+#EXTINF:0 group-title="Radio",AC tv
+http://www.xs4all.nl/~psi/vgellekom.wmv
+#EXTINF:0 group-title="Radio",Access San Francisco 1
+rtmp://208.69.42.59/live/stream29
+#EXTINF:0 group-title="Radio",ACIPAYAM GURBETÇİ FM
+http://live2.radyotvonline.com:8750
+#EXTINF:0 group-title="Radio",Activ Radio (Saint Etienne)
+http://www.activradio.com/component/popupStream/ecouteSaintTienne.m3u
+#EXTINF:0 group-title="Radio",ACZEN'HITS
+http://streaming208.radionomy.com:80/AC-ZEN-HITS
+mms://yayin3.canliyayin.org/guneyradyo
+#EXTINF:0 group-title="Radio",Ado FM
+http://broadcast.infomaniak.ch/start-adofm-high.mp3
+#EXTINF:0 group-title="Radio",Ado FM
+http://broadcast.infomaniak.net/start-adofm-high.mp3
+#EXTINF:0 group-title="Radio",Ado FM
+http://broadcast.infomaniak.net/start-adofm-low.mp3
+#EXTINF:0 group-title="Radio",Ado FM AAC+
+http://broadcast.infomaniak.net/start-adofm-high.aac
+#EXTINF:0 group-title="Radio",Ado FM AAC+ 32
+http://broadcast.infomaniak.net/start-adofm-32.aac
+#EXTINF:0 group-title="Radio",AirCDHitsRadio
+http://streaming208.radionomy.com:80/AirCD-Hits-Radio
+#EXTINF:0 group-title="Radio",AirSmooth
+http://streaming202.radionomy.com:80/Air-Smooth
+#EXTINF:0 group-title="Radio",Akaderia Students Politechnik
+http://lodz.radio.pionier.net.pl:8000/pl/akadera.ogg.m3u
+#EXTINF:0 group-title="Radio",ALİAĞA AKTİF FM
+http://aktiffm.radyoyayini.com:9200/
+#EXTINF:0 group-title="Radio",aliens-radio
+http://streaming203.radionomy.com:80/aliens-radio
+#EXTINF:0 group-title="Radio",ALIRAQIA
+http://cdn-streamer2.magictvbox.com/39.m3u8
+#EXTINF:0 group-title="Radio",All for Peace Radio
+http://188.225.225.28:88/all4peace-ar
+#EXTINF:0 group-title="Radio",AlloLaRadio
+http://streaming203.radionomy.com:80/Allo-La-Radio
+#EXTINF:0 group-title="Radio",Applaus Rádio
+http://mp3stream3.abradio.cz:8000/applaus128.mp3
+#EXTINF:0 group-title="Radio",ArabMusicRadio
+http://streaming208.radionomy.com:80/ArabMusicRadio
+#EXTINF:0 group-title="Radio",AŞK FM
+http://yayin.asymedya.com:8020/
+#EXTINF:0 group-title="Radio",Astronomy FM Radio
+http://radio.astronomy.fm:8111/live
 
 #EXTINF:-1 group-title="Movies",[COLOR BISQUE]--------------Movies--------------[/COLOR]
 http://0.0.0.0:1234
