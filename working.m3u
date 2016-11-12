@@ -948,6 +948,14 @@ http://0.0.0.0:1234
 #EXTINF:0 tvg-name="TV7" tvg-language="Bulgarian" tvg-country="BG" tvg-id="TV7" tvg-logo="http://gledaibgtv.com/wp-content/themes/Galleria/timthumb.php?src=http://gledaibgtv.com/wp-content/uploads/2013/11/TV7-logo.png&h=350&w=580&zc=1" group-title="Bulgaria",TV7
 http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
 
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/bg.png" group-title="Cyprus",[COLOR yellow]---------------------- Cyprus----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Cyprus",BRT TV1
+mms://bms.brtk.net/brttv
+#EXTINF:0 group-title="Cyprus",BRT tv2
+mms://bms.brtk.net/brt2
+
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/cz.png" group-title="Czech Republic",[COLOR yellow]---------------------- Czech Republic ---------------------[/COLOR]
 http://0.0.0.0:1234
@@ -1754,6 +1762,8 @@ http://0.0.0.0
 #EXTINF:-1 tvg-logo"=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Word_Tamil.svg/220px-Word_Tamil.svg.png" group-title="Tamil",[COLOR yellow]---------------------- Tamil----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="http://www.gtv-network.com/gtv_logo.jpg" group-title="Tamil",GTV
+http://live-04.viewer.dacast.com/i/dclive_1@104142/master.m3u8
 #EXTINF:0 tvg-name="Thanthi Tv" tvg-language="Tamil" tvg-country="LK" tvg-id="Thanthi Tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3jWyo7zTQThlrf8tUolgwFPH5a8bGNBIULajLuj4flv_ErWtks19M_g" group-title="Tamil",Thanthi Tv 
 http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8
 #EXTINF:0 tvg-name="Vanavil Plus" tvg-language="Tamil" tvg-country="IN" tvg-id="Vanavil Plus" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnfMdSIWG-TxZrOrOvaYoW2znNTw4JYixwz5YjwKQaEU6WqXSjJtE7lQ" group-title="Tamil",Vanavil Plus
@@ -3188,6 +3198,164 @@ http://pub2.diforfree.org:8000/di_vocalchillout_hi
 http://pub2.diforfree.org:8000/di_vocallounge_hi
 #EXTINF:-1 tvg-logo="https://pp.vk.me/c621627/v621627581/2ac80/EsfWlMYruLw.jpg" group-title="Web Radio",Vocal Trance
 http://pub2.diforfree.org:8000/di_vocaltrance_hi
+
+#EXTINF:0 group-title="Web Radio",Energy 00's
+http://broadcast.infomaniak.net/energy00s-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy 80's
+http://broadcast.infomaniak.net/energy80s-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy 80's
+http://broadcast.infomaniak.net/energy80s-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy 90's
+http://broadcast.infomaniak.net/energy90s-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Basel
+http://broadcast.infomaniak.net/energybasel-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Basel
+http://broadcast.infomaniak.net/energybasel-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Bern
+http://broadcast.infomaniak.net/energybern-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Bern
+http://broadcast.infomaniak.net/energybern-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Black
+http://broadcast.infomaniak.net/energyblack-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Charts
+http://broadcast.infomaniak.net/energycharts-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Charts
+http://broadcast.infomaniak.net/energycharts-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Dance
+http://broadcast.infomaniak.net/energydance-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Dance
+http://broadcast.infomaniak.net/energydance-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Elektro
+http://broadcast.infomaniak.net/energyelektro-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy German
+http://broadcast.infomaniak.net/energygerman-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Girl
+http://broadcast.infomaniak.net/energygirl-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Girl
+http://broadcast.infomaniak.net/energygirl-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Hot
+http://broadcast.infomaniak.net/energyhot-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Hot
+http://broadcast.infomaniak.net/energyhot-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Latin
+http://broadcast.infomaniak.net/nrjlatin-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Live
+http://broadcast.infomaniak.net/energylive-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Lounge
+http://broadcast.infomaniak.net/energylounge-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Lounge
+http://broadcast.infomaniak.net/energylounge-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Love
+http://broadcast.infomaniak.net/energylove-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Mix
+http://broadcast.infomaniak.net/energymix-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Rock
+http://broadcast.infomaniak.net/energyrock-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Soundtrack
+http://broadcast.infomaniak.net/energysoundtrack-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Soundtrack
+http://broadcast.infomaniak.net/energysoundtrack-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Special III
+http://broadcast.infomaniak.net/energyspecial3-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Swiss
+http://broadcast.infomaniak.net/energyswiss-high.mp3
+#EXTINF:0 group-title="Web Radio",Energy Zuerich
+http://broadcast.infomaniak.net/energyzuerich-low.mp3
+#EXTINF:0 group-title="Web Radio",Energy Zuerich
+http://broadcast.infomaniak.net/energyzuerich-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Contemporary by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr05-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Contemporary by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr05-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz ET Classique by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr17-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz et Classique by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr17-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Funk by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr06-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Funk by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr06-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Gospel by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr07-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Gospel by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr07-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Groove by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr08-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Groove by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr08-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Latin by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr09-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Latin by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr09-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio
+http://broadcast.infomaniak.net/jzr-wr99.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio
+http://broadcast.infomaniak.net/jazzradio-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio
+http://194.38.105.21:8002/listen.pls
+#EXTINF:0 group-title="Web Radio",Jazz Radio (ex-Fréquence Jazz)
+http://broadcast.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio - AAC+
+http://broadcast.infomaniak.net/jazzradio-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Black Music
+http://broadcast.infomaniak.net/jazzblackmusic-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Black Music
+http://broadcast.infomaniak.ch/jazzblackmusic-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Black Music AAC+
+http://broadcast.infomaniak.net/jazzblackmusic-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Blues
+http://broadcast.infomaniak.net/jazzblues-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Blues
+http://broadcast.infomaniak.ch/jazzblues-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Blues AAC+
+http://broadcast.infomaniak.net/jazzblues-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Classic Jazz
+http://broadcast.infomaniak.net/jazz-wr01-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Classic Jazz AAC+
+http://broadcast.infomaniak.net/jazz-wr01-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Ladies and Crooners
+http://broadcast.infomaniak.net/jazzladiescrooners-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Ladies and Crooners
+http://broadcast.infomaniak.ch/jazzladiescrooners-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Ladies and Crooners AAC+
+http://broadcast.infomaniak.net/jazzladiescrooners-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Lounge
+http://broadcast.infomaniak.net/jazzlounge-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Lounge
+http://broadcast.infomaniak.ch/jazzlounge-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Lounge AAC+
+http://broadcast.infomaniak.net/jazzlounge-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Manouche
+http://broadcast.infomaniak.net/jazz-wr02-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Manouche AAC+
+http://broadcast.infomaniak.net/jazz-wr02-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio New Orleans
+http://broadcast.infomaniak.net/jazz-wr03-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio New Orleans AAC+
+http://broadcast.infomaniak.net/jazz-wr03-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Radio Reprises
+http://broadcast.infomaniak.ch/reprises-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Reprises
+http://broadcast.infomaniak.net/reprises-high.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Radio Reprises AAC+
+http://broadcast.infomaniak.net/reprises-high.aac
+#EXTINF:0 group-title="Web Radio",Jazz Soul by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr10-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Soul by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr10-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz Soul Food by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr12-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazz Soul Food by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr12-64.aac
+#EXTINF:0 group-title="Web Radio",Jazz! FM88.5 KSBR - From Classic to Contemporary, It's Jazz!
+http://www.live365.com/play/ksbrcd
+#EXTINF:0 group-title="Web Radio",JazzRadio AAC+
+http://broadcast.infomaniak.net/jzr-wr99.aac
+#EXTINF:0 group-title="Web Radio",Jazzy French by Jazz Radio
+http://broadcast.infomaniak.net/jazz-wr18-128.mp3
+#EXTINF:0 group-title="Web Radio",Jazzy French by Jazz Radio AAC+
+http://broadcast.infomaniak.net/jazz-wr18-64.aac
+
 #EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="Web Radio",Radio Metallica 
 http://107.6.132.210:9400/
 
@@ -4087,6 +4255,159 @@ http://79.111.119.111:8000/speedmetal?
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/graf2/rclw1.png" group-title="Web Radio",Radio Caprice - Dark Metal
 http://79.111.119.111:9083/
 
+#EXTINF:0 group-title="Web Radio",Traxx Ambient
+http://broadcast.infomaniak.net/traxx011-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Ambient
+http://broadcast.infomaniak.net/traxx011-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Classic
+http://broadcast.infomaniak.net/traxx012-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Classic
+http://broadcast.infomaniak.net/traxx012-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Classic AAC+ 48
+http://broadcast.infomaniak.net/traxx012-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Cooljam
+http://broadcast.infomaniak.net/traxx005-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Cooljam
+http://broadcast.infomaniak.net/traxx005-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Cooljam AAC+ 48
+http://broadcast.infomaniak.net/traxx005-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Deep
+http://broadcast.infomaniak.net/traxx013-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Deep
+http://broadcast.infomaniak.net/traxx013-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Deep AAC+ 48
+http://broadcast.infomaniak.net/traxx013-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Deluxe
+http://broadcast.infomaniak.net/traxx001-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Deluxe
+http://broadcast.infomaniak.net/traxx001-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Deluxe AAC+ 48
+http://broadcast.infomaniak.net/traxx001-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Electro
+http://broadcast.infomaniak.net/traxx003-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Electro
+http://broadcast.infomaniak.net/traxx003-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Electro AAC+ 48
+http://broadcast.infomaniak.net/traxx003-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx France
+http://broadcast.infomaniak.net/traxx025-1.mp3
+#EXTINF:0 group-title="Web Radio",Traxx France
+http://broadcast.infomaniak.net/traxx025-0.mp3
+#EXTINF:0 group-title="Web Radio",Traxx France
+http://broadcast.infomaniak.net/traxx025.mp3
+#EXTINF:0 group-title="Web Radio",Traxx France AAC+ 48
+http://broadcast.infomaniak.net/traxx025-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Funk
+http://broadcast.infomaniak.net/traxx016-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Funk
+http://broadcast.infomaniak.net/traxx016-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 70'-80'
+http://broadcast.infomaniak.net/traxx017-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 70'-80'
+http://broadcast.infomaniak.net/traxx017-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 70'-80' AAC+ 48
+http://broadcast.infomaniak.net/traxx017-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 90'-00'
+http://broadcast.infomaniak.net/traxx024-1.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 90'-00'
+http://broadcast.infomaniak.net/traxx024-0.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 90'-00'
+http://broadcast.infomaniak.net/traxx024.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Gold Hits 90'-00' AAC+ 48
+http://broadcast.infomaniak.net/traxx024-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023-0.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Golden Oldies
+http://broadcast.infomaniak.net/traxx023-1.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Golden Oldies AAC+ 48
+http://broadcast.infomaniak.net/traxx023-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Hits
+http://broadcast.infomaniak.net/traxx010-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Hits
+http://broadcast.infomaniak.net/traxx010-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Hits AAC+ 48
+http://broadcast.infomaniak.net/traxx010-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx House
+http://broadcast.infomaniak.net/traxx002-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx House
+http://broadcast.infomaniak.net/traxx002-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx House AAC+ 48
+http://broadcast.infomaniak.net/traxx002-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Italia
+http://broadcast.infomaniak.net/traxx021-1.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Italia
+http://broadcast.infomaniak.net/traxx021.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Italia
+http://broadcast.infomaniak.net/traxx021-0.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Italia AAC+ 48
+http://broadcast.infomaniak.net/traxx021-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Jazz
+http://broadcast.infomaniak.net/traxx014-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Jazz
+http://broadcast.infomaniak.net/traxx014-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Jazz AAC+ 48
+http://broadcast.infomaniak.net/traxx014-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Latino
+http://broadcast.infomaniak.net/traxx008-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Latino
+http://broadcast.infomaniak.net/traxx008-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Latino AAC+ 48
+http://broadcast.infomaniak.net/traxx008-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx latino Pop
+http://broadcast.infomaniak.net/traxx022-1.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Latino Pop
+http://broadcast.infomaniak.net/traxx022.mp3
+#EXTINF:0 group-title="Web Radio",Traxx latino Pop AAC+ 48
+http://broadcast.infomaniak.net/traxx022-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Lounge
+http://broadcast.infomaniak.net/traxx004-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Lounge
+http://broadcast.infomaniak.net/traxx004-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Lounge AAC+ 48
+http://broadcast.infomaniak.net/traxx004-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Pop
+http://broadcast.infomaniak.net/traxx009-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Pop
+http://broadcast.infomaniak.net/traxx009-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Rap
+http://broadcast.infomaniak.net/traxx015-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Rap
+http://broadcast.infomaniak.net/traxx015-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Rap AAC+ 48
+http://broadcast.infomaniak.net/traxx015-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx RnB
+http://broadcast.infomaniak.net/traxx007-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx RnB
+http://broadcast.infomaniak.net/traxx007-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx RnB AAC+ 48
+http://broadcast.infomaniak.net/traxx007-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Rock
+http://broadcast.infomaniak.net/traxx019-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Rock
+http://broadcast.infomaniak.net/traxx019-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Soul
+http://broadcast.infomaniak.net/traxx006-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Soul
+http://broadcast.infomaniak.net/traxx006-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Soul AAC+ 48
+http://broadcast.infomaniak.net/traxx016-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Soul AAC+ 48
+http://broadcast.infomaniak.net/traxx006-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Tech-Minimal
+http://broadcast.infomaniak.net/traxx020-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Tech-Minimal
+http://broadcast.infomaniak.net/traxx020-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Tech-Minimal AAC+ 48
+http://broadcast.infomaniak.net/traxx020-48.aac
+#EXTINF:0 group-title="Web Radio",Traxx Trance
+http://broadcast.infomaniak.net/traxx018-low.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Trance
+http://broadcast.infomaniak.net/traxx018-high.mp3
+#EXTINF:0 group-title="Web Radio",Traxx Trance AAC+ 48
+http://broadcast.infomaniak.net/traxx018-48.aac
+
 #EXTINF:-1 group-title="Web Radio",Death Metal!
 http://listen.radionomy.com/deathmetal-.m3u
 
@@ -4565,6 +4886,32 @@ http://live.hunter.fm:80/pop2k320
 #EXTINF:-1 tvg-logo="http://hunter.fm/electronic/img/hunterfm_logoelectronic2016.png" group-title="Brazil Radio", Hunter FM Electronic Channel
 http://live.hunterfm.com:80/electronic
 
+#EXTINF:-1 group-title="Cyprus Radio",[COLOR yellow]------------  Cyprus Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK FM
+mms://bms.brtk.net/bayrakfm
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK FM
+http://sc.brtk.net:8000/;*.mp3
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK INT
+mms://bms.brtk.net/bayrak-int
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK INT
+http://sc.brtk.net:8004/;*.mp3
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK KLASİK
+mms://bms.brtk.net/bayrak-classic
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK KLASİK
+http://sc.brtk.net:8006/;*.mp3
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK RADYOSU
+mms://bms.brtk.net/bayrakradio
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK RADYOSU
+http://sc.brtk.net:8002/;*.mp3
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK TÜRK MÜZİĞİ
+mms://bms.brtk.net/Bayrak-Turk-Muzigi
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK TÜRK MÜZİĞİ
+http://sc.brtk.net:8010/;*.mp3
+#EXTINF:0 group-title="Cyprus Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/BRT-new-logo.png",BRT BAYRAK RADYO HABER
+http://sc.brtk.net:8008/;*.mp3
+
 #EXTINF:-1 group-title="Czech Republic Radio",[COLOR yellow]------------  Czech Republic Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
@@ -4686,6 +5033,140 @@ Http://broadcast.infomaniak.ch/hitwest-high.mp3.m3u
 Http://www.listenlive.eu/virginradiofr.m3u
 #EXTINF:0 group-title="France Radio",Impact FM
 Http://broadcast.infomaniak.ch/impactfm-128.mp3.m3u
+#EXTINF:0 group-title="France Radio",Delta FM Boulogne
+http://broadcast.infomaniak.net/deltafmboulogne-high.mp3
+#EXTINF:0 group-title="France Radio",Delta FM Boulogne AAC+
+http://broadcast.infomaniak.net/deltafmboulogne-high.aac
+#EXTINF:0 group-title="France Radio",Delta FM Dunkerque
+http://broadcast.infomaniak.net/deltafmdunkerque-high.mp3
+#EXTINF:0 group-title="France Radio",Delta FM Dunkerque AAC+
+http://broadcast.infomaniak.net/deltafmdunkerque-high.aac
+#EXTINF:0 group-title="France Radio",Delta FM Saint Omer
+http://broadcast.infomaniak.net/deltafmsaintomer-high.mp3
+#EXTINF:0 group-title="France Radio",Delta FM Saint Omer AAC+
+http://broadcast.infomaniak.net/deltafmsaintomer-high.aac
+#EXTINF:0 group-title="France Radio",DELTA RADIO
+http://217.26.213.204:8000/radio
+#EXTINF:0 group-title="France Radio",DELTA SUMADINAC
+http://62.75.224.43:9002/
+#EXTINF:0 group-title="France Radio",Espace 100% girly
+http://broadcast.infomaniak.net/espace-vintage-high.mp3
+#EXTINF:0 group-title="France Radio",Espace 100% girly AAC+
+http://broadcast.infomaniak.net/espace-vintage-high.aac
+#EXTINF:0 group-title="France Radio",Espace 100% MJ
+http://broadcast.infomaniak.net/espace-disco-high.mp3
+#EXTINF:0 group-title="France Radio",Espace 100% MJ AAC+
+http://broadcast.infomaniak.net/espace-disco-high.aac
+#EXTINF:0 group-title="France Radio",Espace Dance Floor by RadioEspace
+http://broadcast.infomaniak.net/espace-dancefloor-high.mp3
+#EXTINF:0 group-title="France Radio",Espace Dance Floor by RadioEspace AAC+
+http://broadcast.infomaniak.net/espace-dancefloor-high.aac
+#EXTINF:0 group-title="France Radio",Espace Music Radio
+http://176.31.120.160:9000
+#EXTINF:0 group-title="France Radio",FRANCE MAGHREB
+http://broadcast.infomaniak.net/francemaghreb-high.mp3
+#EXTINF:0 group-title="France Radio",France Maghreb 2
+http://broadcast.infomaniak.net/francemaghreb2-high.mp3
+#EXTINF:0 group-title="France Radio",France Maghreb 2 AAC+
+http://broadcast.infomaniak.net/francemaghreb2-high.aac
+#EXTINF:0 group-title="France Radio",France Maghreb AAC+
+http://broadcast.infomaniak.net/francemaghreb-high.aac
+#EXTINF:0 group-title="France Radio",Generation caraibes
+http://broadcast.infomaniak.net/generations-caraibes-high.mp3
+#EXTINF:0 group-title="France Radio",Generation FM
+http://broadcast.infomaniak.net/generationfm-high.mp3
+#EXTINF:0 group-title="France Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr06.mp3
+#EXTINF:0 group-title="France Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr07.mp3
+#EXTINF:0 group-title="France Radio",Generation FM
+http://broadcast.infomaniak.net/gene-wr05.mp3
+#EXTINF:0 group-title="France Radio",Génération FM
+http://stream.generation-fm.com:7000
+#EXTINF:0 group-title="France Radio",Generation FM
+http://broadcast.infomaniak.net/generationfm.mp3
+#EXTINF:0 group-title="France Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/gene-wr05.aac
+#EXTINF:0 group-title="France Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/gene-wr06.aac
+#EXTINF:0 group-title="France Radio",Generation FM AAC+
+http://broadcast.infomaniak.net/generationfm-high.aac
+#EXTINF:0 group-title="France Radio",Generation FMAAC+
+http://broadcast.infomaniak.net/gene-wr07.aac
+#EXTINF:0 group-title="France Radio",Generation rap
+http://broadcast.infomaniak.net/generationfm-rap-high.mp3
+#EXTINF:0 group-title="France Radio",Generation slowjam
+http://broadcast.infomaniak.net/generationfm-slowjam-high.mp3
+#EXTINF:0 group-title="France Radio",Goom Radio - Allo-ciné
+http://212.23.58.168:8000/be5481d7-cd69-4d04-810b-e0e6b7ac1cac
+#EXTINF:0 group-title="France Radio",Goom Radio - Candy Station (Madonna)
+http://212.23.58.168:8000/f69c5a08-b782-4e86-a17b-00b5ea862464
+#EXTINF:0 group-title="France Radio",Goom Radio - Explicit Content
+http://212.23.58.168:8000/f76790d8-205f-49bd-8b8d-7bf1edbf76d4
+#EXTINF:0 group-title="France Radio",Goom Radio - FFDBE (Fédération Française des Bureaux des Etudiants)
+http://212.23.58.168:8000/e1fd9b73-c51b-4cbe-9e92-a73c611590d9
+#EXTINF:0 group-title="France Radio",Goom Radio - In The Club
+http://212.23.58.168:8000/6e1a9da9-e92e-4483-ab87-fd10f7c8cffb
+#EXTINF:0 group-title="France Radio",Goom Radio - Jonas Brothers
+http://212.23.58.168:8000/56f0f5cc-328d-40d9-9525-2598ea3af9d1
+#EXTINF:0 group-title="France Radio",Goom Radio - Just Hits
+http://212.23.58.168:8000/175ec076-7672-417e-a019-03c95316ab35
+#EXTINF:0 group-title="France Radio",Goom Radio - Justin Bieber Station
+http://212.23.58.168:8000/6f21c043-94e5-46ee-b600-44e9e42354b7
+#EXTINF:0 group-title="France Radio",Goom Radio - Popcorn
+http://212.23.58.168:8000/29d3ad43-5703-4261-b4a2-901d3c603b56
+#EXTINF:0 group-title="France Radio",Goom Radio - Rap 2 France
+http://212.23.58.168:8000/ee5f94f8-4382-4eb5-be18-4b7ffa95bf05
+#EXTINF:0 group-title="France Radio",Goom Radio - Rock-It
+http://212.23.58.168:8000/51d4cf81-57fe-498c-a3fa-c6684e694085
+#EXTINF:0 group-title="France Radio",Goom Radio - Suite 313
+http://212.23.58.168:8000/8308b4f3-5a8a-4c4d-8e0f-f2ce67453edd
+#EXTINF:0 group-title="France Radio",Goom Radio - Urban Mix
+http://212.23.58.168:8000/035598a0-b208-45a4-ba5d-d8e2ae4f3bcd
+#EXTINF:0 group-title="France Radio",Goom Radio - VIP Radio
+http://212.23.58.168:8000/5b0df204-dff8-4e75-b0e9-7e89e93a27fa
+#EXTINF:0 group-title="France Radio",Hotmix 80's
+http://www.hotmixradio.com/stream/hotmix80.asx
+#EXTINF:0 group-title="France Radio",Hotmix 90's
+http://www.hotmixradio.com/stream/hotmix90.asx
+#EXTINF:0 group-title="France Radio",Hotmix Dance
+http://www.hotmixradio.fr/stream/hotmix.m3u
+#EXTINF:0 group-title="France Radio",Hotmix Frenchy
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-frenchy-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix Funky
+http://www.hotmixradio.com/stream/funky.asx
+#EXTINF:0 group-title="France Radio",Hotmix Hits
+http://www.hotmixradio.fr/stream/hotmixHIT.m3u
+#EXTINF:0 group-title="France Radio",Hotmix Hot
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix Japan
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-japan-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix Metal
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-metal-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix New
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-new-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix Rock
+http://www.hotmixradio.fr/stream/hotmixrock.m3u
+#EXTINF:0 group-title="France Radio",Hotmix Sunny
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-sunny-128.mp3
+#EXTINF:0 group-title="France Radio",Hotmix VIP
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-vip-128.mp3
+#EXTINF:0 group-title="France Radio",Ouï FM
+http://broadcast.infomaniak.net:80/ouifm-high.mp3
+#EXTINF:0 group-title="France Radio",OUI FM - Blues Rock
+http://broadcast.infomaniak.net/ouifm4.mp3
+#EXTINF:0 group-title="France Radio",OUI FM - Classic Rock
+http://broadcast.infomaniak.net/ouifm3.mp3
+#EXTINF:0 group-title="France Radio",OUI FM - Classic Rock AAC+
+http://broadcast.infomaniak.net/ouifm3.aac
+#EXTINF:0 group-title="France Radio",OUI FM - L'Alternative Rock
+http://broadcast.infomaniak.net/ouifm2.mp3
+#EXTINF:0 group-title="France Radio",OUI FM - Rock Indie
+http://broadcast.infomaniak.net/ouifm5.mp3
+#EXTINF:0 group-title="France Radio",Ouï FM Alternative Rock
+http://ouifm2.impek.com:80
+#EXTINF:0 group-title="France Radio",Ouï FM Classic Rock
+http://ouifm3.impek.com:80
 
 #EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------  Greece Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -5674,6 +6155,42 @@ http://www.antenne.de/webradio/channels/top-40.aac.pls
 http://www.antenne.de/webradio/channels/top-40.m3u
 #EXTINF:0 group-title="Germany Radio",Antenne Brandenburg (MP3)
 http://www.antennebrandenburg.de/live.m3u
+#EXTINF:0 group-title="Germany Radio",BR B5 aktuell (MP3) (HQ)
+http://streams.br-online.de/b5aktuell_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR B5 aktuell (MP3) (LQ)
+http://streams.br-online.de/b5aktuell_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR B5 plus (MP3) (HQ)
+http://streams.br-online.de/b5plus_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR B5 plus (MP3) (LQ)
+http://streams.br-online.de/b5plus_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 1 (MP3) (HQ)
+http://streams.br-online.de/bayern1_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 1 (MP3) (LQ)
+http://streams.br-online.de/bayern1_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 2 (MP3) (HQ)
+http://streams.br-online.de/bayern2_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 2 (MP3) (LQ)
+http://streams.br-online.de/bayern2_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 3 (MP3) (HQ)
+http://streams.br-online.de/bayern3_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern 3 (MP3) (LQ)
+http://streams.br-online.de/bayern3_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern plus (MP3) (HQ)
+http://streams.br-online.de/bayernplus_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR Bayern plus (MP3) (LQ)
+http://streams.br-online.de/bayernplus_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR BR-Klassik (MP3) (HQ)
+http://streams.br-online.de/br-klassik_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR BR-Klassik (MP3) (LQ)
+http://streams.br-online.de/br-klassik_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR Klassik (MP3)
+http://streams.br-online.de/bayern4klassik_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR on3-radio (MP3) (HQ)
+http://streams.br-online.de/jugend-radio_2.m3u
+#EXTINF:0 group-title="Germany Radio",BR on3-radio (MP3) (LQ)
+http://streams.br-online.de/jugend-radio_1.m3u
+#EXTINF:0 group-title="Germany Radio",BR-KLASSIK
+http://streams.br.de/br-klassik_2.m3u
 
 #EXTINF:-1 group-title="Hungary Radio",[COLOR yellow]------------ Hungary Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -5797,6 +6314,32 @@ http://82.197.167.138:80
 
 #EXTINF:-1 group-title="Switzerland Radio",Radio Monte Carlo Swiss
 http://82.200.209.236:8000/mc-it
+
+#EXTINF:-1 group-title="Turkey Radio",[COLOR yellow]------------ Turkey Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Turkey Radio",BURDUR FM
+http://yayin2.yayindakiler.com:4070/
+#EXTINF:0 group-title="Turkey Radio",BURSA 1001 FM
+http://yayin.canlitv.com:9050
+#EXTINF:0 group-title="Turkey Radio",BURSA OLAY FM
+http://www.olayfm.com.tr/live/listen.asx
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO 24
+http://dinle.radyohosting.com:9970
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO AKTİF
+http://sr1.netmedya.org:9220/
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO JET
+http://yayin2.radyotvyayini.com:9994/
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO KARADENİZ
+http://www.yayinonline.com/asx/radyoasx.asp?rd=karadenizfmb
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO S
+http://yayin.canlitv.com:8110
+#EXTINF:0,BURSA RADYO ŞAMPİYON
+http://www.radyosampiyon.com.tr/sampiyon.asx
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO VENÜS
+mms://yayin3.canliyayin.org/radyovenus
+#EXTINF:0 group-title="Turkey Radio",BURSA ULUDAĞ FM
+http://sr1.netmedya.org:9170/
 
 #EXTINF:-1 group-title="Portugal Radio",[COLOR yellow]------------ Portugal Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -5967,6 +6510,20 @@ http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8
 http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 tvg-name="Top FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Top FM Mauritius" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOO6pCXuIk1T_0hJ6YjolVqTxfIV3qn6evZp_-hYIz09WKyJ53dmn1Gg" group-title="Mauritius Radio",Top FM Mauritius (Radio) (MU) (Hindi/English)
 http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
+
+#EXTINF:-1 group-title="Norway Radio",[COLOR yellow]------------ Norway Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Norway Radio",NRK Alltid nyheter
+http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P1 Østlandssendingen
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P2
+http://lyd.nrk.no/nrk_radio_p2_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P3
+http://lyd.nrk.no/nrk_radio_p3_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK Urørt
+http://lyd.nrk.no/nrk_radio_p3_urort_aac
 
 #EXTINF:-1 group-title="Vietnam Radio",[COLOR yellow]------------ Vietnam Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
