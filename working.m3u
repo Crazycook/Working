@@ -10,6 +10,8 @@ http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn4.aptoide.com/imgs/c/7/7/c773f47c9723cef48ba04b229895bafc.png" group-title="24/7",Camp Cartoon (classics)
 mms://72.13.93.186/campcartoon
+#EXTINF:0 tvg-logo="http://cdn4.aptoide.com/imgs/c/7/7/c773f47c9723cef48ba04b229895bafc.png" group-title="24/7",Camp Cartoon (classics)
+rtsp://72.13.93.186/campcartoon
 #EXTINF:-1 tvg-name="AS" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d3/Adult_Swim_Toonami_2014_logo.png/revision/latest/scale-to-width-down/170?cb=20151219163654" group-title="24/7",ADULT SWIM Fish Center
 http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$
 #EXTINF:0 group-title="24/7",Toonami Aftermath
@@ -184,6 +186,14 @@ http://0.0.0.0:1234
 #EXTINF:-1 group-title="Arabic",[COLOR yellow]---------------------- Arabic----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 group-title="Arabic",Alhurra Tv
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:0 group-title="Arabic",Alsharqiya Tv
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:0 group-title="Arabic",Alsharqiya Tv
+rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:0 group-title="Arabic",Anadolu TV
+rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp
 #EXTINF:-1 tvg-logo="http://www.moworks.com.au/perch/resources/al-arabiya-1-w640.jpg" group-title="Arabic", Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.ggpht.com/JTj6hkfI7alYRPfHIpw4NfKHcdmTkeDhynQZ3n0i3ooMhm4sibOta11YSZv2h4cHGOg=w170" group-title="Arabic", Al Arabiya Al Hadath
@@ -210,6 +220,10 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1 tvg-logo="http://arabbrains.com/wp-content/uploads/2012/12/sky-news-logo.jpg" group-title="Arabic", Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ww/wesal_tv_haq.png" group-title="Arabic",Wesal Haq TV
+rtmp://live.noorlive.com:1935/wesal/wesal1
+#EXTINF:0 tvg-logo="http://www.lyngsat.com/logo/tv/ww/wesal_tv_haq.png" group-title="Arabic",WESAL TV
+rtmp://109.123.123.82:1935/wesal/wesal1
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/eg.png" group-title="Egypt",[COLOR yellow]---------------------- Egypt----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -239,6 +253,10 @@ http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YfH6U8CNp58/mqdefault_live.jpg" group-title="Syria",SYRIAN NEWS
 rtmp://82.137.248.16/Snews/SnewsLive2
+#EXTINF:0 group-title="Syria",Syria News
+rtmp://82.137.248.16:1935/Snews/SnewsLive3
+#EXTINF:0 group-title="Syria",Syrian Satelit
+rtmp://82.137.248.16:1935/Sat/SatLive3
 
 
 #EXTINF:-1 tvg-logo="ttp://flags.fmcdn.net/data/flags/normal/ae.png" group-title="United Arab Emirates",[COLOR yellow]---------------------- United Arab Emirates ----------------------[/COLOR]
@@ -326,10 +344,14 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 rtmp://streaming.wirenetserver.com.ar:1935/canal4/live_1
 #EXTINF:0 tvg-logo="http://vivotvhd.com/wp-content/uploads/2015/05/canal4-rosario.png" group-title="Argentina",Canal 4 Rosario
 http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-mNi-lHoHppIEWKnE6GX3e0lYSrLFnGd26hUpSiERrm4ox9zP" group-title="Argentina",Canal 6 Posadas TV
+rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live
 #EXTINF:-1 tvg-logo="http://www.canal9comodoro.com/images/logo.png" group-title="Argentina",Canal Nueve Chubut
 rtmp://www.canal9comodoro.com/live/c9/mp4:canal
 #EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/4f/Canal10mardelplata.jpg/revision/latest?cb=20160901022516" group-title="Argentina",Canal 10 Mar de Plata
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lapacho-canal11-formosa.gif/200px-Lapacho-canal11-formosa.gif" group-title="Argentina",Canal 11 Lapacho de Formosa by Diana
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
 #EXTINF:0 tvg-logo="http://television-internet.com.ar/canal-26.jpg?160924090146" group-title="Argentina",Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:0 tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="Argentina",Canal Cuatro
@@ -402,8 +424,16 @@ http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/master.m3u8
 http://wowza.catve.com.br:1935/live2/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2013/04/7-canais-canaldoboi.jpg" group-title="Brazil",Canal Do Boi
 http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/15/Canal_do_Boi_logo.gif" group-title="Brazil",Canal Do Boi Tv
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
 #EXTINF:-1 tvg-logo="http://www.canaltvrio.com.br/Topo/imagens/Topo_Um%20Original_r2_c1.png" group-title="Brazil",Canal TV Rio
 http://104.156.60.74:1935/canaltvrio/canaltvrio/live.m3u8
+#EXTINF:0 tvg-logo="http://static.canalrural.com.br/img/cr-logo.png" group-title="Brazil",Canal Rural by Diana
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:0 tvg-logo="http://static.canalrural.com.br/img/cr-logo.png" group-title="Brazil",Canal Rural HD by Diana
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+#EXTINF:0 tvg-logo="http://static.canalrural.com.br/img/cr-logo.png" group-title="Brazil",Canal Rural movil by Diana
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3
 #EXTINF:-1 tvg-logo="http://static.canalrural.com.br/img/cr-logo.png" group-title="Brazil",Canal Rural
 http://67149o.ha.azioncdn.net:80/hlsverylow/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/Stations/Canal-Rural-X-Brazil_o.jpg" group-title="Brazil",Canal Rural X
@@ -729,8 +759,10 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MKfV7y5.png" group-title="Mexico",CANAL 15 Fresnillo
 rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
-#EXTINF:-1 group-title="Mexico",Canal 5 Salina Cruz
+#EXTINF:-1 group-title="Mexico" group-title="Mexico",Canal 5 Salina Cruz
 http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0,Canal 53 Del Conocimiento
+mms://148.234.13.58/canal53bandaancha
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/750778615239962624/4MOmhR0O.jpg" group-title="Mexico",Canal Tr3ce
 http://streaming-ca.enetres.net/907242981A11434D900C2676A56AE374021/smil:live.smil/master.m3u8
 #EXTINF:0 tvg-logo="http://veratv.cdn.antel.net.uy/dynamic/content_images/7609/240/default.jpg" group-title="Mexico",Canal U
@@ -956,7 +988,6 @@ mms://bms.brtk.net/brttv
 #EXTINF:0 group-title="Cyprus",BRT tv2
 mms://bms.brtk.net/brt2
 
-
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/cz.png" group-title="Czech Republic",[COLOR yellow]---------------------- Czech Republic ---------------------[/COLOR]
 http://0.0.0.0:1234
 
@@ -977,6 +1008,12 @@ http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_love/playlist/cze/li
  #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR895Ll9xoUWzBwUYWmDYQxaFd25p1svOWloY4VqvqI4rqC48uG" group-title="Czech Republic",Prima Zoom
 http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8
 
+#EXTINF:-1 group-title="Denmark", [COLOR red]  ----------------------Denmark CHANNELS---------------------- [/COLOR]
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://www.omroepzeeland.nl/streams/tv/images/logo2014.png" group-title="Denmark",Omroep Zeeland TV
+rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp
+
 #EXTINF:-1 group-title="France", [COLOR red]  ----------------------France CHANNELS---------------------- [/COLOR]
 http://0.0.0.0
 
@@ -992,10 +1029,44 @@ rtsp://str81.creacast.com/grandlilletv/high
 http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.investinormandie.fr/images/cache/c1af7a175859ec5b68a7516d4bb00b31_w200_h140_cp.JPG" group-title="France",La Chaine Normande
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.lagrosseradio.com/_images/haut/logo_global.png" group-title="France",La Grosse Radio Metal
+http://hd.lagrosseradio.info:8200
+#EXTINF:0 tvg-logo="http://www.lagrosseradio.com/_images/haut/logo_global.png" group-title="France",La Grosse Radio Reggae
+http://hd.lagrosseradio.info:8300
+#EXTINF:0 tvg-logo="http://www.lagrosseradio.com/_images/haut/logo_global.png" group-title="France",La Grosse Radio Rock
+http://hd.lagrosseradio.info:8500
 #EXTINF:-1 tvg-id="LaTele1" tvg-logo="tele.png" tvg-name="LaTele1" group-title="France",La tele
 rtsp://rtmp.infomaniak.ch/livecast/latele
 #EXTINF:-1 tvg-logo="http://www.megazap.fr/photo/art/grande/10101264-16441533.jpg?v=1472204486" group-title="France",Link Antenne Réunion
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+#EXTINF:0 group-title="France",mfm
+http://broadcast.infomaniak.net/mfm-wr4-64.mp3
+#EXTINF:0 group-title="France",MFM
+http://broadcast.infomaniak.net/mfm-wr1-128.mp3
+#EXTINF:0 group-title="France",mfm
+http://broadcast.infomaniak.net/mfm-wr3-128.mp3
+#EXTINF:0 group-title="France",MFM (AAC)
+http://mfm.ice.infomaniak.ch/mfm-64.aac
+#EXTINF:0 group-title="France",MFM (MP3)
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:0 group-title="France",mfm AAC+
+http://broadcast.infomaniak.net/mfm-wr3-64.aac
+#EXTINF:0 group-title="France",mfm AAC+
+http://broadcast.infomaniak.net/mfm-wr4-64.aac
+#EXTINF:0 group-title="France",MFM Culte
+http://broadcast.infomaniak.net/mfm-wr2-128.mp3
+#EXTINF:0 group-title="France",MFM Culte AAC+
+http://broadcast.infomaniak.net/mfm-wr2-64.aac
+#EXTINF:0 group-title="France",MFM Radio
+http://broadcast.infomaniak.net/mfm-128.mp3
+#EXTINF:0 group-title="France",MFM RADIO
+http://195.252.107.194:8012/
+#EXTINF:0 group-title="France",MFM RADIO
+http://195.252.107.194:8012/
+#EXTINF:0 group-title="France",MFM Radio - Marseille AAC+
+http://broadcast.infomaniak.net/mfm-marseille.aac
+#EXTINF:0 group-title="France",MFM Radio AAC+
+http://broadcast.infomaniak.net/mfm-64.aac
 #EXTINF:-1 tvg-logo="http://www.notele.be/webfiles/logo/logo.png" group-title="France",No Tele BE
 rtmp://streaming06.axeweb.be:1935/live/direct.stream
 #EXTINF: -1 group-title="France",La Tele X
@@ -1044,6 +1115,8 @@ http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 http://delive.artestras.cshls.lldns.net/artestras/contrib/delive/delive_925.m3u8
 #EXTINF:0 tvg-logo="http://www.wikibox.tv/wp-content/uploads/2015/05/ALEX-Berlin.jpg" group-title="Germany",Alex TV
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_w690170040_b1200000_slGER.m3u8
+#EXTINF:0 tvg-logo="http://www.ihre-beste-geldanlage.de/bilder/baden_tv-logo-klein.png" group-title="Germany",Baden TV
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
 #EXTINF:-1 tvg-logo="http://www.blkregional.de/wp-content/uploads/2015/04/BLKregionalTV.jpg\' group-title="Germany",BLK Regional TV Burgenlandkreis
 rtmp://62.113.210.250/medienasa-live//BLKonline_high
 #EXTINF:0 group-title="Germany",daf
@@ -1088,20 +1161,28 @@ http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXGLQInMkDKvb5j9ytBEU5WGiaZ9XXP5g3xlsYZLKpIV81AQqig" group-title="Germany",NDR Schleswig-Hol. HD
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://images.viaway.com/3198935_640.png"  group-title="Germany",Ok Stendal
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:0 tvg-logo="http://images.viaway.com/3198935_640.png" group-title="Germany",ok Stendal
-rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+
+#EXTINF:0 group-title="Germany",OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0 tvg-logo="http://expeditionberuf.ok-magdeburg.de/wp-content/uploads/2012/11/Logo_OffenerKanal_mitSCHRIFT_kleiner.jpg" group-title="Germany",ok magdeburg
 rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
 #EXTINF:-1 tvg-logo="http://expeditionberuf.ok-magdeburg.de/wp-content/uploads/2012/11/Logo_OffenerKanal_mitSCHRIFT_kleiner.jpg" group-title="Germany",OK Magdeburg
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8?bitrate=800
+#EXTINF:0 group-title="Germany",OK Merseburg
+rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",Ok Salzwedel 
 rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOXYD98LyGfo_ONdzIBthtURY6-WPkePGF_QNoopP34c8FTINZyuu9Q" group-title="Germany",Ok Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
+#EXTINF:-1 tvg-logo="http://images.viaway.com/3198935_640.png"  group-title="Germany",Ok Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
+#EXTINF:0 tvg-logo="http://images.viaway.com/3198935_640.png" group-title="Germany",ok Stendal
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 #EXTINF:0 tvg-logo="http://www.sachsen-anhalt-wiki.de/images/thumb/8/80/Offener-kanal-logo.jpg/180px-Offener-kanal-logo.jpg" group-title="Germany",ok Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:0 group-title="Germany",OK Wettin
+rtmp://62.113.210.250/medienasa-live/ok-wettin_high
+
 #EXTINF:-1 group-title="Germany",Quelle
 rtmp://fms.daf.tmt.de:1935/live/dafstream100
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/rr/ran_1_de.png" group-title="Germany",Ran 1
@@ -1294,10 +1375,14 @@ http://195.228.75.100:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
 http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
 #EXTINF:-1 group-title="Hungary",FixHD TV hungary
 http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8
+#EXTINF:0 group-title="Hungary",Budapest
+rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp
 
 #EXTINF:0 tvg-logo="http://flags.fmcdn.net/data/flags/normal/it.png" group-title="Italy",[COLOR=FFFF4500]----------------------Italy----------------------[/COLOR]
 http://0.0.0.0
 
+#EXTINF:0 tvg-logo="http://www.canale46.it/logocanale_192Logo%20traspok1%20300.gif" group-title="Italy",Canale 46
+rtmp://vs2.streamcaster.net/test_live/canale46
 #EXTINF:-1 tvg-logo"https://lh3.googleusercontent.com/e82aD5PWaQ_OQ1rv27mkINS9dIt8xYl9NqFnxewc1vzrl0sy6to8m182wqKlaRyRBLkj=s170" group-title="Italy",E TV Marche
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF: -1 group-title="Italy",euronews ewns
@@ -1400,6 +1485,13 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTINF:0 tvg-name="TVi" tvg-language="Portuguese" tvg-country="PT" tvg-id="TVi" tvg-logo="http://i.imgur.com/aKyYgoF.png" group-title="Family",TVi
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8?Grupo_UP_e_DOWN
 
+
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ru.png" group-title="Romania",[COLOR yellow]---------------------- Romania ---------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="https://alfaomega.tv/images/alfaomega/alfaomega_logo_thumb.jpg" group-title="Russia",Alfa Omega TV
+rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp
+
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/ru.png" group-title="Russia",[COLOR yellow]---------------------- Russia ---------------------[/COLOR]
 http://0.0.0.0:1234
 
@@ -1411,6 +1503,8 @@ rtmp://176.9.127.102/live/myStream_1
 
 #EXTINF:0 group-title="Russia",ANTIMAIDAN.TV.DNR
 http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR 
+#EXTINF:0 tvg-logo="http://www.moymult.ru/knopki/13/Barbariki.gif" group-title="Russia",Barbariki TV
+rtmp://planetaonline.cdnvideo.ru/rr/channel_6
 #EXTINF:0 group-title="Russia",bnptv
 
 mms://bnptv.info:10801/
@@ -1501,7 +1595,9 @@ mms://89.201.164.181/stv
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/sk.png" group-title="Slovakia",[COLOR yellow]---------------------- Slovakia----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://wtvpc.com/wp-content/uploads/logos/TV+Lux+Catholic+TV+logo_1720.png"  group-title="Slovakia",TV Lux  
+#EXTINF:0 tvg-logo="http://www.bardejovskatv.sk/templates/ja_hotel/images/logo.png" group-title="Slovakia",Bardejov
+rtmp://s1.media-planet.sk:80/live/bardejov1
+#EXTINF:-1 tvg-logo="http://wtvpc.com/wp-content/uploads/logos/TV+Lux+Catholic+TV+logo_1720.png" group-title="Slovakia",TV Lux  
 rtmp://live.tvlux.sk/lux/lux.stream_360p
 #EXTINF:-1 tvg-logo="http://tvzpravodaj.mnoho.info/userFiles/skregiony/tvdk.jpg" group-title="Slovakia",Dolny Kubin
 rtmp://s1.media-planet.sk:80/live/dolnykubin
@@ -1533,6 +1629,8 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="Spain",40 HD
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0 group-title="Spain",Alfa TV
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 #EXTINF:0 tvg-name="ANTENA 3" tvg-language="Spanish" tvg-country="ES" tvg-id="ANTENA 3" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6EVpx9ua891pEc79Aji07ydfI__6s7__1pXawrKm4k61JNXZVvhZbhkw" group-title="Spain",ANTENA 3 
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tele_asturias_spain.jpg" group-title="Spain",Asturias
@@ -1888,6 +1986,8 @@ rtmp://118.97.183.196/jhos//kbs
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/220px-Arirang.svg.png" group-title="South Korea",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/media.playlist.m3u8
+#EXTINF:0 group-title="South Korean",Cbs korea
+mms://vod2.cbs.co.kr/cbs_tv_live34
 
 #EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/normal/vn.png" group-title="Vietnam",[COLOR yellow]---------------------- Vietnam----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -4713,13 +4813,20 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us1.int
 rtmp://krblive.com:1935/877live/stream_aac
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="USA Radio",WGLT radio
 http://wgltradio.ilstu.edu:8000/wgltmain.mp3
+#EXTINF:0 group-title="USA Radio",WFED Federal News Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM.mp3?nocache=1454940168
+#EXTINF:0 group-title="USA Radio",WFMU - Freeform Radio the Way it Oughta Be
+http://mp3stream.wfmu.org
+#EXTINF:0 group-title="USA Radio",WGN Chicago Illinois Radio
+http://provisioning.streamtheworld.com/pls/WGNAM.pls
 #EXTINF:-1 group-title="USA Radio",LA PRIMERA 87.7 FM LAS VEGAS NV
 http://82.200.209.236:8000/kexp
 
-#EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------ U.K. Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="U.K. Radio",[COLOR yellow]------------ U.K. Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-
+#EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/BFBS-UK-Bases_o.jpg" group-title="U.K. Radio",BFBS UK
+http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="U.K. Radio",BBC - Radio 1
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0a/BBC_Radio_1.svg/revision/latest/scale-to-width-down/200?cb=20091108151623" group-title="U.K. Radio",BBC1
@@ -4774,7 +4881,7 @@ http://uk1.internet-radio.com:8093/
 
 #EXTINF:0 group-title="U.K. Radio",Zenith Classic Rock Dublin
 Http://148.163.81.10/listen.pls?sid=1:8006
-#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="U.K. Radio",Champion 5768 FM (Radio) (UK) (English)
+#EXTINF:0 tvg-logo="https://download.manycam.com/effects/get?f=l&i=13798&v=2.0" group-title="U.K. Radio",Champion 5768 FM
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.internet-radio.com:8060/listen.pls&t=.m3u
 http://uk4.internet-radio.com:15476/
 #EXTINF:0 group-title="U.K. Radio",1FM Music From The 1960s thru Today! (Radio) (UK) (English)
@@ -4791,6 +4898,108 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk3.int
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:10911/listen.pls&t=.m3u
 #EXTINF:0 group-title="U.K. Radio",Earth Uk
 Http://media-ice.musicradio.com/HeartLondonMP3.m3u
+
+#EXTINF:-1 group-title="Algeria Radio",[COLOR yellow]------------ Algeria Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Ain Timouchent AAC+
+http://broadcast.infomaniak.net/46.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Annaba AAC+
+http://broadcast.infomaniak.net/23.aac
+#EXTINF:0 group-title="Algeria Radio",radio locale batna AAC+
+http://broadcast.infomaniak.net/05.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Bechar AAC+
+http://broadcast.infomaniak.net/08.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Biskra
+http://broadcast.infomaniak.net/07.aac
+#EXTINF:0 group-title="Algeria Radio",Radio locale El tarf AAC+
+http://broadcast.infomaniak.net/36.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Guelma AAC+
+http://broadcast.infomaniak.net/24.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Medea AAC+
+http://broadcast.infomaniak.net/26.aac
+#EXTINF:0 group-title="Algeria Radio",Radio locale mila AAC+
+http://broadcast.infomaniak.net/43.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Naama AAC+
+http://broadcast.infomaniak.net/45.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Oran AAC+
+http://broadcast.infomaniak.net/31.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Relizane AAC+
+http://broadcast.infomaniak.net/48.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Setif AAC+
+http://broadcast.infomaniak.net/19.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Tamanrasset AAC+
+http://broadcast.infomaniak.net/11.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Tiaret AAC+
+http://broadcast.infomaniak.net/14.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Tipaza AAC+
+http://broadcast.infomaniak.net/42.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Tissemsidlt AAC+
+http://broadcast.infomaniak.net/38.aac
+#EXTINF:0 group-title="Algeria Radio",Radio Locale Tizi ouzou AAC+
+http://broadcast.infomaniak.net/15.aac
+
+#EXTINF:-1 group-title="Belgium Radio",[COLOR yellow]------------  Belgium Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BelRTL_2008_%28logo%29.svg/langfr-220px-BelRTL_2008_%28logo%29.svg.png" group-title="Belgium Radio",BEL RTL (fre)
+http://audiostream.rtl.be/belrtl128
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Antverpen (High)
+http://mp3.streampower.be/ra2ant-high
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Antverpen (Low)
+http://mp3.streampower.be/ra2ant-low
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Antverpen (Mid)
+http://mp3.streampower.be/ra2ant-mid
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Limburg (High)
+http://mp3.streampower.be/ra2lim-high
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Limburg (Low)
+http://mp3.streampower.be/ra2lim-low
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Limburg (Mid)
+http://mp3.streampower.be/ra2lim-mid
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Oost-Vlaanderen (Low)
+http://mp3.streampower.be/ra2ovl-low
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Oost-Vlaanderen (Mid)
+http://mp3.streampower.be/ra2ovl-mid
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Oost-Vlaanderen(High)
+http://mp3.streampower.be/ra2ovl-high
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Vlaams-Brabant (Low)
+http://mp3.streampower.be/ra2vlb-low
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Vlaams-Brabant (Mid)
+http://mp3.streampower.be/ra2vlb-mid
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 Vlaams-Brabant(high)
+http://mp3.streampower.be/ra2vlb-high
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 West-Vlaanderen (high)
+http://mp3.streampower.be/ra2wvl-high
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 West-Vlaanderen (Low)
+http://mp3.streampower.be/ra2wvl-low
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Radio_2_logo.png" group-title="Belgium Radio",Radio 2 West-Vlaanderen (Mid)
+http://mp3.streampower.be/ra2wvl-mid
+#EXTINF:0 group-title="Belgium Radio",RTBF Classic 21
+http://streaming.rtbf.be:8000/2128xrtbf
+#EXTINF:0 group-title="Belgium Radio",RTBF Classic 21 60's
+http://wr-classic21-60.ice.infomaniak.ch/wr-classic21-60-128.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF Classic 21 80's
+http://wr-classic21-80.ice.infomaniak.ch/wr-classic21-80-128.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF Classic 21 Les Classiques
+http://wr-lesclassiquesdeclassic.ice.infomaniak.ch/wr-lesclassiquesdeclassic-128.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF FrancoSphere
+http://wr-francosphere.ice.infomaniak.ch/wr-francosphere-128.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF La Premiere
+http://streaming.rtbf.be:8000/prem128xrtbf
+#EXTINF:0 group-title="Belgium Radio",RTBF Musiq3
+http://musiq3.ice.infomaniak.ch/musiq3.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF OufTivi
+http://wr-ouftivi.ice.infomaniak.ch/wr-ouftivi-128.mp3
+#EXTINF:0 group-title="Belgium Radio",RTBF Pure FM
+http://streaming.rtbf.be:8000/pure128xrtbf
+#EXTINF:0 group-title="Belgium Radio",RTBF Pure FM2
+http://wr-pure2.ice.infomaniak.ch/wr-pure2-128.mp3
+
+#EXTINF:-1 group-title="Bosnia and Herzegovina Radio",[COLOR yellow]------------  Bosnia and Herzegovina Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 http://www.exyuradio.net/pub/catalog/balkan-dj.jpg,BALKAN DJ
+http://balkan.dj.topstream.net:8070/
 
 #EXTINF:-1 group-title="Brazil Radio",[COLOR yellow]------------  Brazil Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -4937,6 +5146,8 @@ http://mp3stream3.abradio.cz/tipradio128.mp3
 http://mp3stream4.abradio.cz/humor128.mp3
 #EXTINF: -1 group-title="Czech Republic Radio",SeeJay Radio
 http://mp3stream.abradio.cz/seejay128.mp3
+#EXTINF:0 tvg-logo="https://img.static.lagardere.cz/koule/edee/radia/cesky-rozhlas-1-radiozurnal/varianty/motiv/257-2/motiv.jpg" group-title="Czech Republic Radio",Cesky rozhlas 1 - Radiozurnal
+http://radio.cesnet.cz/cgi-bin/cro1-256-ogg.pls
 
 #EXTINF:-1 group-title="France Radio",[COLOR yellow]------------  France Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -4961,6 +5172,20 @@ http://broadcast.infomaniak.ch/beurfm-marocain-high.mp3
 http://broadcast.infomaniak.ch/beurfm-annonces-high.mp3
 #EXTINF:0 group-title="France Radio",Beur FM Raï
 http://broadcast.infomaniak.ch/beurfm-rai-high.mp3
+#EXTINF:0 tvg-logo="https://leblavog.files.wordpress.com/2011/07/bide.jpg" group-title="France Radio",Bide et Musique
+http://relay2.bide-et-musique.com:9100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c0/Black_Box_Bordeaux_1037.JPG" group-title="France Radio",BLACK BOX
+http://broadcast.infomaniak.net/start-blackbox-high.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c0/Black_Box_Bordeaux_1037.JPG" group-title="France Radio",BLACK BOX AAC+
+http://broadcast.infomaniak.net/start-blackbox-high.aac
+#EXTINF:0 tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/100/100_1462204600.jpg" group-title="France Radio",bruaysis fm 99.2
+http://broadcast.infomaniak.net/radiobruaysis-128.mp3
+#EXTINF:0 tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/100/100_1462204600.jpg" group-title="France Radio",bruaysis fm 99.2 AAC+ 32
+http://broadcast.infomaniak.net/radiobruaysis-32.aac
+#EXTINF:0 tvg-logo="http://radiofm.in/images/rslogo_100w/uploads/rlogo/100/100_1462204600.jpg" group-title="France Radio",bruaysis fm 99.2 AAC+ 64
+http://broadcast.infomaniak.net/radiobruaysis-64.aac
+#EXTINF:0 tvg-logo="https://www.chantefrance.com/public/img/logo.png" group-title="France Radio",Chante France
+http://stream.chantefrance.com/stream_chante_france.mp3
 #EXTINF:0 group-title="France Radio",M2 80's
 Http://www.m2radio.fr/pls/m280.m3u
 #EXTINF:0 group-title="France Radio",M2 90's
@@ -5025,6 +5250,8 @@ Http://media.autorouteinfo.fr/direct_nord.mp3:"8000
 Http://stream1.chantefrance.com/Chante_France.m3u
 #EXTINF:0 group-title="France Radio",Chérie FM PO
 Http://www.listenlive.eu/cheriefm_pop_mp3.m3u
+#EXTINF:0 tvg-logo="http://www.radio-home.net/logos/Chlorophylle.jpg"  group-title="France Radio",Chlorophylle FM
+http://broadcast.infomaniak.net/chlorophylle-128.mp3
 #EXTINF:0 group-title="France Radio",Evasion FM Paris
 Http://www.listenlive.eu/evasionfm.m3u
 #EXTINF:0 group-title="France Radio",Hit West Nantes
@@ -5167,6 +5394,63 @@ http://broadcast.infomaniak.net/ouifm5.mp3
 http://ouifm2.impek.com:80
 #EXTINF:0 group-title="France Radio",Ouï FM Classic Rock
 http://ouifm3.impek.com:80
+#EXTINF:0 tvg-logo"http://www.liveonlineradio.net/wp-content/uploads/2012/12/Puls-Radio.jpg" group-title="France Radio",Puls Radio
+http://www.pulsradio.com/pls/puls-adsl.m3u
+#EXTINF:0 tvg-logo"http://www.liveonlineradio.net/wp-content/uploads/2012/12/Puls-Radio.jpg" group-title="France Radio",Puls Radio Version 9.0
+http://www.pulsradio.com/pls/pulsV90-adsl.m3u
+#EXTINF:0 tvg-logo"http://www.liveonlineradio.net/wp-content/uploads/2012/12/Puls-Radio.jpg" group-title="France Radio",Puls Radio Version Trance
+http://www.pulsradio.com/pls/pulstrance-adsl.m3u
+#EXTINF:0 tvg-logo"http://www.liveonlineradio.net/wp-content/uploads/2012/12/Puls-Radio.jpg" group-title="France Radio",PulsRadio
+http://stream.pulsradio.com:5000
+#EXTINF:0 tvg-logo="http://www.rhonefm.ch/images/logo.png" group-title="France Radio",Rhone FM
+http://broadcast.infomaniak.net/rhonefm-high.mp3
+#EXTINF:0 tvg-logo="http://www.rhonefm.ch/images/logo.png" group-title="France Radio",Rhone FM
+http://broadcast.infomaniak.net/rhonefm-low.mp3
+#EXTINF:0 tvg-logo="http://www.rhonefm.ch/images/logo.png" group-title="France Radio",Rhone FM AAC+
+http://broadcast.infomaniak.net/rhonefm-high.aac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",Sud Radio
+http://broadcast.infomaniak.ch/start-sud-high.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",Sud Radio
+http://broadcast.infomaniak.net/start-sud-low.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",Sud Radio AAC+
+http://broadcast.infomaniak.net/start-sud-high.aac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",Sud Radio AAC+ 32
+http://broadcast.infomaniak.net/start-sud-32.aac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",sud radio plus
+http://broadcast.infomaniak.net/sudradioplus.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/80/Sud_Radio_2014_logo.png" group-title="France Radio",SudRadio BE
+http://www.ecoutez.biz:8000/live
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Vibration_logo.jpg" group-title="France Radio",Vibration
+http://broadcast.infomaniak.net/vibration-high.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Vibration_logo.jpg" group-title="France Radio",Vibration
+http://broadcast.infomaniak.net/vibration-32.aac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Vibration_logo.jpg" group-title="France Radio",Vibration
+http://broadcast.infomaniak.net/vibration-low.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Vibration_logo.jpg" group-title="France Radio",Vibration AAC+
+http://broadcast.infomaniak.net/vibration-high.aac
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Voltage_logo_2011.png/110px-Voltage_logo_2011.png" group-title="France Radio",Voltage
+http://broadcast.infomaniak.net/start-voltage-high.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Voltage_logo_2011.png/110px-Voltage_logo_2011.png" group-title="France Radio",Voltage
+http://broadcast.infomaniak.net/start-voltage-low.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Voltage_logo_2011.png/110px-Voltage_logo_2011.png" group-title="France Radio",Voltage
+http://broadcast.infomaniak.ch/start-voltage-high.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Voltage_logo_2011.png/110px-Voltage_logo_2011.png" group-title="France Radio",Voltage AAC+
+http://broadcast.infomaniak.net/start-voltage-high.aac
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/667276768240381952/lTnYtwzE_400x400.png" group-title="France Radio",Wit FM
+http://broadcast.infomaniak.net/start-witfm-low.mp3
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/667276768240381952/lTnYtwzE_400x400.png" group-title="France Radio",Wit FM
+http://broadcast.infomaniak.net/start-witfm-high.mp3
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/667276768240381952/lTnYtwzE_400x400.png" group-title="France Radio",Wit FM AAC+
+http://broadcast.infomaniak.net/start-witfm-high.aac
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/667276768240381952/lTnYtwzE_400x400.png" group-title="France Radio",Wit FM AAC+ 32
+http://broadcast.infomaniak.net/start-witfm-32.aac
+
+
+#EXTINF:-1 group-title="Croatia Radio",[COLOR yellow]------------  Croatia Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/84/53/12642/c175.png" group-title="Croatia Radio",ANTENA ZAGREB
+http://173.192.137.34:8050/
 
 #EXTINF:-1 group-title="Greece Radio",[COLOR yellow]------------  Greece Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6103,6 +6387,11 @@ http://s10.voscast.com:9940/;
 #EXTINF:-1 group-title="Germany Radio",[COLOR yellow]------------ Germany Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 tvg-logo="http://www.radiobremen.de/bremenvierlogo100_v-mobil4x3x800.jpg" group-title="Germany Radio",Bremen Vier (MP3)
+http://www.radiobremen.de/stream/live/bremenvier.m3u
+
+#EXTINF:0 tvg-logo="http://static.radio.de/images/broadcasts/92/b5/30464/c175.png" group-title="Germany Radio",Bayern 1 Niederbayern/Oberpfalz
+http://br-mp3-bayern1nbopf-s.akacast.akamaistream.net/7/837/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1nbopf_s
 #EXTINF:0 group-title="Germany Radio",Antenne Bayern (MP3)
 http://www.antenne.de/webradio/antenne.m3u
 #EXTINF:0 group-title="Germany Radio",Antenne Bayern 80er Kulthits (AAC)
@@ -6191,10 +6480,86 @@ http://streams.br-online.de/jugend-radio_2.m3u
 http://streams.br-online.de/jugend-radio_1.m3u
 #EXTINF:0 group-title="Germany Radio",BR-KLASSIK
 http://streams.br.de/br-klassik_2.m3u
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/be/1d/2422/c175.png" group-title="Germany Radio",DASDING (MP3)
+http://mp3-live.dasding.de/dasding_m.m3u
+#EXTINF:0 tvg-logo="http://kalender.karlsruhe.de/kalender/db/termine/kultur/musik/126660/lautstark_promo.jpg" group-title="Germany Radio",DASDING Lautstark (MP3)
+http://mp3-live.dasding.de/dasdingraka01_m.m3u
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/b2/1f/2549/c175.png" group-title="Germany Radio",DASDING Plattenleger (MP3)
+http://mp3-live.dasding.de/dasdingraka03_m.m3u
+#EXTINF:0 tvg-logo="http://static.radio.de/images/broadcasts/0e/4a/2548/c175.png" group-title="Germany Radio",DASDING Sprechstunde (MP3)
+http://mp3-live.dasding.de/dasdingraka02_m.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/administratives/av/bild218-resimage_v-variantSmall16x9_w-256.png?version=38909" group-title="Germany Radio",MDR 1 Radio Sachsen (MP3)
+http://avw.mdr.de/livestreams/mdr1_radio_sachsen_live_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/administratives/av/bild220-resimage_v-variantSmall16x9_w-256.png?version=39893" group-title="Germany Radio",MDR 1 Radio Thüringen (MP3)
+http://avw.mdr.de/livestreams/mdr1_radio_thueringen_live_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/logo-118-resimage_v-variantSmall16x9_w-256.png?version=37893" group-title="Germany Radio",MDR FIGARO (MP3)
+http://avw.mdr.de/livestreams/mdr_figaro_live_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/logo-118-resimage_v-variantSmall16x9_w-256.png?version=37893" group-title="Germany Radio",MDR FIGARO - Classic in Concert (MP3)
+http://avw.mdr.de/livestreams/mdr_figaro_classic_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/logo-118-resimage_v-variantSmall16x9_w-256.png?version=37893" group-title="Germany Radio",MDR FIGARO - Figarino (MP3)
+http://avw.mdr.de/livestreams/mdr_figaro_figarino_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/logo-118-resimage_v-variantSmall16x9_w-256.png?version=37893" group-title="Germany Radio",MDR FIGARO - Folk in Concert (MP3)
+http://avw.mdr.de/livestreams/mdr_figaro_folk_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/logo-118-resimage_v-variantSmall16x9_w-256.png?version=37893" group-title="Germany Radio",MDR INFO (MP3)
+http://avw.mdr.de/livestreams/mdr_info_live_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/presse/logos/jump-logo102-resimage_v-variantSmall16x9_w-256.jpg?version=4241" group-title="Germany Radio",MDR JUMP (MP3)
+http://www.jumpradio.de/static/webchannel/jump_live_channel_high.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/presse/logos/jump-logo102-resimage_v-variantSmall16x9_w-256.jpg?version=4241" group-title="Germany Radio",MDR JUMP Piraten Channel (MP3)
+http://www.jumpradio.de/static/webchannel/jump_piraten_channel_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/presse/logos/jump-logo102-resimage_v-variantSmall16x9_w-256.jpg?version=4241" group-title="Germany Radio",MDR JUMP Rock Channel (MP3)
+http://www.jumpradio.de/static/webchannel/jump_rock_channel_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/presse/logos/jump-logo102-resimage_v-variantSmall16x9_w-256.jpg?version=4241" group-title="Germany Radio",MDR JUMP Trend Channel (MP3)
+http://www.jumpradio.de/static/webchannel/jump_trend_channel_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/kultur/rueckblick/kultur-alt/klassik140-resimage_v-variantSmall16x9_w-256.png?version=25242" group-title="Germany Radio",MDR KLASSIK (MP3)
+http://avw.mdr.de/livestreams/mdr_klassik_live_128.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikblack100-resimage_v-variantSmall16x9_w-256.jpg?version=3238" group-title="Germany Radio",MDR SPUTNIK Black Channel (MP3)
+http://www.sputnik.de/m3u/black.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikclub100-resimage_v-variantSmall16x9_w-256.jpg?version=2748" group-title="Germany Radio",MDR SPUTNIK Club Channel (MP3)
+http://www.sputnik.de/m3u/club.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikinsomnia100-resimage_v-variantSmall16x9_w-256.jpg?version=59256" group-title="Germany Radio",MDR SPUTNIK Insomnia Channel (MP3)
+http://www.sputnik.de/m3u/insomnia.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikroboton100-resimage_v-variantSmall16x9_w-256.jpg?version=632" group-title="Germany Radio",MDR SPUTNIK Makossa Channel (MP3)
+http://www.sputnik.de/m3u/makossa.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputniklive100-resimage_v-variantSmall16x9_w-256.jpg?version=16237 group-title="Germany Radio",MDR SPUTNIK OnAir Channel (MP3)
+http://www.sputnik.de/m3u/live.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikpopkult100-resimage_v-variantSmall16x9_w-256.jpg?version=2122" group-title="Germany Radio",MDR SPUTNIK Popkult Channel (MP3)
+http://www.sputnik.de/m3u/popkult.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputnikrock100-resimage_v-variantSmall16x9_w-256.jpg?version=37471" group-title="Germany Radio",MDR SPUTNIK Rock Channel (MP3)
+http://www.sputnik.de/m3u/rock.hi.m3u
+#EXTINF:0 tvg-logo="http://www.mdr.de/mediathek/sputniksoundcheck100-resimage_v-variantSmall16x9_w-256.jpg?version=5130" group-title="Germany Radio",MDR SPUTNIK Soundcheck Channel (MP3)
+http://www.sputnik.de/m3u/soundcheck.hi.m3u
+#EXTINF:0 group-title="Germany Radio",SR 1 Europawelle (MP3)
+http://streaming01.sr-online.de/sr1_2.m3u
+#EXTINF:0 group-title="Germany Radio",SR 1-Klassiker (MP3)
+http://streaming02.sr-online.de/sr1klassiker.m3u
+#EXTINF:0 group-title="Germany Radio",SR 1-Lounge (MP3)
+http://streaming02.sr-online.de/sr1lounge.m3u
+#EXTINF:0 group-title="Germany Radio",SR 2 KulturRadio (MP3)
+http://streaming01.sr-online.de/sr2_2.m3u
+#EXTINF:0 group-title="Germany Radio",SR 2-OffBeat (MP3)
+http://streaming02.sr-online.de/sr2offbeat.m3u
+#EXTINF:0 group-title="Germany Radio",SR 3 Saarlandwelle (MP3)
+http://streaming01.sr-online.de/sr3_2.m3u
+#EXTINF:0 group-title="Germany Radio",SR 3-OldieWelt (MP3)
+http://streaming02.sr-online.de/sr3oldiewelt.m3u
+#EXTINF:0 group-title="Germany Radio",SR 3-SchlagerWelt (MP3)
+http://streaming02.sr-online.de/sr3schlagerwelt.m3u
+#EXTINF:0 tvg-logo="http://bradsticks.com/wp-content/uploads/2011/05/Youfm.png" group-title="Germany Radio",YOU FM (MP3)
+http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u
+#EXTINF:0 tvg-logo="http://bradsticks.com/wp-content/uploads/2011/05/Youfm.png" group-title="Germany Radio",YOU FM BLACK Musicstream (MP3)
+http://metafiles.gl-systemhaus.de/hr/youfm_black.m3u
+#EXTINF:0 tvg-logo="http://bradsticks.com/wp-content/uploads/2011/05/Youfm.png" group-title="Germany Radio",YOU FM CLUB Musicstream (MP3)
+http://metafiles.gl-systemhaus.de/hr/youfm_club.m3u
+#EXTINF:0 tvg-logo="http://bradsticks.com/wp-content/uploads/2011/05/Youfm.png" group-title="Germany Radio",YOU FM ROCK Musicstream (MP3)
+http://metafiles.gl-systemhaus.de/hr/youfm_rock.m3u
+#EXTINF:0 tvg-logo="http://bradsticks.com/wp-content/uploads/2011/05/Youfm.png" group-title="Germany Radio",YOUFM.BE
+http://193.190.194.78:8000/listen.pls
 
 #EXTINF:-1 group-title="Hungary Radio",[COLOR yellow]------------ Hungary Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:0 tvg-logo="http://i3radio.com/userfiles/avatars/396016_513950525286160_700367344_n-1325802694.png" group-title="Hungary Radio",Balaton Rádió
+http://wssgd.gdsinfo.com:8200/listen.pls
 #EXTINF:-1 group-title="Hungary Radio",Kossuth
 http://mr-stream.mediaconnect.hu/4736/mr1.mp3
 #EXTINF:-1 group-title="Hungary Radio",Petőfi
@@ -6254,92 +6619,119 @@ http://megadanceradio.hopto.org:8000/livemega.mp3
 #EXTINF:-1 group-title="Hungary Radio",All In PartyRadio
 http://adas3.allinparty.hu:8430/hq
 
-#EXTINF:-1 group-title="Singapore Radio",[COLOR yellow]------------ Singapore Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Israel Radio",[COLOR yellow]------------ Israel Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg" group-title="Singapore Radio",Ria 89.7 Singapore 
-http://mediacorp.rastream.com/897fm
-#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM.jpg" group-title="Singapore Radio",Gold 90.5 FM Singapore| 
-http://mediacorp.rastream.com/905fm
-#EXTINF:0 group-title="Singapore Radio",91.3 Hot FM Singapore 
-http://sph.rastream.com/913fm
-#EXTINF:0 group-title="Singapore Radio",Kiss 92.0 Singapore 
-http://sph.rastream.com/sph-kiss92
-#EXTINF:0 group-title="Singapore Radio",Symphony 92.4 Singapore 
-http://mediacorp.rastream.com/924fm
-#EXTINF:0 group-title="Singapore Radio",Yes 93.3 Singapore
-http://mediacorp.rastream.com/933fm
-#EXTINF:0 group-title="Singapore Radio",93.8 Live Singapore 
-http://mediacorp.rastream.com/938fm
-#EXTINF:0 group-title="Singapore Radio",Warna 94.2 Singapore 
-http://mediacorp.rastream.com/942fm
-#EXTINF:0 group-title="Singapore Radio",Class 95.0 Singapore 
-http://mediacorp.rastream.com/950fm
-#EXTINF:0 group-title="Singapore Radio",95.8 Capital Singapore 
-http://mediacorp.rastream.com/958fm
-#EXTINF:0 group-title="Singapore Radio",XFM 96.3 Singapore 
-http://mediacorp.rastream.com/963fm
-#EXTINF:0 group-title="Singapore Radio",Love 97.2 Singapore 
-http://mediacorp.rastream.com/972fm
-#EXTINF:0 group-title="Singapore Radio",98.7 FM Singapore 
-http://mediacorp.rastream.com/987fm
-#EXTINF:0 group-title="Singapore Radio",Lush 99.5 Singapore 
-http://mediacorp.rastream.com/995fm
-#EXTINF:0 group-title="Singapore Radio",UFM 100.3 Singapore 
-http://sph.rastream.com/1003fm
+#EXTINF:0 tvg-logo="http://www.jointil.com/radio/wp-content/themes/responsive/images/default-logo.png" group-title="Israel Radio",Joint Radio
+http://jointil.com/broadcast/jointil_winamp.pls
+#EXTINF:0 tvg-logo="http://static.radio.net/images/broadcasts/f7/3f/29751/1/c175.png" group-title="Israel Radio",Joint Radio Beat
+http://jointil.com/broadcast/jointil_beat_winamp.pls
+#EXTINF:0 tvg-logo="http://www.jointil.com/radio/wp-content/themes/responsive/images/default-logo.png" group-title="Israel Radio",Joint Radio Blues
+http://jointil.com/broadcast/jointil_blues_winamp.pls
 
-#EXTINF:-1 group-title="Switzerland Radio",[COLOR yellow]------------ Switzerland Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Italy Radio",[COLOR yellow]------------ Italy Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Switzerland Radio",LaFabrik Suisse
-Http://stream.lafabrik.ch/lafabrik.m3u
-#EXTINF:0 group-title="Switzerland Radio",Vibration FM Suise
-Http://vibration.stream2net.eu:8130/listen.pls
-#EXTINF:0 group-title="Switzerland Radio",Vibration PopRock Suisse
-Http://vibrationpoprock.stream2net.eu:8260/listen.pls
-#EXTINF:0 group-title="Switzerland Radio",Vibration Latina Suisse
-Http://vibracionlatina.stream2net.eu:8410/listen.pls
-#EXTINF:0 group-title="Switzerland Radio",Vibratio classic hit Suisse
-Http://vibrationclassic80.stream2net.eu:8060/listen.pls
-#EXTINF:0 group-title="Switzerland Radio",Yes FM Suisse
-Http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u
-#EXTINF:0 group-title="Switzerland Radio",Rouge MadeInFrance Suisse
-Http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u
-#EXTINF:0 group-title="Switzerland Radio",Swiss Internet Radio - Public Domain Classical 
-http://82.197.165.137:80
+#EXTINF:0 group-title="Italy Radio",Rai Bozen (MP3)
+http://radiobzlive.rai.it/RAIBZ_Livestream
+#EXTINF:0 group-title="Italy Radio",RAI Filodiffusione 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799
+#EXTINF:0 group-title="Italy Radio",RAI Filodiffusione 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832
+#EXTINF:0 group-title="Italy Radio",RAI Gr Parlamento
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879
+#EXTINF:0 group-title="Italy Radio",RAI Isoradio
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173875
+#EXTINF:0 group-title="Italy Radio",RAI Radio 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834
+#EXTINF:0 group-title="Italy Radio",RAI Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063
+#EXTINF:0 group-title="Italy Radio",RAI Radio 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841
 
-#EXTINF:0 group-title="Switzerland Radio",Public Domain Jazz - Swiss Internet Radio
-
-http://82.197.167.138:80
-
-#EXTINF:-1 group-title="Switzerland Radio",Radio Monte Carlo Swiss
-http://82.200.209.236:8000/mc-it
-
-#EXTINF:-1 group-title="Turkey Radio",[COLOR yellow]------------ Turkey Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Malaysia Radio",[COLOR yellow]------------ Malaysia Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Turkey Radio",BURDUR FM
-http://yayin2.yayindakiler.com:4070/
-#EXTINF:0 group-title="Turkey Radio",BURSA 1001 FM
-http://yayin.canlitv.com:9050
-#EXTINF:0 group-title="Turkey Radio",BURSA OLAY FM
-http://www.olayfm.com.tr/live/listen.asx
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO 24
-http://dinle.radyohosting.com:9970
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO AKTİF
-http://sr1.netmedya.org:9220/
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO JET
-http://yayin2.radyotvyayini.com:9994/
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO KARADENİZ
-http://www.yayinonline.com/asx/radyoasx.asp?rd=karadenizfmb
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO S
-http://yayin.canlitv.com:8110
-#EXTINF:0,BURSA RADYO ŞAMPİYON
-http://www.radyosampiyon.com.tr/sampiyon.asx
-#EXTINF:0 group-title="Turkey Radio",BURSA RADYO VENÜS
-mms://yayin3.canliyayin.org/radyovenus
-#EXTINF:0 group-title="Turkey Radio",BURSA ULUDAĞ FM
-http://sr1.netmedya.org:9170/
+#EXTINF:0 group-title="Malaysia Radio",TERENGGANU FM Malaysia
+http://218.208.228.62:8000/;stream.nsv
+#EXTINF:0 group-title="Malaysia Radio",IKIM FM Malaysia
+http://50.7.96.210:8285/;stream.mp3
+#EXTINF:0 group-title="Malaysia Radio",HOT FM Malaysia
+http://2343.live.streamtheworld.com/HOTFMAAC
+#EXTINF:0 group-title="Malaysia Radio",SURIA FM Malaysia
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+#EXTINF:0 group-title="Malaysia Radio",THR GEGAR Malaysia
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+#EXTINF:0 group-title="Malaysia Radio",MUZIK FM Malaysia
+http://69.197.60.122:8000/;stream.mp3
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/hitz.png" group-title="Malaysia Radio",HITZ.FM Malaysia
+http://astro1.rastream.com/hitz
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/sinar.png" group-title="Malaysia Radio",SINAR.FM Malaysia
+http://astro2.rastream.com/sinar
+#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/era.png" group-title="Malaysia Radio",ERA.FM Malaysia
+http://astro2.rastream.com/era
+#EXTINF:-1 group-title="Malaysia Radio",LITE.FM
+http://astro1.rastream.com/lite
+#EXTINF:-1 group-title="Malaysia Radio",MY.FM
+http://astro1.rastream.com/myfm
+#EXTINF:-1 group-title="Malaysia Radio",MIX.FM
+http://astro2.rastream.com/mix
+#EXTINF:-1 group-title="Malaysia Radio",OPUS.FM
+http://astro4.rastream.com/opus
+#EXTINF:-1 group-title="Malaysia Radio",GOLD.FM
+http://astro4.rastream.com/gold
+#EXTINF:-1 group-title="Malaysia Radio",JAZZ.FM
+http://astro4.rastream.com/jazz
+#EXTINF:-1 group-title="Malaysia Radio",ROCK.FM
+http://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="Mauritius Radio",[COLOR yellow]------------ Mauritius Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-name="Best FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Best FM Mauritius" tvg-logo="http://www.africaradios.com/wp-content/uploads/2015/10/MBC-Best-FM-Logo-240×150.jpg" group-title="Mauritius Radio",Best FM Mauritius (Radio) (MU) (Hindi/English)
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8?time=1449826709917
+#EXTINF:0 tvg-name="Best FM" tvg-language="Hindi/English" tvg-country="IN" tvg-id="Best FM" tvg-logo="http://www.kitoler.com/images/radio/logo/bestfm.jpg" group-title="Mauritius Radio",Best FM (Radio) (IN) (Hindi/English)
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Music FM Mauritius" tvg-language="French/English" tvg-country="MU" tvg-id="Music FM Mauritius" tvg-logo="https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-0/s350x350/249824_215377181826908_2946460_n.jpg?oh=6b24449df730a476e2d90a6c240222ec&oe=56769A84&__gda__=1450014609_54ab8f7ae01aa02950cf7f80a61a9ecc" group-title="Mauritius Radio",Music FM Mauritius (Radio) (MU) (French/English)
+http://202.123.27.133/hls-live/musicfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Radio Maurice" tvg-language="French" tvg-country="MU" tvg-id="Radio Maurice" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Maurice (Radio) (MU) (French)
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:0 tvg-name="Radio Mauritius" tvg-language="Hindi" tvg-country="MU" tvg-id="Radio Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Radio-1-Logo.png" group-title="Mauritius Radio",Radio Mauritius (Radio) (MU) (Hindi)
+http://202.123.27.133/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Radio Moris" tvg-language="French" tvg-country="MU" tvg-id="Radio Moris" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Moris (Radio) (MU) (French)
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:0 tvg-name="Radio Plus Mauritius" tvg-language="French/Hindi" tvg-country="MU" tvg-id="Radio Plus Mauritius" tvg-logo="http://www.userlogos.org/files/logos/sjdvda/RPlus.png" group-title="Mauritius Radio",Radio Plus Mauritius (Radio) (MU) (French/Hindi)
+http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Tall Fm Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Tall Fm Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Taal-FM-Logo.png" group-title="Mauritius Radio",Tall Fm Mauritius (Radio) (MU) (Hindi/English)
+http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-name="Top FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Top FM Mauritius" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOO6pCXuIk1T_0hJ6YjolVqTxfIV3qn6evZp_-hYIz09WKyJ53dmn1Gg" group-title="Mauritius Radio",Top FM Mauritius (Radio) (MU) (Hindi/English)
+http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
+
+#EXTINF:-1 group-title="Morrocco Radio",[COLOR yellow]------------ Morrocco Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0  tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2013/04/Chada-FM.jpg" group-title="Morrocco Radio",CHADA FM
+http://broadcast.infomaniak.net/chadafm-high.mp3
+
+#EXTINF:-1 group-title="Norway Radio",[COLOR yellow]------------ Norway Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Norway Radio",NRK Alltid nyheter
+http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P1 Østlandssendingen
+http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P2
+http://lyd.nrk.no/nrk_radio_p2_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK P3
+http://lyd.nrk.no/nrk_radio_p3_aac_h
+#EXTINF:0 group-title="Norway Radio",NRK Urørt
+http://lyd.nrk.no/nrk_radio_p3_urort_aac
+
+#EXTINF:-1 group-title="Poland Radio",[COLOR yellow]------------ Poland Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Poland Radio",Biesada Polish Folk music
+http://www.polskastacja.pl/play/biesiada.pls
 
 #EXTINF:-1 group-title="Portugal Radio",[COLOR yellow]------------ Portugal Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6390,6 +6782,12 @@ http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
 http://94.23.76.235:9956/
 #EXTINF:-1 tvg-logo="http://swling.com/blog/wp-content/uploads/2012/03/webradio.png" group-title="Portugal Radio",Radio_RFM
 http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:-1 group-title="Romania Radio",[COLOR yellow]------------ Romania Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2015/01/Banat-FM.jpg" group-title="Romania Radio",Banat FM
+http://banatfm.ro:8002/
 
 #EXTINF:-1 group-title="Russia Radio",[COLOR yellow]------------ Russia Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6453,77 +6851,132 @@ http://webcast.apexradio.ru:8000/realradio
 #EXTINF:-1,Радио 8
 http://us-tx1.streams.bassdrive.com:9000
 
-#EXTINF:-1 group-title="Malaysia Radio",[COLOR yellow]------------ Malaysia Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Serbia Radio",[COLOR yellow]------------ Serbia Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Malaysia Radio",TERENGGANU FM Malaysia
-http://218.208.228.62:8000/;stream.nsv
-#EXTINF:0 group-title="Malaysia Radio",IKIM FM Malaysia
-http://50.7.96.210:8285/;stream.mp3
-#EXTINF:0 group-title="Malaysia Radio",HOT FM Malaysia
-http://2343.live.streamtheworld.com/HOTFMAAC
-#EXTINF:0 group-title="Malaysia Radio",SURIA FM Malaysia
-http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
-#EXTINF:0 group-title="Malaysia Radio",THR GEGAR Malaysia
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
-#EXTINF:0 group-title="Malaysia Radio",MUZIK FM Malaysia
-http://69.197.60.122:8000/;stream.mp3
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/hitz.png" group-title="Malaysia Radio",HITZ.FM Malaysia
-http://astro1.rastream.com/hitz
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/sinar.png" group-title="Malaysia Radio",SINAR.FM Malaysia
-http://astro2.rastream.com/sinar
-#EXTINF:0 tvg-logo="http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/era.png" group-title="Malaysia Radio",ERA.FM Malaysia
-http://astro2.rastream.com/era
-#EXTINF:-1 group-title="Malaysia Radio",LITE.FM
-http://astro1.rastream.com/lite
-#EXTINF:-1 group-title="Malaysia Radio",MY.FM
-http://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="Malaysia Radio",MIX.FM
-http://astro2.rastream.com/mix
-#EXTINF:-1 group-title="Malaysia Radio",OPUS.FM
-http://astro4.rastream.com/opus
-#EXTINF:-1 group-title="Malaysia Radio",GOLD.FM
-http://astro4.rastream.com/gold
-#EXTINF:-1 group-title="Malaysia Radio",JAZZ.FM
-http://astro4.rastream.com/jazz
-#EXTINF:-1 group-title="Malaysia Radio",ROCK.FM
-http://astro4.rastream.com/rock
+#EXTINF:0 tvg-logo="http://bumbumradio.rs/wp-content/themes/Sanix/images/bumbumradiologo.png" group-title="Serbia Radio",BUM BUM RADIO
+http://radio.bumbumradio.rs:8010/
 
-#EXTINF:-1 group-title="Mauritius Radio",[COLOR yellow]------------ Mauritius Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Singapore Radio",[COLOR yellow]------------ Singapore Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 tvg-name="Best FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Best FM Mauritius" tvg-logo="http://www.africaradios.com/wp-content/uploads/2015/10/MBC-Best-FM-Logo-240×150.jpg" group-title="Mauritius Radio",Best FM Mauritius (Radio) (MU) (Hindi/English)
-http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8?time=1449826709917
-#EXTINF:0 tvg-name="Best FM" tvg-language="Hindi/English" tvg-country="IN" tvg-id="Best FM" tvg-logo="http://www.kitoler.com/images/radio/logo/bestfm.jpg" group-title="Mauritius Radio",Best FM (Radio) (IN) (Hindi/English)
-http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Music FM Mauritius" tvg-language="French/English" tvg-country="MU" tvg-id="Music FM Mauritius" tvg-logo="https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-0/s350x350/249824_215377181826908_2946460_n.jpg?oh=6b24449df730a476e2d90a6c240222ec&oe=56769A84&__gda__=1450014609_54ab8f7ae01aa02950cf7f80a61a9ecc" group-title="Mauritius Radio",Music FM Mauritius (Radio) (MU) (French/English)
-http://202.123.27.133/hls-live/musicfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Radio Maurice" tvg-language="French" tvg-country="MU" tvg-id="Radio Maurice" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Maurice (Radio) (MU) (French)
-http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
-#EXTINF:0 tvg-name="Radio Mauritius" tvg-language="Hindi" tvg-country="MU" tvg-id="Radio Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Radio-1-Logo.png" group-title="Mauritius Radio",Radio Mauritius (Radio) (MU) (Hindi)
-http://202.123.27.133/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Radio Moris" tvg-language="French" tvg-country="MU" tvg-id="Radio Moris" tvg-logo="http://radio.vinternete.com/logos/2013-05-25/11744/logo.png" group-title="Mauritius Radio",Radio Moris (Radio) (MU) (French)
-http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
-#EXTINF:0 tvg-name="Radio Plus Mauritius" tvg-language="French/Hindi" tvg-country="MU" tvg-id="Radio Plus Mauritius" tvg-logo="http://www.userlogos.org/files/logos/sjdvda/RPlus.png" group-title="Mauritius Radio",Radio Plus Mauritius (Radio) (MU) (French/Hindi)
-http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8
-#EXTINF:0 tvg-name="Tall Fm Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Tall Fm Mauritius" tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2015/03/MBC-Taal-FM-Logo.png" group-title="Mauritius Radio",Tall Fm Mauritius (Radio) (MU) (Hindi/English)
-http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-name="Top FM Mauritius" tvg-language="Hindi/English" tvg-country="MU" tvg-id="Top FM Mauritius" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOO6pCXuIk1T_0hJ6YjolVqTxfIV3qn6evZp_-hYIz09WKyJ53dmn1Gg" group-title="Mauritius Radio",Top FM Mauritius (Radio) (MU) (Hindi/English)
-http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg" group-title="Singapore Radio",Ria 89.7 Singapore 
+http://mediacorp.rastream.com/897fm
+#EXTINF:0 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM.jpg" group-title="Singapore Radio",Gold 90.5 FM Singapore| 
+http://mediacorp.rastream.com/905fm
+#EXTINF:0 group-title="Singapore Radio",91.3 Hot FM Singapore 
+http://sph.rastream.com/913fm
+#EXTINF:0 group-title="Singapore Radio",Kiss 92.0 Singapore 
+http://sph.rastream.com/sph-kiss92
+#EXTINF:0 group-title="Singapore Radio",Symphony 92.4 Singapore 
+http://mediacorp.rastream.com/924fm
+#EXTINF:0 group-title="Singapore Radio",Yes 93.3 Singapore
+http://mediacorp.rastream.com/933fm
+#EXTINF:0 group-title="Singapore Radio",93.8 Live Singapore 
+http://mediacorp.rastream.com/938fm
+#EXTINF:0 group-title="Singapore Radio",Warna 94.2 Singapore 
+http://mediacorp.rastream.com/942fm
+#EXTINF:0 group-title="Singapore Radio",Class 95.0 Singapore 
+http://mediacorp.rastream.com/950fm
+#EXTINF:0 group-title="Singapore Radio",95.8 Capital Singapore 
+http://mediacorp.rastream.com/958fm
+#EXTINF:0 group-title="Singapore Radio",XFM 96.3 Singapore 
+http://mediacorp.rastream.com/963fm
+#EXTINF:0 group-title="Singapore Radio",Love 97.2 Singapore 
+http://mediacorp.rastream.com/972fm
+#EXTINF:0 group-title="Singapore Radio",98.7 FM Singapore 
+http://mediacorp.rastream.com/987fm
+#EXTINF:0 group-title="Singapore Radio",Lush 99.5 Singapore 
+http://mediacorp.rastream.com/995fm
+#EXTINF:0 group-title="Singapore Radio",UFM 100.3 Singapore 
+http://sph.rastream.com/1003fm
 
-#EXTINF:-1 group-title="Norway Radio",[COLOR yellow]------------ Norway Radio ----------------------[/COLOR]
+#EXTINF:-1 group-title="Slovakia Radio",[COLOR yellow]------------ Slovakia Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:0 group-title="Norway Radio",NRK Alltid nyheter
-http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h
-#EXTINF:0 group-title="Norway Radio",NRK P1 Østlandssendingen
-http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h
-#EXTINF:0 group-title="Norway Radio",NRK P2
-http://lyd.nrk.no/nrk_radio_p2_aac_h
-#EXTINF:0 group-title="Norway Radio",NRK P3
-http://lyd.nrk.no/nrk_radio_p3_aac_h
-#EXTINF:0 group-title="Norway Radio",NRK Urørt
-http://lyd.nrk.no/nrk_radio_p3_urort_aac
+#EXTINF:0 tvg-logo="https://www.bestfm.sk/wp-content/themes/bestfm/img/logo-bestfm-top.png" group-title="Slovakia Radio",Best FM
+http://stream.bestfm.sk/128.mp3.m3u
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Devin
+http://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Patria
+http://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Regina Banska Bystrica
+http://icecast.stv.livebox.sk/regina-bb_128.mp3
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Regina Bratislava
+http://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Regina Košice
+http://icecast.stv.livebox.sk/regina-ke_128.mp3
+#EXTINF:0 group-title="Slovakia Radio",RTVS Radio Slovensko (icecast 128 mp3)
+http://icecast.stv.livebox.sk/slovensko_128.mp3
+
+#EXTINF:-1 group-title="Spain Radio",[COLOR yellow]------------ Spain Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cadena_Ser_logo.svg/170px-Cadena_Ser_logo.svg.png" group-title="Spain Radio",Cadena Ser
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1 group-title="Switzerland Radio",[COLOR yellow]------------ Switzerland Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Switzerland Radio",LaFabrik Suisse
+Http://stream.lafabrik.ch/lafabrik.m3u
+#EXTINF:0 group-title="Switzerland Radio",Vibration FM Suise
+Http://vibration.stream2net.eu:8130/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibration PopRock Suisse
+Http://vibrationpoprock.stream2net.eu:8260/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibration Latina Suisse
+Http://vibracionlatina.stream2net.eu:8410/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Vibratio classic hit Suisse
+Http://vibrationclassic80.stream2net.eu:8060/listen.pls
+#EXTINF:0 group-title="Switzerland Radio",Yes FM Suisse
+Http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u
+#EXTINF:0 group-title="Switzerland Radio",Rouge MadeInFrance Suisse
+Http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u
+#EXTINF:0 group-title="Switzerland Radio",Swiss Internet Radio - Public Domain Classical 
+http://82.197.165.137:80
+
+#EXTINF:0 group-title="Switzerland Radio",Public Domain Jazz - Swiss Internet Radio
+
+http://82.197.167.138:80
+
+#EXTINF:-1 group-title="Switzerland Radio",Radio Monte Carlo Swiss
+http://82.200.209.236:8000/mc-it
+
+#EXTINF:-1 group-title="Turkey Radio",[COLOR yellow]------------ Turkey Radio ----------------------[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0 group-title="Turkey Radio",AVRASYA TÜRK
+http://radyoavrasya.radyolarburada.com:1071/
+#EXTINF:0 tvg-logo="http://radyodinler.org/wp-content/uploads/radyo-azelya.jpg" group-title="Turkey Radio",BİNGÖL RADYO AZELYA
+http://yayin1.yayindakiler.com:3018/
+#EXTINF:0 tvg-logo="http://netradyodinle.com/uploads/radyo/betul-fm-dinle.jpg" group-title="Turkey Radio",BETÜL FM
+http://radyo.betul-fm.com:5728/
+#EXTINF:0 tvg-logo="http://www.radyoyanki.com/wp-content/uploads/2015/10/newlogo.png" group-title="Turkey Radio",BOLU RADYO YANKI
+http://212.7.200.213:8535/
+#EXTINF:0 group-title="Turkey Radio",BURDUR FM
+http://yayin2.yayindakiler.com:4070/
+#EXTINF:0 group-title="Turkey Radio",BURSA 1001 FM
+http://yayin.canlitv.com:9050
+#EXTINF:0 group-title="Turkey Radio",BURSA OLAY FM
+http://www.olayfm.com.tr/live/listen.asx
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO 24
+http://dinle.radyohosting.com:9970
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO AKTİF
+http://sr1.netmedya.org:9220/
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO JET
+http://yayin2.radyotvyayini.com:9994/
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO KARADENİZ
+http://www.yayinonline.com/asx/radyoasx.asp?rd=karadenizfmb
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO S
+http://yayin.canlitv.com:8110
+#EXTINF:0,BURSA RADYO ŞAMPİYON
+http://www.radyosampiyon.com.tr/sampiyon.asx
+#EXTINF:0 group-title="Turkey Radio",BURSA RADYO VENÜS
+mms://yayin3.canliyayin.org/radyovenus
+#EXTINF:0 group-title="Turkey Radio",BURSA ULUDAĞ FM
+http://sr1.netmedya.org:9170/
+#EXTINF:0 tvg-logo="http://www.beles.org/radyo-dinle/images/cilek-fm.gif" group-title="Turkey Radio",ÇİLEK FM
+http://radiocilekfm.com:9393
 
 #EXTINF:-1 group-title="Vietnam Radio",[COLOR yellow]------------ Vietnam Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
@@ -6542,8 +6995,10 @@ http://123.29.68.10/radio/myradio004.m3u8
 #EXTINF:-1 group-title="Radio",[COLOR yellow]------------ Radio ----------------------[/COLOR]
 http://0.0.0.0:1234
 
-
-
+#EXTINF:0 group-title="Radio",capital fm reunion
+http://broadcast.infomaniak.net/capitalfmreunion.mp3
+#EXTINF:0 group-title="Radio",Chill-OutRadioGaia
+http://streaming202.radionomy.com:80/Chill-Out-Radio-Gaia
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s212704q.png" group-title="Radio",KissFM Deep
 
 http://online-kissfm.tavrmedia.ua/KissFM_deep
@@ -6604,6 +7059,9 @@ http://209.9.238.4:9844
 
 #EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r30/Purple/v4/e3/30/dc/e330dc9c-8fbc-4b0f-93b8-3334f0316857/screen568x568.jpeg" group-title="Radio",Hatchet Radio
 http://198.154.106.101:8266/
+
+#EXTINF:0 group-title="Radio",Birdsong.fm - Lush relax
+http://lush.wavestreamer.com:7309/
 
 
 #EXTINF:0 group-title="Radio", CONSUMING FIRE RADIO
@@ -6682,8 +7140,13 @@ http://82.200.209.236:8000/bravo
 http://82.200.209.236:8000/brks_128
 #EXTINF:-1 group-title="Radio",Business fm
 http://82.200.209.236:8000/businessfm
+#EXTINF:0 group-title="Radio",Ber All Stars
+http://stream.electroradio.ch:26630
 #EXTINF:-1 group-title="Radio",Byblos Radio
 http://82.200.209.236:8000/byblos
+
+#EXTINF:0 group-title="Radio",Canal5Gold
+http://streaming208.radionomy.com:80/Canal-5-Gold
 #EXTINF:-1 group-title="Radio",Cafe Cody
 http://82.200.209.236:8000/cafecody
 #EXTINF:-1 group-title="Radio",Capital 95.8
@@ -13744,7 +14207,23 @@ http://afewbitsmore.com/albums/Beatles/Past%20Masters/Volume%202/The%20Beatles-P
 #EXTINF:-1 group-title="Webcams",[COLOR yellow]-----------Webcams---------[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 group-title="Webcams",SPACE STATION LIVE 2
+
+#EXTINF:0 group-title="Webcams",Bulgaria, Harmanli
+rtsp://93.183.167.17:554/live/ch00_0
+#EXTINF:0 group-title="Webcams",Bulgaria, Plovdiv
+rtsp://91.191.213.53:554/live_mpeg4.sdp
+#EXTINF:0 group-title="Webcams",Bulgaria, Plovdiv
+rtsp://91.191.213.52:554/live_mpeg4.sdp
+#EXTINF:0 group-title="Webcams",Bulgaria, Plovdiv
+rtsp://212.73.150.90:554/
+#EXTINF:0 group-title="Webcams",Bulgaria, Sofia
+rtsp://91.191.213.41:554/live_mpeg4.sdp
+#EXTINF:0 group-title="Webcams",Bulgarian - Pirdop
+rtsp://12345678:@83.228.67.155:554/mpeg4/ch01/main/av_stream
+#EXTINF:0 group-title="Webcams",Bulgarian - Uzuna
+rtsp://193.68.123.249:554/live/ch00_0
+#EXTINF:0 group-title="Webcams",Bulgarian - Uzuna
+rtsp://193.68.19.188:554/live/ch00_0#EXTINF:-1 group-title="Webcams",SPACE STATION LIVE 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0 group-title="Webcams",Monterey Bay Aquarium's Open Sea cam (RandomAirTime 24/7) (US) (English)
