@@ -1,0 +1,107 @@
+
+<item>
+<title>Firefly – Season 1 Episode 1</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e1.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 2</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e2.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 3</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e3.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 4</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e4.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 5</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e5.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 6</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e6.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 7</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e7.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 8</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e8.mp4</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 9</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e9.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 10</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e10.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 11</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e11.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 12</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e12.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 13</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e13.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Firefly – Season 1 Episode 14</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e14.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Firefly – Season 1 Episode 15</title>
+<link>http://www.deadlyblogger.com/NewRelease/fireflys1e15.mp4</link>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
