@@ -193,5 +193,3 @@
 <thumbnail>https://i.imgur.com/wx7KMdy.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
-</item>
