@@ -5,9 +5,9 @@
 <channel>
 <name>Live TV</name>
 <thumbnail>http://i.imgur.com/ZD2XwP0.png</thumbnail>
-<externallink>https://goo.gl/Er0AY5</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/home.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
@@ -15,7 +15,7 @@
 <thumbnail>http://i.imgur.com/BOgwUAR.png</thumbnail>
 <externallink>https://goo.gl/TgyLk7</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
@@ -23,7 +23,7 @@
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
 <externallink>https://goo.gl/VXQsdD</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
@@ -31,7 +31,7 @@
 <thumbnail>http://i.imgur.com/VCHcpFQ.png</thumbnail>
 <externallink></externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
@@ -39,7 +39,7 @@
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 </channels>
