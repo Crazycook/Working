@@ -330,443 +330,233 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>CKRU-FM 100.5 Greatest Hits Winnipeg MB</title>
+<link>http://live.leanstream.co/CKRUFM-MP3</link>
+<thumbnail>https://i.imgur.com/toy4eKt.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CKWF-FM The Wolf  Peterborough, Ontario</title>
+<link>http://live.leanstream.co/CKWFFM-MP3</link>
+<thumbnail>https://i.imgur.com/Du1S50n.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada</title>
+<link>http://3303.live.streamtheworld.com/CKXGFMAAC?</link>
+<thumbnail>https://i.imgur.com/k3vwLcx.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CRPL-FM</title>
+<link>http://live.leanstream.co/CFPLFM-MP3</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Culture Failure</title>
+<link>http://64.51.127.10:8000/stream/1/</link>
+<thumbnail>https://i.imgur.com/ypya4G1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>FM The X – CFBX. Kamloops, B.C. Canada</title>
+<link>http://198.162.21.84:8002</link>
+<thumbnail>https://i.imgur.com/ZBDUmtZ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Guarani Montreal</title>
+<link>http://50.7.77.114:8335/stream</link>
+<thumbnail>https://i.imgur.com/G5OWseb.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Khalsa FM – Edmonton, Canada</title>
+<link>http://198.178.123.8:7798</link>
+<thumbnail>https://i.imgur.com/TZKDHtP.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Punjabi Radio CANADA</title>
+<link>http://174.37.16.73:5270/Live</link>
+<thumbnail>https://i.imgur.com/8FYp4Tr.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CKOI 96.9 Montreal QC</title>
+<link>http://142.4.207.11:8000/ckoi.mp3</link>
+<thumbnail>https://i.imgur.com/NZlr6G4.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Rythme FM 105.7</title>
+<link>http://142.4.207.11:8000/cfgl.mp3</link>
+<thumbnail>https://i.imgur.com/opVhM1u.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Quebec Radio</title>
+<link>http://184.95.52.178:8062</link>
+<thumbnail>https://i.imgur.com/TaF4dac.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Salamontreal Radio</title>
+<link>http://199.195.194.92:8018</link>
+<thumbnail>https://i.imgur.com/5VLe1pY.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Steve Madden Quebec</title>
+<link>http://184.95.52.178:9408</link>
+<thumbnail>http://www.creativejobscentral.com/img/company/comp_1372799385.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>104.7FM Gatineau (CKOF-FM)</title>
+<link>Http://142.4.207.11:8000/ckof.mp3</link>
+<thumbnail>https://i.imgur.com/voW1YCn.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Energie Est du Québec (Rimouski) (CIKI-FM)</title>
+<link>Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC</link>
+<thumbnail>https://i.imgur.com/ByDIHyY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Trans Radio Canada</title>
+<link>http://46.105.125.110:4610</link>
+<thumbnail>https://i.imgur.com/1tc8Npa.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>UCB Canada – Chatham-Kent</title>
+<link>http://67.228.150.175:8930</link>
+<thumbnail>https://i.imgur.com/MhQqXse.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>underGround Quebec</title>
+<link>http://174.142.97.228:8040</link>
+<thumbnail>https://i.imgur.com/0Q9CGwB.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Vancouver Christian Radio</title>
+<link>http://198.27.83.198:5166</link>
+<thumbnail>https://i.imgur.com/qfQvz1h.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>590 CJCL Toronto Sports Radio The Fan</title>
+<link>http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590</link>
+<thumbnail>http://radioadminassets.rogersdigitalmedia.com/uploads/200x100_sn590.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CFAC Sportsnet 960 The FAN Calgary</title>
+<link>http://radio_cfac-lh.akamaihd.net/i/CAL960_1@191905/master.m3u8</link>
+<thumbnail>https://i.imgur.com/2eb6e8B.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CKOC Hamilton TSN 1150</title>
+<link>http://17593.live.streamtheworld.com:3690/CKOCAM_SC</link>
+<thumbnail>http://tsnimages.tsn.ca/ImageProvider/AssetImage?seoId=tsn-radio1150-hamilton-167x94%20&width=167&height=167</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CHUM Toronto TSN 1050</title>
+<link>http://18063.live.streamtheworld.com/CHUMAM_SC</link>
+<thumbnail>https://i.imgur.com/uSxyCU0.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CKGM Montreal TSN 690</title>
+<link>http://18853.live.streamtheworld.com:3690/CKGMAM_SC</link>
+<thumbnail>https://i.imgur.com/oMcZ1Sm.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CFRW Winnepeg TSN 1290</title>
+<link>http://18193.live.streamtheworld.com:3690/CFRWAMDROID_SC</link>
+<thumbnail>https://i.imgur.com/I8lJLjb.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CFRN Edmonton TSN 1260</title>
+<link>http://18613.live.streamtheworld.com:3690/CFRNAM_SC</link>
+<thumbnail>https://i.imgur.com/aMtX6W7.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CKST Vancouver TSN 1040</title>
+<link>http://16643.live.streamtheworld.com/CKSTAMAAC.aac</link>
+<thumbnail>https://i.imgur.com/YSWiJip.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>CFGO OTTAWA TSN 1200</title>
+<link>http://14993.live.streamtheworld.com/CFTEAMAAC.aac</link>
+<thumbnail>https://i.imgur.com/72kTjrx.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Radio Canada Internationale</title>
+<link>http://82.200.209.236:8000/rci</link>
+<thumbnail>https://i.imgur.com/wDd1i5c.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>first Channel Radio-Canada</title>
+<link>http://2QMTL0.akacast.akamaistream.net:80/7/953/177387/v1/rc.akacast.akamaistream.net/2QMTL0</link>
+<thumbnail>http://www.siriusxm.ca/wp-content/uploads/2014/05/Header-CBC-Radio-One.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Espace Musique  Radio-Canada</title>
+<link>http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0</link>
+<thumbnail>https://i.imgur.com/qp3gHV3.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>RDI (Audio) Radio-Canada</title>
+<link>http://RDIRADIO.akacast.akamaistream.net:80/7/501/177423/v1/rc.akacast.akamaistream.net/RDIRADIO</link>
+<thumbnail>https://i.imgur.com/a8ksoUB.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
