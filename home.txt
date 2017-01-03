@@ -4,7 +4,7 @@
 <channel>
 <name>Canada Radio</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/radio/home.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/radio/Canada%20Radio.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>SimpleKore.com</info>
 </channel>
