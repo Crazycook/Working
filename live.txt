@@ -1,0 +1,20 @@
+<item>
+<title>ADULT SWIM Fish Center</title>
+<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+<thumbnail>http://i.imgur.com/DWm84sX.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Cool HD - 103.7 TV (Argentina)</title>
+<link>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/0eVCd4b.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
