@@ -21,7 +21,7 @@
 <channel>
 <name>Radio</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://goo.gl/VXQsdD</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>SimpleKore.com</info>
 </channel>
