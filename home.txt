@@ -33,4 +33,12 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channel>
+<name>Shopping TV</name>
+<thumbnail>https://i.imgur.com/KWBXu7t.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Shopping.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
 </channels>
