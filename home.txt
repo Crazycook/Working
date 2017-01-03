@@ -3,42 +3,18 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
-<thumbnail>http://i.imgur.com/ZD2XwP0.png</thumbnail>
-<externallink>https://goo.gl/Er0AY5</externallink>
+<name>Canada Radio</name>
+<thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
+<externallink>https://goo.gl/C6s7hh</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>SimpleKore.com</info>
 </channel>
 
 <channel>
-<name>Movies</name>
-<thumbnail>http://i.imgur.com/BOgwUAR.png</thumbnail>
-<externallink>https://goo.gl/TgyLk7</externallink>
+<name>USA Radio</name>
+<thumbnail>http://i.imgur.com/uNvnAt9.png</thumbnail>
+<externallink>https://goo.gl/4AELlG</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channel>
-<name>Radio</name>
-<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channel>
-<name>TV Series</name>
-<thumbnail>http://i.imgur.com/VCHcpFQ.png</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
-</channel>
-
-<channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
 
