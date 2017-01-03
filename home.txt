@@ -1,11 +1,10 @@
 <layouttype>thumbnail</layouttype>
 
-
 <channels>
 <channel>
 <name>Canada Radio</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<externallink>https://goo.gl/C6s7hh</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/radio/home.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>SimpleKore.com</info>
 </channel>
@@ -13,7 +12,7 @@
 <channel>
 <name>USA Radio</name>
 <thumbnail>http://i.imgur.com/uNvnAt9.png</thumbnail>
-<externallink>https://goo.gl/4AELlG</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/radio/USA%20Radio.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>SimpleKore.com</info>
 </channel>
