@@ -1,0 +1,20 @@
+<item>
+<title>KALX 90.7 FM Berkeley</title>
+<link></link>
+<thumbnail>http://i.imgur.com/q6RoCC4.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>All Classical FM - KQAC 3</title>
+<link>http://allclassical-ice.streamguys.com/ac32kmp3</link>
+<thumbnail>http://i.imgur.com/ZMJv2Sg.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WGN Chicago Illinois Radio</title>
+<link>http://provisioning.streamtheworld.com/pls/WGNAM.pls</link>
+<thumbnail>http://i.imgur.com/lSP9plo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

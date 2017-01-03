@@ -1,0 +1,20 @@
+<item>
+<title>The Purge : Anarchy</title>
+<link>http://www.deadlyblogger.com/NewRelease/thepurge2014.mp4</link>
+<thumbnail>http://i.imgur.com/EwdABeg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Maze Runner</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/TheMazeRunnerDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://i.imgur.com/cWHuSwd.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Monuments Men</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/TheMonumentsMenDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://i.imgur.com/sGxvKeO.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
