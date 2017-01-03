@@ -6,7 +6,6 @@
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Firefly.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>SimpleKore.com</info>
+<info>DiRTYBURGER Streams</info>
 </channel>
-
 </channels>
