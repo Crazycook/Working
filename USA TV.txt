@@ -1,0 +1,41 @@
+<item>
+<item>
+<title>ANIMAL CHANNEL</title>
+<link>http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8</link>
+<thumbnail>http://i.imgur.com/em7pWCI.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>360 North</title>
+<link>http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/1vCDjD0.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>AMG TV</title>
+<link>http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8</link>
+<thumbnail>http://i.imgur.com/OTMTilM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KBYU BYU Eleven 11</title>
+<link>http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_2540_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/4v4f8Rc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Florida Channel</title>
+<link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
+<thumbnail>http://i.imgur.com/DRHjFt5.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DoughyGuy Broadcast System</title>
+<link>http://65.60.19.42:8380/;stream.nsv </link>
+<thumbnail>http://i.imgur.com/v1FkYaZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
