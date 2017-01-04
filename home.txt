@@ -11,7 +11,7 @@
 
 <channel>
 <name>News</name>
-<thumbnail>https://i.imgur.com/vkF90yy.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/WjBIqzY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/News.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
