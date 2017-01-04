@@ -1,0 +1,482 @@
+<item>
+<item>
+<title>CBS KCAL 9 News - Los Angeles CA</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/pzfEuEW.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCBS 2 News - 43 DT - Los Angeles - CA California</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcbsx-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/pK5CqPY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>CBS KESQ News Channel 3 - 42 DT - Palm Springs - CA</title>
+<link>http://kesq_live-lh.akamaihd.net/i/0fupc9sax_1@167696/master.m3u8</link>
+<thumbnail>https://i.imgur.com/YIgXD2Z.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS KPIX 5 News - 29 DT - San Francisco - CA</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/aeq3Ad9.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KXRM 21 FOX News - 22 DT - Colorado Springs - CO</title>
+<link>http://play-prod1.live.anvato.net/server/play/mg-kxrm-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/v50F47K.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KMGH 7 News - 7 DT - Denver - CO</title>
+<link>http://play-prod1.live.anvato.net/server/play/epsps-kmgh-v-20/master.m3u8</link>
+<thumbnail>https://i.imgur.com/lWpq1T3.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCNC CBS 4 News - 35 DT - Denver - CO</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/vxBg5UH.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WRUF 10 GatorWeather - 5 LD - Gainesville - FL</title>
+<link>rtmp://fms01.jou.ufl.edu/live/weather</link>
+<thumbnail>https://i.imgur.com/vG00Hww.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WPLG Local 10 News - 10 DT - Miami - FL</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/OnviKs0.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WFOR 4 News - 22 DT - Miami - FL</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wfor-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/9mCRex2.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WJHG NewsChannel 7 - 18 DT - Panama City - FL</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wjhg-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/hmAc06M.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WPTV News Channel 5 NBC - 12 DT - West Palm Beach - FL</title>
+<link>http://spswptv-i.akamaihd.net/hls/live/203384/anvato/master.m3u8</link>
+<thumbnail>https://i.imgur.com/9D8Qcu1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KITV 4 ABC News - 40 DT - Honolulu - HI</title>
+<link>http://play-prod1.live.anvato.net/server/play/hearst-kitv-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/qappbG2.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCRG 9 News - 9 DT - Cedar Rapids - IA</title>
+<link>http://cdn.bimvidlive.com/kcrg1/kcrg1/master.m3u8</link>
+<thumbnail>https://i.imgur.com/nGhlMvf.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WOI Local 5 News - 5 DT - Des Moines - IA</title>
+<link>http://woi-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Z2zjjph.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WHO 13.2 Weather - 13 DT - Des Moines - IA</title>
+<link>http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Kdm35gC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCAU 9 News - 9 DT - Sioux City - IA</title>
+<link>http://kcau-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>https://i.imgur.com/eAgrJe7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KIFI News 8 Now - 8 DT - Idaho Falls - ID</title>
+<link>http://kifi_live-lh.akamaihd.net/i/0v7bzeufb_1@153713/master.m3u8</link>
+<thumbnail>https://i.imgur.com/GKvShc8.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WBBM 2 News - 12 DT - Chicago - IL</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wbbmx-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Yub4zvv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KAKE 10 News - 10 DT - Wichita - KS</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-kake-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/vuG0JaE.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WYMT 57 News - 12 DT - Hazard - KY</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wymt-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/X3N2VQQ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WKYT 27 News - 36 DT - Lexington - KY</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wkyt-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/NGPlJmc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KNOV NOTV - 41 DC - New Orleans - LA</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/NOTVHD</link>
+<thumbnail>https://i.imgur.com/Yrq3pP7.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA</title>
+<link>http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8</link>
+<thumbnail>https://i.imgur.com/b6EbpPW.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCEA 58 MasTV - 45 LD - Boston - MA</title>
+<link>rtmp://wceatv1.srfms.com:2177/live/livestream</link>
+<thumbnail>https://i.imgur.com/oB0bePq.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WJZ  13 News - 13 DT - Baltimore - MD</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wjz-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/rVHotaZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WMAR 2 News - 38 DT - Baltimore - MD</title>
+<link>http://spswmar-i.akamaihd.net/hls/live/203491/anvato/master.m3u8</link>
+<thumbnail>https://i.imgur.com/9ujBmzV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WFVX-LD 7 FOX News - 7 DT - Bangor - ME</title>
+<link>http://cdn.bimvidlive.com/wvii1/wvii1/master.m3u8</link>
+<thumbnail>https://i.imgur.com/RNPadgP.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WXYZ 7 Action News - 41 DT - Detroit - MI</title>
+<link>http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/master.m3u8</link>
+<thumbnail>https://i.imgur.com/zfVBq5X.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WILX News 10 - 10 DT - Lansing - MI</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wilx-dfp/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Z3ux4Df.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WJMN Local 3 News - 48 DT - Marquette - MI</title>
+<link>http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/8f1TTYTupeo/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCCO 4 News - 32 DT - Minneapolis - MN</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wcco-dfp/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KSHB NBC Action News 41 - 42 DT - Kansas City - MO</title>
+<link>http://spskshb-i.akamaihd.net/hls/live/203489/anvato/master.m3u8</link>
+<thumbnail>http://i.imgur.com/VTHrteP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KSNB Neb NBC News - 4 DT - Lincoln - NE</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-ksnb-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/JUxnE4W.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WLNY 10/55 News - 47 DT - New York City - NY</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/M9148d9.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WCBS 2 News - 33 DT - New York City - NY</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/EBD62uu.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WEWS NewsChannel 5 - 15 DT - Cleveland - OH</title>
+<link>http://spswews-i.akamaihd.net/hls/live/203382/anvato/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Y70HmtM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KEZI 9 News - 9 DT - Eugene - OR</title>
+<link>http://play-prod1.live.anvato.net/server/play/heartland-kezi/master.m3u8</link>
+<thumbnail>http://i.imgur.com/dSlGxAN.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KDRV NewsWatch 12 - 12 DT - Medford - OH</title>
+<link>http://play-prod1.live.anvato.net/server/play/heartland-kdrv/master.m3u8</link>
+<thumbnail>http://i.imgur.com/fwV7niN.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTVT 11 News - 19 DT - Dallas - TX</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-ktvt-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/cxOvhFt.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KPRC Local 2 News - 35 DT - Houston - TX</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-kprc-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/ZlDx1Gf.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KAMC 28 News - 27 DT - Lubbock - TX</title>
+<link>http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>http://i.imgur.com/WW8FZUr.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KSAN News 3 - 16 DT - San Angelo - TX</title>
+<link>http://ksan-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>http://i.imgur.com/vC5wWHu.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KSAT 12 News - 12 DT - San Antonio - TX</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-ksat-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/fNQQmNn.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KRGV 5 News - 13 DT - Weslaco - TX</title>
+<link>http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>http://i.imgur.com/ItVdT8T.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WSAZ News 3 - 23 DT - Charleston - WV</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wsazhnt-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/14lCXs1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA</title>
+<link>http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8</link>
+<thumbnail>http://i.imgur.com/RGB5mze.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FOX 23 NEWS Tulsa</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail>http://i.imgur.com/ECIzbQl.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FOX 30 NEWS JAX</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8</link>
+<thumbnail>http://i.imgur.com/vmOZuj4.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KIRO 7 NEWS seatle</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8</link>
+<thumbnail>http://i.imgur.com/HiCgcqC.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WUPA CW 69 - 43 DT - Atlanta - GA</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-wupa-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Km4WFUC.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WRDW News 12 - 12 DT - Augusta - GA</title>
+<link>http://play-prod1.live.anvato.net/server/play/sps-wrtv-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/tvbsbhD.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WRTV rtv6 Newsy - 25 DT - Indianapolis - IN</title>
+<link>http://play-prod1.live.anvato.net/server/play/sps-wrtv-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/ClqF2II.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KNOE CBS 8 News - 8 DT - Monroe - LA</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-knoe-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/vyreOqN.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WDIV NBC Local 4 News - 45 DT - Detroit - MI</title>
+<link>http://play-prod1.live.anvato.net/server/play/pns-wdiv-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/y6tVs8V.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WTVG 13 ABC Action News - 13 DT - Toledo - OH</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wtvg-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/XWCmOCt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WTAP News 15 - 49 DT - Parkersburg - WV</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-wtap-dfp/master.m3u8</link>
+<thumbnail>http://i.imgur.com/XeD2EGt.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
