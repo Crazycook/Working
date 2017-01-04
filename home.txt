@@ -18,6 +18,14 @@
 </channel>
 
 <channel>
+<name>USA Local News</name>
+<thumbnail>http://i.imgur.com/Hu33rC5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20Local%20News.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>Sports TV</name>
 <thumbnail>https://i.imgur.com/THXBQh7.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Sports%20TV.txt</externallink>
