@@ -10,6 +10,14 @@
 </channel>
 
 <channel>
+<name>News</name>
+<thumbnail>https://i.imgur.com/vkF90yy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/News.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>Sports TV</name>
 <thumbnail>https://i.imgur.com/THXBQh7.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Sports%20TV.txt</externallink>
