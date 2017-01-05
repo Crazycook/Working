@@ -317,219 +317,222 @@
 </item>
 
 <item>
-<title>Finest TV</title>
-<link>http://62.153.171.60:1466</link>
-<thumbnail></thumbnail>
+<title>Gem Kurd</title>
+<link>http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Hawacom Tv</title>
+<link>http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/wXlq6JL.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Heart TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Heavy Metal Television</title>
+<link>rtmp://70.166.98.130:1935/hmtv/myStream</link>
+<thumbnail>http://i.imgur.com/VCfFv7x.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Hit TV</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://i.imgur.com/8f9Y8L9.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Indies Live</title>
+<link>http://ec.playmedia.fr/indies-live/live/playlist.m3u8</link>
+<thumbnail>http://nasdy.website/indieslive/wp-content/uploads/sites/47/2016/08/logo_il-2.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Klipkar TV</title>
+<link>http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/HwAQnHu.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Kronehit</title>
+<link>http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8</link>
+<thumbnail>http://i.imgur.com/i1ggG2b.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>M1</title>
+<link>http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>M2O TV</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i.imgur.com/JGeeWeu.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>M6 Music</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+</link>
+<thumbnail>http://i.imgur.com/ikBVYWV.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>MAD</title>
+<link>http://144.76.2.213:1935/live/livestream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TFeqY7n.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Melody Channel</title>
+<link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Y05EFlx.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>MIMUSICA HD</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+<thumbnail>http://i.imgur.com/ZW7aKCx.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Mifa TV</title>
+<link>http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8</link>
+<thumbnail>http://i.imgur.com/9Q8O3P8.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Radio Monte Carlo Tv</title>
+<link>rtmp://fms.105.net/live/rmc1</link>
+<thumbnail>http://i.imgur.com/gxJyOmp.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Music Box TV</title>
+<link>rtmp://212.26.132.86/live/mb_ua</link>
+<thumbnail>http://i.imgur.com/wRIykw2.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Muz TV</title>
+<link>http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+</link>
+<thumbnail>http://i.imgur.com/8m3xQF8.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Muzz One</title>
+<link>http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/pddDcQs.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>MTV AM</title>
+<link>http://mtvam.ru/hlsam/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/QQVTbsL.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Nebiset</title>
+<link>http://hls.nebiset.tv/nebiset.m3u8</link>
+<thumbnail>http://i.imgur.com/poVXHBE.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>NR1 Turk</title>
+<link>rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp</link>
+<thumbnail>http://i.imgur.com/FKIXCGs.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>NRJ HITS</title>
+<link>rtsp://5.196.138.6:1935/live/nrjbelgique_360p</link>
+<thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>NRJ HITS 720p</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1913418838.m3u8</link>
+<thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Ocko Gold</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8</link>
+<thumbnail>http://i.imgur.com/xbo5eq2.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>OCKO</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8</link>
+<thumbnail>http://i.imgur.com/jJr5Acl.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>OCKO Express</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8</link>
+<thumbnail>http://i.imgur.com/ZdtMCAi.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>OneTV </title>
+<link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/iNCYeo5.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>ONE BY</title>
+<link>http://rtmp.one.by:1200</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>ONE BY HD</title>
+<link>http://rtmp.one.by:1300</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>ONE BY UHD</title>
+<link>http://rtmp.one.by:1400</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
