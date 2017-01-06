@@ -2,81 +2,145 @@
 
 <channels>
 <channel>
-<name>24-7</name>
-<thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/24-7.txt</externallink>
+<name>Argentina Tv</name>
+<thumbnail>https://i.imgur.com/pDNb8bl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Argentina%20TV.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>News</name>
-<thumbnail>https://i.imgur.com/WjBIqzY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/News.txt</externallink>
+<name>Barbados TV</name>
+<thumbnail>https://i.imgur.com/Yx7B20S.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Barbados%20Tv.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>USA Local News</name>
-<thumbnail>http://i.imgur.com/Hu33rC5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20Local%20News.txt</externallink>
+<name>Bolivia Tv</name>
+<thumbnail>https://i.imgur.com/kKCpP71.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Bolivia%20Tv.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Sports TV</name>
-<thumbnail>https://i.imgur.com/THXBQh7.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Sports%20TV.txt</externallink>
+<name>Brazil TV</name>
+<thumbnail>https://i.imgur.com/qQ7lL40.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Brazil%20TV.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>USA TV</name>
-<thumbnail>http://i.imgur.com/AFF08tA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20TV.txt</externallink>
+<name>Columbia TV</name>
+<thumbnail>https://i.imgur.com/t7KRUOR.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Columbia%20TV.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Canada TV</name>
+<name>Costa Rica TV</name>
 <thumbnail>http://i.imgur.com/vRAmfhW.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Canada%20TV.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Costa%20Rica%20Tv.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Middle East TV</name>
+<name>Dominican TV</name>
 <thumbnail>https://i.imgur.com/s4HBhN5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Middle-East-TV/home.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Dominican%20Republic%20Tv.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Africa Tv</name>
-<thumbnail>https://i.imgur.com/Px6tqE4.png</thumbnail>
-<externallink>https://github.com/Crazycook/Working/blob/Live-TV/Africa.txt</externallink>
+<name>Ecuador TV</name>
+<thumbnail>https://i.imgur.com/rN8lj4A.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Ecuador%20TV.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Shopping TV</name>
-<thumbnail>https://i.imgur.com/KWBXu7t.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Shopping.txt</externallink>
+<name>El Salvador Tv</name>
+<thumbnail>https://i.imgur.com/k2M5oyB.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/El%20Salvador%20TV.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Religious TV</name>
-<thumbnail>http://i.imgur.com/1fM9yWp.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Religious.txt</externallink>
+<name>Guatemala Tv</name>
+<thumbnail>https://i.imgur.com/e2wmODn.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Guatemala%20Tv.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Honduras TV</name>
+<thumbnail>https://i.imgur.com/dvnNlaf.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Honduras%20TV.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Jamaica Tv</name>
+<thumbnail>https://i.imgur.com/r1S9YA1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Jamaica%20TV.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Mexico TV</name>
+<thumbnail>https://i.imgur.com/5SsNc4P.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Mexico%20TV.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Nicaragua Tv</name>
+<thumbnail>https://i.imgur.com/hI01kEp.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Nicaragua%20Tv.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Paraguay TV</name>
+<thumbnail>https://i.imgur.com/O2ycfyJ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Paraguay%20TV.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Panama TV</name>
+<thumbnail>https://i.imgur.com/O2ycfyJ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Panama%20TV.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Trinidad & Tobago TV</name>
+<thumbnail>https://i.imgur.com/wGDtJyp.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Trinidad%20%26%20Tobago%20TV.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Venezuela TV</name>
+<thumbnail>https://i.imgur.com/KatMZnD.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/Venezuela.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
