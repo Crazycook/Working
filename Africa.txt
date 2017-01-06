@@ -1,8 +1,0 @@
-<item>
-<item>
-<title>TV CONTINENTAL NIGERIA</title>
-<link>http://77.92.76.135:1935/tvce/livestream/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/BO0rUnQ.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
