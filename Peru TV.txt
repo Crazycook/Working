@@ -1,0 +1,8 @@
+<item>
+<item>
+<title>Bruce Lee</title>
+<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
