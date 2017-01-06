@@ -60,7 +60,15 @@
 <channel>
 <name>Africa Tv</name>
 <thumbnail>https://i.imgur.com/Px6tqE4.png</thumbnail>
-<externallink>https://github.com/Crazycook/Working/blob/Live-TV/Africa.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Africa.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Central and South America</name>
+<thumbnail>https://i.imgur.com/hwCtRAU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Central-and-South-America/home.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
