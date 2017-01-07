@@ -6,3 +6,23 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Tapesh TV</title>
+<link>http://63.237.48.3/ios/TAPESH/TAPESH.m3u8</link>
+<thumbnail>Tapesh TV</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Gem Bollywood</title>
+<link>http://63.237.48.23/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8</link>
+<thumbnail>https://i.imgur.com/PJN2rdX.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Gem Junior</title>
+<link>http://63.237.48.23/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8</link>
+<thumbnail>https://i.imgur.com/2k2j3y0.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

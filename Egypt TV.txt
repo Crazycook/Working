@@ -5,3 +5,17 @@
 <thumbnail>https://i.imgur.com/to29U0C.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Al Hayat 2</title>
+<link>http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8</link>
+<thumbnail>https://i.imgur.com/kzuBHGP.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Karma</title>
+<link>http://flash.alkarmatv.com:1935/karmatv_na/karmatv_na1/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/3nvbSGZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

@@ -1,8 +1,120 @@
 <item>
 <item>
+<title>Alhurra Tv</title>
+<link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15</link>
+<thumbnail>https://i.imgur.com/etVl04R.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Alsharqiya Tv</title>
+<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream</link>
+<thumbnail>https://i.imgur.com/9NIbooe.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Alsharqiya Tv</title>
+<link>rtmp://ns8.indexforce.com/home/mystream</link>
+<thumbnail>https://i.imgur.com/9NIbooe.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Anadolu TV</title>
+<link>rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp</link>
+<thumbnail>https://i.imgur.com/LQq6DwL.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Arabiya</title>
+<link>http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>https://i.imgur.com/gX2cL2N.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Alar Arabiya</title>
+<link>http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>https://i.imgur.com/vPaNWh4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera </title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high</link>
+<thumbnail>https://i.imgur.com/GmJQwLj.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>aljazeera mubasher</title>
+<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high</link>
+<thumbnail>https://i.imgur.com/I3AT99e.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ANN NEWS</title>
+<link>rtmp://ns8.indexforce.com/ann/ann</link>
+<thumbnail>https://i.imgur.com/nRbKohm.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC (arabic)</title>
+<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
+<thumbnail>https://i.imgur.com/E7Ob19r.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CNBC Arabia</title>
+<link>http://api.new.livestream.com/accounts/3102016/events/1914609/videos/130262675.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/120px-CNBC_Arabiya.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>DW Arabia</title>
 <link>http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10</link>
-<thumbnail>https://i.imgur.com/MEC111O.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/Y5LHtwv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky News Arabia</title>
+<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8</link>
+<thumbnail>https://i.imgur.com/J2GDPjG.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Wesal Haq TV</title>
+<link>rtmp://live.noorlive.com:1935/wesal/wesal1</link>
+<thumbnail>https://i.imgur.com/T0r1HJo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 

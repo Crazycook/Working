@@ -6,3 +6,27 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<title>Syria Al Oula</title>
+<link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/CTaBYhs.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Syria Drama</title>
+<link>ttp://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/B82YC8H.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Syrian News</title>
+<link>rtmp://82.137.248.16/Snews/SnewsLive2</link>
+<thumbnail>https://i.imgur.com/tvrBK6v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Syrian Satelit</title>
+<link>rtmp://82.137.248.16:1935/Sat/SatLive3</link>
+<thumbnail>https://i.imgur.com/tvrBK6v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+

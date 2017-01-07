@@ -6,3 +6,37 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>NRT 2</title>
+<link>http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/k8ClOI4.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Kurdi</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8</link>
+<thumbnail>http://i.imgur.com/TH7B1gY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Hurra</title>
+<link>rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095</link>
+<thumbnail>http://i.imgur.com/G4vqefQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al sharqiya News</title>
+<link>http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/7jeVa0g.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Houna Bagdad TV</title>
+<link>http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/5kbOFfT.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

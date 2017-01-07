@@ -5,3 +5,31 @@
 <thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Dubai TV</title>
+<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8</link>
+<thumbnail>https://i.imgur.com/Usg0SfD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Aan</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</link>
+<thumbnail>https://i.imgur.com/5SxQgAT.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi TV</title>
+<link>http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8</link>
+<thumbnail>https://i.imgur.com/2Ir9dFA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Noor Dubai</title>
+<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>

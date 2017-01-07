@@ -1,8 +1,224 @@
 <item>
 <item>
-<title>TRT Cocuk</title>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8</link>
-<thumbnail>https://i.imgur.com/ihAnkfJ.png</thumbnail>
+<title>BENGÜ TÜRK</title>
+<link>http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/E1M6078.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>CNN TURK</title>
+<link>http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8</link>
+<thumbnail>https://i.imgur.com/mZqYAWM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DOCUMANTARY TR</title>
+<link>http://188.165.239.200:7088/</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ekin tv</title>
+<link>rtmp://streaming.linuxhosting.gen.tr/ekintv/ekintv</link>
+<thumbnail>http://i.imgur.com/13ii4hC.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fashion One TV</title>
+<link>http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/2VdIlBk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Finest TV</title>
+<link>http://62.153.171.60:1466</link>
+<thumbnail>http://finesttv.net/finesttvlogo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Flash TV</title>
+<link>http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8</link>
+<thumbnail>http://i.imgur.com/qSv7VSi.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kanal Tek</title>
+<link>http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/KFivH1M.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kudus TV</title>
+<link>rtmp://yayin8.canliyayin.org/kudustv/kudustv</link>
+<thumbnail>http://i.imgur.com/w02ncE2.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NR1</title>
+<link>http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/zsaFQB7.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Power TV</title>
+<link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/VJsx51q.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>POWERTURK HD</title>
+<link>http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/bVhUTfL.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rehber TV</title>
+<link>rtmp://yayin5.canliyayin.org:1935/live/rehbertv</link>
+<thumbnail>http://i.imgur.com/uxHouGW.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Semerkand</title>
+<link>http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/mnqCuYx.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sports TV</title>
+<link>http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/HR7VFGa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TBMM TV</title>
+<link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT 1 HD</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
+<thumbnail>http://i.imgur.com/4MC0kLJ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Arapca</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8</link>
+<thumbnail>http://i.imgur.com/z8kv6eY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Avaz</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8</link>
+<thumbnail>http://i.imgur.com/eNeXVeA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Belgesel</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8</link>
+<thumbnail>http://i.imgur.com/JkcOREa.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Cocuk</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+<thumbnail>http://i.imgur.com/dxZ1VXO.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Diyanet</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8</link>
+<thumbnail>http://i.imgur.com/klgsAd3.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Haber</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i.imgur.com/uzzcLzM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT Okul</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8</link>
+<thumbnail>http://i.imgur.com/GsHaIfJ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRT TÜRK</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i.imgur.com/OwoAsAg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TRT WORLD</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8</link>
+<thumbnail>http://i.imgur.com/bQauImp.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV 100</title>
+<link>http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV 4 Karamel</title>
+<link>http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/I6TpbBN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Teve 2</title>
+<link>http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/0Ow2NcA.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>24 TV</title>
+<link>http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8</link>
+<thumbnail>24 TV</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vulsat TV</title>
+<link>http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8</link>
+<thumbnail>Vulsat TV</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yasin TV</title>
+<link>http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/dZWpcMC.png</thumbnail>
+<fanart></fanart>
+</item>
