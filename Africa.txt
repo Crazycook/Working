@@ -6,3 +6,38 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Emmanuel TV</title>
+<link>http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8?b=110-700</link>
+<thumbnail>https://i.imgur.com/lYM9BPk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Maná-Maputo</title>
+<link>http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/cmJqemK.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVC News</title>
+<link>http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/TVC_News_Africa.jpg/200px-TVC_News_Africa.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DIASPORA 24 (Senagal)</title>
+<link>rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24</link>
+<thumbnail>https://i.imgur.com/jFg2HdK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ANN7 South Africa</title>
+<link>rtmp://46.4.25.213/live-ann7/ann7-mid.stream</link>
+<thumbnail>http://imgur.com/J1jnx9t.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
