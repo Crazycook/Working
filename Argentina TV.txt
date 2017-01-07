@@ -1,41 +1,162 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>360 TV</title>
+<link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link>
+<thumbnail>http://i.imgur.com/oEkZrNi.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<title>C5N</title>
+<link>rtmp://c5n.stweb.tv:1935/c5n/live</link>
+<thumbnail>http://i.imgur.com/8GiL7Ex.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Canal 4 Jujuy</title>
+<link>rtmp://streaming.wirenetserver.com.ar:1935/canal4/live_1</link>
+<thumbnail>http://i.imgur.com/8fkQUdh.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Canal 4 Rosario</title>
+<link>http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/8fkQUdh.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Canal Nueve Chubut</title>
+<link>rtmp://www.canal9comodoro.com/live/c9/mp4:canal</link>
+<thumbnail>http://i.imgur.com/xcKGy85.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 10 Mar de Plata</title>
+<link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link>
+<thumbnail>http://i.imgur.com/SwwlKNY.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 11 Lapacho de Formosa</title>
+<link>http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/QzeIuOk.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Cuatro</title>
+<link>http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/IqEC72q.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal de la Ciudad</title>
+<link>http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/SEYn544.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Rural</title>
+<link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link>
+<thumbnail>http://i.imgur.com/ePRJ8Rp.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Orbe</title>
+<link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link>
+<thumbnail>http://i.imgur.com/9phHA1v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 79 San Juan</title>
+<link>rtmp://painel.serveron.com.br:1935/8162/8162</link>
+<thumbnail>http://i.imgur.com/cNOhm0J.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Cool HD - 103.7 TV</title>
+<link>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/mnIzXpQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Construir TV</title>
+<link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/J8yAVYm.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DXTV</title>
+<link>http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8</link>
+<thumbnail>http://i.imgur.com/kpJJHfa.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Magazine TV</title>
+<link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link>
+<thumbnail>http://i.imgur.com/NmKDSVr.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Radio One TV</title>
+<link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/jCyXO4k.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Qm TV</title>
+<link>http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8</link>
+<thumbnail>http://i.imgur.com/ZVtiZpo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tec TV</title>
+<link>http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8</link>
+<thumbnail>http://i.imgur.com/8Bxvip9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telemax</title>
+<link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link>
+<thumbnail>http://i.imgur.com/lcrg5rk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telpin TV (720p)</title>
+<link>http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/f5sGiYm.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telpin TV (360p)</title>
+<link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p</link>
+<thumbnail>http://i.imgur.com/bC2v1sB.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Todo Deportes</title>
+<link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link>
+<thumbnail>http://i.imgur.com/fDbFTKU.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
