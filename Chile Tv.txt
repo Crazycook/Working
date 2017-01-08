@@ -1,0 +1,8 @@
+<item>
+<item>
+<title>Pingüino TV HD</title>
+<link>rtmp://streaming.elpinguino.com:1935/live/pinguinotv</link>
+<thumbnail>http://imgur.com/6VkyHij</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
