@@ -1,8 +1,19 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>Monterrico TV</title>
+<link>http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/sDuqZ2g</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<title>TV La Luz</title>
+<link>http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/2VHdOHt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Willax TV</title>
+<link>http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/6QPchcn.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
