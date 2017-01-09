@@ -196,163 +196,163 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>DW Latinoamérica</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
+<thumbnail>http://imgur.com/zgYeDVz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EfeKto Tv Hd</title>
+<link>http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8</link>
+<thumbnail>http://imgur.com/eURzYqq</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Azteca El Trece</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8</link>
+<thumbnail>http://imgur.com/Bkqpmsx</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Enlace</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8</link>
+<thumbnail>http://imgur.com/05iSNCD</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Enlace Juvenil</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8</link>
+<thumbnail>http://imgur.com/iwcmBFu</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Esperanza TV</title>
+<link>http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8</link>
+<thumbnail>http://imgur.com/NIZqjzw</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EWTN</title>
+<link>http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8</link>
+<thumbnail>http://imgur.com/1PjrdZD</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Foro TV</title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8</link>
+<thumbnail>http://imgur.com/5vRXqEp</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nación TV</title>
+<link>http://205.164.56.130:1935/nacioninternacional/nacioninternacional/playlist.m3u8</link>
+<thumbnail>http://imgur.com/Vf2Aq7Y</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Proyecto 40</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8</link>
+<thumbnail>http://imgur.com/UJJxV0M</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RCG TV Coahuila</title>
+<link>http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8</link>
+<thumbnail>http://imgur.com/KPFMUGI</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Red Avenir</title>
+<link>http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>RTV</title>
+<link>http://178.32.53.254/radiovida/mobile/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Sun Channel HD</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8</link>
+<thumbnail>http://imgur.com/T76UNSA</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>TVMas Veracruz</title>
+<link>http://50.7.98.234:1935/rtv/videortv/playlist.m3u8</link>
+<thumbnail>http://imgur.com/8GVhGqm</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>TV5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://imgur.com/12Z9Hvn</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Telemax</title>
+<link>http://enhd.co:1935/ilive/ilive/playlist.m3u8?</link>
+<thumbnail>https://i.imgur.com/O9JIMTJ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Televisa HD</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8</link>
+<thumbnail>http://imgur.com/6R4v3m0</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Telemedellin</title>
+<link>http://lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8</link>
+<thumbnail>http://imgur.com/zVuh8X9</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Teleantioquia</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8</link>
+<thumbnail>http://i.imgur.com/JWuHKwR.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>TV Radio Y Television Mexiquense</title>
+<link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
+<thumbnail>http://imgur.com/Mb77dLI</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Tabernáculo Bautista</title>
+<link>http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8</link>
+<thumbnail>http://imgur.com/mByHWMv</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Una Voz con Todos</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8</link>
+<thumbnail>http://imgur.com/9zVrx8p</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
