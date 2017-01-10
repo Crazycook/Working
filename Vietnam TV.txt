@@ -1,41 +1,167 @@
+﻿<item>
 <item>
-<item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>HÀNam TV</title>
+<link>rtmp://113.160.198.111:8086/live//hanamtv</link>
+<thumbnail>http://imgur.com/ZTS9Bht</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>ATV 1</title>
+<link>rtmp://113.161.212.25/live//atv1</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>BÀ RỊA-VŨNG TÀU</title>
+<link>rtmp://113.163.216.24:1935/live/livestream</link>
+<thumbnail>http://imgur.com/fDQkAtK</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>BẠC LIÊU</title>
+<link>rtmp://118.69.205.213/livepkgr/livestream1</link>
+<thumbnail>http://imgur.com/YlIJII4</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>HTV9 HD</title>
+<link>http://118.107.85.14:1935/tvnet/smil:htv9.smil/chunklist_w991679017_b800000.m3u8?t=1473647587&token=8dd920059e6fb8598cee1564096d2471</link>
+<thumbnail>http://imgur.com/I9YpvVt</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ANTV - nhóm Hà Nội</title>
+<link>http://123.30.191.202/hls/antv.m3u8</link>
+<thumbnail>http://imgur.com/MrmqpdF</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HANOI1</title>
+<link>http://123.30.191.202/hls/hanoi1.m3u8</link>
+<thumbnail>http://imgur.com/JNyfQC0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HÀ NỘI 2</title>
+<link>http://123.30.191.202/hls/hanoi2.m3u8</link>
+<thumbnail>http://imgur.com/JNyfQC0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>LẠNG SƠN</title>
+<link>rtmp://123.18.206.40:1935/live/livestream</link>
+<thumbnail>http://imgur.com/Bz3r4E2</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>QUẢNG NINH 1</title>
+<link>rtmp://123.29.68.44/hctv/vstv020</link>
+<thumbnail>http://imgur.com/yGwHIVv</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>QUẢNG NINH 3</title>
+<link>rtmp://123.29.68.44/hctv/vstv021</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HOÀ BÌNH</title>
+<link>http://123.30.191.202/hls/hoabinh.m3u8</link>
+<thumbnail>http://imgur.com/UO5ODW7</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TIỀNG GIANG</title>
+<link>http://123.30.191.202/hls/tiengiang.m3u8</link>
+<thumbnail>http://imgur.com/holWasN</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRÀ VINH</title>
+<link>http://123.30.191.202/hls/travinh.m3u8</link>
+<thumbnail>http://imgur.com/tbiMf6z</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>THANH HOÁ</title>
+<link>http://123.30.191.202/hls/ttv.m3u8</link>
+<thumbnail>http://imgur.com/f5s5YJz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VTC3</title>
+<link>http://123.30.191.202/hls/vtc3.m3u8</link>
+<thumbnail>http://imgur.com/SOCRei5</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VTV1</title>
+<link>http://123.30.191.202/hls/vtv1.m3u8</link>
+<thumbnail>http://imgur.com/MwSHXVM</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VTV2</title>
+<link>http://123.30.191.202/hls/vtv2.m3u8</link>
+<thumbnail>http://imgur.com/TWoWXyP</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VTV3</title>
+<link>http://123.30.191.202/hls/vtv3.m3u8</link>
+<thumbnail>http://imgur.com/io7zYhA</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SÓC TRĂNG</title>
+<link>rtmp://115.78.3.164/live/stv1</link>
+<thumbnail>http://imgur.com/IEhKljO</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VĨNH PHÚC</title>
+<link>rtmp://117.6.162.63/live/thvp</link>
+<thumbnail>http://imgur.com/eMFWevc</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HÀ TĨNH OFFICIAL</title>
+<link>http://hatinhtv.vn/liveevent.m3u8</link>
+<thumbnail>http://imgur.com/bhmmzGc</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DAK NÔNG</title>
+<link></link>
+<thumbnail>http://imgur.com/ZZWWhWc</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TTXVN</title>
+<link>rtmp://live.vnanet.vn/Live/DRC</link>
+<thumbnail>http://imgur.com/VfuBCiG</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

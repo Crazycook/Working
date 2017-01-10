@@ -1,0 +1,7 @@
+<item>
+<item>
+<title>Paigham TV (Urdu)</title>
+<link>http://125.209.77.130:1935/live/livestream1/playlist.m3u8</link>
+<thumbnail>http://imgur.com/KLkpPQZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
