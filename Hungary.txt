@@ -1,0 +1,26 @@
+<item>
+<item>
+<title>ATV</title>
+<link>http://195.228.75.100:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8</link>
+<thumbnail>http://imgur.com/4t3gZLI</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Echo 24</title>
+<link>http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>FixHD TV</title>
+<link>http://video.fixhd.tv:1935/fix/hd.stream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/Mpwgfkh</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Budapest Eruropa TV</title>
+<link>rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp</link>
+<thumbnail>http://imgur.com/iPIsLjP</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
