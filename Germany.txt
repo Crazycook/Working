@@ -1,41 +1,258 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>Austria 24 TV</title>
+<link>rtmp://streaming.austria24.tv/live/stream_360p</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/austria_24_tv_at.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>Augsburg TV</title>
+<link>rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1</link>
+<thumbnail>http://imgur.com/jLoeQm3</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Ard</title>
+<link>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</link>
+<thumbnail>http://imgur.com/XkVH4qS</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Alex TV</title>
+<link>http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_w690170040_b1200000_slGER.m3u8</link>
+<thumbnail>http://imgur.com/pBb6JZI</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Baden TV</title>
+<link>rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp</link>
+<thumbnail>http://imgur.com/1WmPT0X</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BLK Regional TV Burgenlandkreis</title>
+<link>rtmp://62.113.210.250/medienasa-live//BLKonline_high</link>
+<thumbnail>http://imgur.com/65iApfL</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Das Erste</title>
+<link>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</link>
+<thumbnail>http://imgur.com/AbEDAaQ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deutsches Anlegerfernsehen</title>
+<link>http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8</link>
+<thumbnail>http://imgur.com/GE5Eo0l</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Das Erste</title>
+<link>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</link>
+<thumbnail>http://imgur.com/S0wuud6</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Elbe Kanal</title>
+<link>rtmp://62.113.210.250/medienasa-live/elbe_high</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tv Halle</title>
+<link>http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8</link>
+<thumbnail>http://imgur.com/qld7Chj</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>hr</title>
+<link>http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8</link>
+<thumbnail>http://imgur.com/KC7sAal</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>LL</title>
+<link>mms://wmsstream22.v4.mytv.ris.at/live/stream_156</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Medienasa Live</title>
+<link>rtmp://62.113.210.250/medienasa-live/tvhalle_high</link>
+<thumbnail>http://imgur.com/qld7Chj</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Muenchen TV</title>
+<link>rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1</link>
+<thumbnail>http://imgur.com/hYt90Va</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NDR Hamburg Hd</title>
+<link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8</link>
+<thumbnail>http://imgur.com/A9sE3RM</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NDR Meck.-Vorp. HD</title>
+<link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8</link>
+<thumbnail>http://imgur.com/0lsqkGi</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NDR Schleswig-Hol. HD</title>
+<link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8</link>
+<thumbnail>http://imgur.com/e8TAOJM</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Dessau</title>
+<link>rtmp://62.113.210.250/medienasa-live/ok-dessau_high</link>
+<thumbnail>http://imgur.com/2svoiEt</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Magdeburg</title>
+<link>http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8?bitrate=800</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Merseburg</title>
+<link>rtmp://62.113.210.250/medienasa-live/ok-merseburg_high</link>
+<thumbnail>http://imgur.com/vrTTtUt</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ok Salzwedel</title>
+<link>rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high</link>
+<thumbnail>http://imgur.com/fHlAZIL</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Stendal</title>
+<link>tmp://62.113.210.250/medienasa-live/ok-stendal_high</link>
+<thumbnail>http://imgur.com/uqYAQBg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Wernigerode</title>
+<link>rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high</link>
+<thumbnail>http://imgur.com/mYMHsvg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>OK Wettin</title>
+<link>rtmp://62.113.210.250/medienasa-live/ok-wettin_high</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RBW</title>
+<link>rtmp://62.113.210.250/medienasa-live/rbw_high</link>
+<thumbnail>http://imgur.com/S8ubn4l</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RFH</title>
+<link>rtmp://62.113.210.250/medienasa-live/RFH_high</link>
+<thumbnail>http://imgur.com/fvwKuVG</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RIC</title>
+<link>http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/HasBahCa.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tagesschau 24</title>
+<link>http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8</link>
+<thumbnail>http://www.phpman89.de/thome/sender/tagesschau24-hd.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele Barn</title>
+<link>http://rtmp.infomaniak.ch/livecast/barntele/SAT_TOTAL.m3u8</link>
+<thumbnail>http://imgur.com/X2v1muZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele Basel</title>
+<link>http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8</link>
+<thumbnail>http://imgur.com/aXCrEZS</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>tv aktuellr</title>
+<link>http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8</link>
+<thumbnail>http://imgur.com/DtXYQMJ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Oberfranken</title>
+<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8</link>
+<thumbnail>http://imgur.com/48ksKyM</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Touring Schweinfurt</title>
+<link>http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8</link>
+<thumbnail>http://imgur.com/eoOAeCx</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Touring Würzburg</title>
+<link>http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8</link>
+<thumbnail>http://imgur.com/k8uGgPR</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tva</title>
+<link>http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WDR Hd</title>
+<link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8</link>
+<thumbnail>http://imgur.com/3RvxS02</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

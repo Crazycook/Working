@@ -1,41 +1,90 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>Tele Vesdre </title>
+<link>http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8</link>
+<thumbnail>http://imgur.com/zZ28RsX</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>Assemblée Nationale</title>
+<link>http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/R09gTr6</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Canal Alpha</title>
+<link>http://rtmp.infomaniak.ch/livecast/canalalpha/playlist.m3u8</link>
+<thumbnail>http://imgur.com/LJrwnc7</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Grand Lille TV</title>
+<link>rtsp://str81.creacast.com/grandlilletv/high</link>
+<thumbnail>http://imgur.com/jxowXBJ</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Itele</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>http://imgur.com/Lqbsgxu</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Link Antenne Réunion</title>
+<link>http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/OPIvZuE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>La Tele X</title>
+<link>http://rtmp.infomaniak.ch/livecast/latele/chunklist_w1497174121.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>La Télé 2</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/latele</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>1 Tele</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_I-T%C3%A9l%C3%A9_2013.png/150px-Logo_I-T%C3%A9l%C3%A9_2013.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Antenne Centre TV</title>
+<link>http://vm109.imust.org:1935/live/livestream/chunklist_w1650441944.m3u8</link>
+<thumbnail>http://imgur.com/msRU6GU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Enorme TV</title>
+<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
+<thumbnail>http://imgur.com/YJEa7HD</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Wéo</title>
+<link>rtmp://str81.creacast.com:80/weo/high</link>
+<thumbnail>http://imgur.com/nLrBSnE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Yvelines Premier</title>
+<link>http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8</link>
+<thumbnail>http://imgur.com/E3GvMqj</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
