@@ -1,41 +1,41 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>GTV</title>
+<link>http://live-04.viewer.dacast.com/i/dclive_1@104142/master.m3u8</link>
+<thumbnail>http://imgur.com/y7qTlJN</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>Thanthi Tv</title>
+<link>http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/3G6uvuH</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Tamilan Tv</title>
+<link>rtmp://38.96.175.192:1943/live/tamilantelevision1</link>
+<thumbnail>http://imgur.com/in0t58L</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Vasanth TV</title>
+<link>http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w163082460.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f</link>
+<thumbnail>http://imgur.com/i7qAzzo</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Vasantham TV</title>
+<link>http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8</link>
+<thumbnail>http://imgur.com/wWqcEhk</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Vimbam TV</title>
+<link>rtmp://91.219.43.148/vimbamtv/vimbamtv</link>
+<thumbnail>http://imgur.com/Xy5LAgY</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

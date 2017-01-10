@@ -1,41 +1,27 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
+<title>Akaal Channel</title>
+<link>http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8</link>
 <thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>A-One</title>
+<link>http://live.wmncdn.net/aonechannel/9ebf07878203332944aeabd987cb5d63.sdp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/NdEK9QK</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>TV84</title>
+<link>http://soundview.viddillions.com/soundviewlive/smil:stream0001.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/eXW3u43</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Sanjh tv</title>
+<link>rtmp://live.wmncdn.net:1935/sanjhikhabar/a155af9adbb4b0c47fc9d90433555ca5.sdp</link>
+<thumbnail>http://imgur.com/FKvNwMJ</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

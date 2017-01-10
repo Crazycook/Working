@@ -1,41 +1,34 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>ETV Madhya Pradesh</title>
+<link>http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8</link>
+<thumbnail>http://imgur.com/kHxnBtN</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>ETV Bihar</title>
+<link>http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-b.m3u8</link>
+<thumbnail>http://imgur.com/EhN88tS</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>ETV Uttar Pradesh</title>
+<link>http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8</link>
+<thumbnail>http://imgur.com/8Sg86pn</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>IBN 7</title>
+<link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8</link>
+<thumbnail>http://imgur.com/i4SiDIq</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>India News TV</title>
+<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
+<thumbnail>http://imgur.com/0rT7JJ1</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
