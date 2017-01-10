@@ -9,6 +9,13 @@
 <title>The Maze Runner</title>
 <link>http://144.76.186.45/r57/5/tyler/movie/TheMazeRunnerDVD-TylerMovieLand.mp4</link>
 <thumbnail>http://i.imgur.com/cWHuSwd.png</thumbnail>
+<info>The Maze Runner (2014)
+PG-13 | 1h 53min | Action, Mystery, Sci-Fi | 19 September 2014 (USA)
+ The Maze Runner Poster
+Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow "runners" for a shot at escape.
+Director: Wes Ball
+Writers: Noah Oppenheim (screenplay), Grant Pierce Myers (screenplay)
+Stars: Dylan O'Brien, Kaya Scodelario, Will Poulter</info. 
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
