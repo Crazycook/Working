@@ -1,9 +1,219 @@
 <item>
 <item>
 <title>4E</title>
-<link>http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8</link>
+<link>http://mail.tv4e.gr:1935/live/myStream.sdp/chunklist_w1931995611.m3u8</link>
 <thumbnail>http://imgur.com/FOkvofq</thumbnail>
 <info>this is a test of the  broadcasting system
 whatever said here might appear on the info sie</info>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Achaia Channel</title>
+<link>http://78.129.184.15:23319/streaming/stream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/uVWb01U</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Acheloos TV</title>
+<link>http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8</link>
+<thumbnail>http://imgur.com/MbJ2hY0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Astra TV</title>
+<link>http://www.astratv.gr:8090/hls/livestream.m3u8</link>
+<thumbnail>http://imgur.com/D3k7jsg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Best TV</title>
+<link>http://138.201.57.212:1935/best/myStream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/cL6q6mU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Boylh TV</title>
+<link>http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8</link>
+<thumbnail>http://imgur.com/yN9nZgE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Cannali</title>
+<link>rtmp://live.streams.ovh/cannali/cannali</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Delta TV</title>
+<link>mms://deltatv1.dyndns.org:1194</link>
+<thumbnail>http://imgur.com/GlAR2LQ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>EBS</title>
+<link>http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>EBS PLUS</title>
+<link>http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Ellinikos FM</title>
+<link>http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8</link>
+<thumbnail>http://imgur.com/UC77qPo</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Epirus TV1</title>
+<link>http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8</link>
+<thumbnail>http://imgur.com/gsOxdMU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>EURONEWS GR</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/gr_vidan750_rtp.sdp</link>
+<thumbnail>http://imgur.com/sCQm6Tk</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Hellas TV</title>
+<link>http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8</link>
+<thumbnail>http://imgur.com/5iV9lAx</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>KANALI 6</title>
+<link>http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://imgur.com/xeOnR7O</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Kontra TV</title>
+<link>rtmp://flashcloud.mediacdn.com:1935/live/kontratv</link>
+<thumbnail>http://imgur.com/xrpi93x</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>KPHTH TV</title>
+<link>rtmp://live.cretetv.gr/cretetv/myStream</link>
+<thumbnail>http://imgur.com/yeAHnKW</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Lychnos</title>
+<link>http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/Wnr6emU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>MAD TV</title>
+<link>rtmp://eradio.networksolutions.com.cy/live/livestream</link>
+<thumbnail>http://imgur.com/58rqL1C</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Mpaxalo TV</title>
+<link>http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://imgur.com/3g4NnPu</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>??a TV</title>
+<link>http://srv.viiideo.gr:1935/neatv/live/chunklist_w359085084.m3u8</link>
+<thumbnail>http://imgur.com/A3WrI64</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Palmos TV</title>
+<link>http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Samiaki TV</title>
+<link>rtmp://94.23.218.186/samiaki/samiaki</link>
+<thumbnail>http://imgur.com/iblEySU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Start TV</title>
+<link>http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8</link>
+<thumbnail>http://imgur.com/g58NdoK</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Sigma</title>
+<link>http://81.21.47.74/hls/live.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Syros TV1</title>
+<link>http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8</link>
+<thumbnail>http://imgur.com/NaApo8W</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Thrakinet</title>
+<link>rtmp://hls.onestreaming.com:1935/live/thrakinettv</link>
+<thumbnail>http://imgur.com/Kuk0BIA</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Tilemouski</title>
+<link>mmsh://wpso.com:200/music</link>
+<thumbnail>http://imgur.com/OfpExfP</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Tilesport</title>
+<link>http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w104411760.m3u8</link>
+<thumbnail>http://imgur.com/2ttrxSQ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>TV1</title>
+<link>http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8</link>
+<thumbnail>http://imgur.com/xzGQVs6</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>TV 100</title>
+<link>http://178.62.176.153:1935/TV100/myStream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/225Lxj6</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>TV Filopoli</title>
+<link>http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8</link>
+<thumbnail>http://imgur.com/NyivRvb</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>TV Gold</title>
+<link>mms://tvgold.webcast.mediacdn.com/tvgold</link>
+<thumbnail>http://imgur.com/yzvjCOr</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>WZRA</title>
+<link>http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://imgur.com/VmUAicL</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>WZRA Kids</title>
+<link>mmsh://wpso.com:200/kids</link>
+<thumbnail>http://imgur.com/VmUAicL</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Zougla TV</title>
+<link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8</link>
+<thumbnail>http://imgur.com/9ps3Yrz</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
