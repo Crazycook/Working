@@ -1,41 +1,153 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>Canale 46</title>
+<link>rtmp://vs2.streamcaster.net/test_live/canale46</link>
+<thumbnail>http://imgur.com/WqLnBE7</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>La7</title>
+<link>http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8</link>
+<thumbnail>http://imgur.com/ZE4goAl</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>MARCOPOLO</title>
+<link>http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
+<title>Napoli Canale 21</title>
+<link>http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8</link>
+<thumbnail>http://imgur.com/cC8AqPP</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Paramount Channel</title>
+<link>http://imgur.com/28BMbue</link>
 <thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Rai 5</title>
+<link>http://stream12.rai.it/live/rai5.smil/master.m3u8</link>
+<thumbnail>http://imgur.com/4SsKGGm</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Movie</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8</link>
+<thumbnail>http://imgur.com/lnv0mea</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Premium</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8</link>
+<thumbnail>http://imgur.com/Q971xTz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai News 24</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
+<thumbnail>http://imgur.com/pkkIgol</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Scuola</title>
+<link>http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8</link>
+<thumbnail>http://apidge.altervista.org/wp-content/uploads/2016/06/rai-scuola.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Storia</title>
+<link>http://originstream6.rai.it/italy/raistoria.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>http://imgur.com/8lX0xlK</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Yoyo</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://imgur.com/0wjZChh</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Gulp</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8</link>
+<thumbnail>http://imgur.com/hfVj2Td</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTL 102.5</title>
+<link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8</link>
+<thumbnail>http://imgur.com/Ooo5xO0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RETE SPORT 8 </title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<thumbnail>http://imgur.com/0LGy9Al</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky Tg24</title>
+<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<thumbnail>http://imgur.com/6oUJFnh</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tg Norba24</title>
+<link>http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/z9s2CXv</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telemilano</title>
+<link>http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8</link>
+<thumbnail>http://imgur.com/xBX8uBR</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telepavia</title>
+<link>http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8</link>
+<thumbnail>http://imgur.com/H2kKOZK</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telearena</title>
+<link>http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8</link>
+<thumbnail>Telearena</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRM TV</title>
+<link>http://flash.streamingmedia.it:1935/TRM/livestream/BratuMarian.m3u8</link>
+<thumbnail>http://imgur.com/SJY3vE0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Video Brescia</title>
+<link>http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8</link>
+<thumbnail>http://imgur.com/LsUVJ1y</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

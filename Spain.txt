@@ -1,41 +1,133 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>40 HD</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8</link>
+<thumbnail>http://imgur.com/l9mrphc</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<title>Alfa TV</title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Antena 3</title>
+<link>http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_1_av-p.m3u8</link>
+<thumbnail>http://imgur.com/DSSzpSI</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Asturias</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+<thumbnail>http://imgur.com/s5mm6tY</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Atreseries Español</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>http://imgur.com/PEyp8bp</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Andalucia Television</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+<thumbnail>http://imgur.com/bq994U5</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Beauties Espanha</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Castilla La Mancha</title>
+<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
+<thumbnail>http://imgur.com/fCBw6wu</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ElCorreio TV Redifusion</title>
+<link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/i8QZSsl</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Extremadura TV</title>
+<link>http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Galicia Europa</title>
+<link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>IL Meteo</title>
+<link>http://media.ilmeteo.it/video/iphone/oggi.m4v</link>
+<thumbnail>http://imgur.com/8uhi0JW</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>LaSexta</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+<thumbnail>http://imgur.com/SNczwOU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mega</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail>http://imgur.com/0nWxjFo</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mediterraneo TV</title>
+<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/kxDYs6B</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTV Marbella</title>
+<link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
+<thumbnail>http://imgur.com/TkyEoVf</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telemadrid</title>
+<link>http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8</link>
+<thumbnail>http://imgur.com/P7c4SlM</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Viajar</title>
+<link>http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8</link>
+<thumbnail>http://imgur.com/1U4X8iv</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>

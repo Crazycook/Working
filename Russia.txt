@@ -1,41 +1,152 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>9 Vollna TV</title>
+<link>rtmp://176.9.127.102/live/myStream_1</link>
+<thumbnail>http://imgur.com/sIdOTl1</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>ANTIMAIDAN.TV.DNR</title>
+<link>http://hls.goodgame.ru/hls/6147.m3u8?version=3?ANTIMAIDAN.TV.DNR </link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Barbariki TV</title>
+<link>rtmp://planetaonline.cdnvideo.ru/rr/channel_6</link>
+<thumbnail>http://imgur.com/YqbYg7o</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>bnptv</title>
+<link>mms://bnptv.info:10801/</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Meteo TV</title>
+<link>http://rtmp://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8?token=rtmp </link>
+<thumbnail>http://imgur.com/FFTKW8e</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Novorossia TV</title>
+<link>http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR </link>
+<thumbnail>http://imgur.com/KmzSb5l</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Pik TV</title>
+<link>rtmp://fms.pik-tv.com/live/piktv2pik2tv</link>
+<thumbnail>http://imgur.com/AvWI8uj</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>?????? 1 HD</title>
+<link>http://cdn-01.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1469703292/eol/20200101T0000/hash/1b7599c0021067fe3590d9ed45db70712b2b1ef8/playlist.m3u8</link>
+<thumbnail>http://imgur.com/zweaSC9</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TS-TV.RU</title>
+<link>mms://213.141.145.170/ts_tv11</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV gauranga</title>
+<link>mms://195.62.63.238/tv_gauranga
+</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Animation</title>
+<link>mms://213.141.145.170/ts_tv10</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Art</title>
+<link>mms://213.141.145.170/ts_tv8
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Documentary</title>
+<link>mms://213.141.145.170/ts_tv6</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Health</title>
+<link>mms://213.141.145.170/ts_tv5
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Music</title>
+<link>mms://213.141.145.170/ts_tv9</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Science</title>
+<link>mms://213.141.145.170/ts_tv4</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Shows
+</title>
+<link>mms://213.141.145.170/ts_tv3
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvoi Stroi TV Theme</title>
+<link>mms://213.141.145.170/ts_tv7
+</link>
+<thumbnail>http://imgur.com/ukusbLZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>notsure</title>
+<link>rtmp://77.243.11.114/live/live?mir</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
