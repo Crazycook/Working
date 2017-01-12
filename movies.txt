@@ -24,3 +24,10 @@ Stars: Dylan O'Brien, Kaya Scodelario, Will Poulter</info>
 <thumbnail>http://i.imgur.com/sGxvKeO.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Ballers s01e01</title>
+<link>http://192.99.36.26:8096/emby/videos/4df0fd10351586c4bfb0271e0e0c795e/live.m3u8</link>
+<thumbnail>http://cdn.movieweb.com/img.site/PH4YFvwZRLKR96_1_l.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
