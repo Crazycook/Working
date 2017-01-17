@@ -1,0 +1,55 @@
+<item>
+<title>Frantic</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/01%20-%20Frantic.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>St. Anger</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/02%20-%20St.%20Anger.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Some kind Of Monster</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/03%20-%20Some%20Kind%20of%20Monster.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dirty Window</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/04%20-%20Dirty%20Window.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Invisible Kid</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/05%20-%20Invisible%20Kid.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>My World</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/06%20-%20My%20World.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Shoot Me Again</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/07%20-%20Shoot%20Me%20Again.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sweet Amber</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/08%20-%20Sweet%20Amber.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>The Unnamed Feeling</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/09%20-%20The%20Unnamed%20Feeling.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Purify</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/10%20-%20Purify.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>All within My Hands</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/(2003)%20St.%20Anger/11%20-%20All%20Within%20My%20Hands.mp3</link>
+<thumbnail></thumbnail>
+</item>
