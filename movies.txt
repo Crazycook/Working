@@ -26,15 +26,11 @@ Stars: Dylan O'Brien, Kaya Scodelario, Will Poulter</info>
 </item>
 
 <item>
-<title>Ballers s01e01</title>
-<link>http://192.99.36.26:8096/emby/videos/4df0fd10351586c4bfb0271e0e0c795e/live.m3u8</link>
+<title>Ballers s01e05</title>
+<link>https://1fgqfms.oloadcdn.net/dl/l/qyaVnGT96BsKhE80/s3mVsJF097g/Ballers+S01E05+720Pad+BluRay+AAC+x264-aSOUL%40BluRG.mp4</link>
 <thumbnail>http://cdn.movieweb.com/img.site/PH4YFvwZRLKR96_1_l.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title>War on Everyone 720p web-dl evo</title>
-<link>http://192.99.36.26:8096/emby/videos/c84ba79619a20ccb19bb0f4cc7b9a430/live.m3u8</link>
-<thumbnail>http://cdn-static.denofgeek.com/sites/denofgeek/files/2016/09/war-on-everyone-790x622.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
+https://openload.co/f/kaDUONsCKN4/Ballers_S01E02_720Pad_BluRay_AAC_x264-aSOUL%40BluRG.mp4
+
