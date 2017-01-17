@@ -1,6 +1,0 @@
-<item>
-<title>|||||||||||||||  (   BeIN   )  |||||||||||||||</title>
-<link>plugin=plugin.video.f4mTester/?
-streamtype=TSDOWNLOADER&amp;url=http://orangeplay.webhop.net:7002/live/Zunair1/Zunair1/1.ts</link>
-<thumbnail></thumbnail>
-</item>
