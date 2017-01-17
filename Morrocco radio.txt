@@ -1,5 +1,0 @@
-<item>
-<title>CHADA FM</title>
-<link>http://broadcast.infomaniak.net/chadafm-high.mp3</link>
-<thumbnail></thumbnail>
-</item>
