@@ -9,11 +9,18 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Daredevil</name>
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Daredevil.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Game of Thrones</name>
+<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Game%20of%20Thrones.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
