@@ -7,6 +7,15 @@
 </item>
 
 <item>
+<title>Ballers S01E01 720Pad BluRay AAC x264-aSOUL@BluRG</title>
+<link>https://openload.co/stream/7UlGWlvuHzE~1484773456~67.225.0.0~GZnKobrG?mime=true</link>
+<thumbnail>http://kinomirkz.net/_ld/243/58697582.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+https://openload.co/stream/7UlGWlvuHzE~1484773456~67.225.0.0~GZnKobrG?mime=true
+
+<item>
 <title>Ballers S01E02 720Pad BluRay AAC x264-aSOUL@BluRG</title>
 <link>https://1fgqfms.oloadcdn.net/dl/l/Z1HISbbfVpcYHBMq/kaDUONsCKN4/Ballers+S01E02+720Pad+BluRay+AAC+x264-aSOUL%40BluRG.mp4?mime=true</link>
 <thumbnail>http://kinomirkz.net/_ld/243/58697582.jpg</thumbnail>
