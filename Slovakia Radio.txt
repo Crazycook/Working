@@ -1,0 +1,35 @@
+<item>
+<title>Best FM</title>
+<link>http://stream.bestfm.sk/128.mp3.m3u</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Devin</title>
+<link>http://icecast.stv.livebox.sk/devin_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Patria</title>
+<link>http://icecast.stv.livebox.sk/patria_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Regina Banska Bystrica</title>
+<link>http://icecast.stv.livebox.sk/regina-bb_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Regina Bratislava</title>
+<link>http://icecast.stv.livebox.sk/regina-ba_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Regina Košice</title>
+<link>http://icecast.stv.livebox.sk/regina-ke_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RTVS Radio Slovensko (icecast 128 mp3)</title>
+<link>http://icecast.stv.livebox.sk/slovensko_128.mp3</link>
+<thumbnail></thumbnail>
+</item>

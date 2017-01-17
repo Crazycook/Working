@@ -1,0 +1,5 @@
+<item>
+<title>Banat FM</title>
+<link>http://banatfm.ro:8002/</link>
+<thumbnail></thumbnail>
+</item>

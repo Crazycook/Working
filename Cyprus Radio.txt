@@ -1,0 +1,55 @@
+<item>
+<title>BRT BAYRAK FM</title>
+<link>mms://bms.brtk.net/bayrakfm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK FM</title>
+<link>http://sc.brtk.net:8000/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK INT</title>
+<link>mms://bms.brtk.net/bayrak-int</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK INT</title>
+<link>http://sc.brtk.net:8004/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK KLASIK</title>
+<link>mms://bms.brtk.net/bayrak-classic</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK KLASIK</title>
+<link>http://sc.brtk.net:8006/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK RADYOSU</title>
+<link>mms://bms.brtk.net/bayrakradio</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK RADYOSU</title>
+<link>http://sc.brtk.net:8002/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK TÜRK MÜZIGI</title>
+<link>mms://bms.brtk.net/Bayrak-Turk-Muzigi</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK TÜRK MÜZIGI</title>
+<link>http://sc.brtk.net:8010/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BRT BAYRAK RADYO HABER</title>
+<link>http://sc.brtk.net:8008/;*.mp3</link>
+<thumbnail></thumbnail>
+</item>

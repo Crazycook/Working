@@ -1,0 +1,60 @@
+<item>
+<title>MAX</title>
+<link>http://mp3stream4.abradio.cz/max128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Country</title>
+<link>http://mp3stream4.abradio.cz/country128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hip Hop Vibes Radio</title>
+<link>http://mp3stream4.abradio.cz/hiphopvibes128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Depeche Mode</title>
+<link>http://mp3stream4.abradio.cz/depeche128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>faktor</title>
+<link>http://mp3stream.abradio.cz/faktor128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Madonna</title>
+<link>http://mp3stream4.abradio.cz/madonna128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>24 Pulawy</title>
+<link>http://mp3stream3.abradio.cz/pulawy128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Frontinus</title>
+<link>http://mp3stream3.abradio.cz/frontinus128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tip Radio</title>
+<link>http://mp3stream3.abradio.cz/tipradio128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Humor</title>
+<link>http://mp3stream4.abradio.cz/humor128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SeeJay Radio</title>
+<link>http://mp3stream.abradio.cz/seejay128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Cesky rozhlas 1 - Radiozurnal</title>
+<link>http://radio.cesnet.cz/cgi-bin/cro1-256-ogg.pls</link>
+<thumbnail></thumbnail>
+</item>

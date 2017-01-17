@@ -1,0 +1,10 @@
+<item>
+<title>BUM BUM RADIO</title>
+<link>http://radio.bumbumradio.rs:8010/</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CIVIJAS</title>
+<link>http://87.118.85.56:8000/</link>
+<thumbnail></thumbnail>
+</item>

@@ -1,0 +1,145 @@
+<item>
+<title>Radio: ????? ????</title>
+<link>http://sea.1tvcrimea.ru:9003/stream_sea.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio: ????? ?????</title>
+<link>http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio: ????? ????</title>
+<link>http://fm.1tvcrimea.ru:8000/stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>???????????? FM</title>
+<link>http://rad.radio-n.com:8000/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio AplusFM</title>
+<link>http://listen.alpha.by:8000/;listen.pls?sc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio ONT Minsk 101.7 FM</title>
+<link>http://listen.alpha.by:8002/;listen.pls?sc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio AplusFM</title>
+<link>http://listen.alpha.by:8005/;listen.pls?sc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Alpha Radio Belarus</title>
+<link>http://listen.alpha.by:8009/;listen.pls?sc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Racja</title>
+<link>http://listen.alpha.by:8011/;listen.pls?sc</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOSH Radio (128)</title>
+<link>http://radio.sosh1020.ru:9919/128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOSH Radio [192 Kbps Stereo]</title>
+<link>http://radio.sosh1020.ru:9919/high.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOSH Radio [48Kbps Stereo]</title>
+<link>http://radio.sosh1020.ru:9919/low.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOSH Radio [96Kbps Stereo]</title>
+<link>http://radio.sosh1020.ru:9919/medium.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SOSH Radio (32)</title>
+<link>http://radio.sosh1020.ru:9919/mobile.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SCHOOL 1020 Radio (128)</title>
+<link>http://radio.sosh1020.ru:9919/school.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Merkury</title>
+<link>http://82.200.209.236:8000/merkury</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio-Minsk Online</title>
+<link>http://82.200.209.236:8000/minsk</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Mir</title>
+<link>http://82.200.209.236:8000/mir</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Mir Belarus</title>
+<link>http://82.200.209.236:8000/mirbelarus</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moscow Echo</title>
+<link>http://82.200.209.236:8000/moscowecho-128</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RadioUA Mainstream Rock</title>
+<link>http://82.200.209.236:8000/myradmsrock</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RadioUA Russian Rap</title>
+<link>http://82.200.209.236:8000/myradrap</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RadioUA Russian Hit</title>
+<link>http://82.200.209.236:8000/myradrus</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Russia 2</title>
+<link>http://82.200.209.236:8000/russia_2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio *SPORT* Moscow 93.2FM</title>
+<link>http://82.200.209.236:8000/ns32</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Militsejskaja volna</title>
+<link>http://82.200.209.236:8000/rmv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>????? ??????????? (64 kpbs)</title>
+<link>http://live.borneo.ru:8888/bv64</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>????? 2</title>
+<link>http://webcast.apexradio.ru:8000/realradio</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>????? 8</title>
+<link>http://us-tx1.streams.bassdrive.com:9000</link>
+<thumbnail></thumbnail>
+</item>

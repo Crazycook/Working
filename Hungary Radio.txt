@@ -1,0 +1,155 @@
+<item>
+<title>Balaton Rádió</title>
+<link>http://wssgd.gdsinfo.com:8200/listen.pls</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kossuth</title>
+<link>http://mr-stream.mediaconnect.hu/4736/mr1.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Petofi</title>
+<link>http://mr-stream.mediaconnect.hu/4738/mr2.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bartók</title>
+<link>http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dankó</title>
+<link>http://mr-stream.mediaconnect.hu/4748/mr7.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Class FM</title>
+<link>http://109.199.57.91/4784/live.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Music FM</title>
+<link>http://79.172.241.238:8000/musicfm.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Jazzy</title>
+<link>http://94.199.183.186:80/jazzy.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Lánchíd Rádió</title>
+<link>http://91.82.85.44:9004/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Klubrádió</title>
+<link>http://stream.radio1pecs.hu:8200/pecs.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>InfoRádió</title>
+<link>http://radioszerver.hu:8400/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Gazdasági Rádió</title>
+<link>http://radio.nordtelekom.hu:8000/gazdasagiradio</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Klasszik Rádió</title>
+<link>http://94.199.183.186:80/klasszik.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Best FM</title>
+<link>http://stream2.webthings.hu:8000/fm95-x-128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Rádió 1 Pécs</title>
+<link>http://stream.klubradio.hu:8080/source</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Retro Rádió Nyíregyháza</title>
+<link>http://stream.retrofm.hu:8000/listen</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kék Duna Rádió Gyor</title>
+<link>http://87.229.53.9:8006/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio88 Szeged</title>
+<link>http://stream1.radio88.hu:8300/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MegaDance Radio</title>
+<link>http://megadanceradio.hopto.org:8000/livemega.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sunshine FM</title>
+<link>http://195.56.193.129:8100/;stream</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Aktív Rádio Szolnok</title>
+<link>http://195.56.65.180:8000/aktiv.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>COOL FM</title>
+<link>http://193.23.139.18:8000/stream/dds</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tilos Radio</title>
+<link>http://stream.tilos.hu:80/tilos_128.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Rádió Gold</title>
+<link>http://37.221.209.146:6200/live.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Poptarisznya</title>
+<link>http://adas.poptarisznya.hu:8200/live.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LUXFUNK RADIO</title>
+<link>http://37.221.209.146:5000/luxfunkradio.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Luxfunk Blackmix</title>
+<link>http://37.221.209.146:5000/luxfunkblackmix.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Disco's Hit Rádió</title>
+<link>http://212.108.220.144:1039/stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MegaDance Radio</title>
+<link>http://megadanceradio.hopto.org:8000/livemega.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>All In PartyRadio</title>
+<link>http://adas3.allinparty.hu:8430/hq</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Civil Rádió</title>
+<link>http://civilradio.hu:8000/listen.pls</link>
+<thumbnail></thumbnail>
+</item>

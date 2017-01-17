@@ -1,0 +1,80 @@
+<item>
+<title>TERENGGANU FM Malaysia</title>
+<link>http://218.208.228.62:8000/;stream.nsv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>IKIM FM Malaysia</title>
+<link>http://50.7.96.210:8285/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HOT FM Malaysia</title>
+<link>http://2343.live.streamtheworld.com/HOTFMAAC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SURIA FM Malaysia</title>
+<link>http://starrfm.rastream.com/starrfm-suria?type=.flv&amp;_=0.27098811650648713</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>THR GEGAR Malaysia</title>
+<link>http://astro3.rastream.com/gegar?type=.flv&amp;_=0.7412667996250093</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MUZIK FM Malaysia</title>
+<link>http://69.197.60.122:8000/;stream.mp3</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HITZ.FM Malaysia</title>
+<link>http://astro1.rastream.com/hitz</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SINAR.FM Malaysia</title>
+<link>http://astro2.rastream.com/sinar</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ERA.FM Malaysia</title>
+<link>http://astro2.rastream.com/era</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LITE.FM</title>
+<link>http://astro1.rastream.com/lite</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MY.FM</title>
+<link>http://astro1.rastream.com/myfm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MIX.FM</title>
+<link>http://astro2.rastream.com/mix</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OPUS.FM</title>
+<link>http://astro4.rastream.com/opus</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>GOLD.FM</title>
+<link>http://astro4.rastream.com/gold</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>JAZZ.FM</title>
+<link>http://astro4.rastream.com/jazz</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ROCK.FM</title>
+<link>http://astro4.rastream.com/rock</link>
+<thumbnail></thumbnail>
+</item>

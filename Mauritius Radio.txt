@@ -1,0 +1,45 @@
+<item>
+<title>Best FM Mauritius (Radio) (MU) (Hindi/English)</title>
+<link>http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8?time=1449826709917</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Best FM (Radio) (IN) (Hindi/English)</title>
+<link>http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Music FM Mauritius (Radio) (MU) (French/English)</title>
+<link>http://202.123.27.133/hls-live/musicfm/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Maurice (Radio) (MU) (French)</title>
+<link>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Mauritius (Radio) (MU) (Hindi)</title>
+<link>http://202.123.27.133/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Moris (Radio) (MU) (French)</title>
+<link>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Radio Plus Mauritius (Radio) (MU) (French/Hindi)</title>
+<link>http://webcast.orange.mu:1935/RadioPlus/RadioPlus.sdp/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tall Fm Mauritius (Radio) (MU) (Hindi/English)</title>
+<link>http://202.123.27.133/hls-live/taalfm/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Top FM Mauritius (Radio) (MU) (Hindi/English)</title>
+<link>http://webcast.orange.mu:1935/TopFM/TopFM.sdp/chunklist_w2105958765.m3u8</link>
+<thumbnail></thumbnail>
+</item>

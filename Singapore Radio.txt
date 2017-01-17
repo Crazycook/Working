@@ -1,0 +1,75 @@
+<item>
+<title>Ria 89.7 Singapore</title>
+<link>http://mediacorp.rastream.com/897fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Gold 90.5 FM Singapore|</title>
+<link>http://mediacorp.rastream.com/905fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>91.3 Hot FM Singapore</title>
+<link>http://sph.rastream.com/913fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Kiss 92.0 Singapore</title>
+<link>http://sph.rastream.com/sph-kiss92</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Symphony 92.4 Singapore</title>
+<link>http://mediacorp.rastream.com/924fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Yes 93.3 Singapore</title>
+<link>http://mediacorp.rastream.com/933fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>93.8 Live Singapore</title>
+<link>http://mediacorp.rastream.com/938fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Warna 94.2 Singapore</title>
+<link>http://mediacorp.rastream.com/942fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Class 95.0 Singapore</title>
+<link>http://mediacorp.rastream.com/950fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>95.8 Capital Singapore</title>
+<link>http://mediacorp.rastream.com/958fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>XFM 96.3 Singapore</title>
+<link>http://mediacorp.rastream.com/963fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Love 97.2 Singapore</title>
+<link>http://mediacorp.rastream.com/972fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>98.7 FM Singapore</title>
+<link>http://mediacorp.rastream.com/987fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Lush 99.5 Singapore</title>
+<link>http://mediacorp.rastream.com/995fm</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UFM 100.3 Singapore</title>
+<link>http://sph.rastream.com/1003fm</link>
+<thumbnail></thumbnail>
+</item>

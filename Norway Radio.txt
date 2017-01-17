@@ -1,0 +1,25 @@
+<item>
+<title>NRK Alltid nyheter</title>
+<link>http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NRK P1 Østlandssendingen</title>
+<link>http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NRK P2</title>
+<link>http://lyd.nrk.no/nrk_radio_p2_aac_h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NRK P3</title>
+<link>http://lyd.nrk.no/nrk_radio_p3_aac_h</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NRK Urørt</title>
+<link>http://lyd.nrk.no/nrk_radio_p3_urort_aac</link>
+<thumbnail></thumbnail>
+</item>
