@@ -1,4 +1,138 @@
 <item>
+<title>101 Dalmations</title>
+<link>http://www.deadlyblogger.com/NewRelease/dal1.mp4</link>
+<thumbnail>http://imgur.com/03Lpk90.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>13 Sins</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/13SinsDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://imgur.com/aMojnh7.jpg</thumbnail>
+<info>13 Sins</info> 
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>2 Guns</title>
+<link>http://deadlyblogger.com/NewRelease/2guns.mp4</link>
+<thumbnail>http://imgur.com/nJCPfA9.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>20000 Days on Earth</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/20000DaysonEarthDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://imgur.com/EeTwR23.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>22 Jump Street</title>
+<link>http://144.76.186.45/r57/5/tyler/movie/22JumpStreetDVD-TylerMovieLand.mp4</link>
+<thumbnail>http://imgur.com/4l9gRRF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>3 Days To Kill 2014</title>
+<link>http://www.deadlyblogger.com/NewRelease/3days.mp4</link>
+<thumbnail>http://imgur.com/N9UQUZG.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>3 Ninjas 1992</title>
+<link>http://www.deadlyblogger.com/NewRelease/3ninja1.mp4</link>
+<thumbnail>http://imgur.com/gBW5PkW.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>3 Ninjas Kick Back 1994</title>
+<link>http://www.deadlyblogger.com/NewRelease/3ninja2.mp4</link>
+<thumbnail>http://imgur.com/UWH4Qjx.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>3 Ninjas Knuckle Up 1995</title>
+<link>http://www.deadlyblogger.com/NewRelease/3ninja3.mp4</link>
+<thumbnail>http://imgur.com/GAlJRgh.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>3 Ninjas: High Noon At Mega Mountain 1998</title>
+<link>http://www.deadlyblogger.com/NewRelease/3ninja4.mp4</link>
+<thumbnail>http://imgur.com/aEKxt5T.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>300 Rise Of An Empire 2014</title>
+<link>http://www.deadlyblogger.com/NewRelease/300rise.mp4</link>
+<thumbnail>http://imgur.com/AzSGmLu.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Anne.of.Green.Gables.2016.720p</title>
+<link>http://dl.tehmovies.com/94/95/5/Anne.of.Green.Gables.2016.720p.Tehmovies.org.mkv</link>
+<thumbnail>http://imgur.com/xqUgk1v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>The Purge : Anarchy</title>
 <link>http://www.deadlyblogger.com/NewRelease/thepurge2014.mp4</link>
 <thumbnail>http://i.imgur.com/EwdABeg.png</thumbnail>
