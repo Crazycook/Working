@@ -1,5 +1,0 @@
-<item>
-<title>Biesada Polish Folk music</title>
-<link>http://www.polskastacja.pl/play/biesiada.pls</link>
-<thumbnail></thumbnail>
-</item>
