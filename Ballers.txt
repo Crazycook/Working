@@ -13,7 +13,11 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-https://openload.co/f/GxQpoowkx_o/Ballers_S01E01_720Pad_BluRay_AAC_x264-aSOUL%40BluRG.mp4
+<item>
+<title>chicken people</title>
+<link>plugin://script.module.urlresolver/?;url=https://openload.co/embed/Bjr2RlTgI6M/Chicken.People.2016.mkv.mp4</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Ballers S01E01 720Pad BluRay AAC x264-aSOUL@BluRG</title>
