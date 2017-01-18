@@ -1,4 +1,4 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
 <channel>
@@ -57,7 +57,28 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ballers.txt
+<channel>
+<name>Aftermath</name>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Aftermath.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
 
+<channel>
+<name>The 100</name>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20100.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Incorporated</name>
+<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Incorporated.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
 
 </channels>
