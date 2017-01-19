@@ -1,6 +1,12 @@
-<item>
+﻿<item>
 <title>beIN SPORTS 1HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orangeplay.webhop.net:7002/live/Zunair1/Zunair1/50.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>chicken people</title>
+<link>plugin://script.module.urlresolver/?;url=https://openload.co/embed/Bjr2RlTgI6M/Chicken.People.2016.mkv.mp4</link>
 <thumbnail></thumbnail>
 </item>
 
