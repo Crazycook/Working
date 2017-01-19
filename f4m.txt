@@ -15,3 +15,25 @@
 <link>plugin://script.module.urlresolver/?;url=https://openload.co/f/Bjr2RlTgI6M/Chicken.People.2016.mkv.mp4</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>chicken people</title>
+<link>plugin://script.module.urlresolver/?;url=https://1fhjlpi.oloadcdn.net/dl/l/HpLMDx-0Y4ZOMzIE/Bjr2RlTgI6M/Chicken.People.2016.mkv.mp4?mime=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>chicken people</title>
+<link>plugin://script.module.urlresolver/?;url=https://openload.co/stream/Bjr2RlTgI6M~1484901593~158.69.0.0~jSu61_vI?mime=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>chicken people</title>
+<link>plugin://script.module.urlresolver/;url=https://openload.co/stream/Bjr2RlTgI6M~1484901593~158.69.0.0~jSu61_vI?mime=true</link>
+<thumbnail></thumbnail>
+</item>
+
+https://1fhjlpi.oloadcdn.net/dl/l/HpLMDx-0Y4ZOMzIE/Bjr2RlTgI6M/Chicken.People.2016.mkv.mp4?mime=true
+
+https://openload.co/stream/Bjr2RlTgI6M~1484901593~158.69.0.0~jSu61_vI?mime=true
