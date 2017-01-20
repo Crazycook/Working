@@ -7,8 +7,8 @@
 </item>
 
 <item>
-<title>Ballers S01E01 url resolved</title>
-<link>plugin://script.module.urlresolver/?;url=https://1fgqfms.oloadcdn.net/dl/l/VI3aGqbE9Hky7mpC/GxQpoowkx_o/Ballers+S01E01+720Pad+BluRay+AAC+x264-aSOUL%40BluRG.mp4?mime=true</link>
+<title>Ballers S01E01 direct link</title>
+<link>https://openload.co/f/GxQpoowkx_o/Ballers_S01E01_720Pad_BluRay_AAC_x264-aSOUL%40BluRG.mp4</link>
 <thumbnail>http://kinomirkz.net/_ld/243/58697582.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
