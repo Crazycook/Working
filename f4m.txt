@@ -6,7 +6,27 @@
 
 <item>
 <title>species</title>
-<link>https://shaolinfriedrice.com/menu/16_scifi/videos/01 Species.mp4</link>
+<link>https://shaolinfriedrice.com/menu/16_scifi/videos/01%20Species.mp4</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>from russia</title>
+<link>https://1fiag0e.oloadcdn.net/dl/l/EmWWI_v0HZsFYDLk/y51HfPeBHIU/Trailer.Park.Boys.S01E01.Take.Your.Little.Gun.%26.Get.Out.Of.My.Trailer.Park.NTSC.DD2.0.x264-IMDTHS.mkv.mp4?mime=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ballers</title>
+<link>https://1fgqfms.oloadcdn.net/dl/l/Yvm28Q1iUYlL2n52/GxQpoowkx_o/Ballers+S01E01+720Pad+BluRay+AAC+x264-aSOUL%40BluRG.mp4?mime=true</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Link 1</title>
+<sportsdevil>http://nowwatchtvlive.co/tsn5-live-stream-watch-tsn5-channel-online-free/</sportsdevil>
+<thumbnail>https://goo.gl/qUkU0L</thumbnail>
+<fanart>https://goo.gl/MJWL6M</fanart>
+<referer></referer>
 </item>
 
