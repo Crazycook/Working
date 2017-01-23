@@ -4,7 +4,7 @@
 <channel>
 <name>Undisputed Attitude</name>
 <thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/home.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/Undisputed%20Attitude.txt</externallink>
 <fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
 <info>Undisputed Attitude is the seventh studio album by American thrash metal band Slayer. The album consists almost entirely of punk rock/hardcore punk cover songs. Wikipedia
 Artist: Slayer
