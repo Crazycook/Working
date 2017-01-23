@@ -1,0 +1,95 @@
+﻿<item>
+<title>01. Disintegration , Free Money [Verbal Abuse Covers]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/01.%20Disintegration%20,%20Free%20Money%20%5bVerbal%20Abuse%20Covers%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>02. Verbal Abuse , Leeches [Verbal Abuse Covers]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/02.%20Verbal%20Abuse%20,%20Leeches%20%5bVerbal%20Abuse%20Covers%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>03. Abolish Government , Superficial Love [T.S.O.L. Covers]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/03.%20Abolish%20Government%20,%20Superficial%20Love%20%5bT.S.O.L.%20Covers%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>04. Can't Stand You [From Pap Smear]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/04.%20Can't%20Stand%20You%20%5bFrom%20Pap%20Smear%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<title>05. Ddamm [From Pap Smear]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/05.%20Ddamm%20%5bFrom%20Pap%20Smear%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>06. Guilty of Being White [Minor Threat Cover]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/06.%20Guilty%20of%20Being%20White%20%5bMinor%20Threat%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>07. I Hate You [Verbal Abuse Cover]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/07.%20I%20Hate%20You%20%5bVerbal%20Abuse%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>08. Filler , I Don't Want to Hear It [Minor Threat Covers]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/08.%20Filler%20,%20I%20Don't%20Want%20to%20Hear%20It%20%5bMinor%20Threat%20Covers%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>09. Spiritual Law [D.I. Cover]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/09.%20Spiritual%20Law%20%5bD.I.%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>10. Sick Boy</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/10.%20Sick%20Boy.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>11. Mr. Freeze [Dr. Know Cover]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/11.%20Mr.%20Freeze%20%5bDr.%20Know%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>12. Violent Pacification [D.R.I. Cover]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/12.%20%20Violent%20Pacification%20%5bD.R.I.%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>13. Memories of Tomorrow.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/13.%20Memories%20of%20Tomorrow.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>14. Richard Hung Himself [D.I. Cover].mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/14.%20%20Richard%20Hung%20Himself%20%5bD.I.%20Cover%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>I'm Gonna Be Your God [The Stooges Cover (Parody Tribute of 'I Wanna Be Your Dog')]</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/15.%20%20I'm%20Gonna%20Be%20Your%20God%20%5bThe%20Stooges%20Cover%20(Parody%20Tribute%20of%20'I%20Wanna%20Be%20Your%20Dog')%5d.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
+<item>
+<title>16. Gemini.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1996%20-%20Undisputed%20Attitude%20%5bBVCP-920%5d%20(Covers%20By%20Slayer)/16.%20Gemini.mp3</link>
+<thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
+<fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
+</item>
