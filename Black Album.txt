@@ -1,0 +1,69 @@
+﻿<item>
+<title>01 Enter Sandman</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/01%20Enter%20Sandman.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+</item>
+<item>
+<title>02 Sad but True</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/02%20Sad%20but%20True.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+</item>
+<item>
+<title>03 Holier Than Thou</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/03%20Holier%20Than%20Thou.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+</item>
+<item>
+<title>04 The Unforgiven</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/04%20The%20Unforgiven.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>05 Wherever I May Roam</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/05%20Wherever%20I%20May%20Roam.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>06 Don't Tread on Me</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/06%20Don't%20Tread%20on%20Me.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>07 Through the Never</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/07%20Through%20the%20Never.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>08 Nothing Else Matters</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/08%20Nothing%20Else%20Matters.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>09 Of Wolf and Man</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/09%20Of%20Wolf%20and%20Man.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>10 The God That Failed</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/10%20The%20God%20That%20Failed.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>11 My Friend of Misery</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/11%20My%20Friend%20of%20Misery.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>12 The Struggle Within</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/12%20The%20Struggle%20Within.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Rd_CX2LL-zk/maxresdefault.jpg</fanart>
+</item>

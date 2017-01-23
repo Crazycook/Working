@@ -1,0 +1,59 @@
+﻿<item>
+<title>01 That Was Just Your Life</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20That%20Was%20Just%20Your%20Life.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>02 The End Of The Line</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20The%20End%20Of%20The%20Line.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>03 Broken, Beat & Scarred</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20Broken,%20Beat%20&%20Scarred.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>04 The Day That Never Comes</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20The%20Day%20That%20Never%20Comes.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<title>05 All Nightmare Long</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20All%20Nightmare%20Long.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>06 Cyanide</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20Cyanide.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>07 The Unforgiven III</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20The%20Unforgiven%20III.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>08 The Judas Kiss</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20The%20Judas%20Kiss.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/AlbumArt_%7bA6F010AD-49CE-4654-94A1-F1B7B7CA8583%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>09 Suicide & Redemption</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20Suicide%20&%20Redemption.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
+<item>
+<title>10 My Apocalypse</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Death%20Magnetic/Metallica%20-%20My%20Apocalypse.mp3</link>
+<thumbnail>http://blogs.hatrix.fr/musiques/Metallica/Black%20album/AlbumArt_%7b1B084887-F4D0-482B-84CA-D73986D95261%7d_Large.jpg</thumbnail>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+</item>
