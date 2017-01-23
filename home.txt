@@ -1,12 +1,32 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
 <channel>
 <name>Undisputed Attitude</name>
 <thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/Undisputed%20Attitude.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/home.txt</externallink>
 <fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Undisputed Attitude is the seventh studio album by American thrash metal band Slayer. The album consists almost entirely of punk rock/hardcore punk cover songs. Wikipedia
+Artist: Slayer
+Release date: May 28, 1996
+Label: American Recordings
+Genres: Thrash metal, Punk rock, Hardcore punk, Crossover thrash
+Producers: Rick Rubin, Dave Sardy
+1.	"Disintegration/Free Money"  	Eric Mastrokalos, Brett Dodwell, Roy Hansen	Verbal Abuse	1:41
+2.	"Verbal Abuse/Leeches"  	Mastrokalos, Dodwell, Hansen	Verbal Abuse	1:58
+3.	"Abolish Government/Superficial Love"  	Jack Grisham, Ron Emory, Mike Roche, Todd Barnes	T.S.O.L.	1:48
+4.	"Can't Stand You"  	Jeff Hanneman	Pap Smear	1:27
+5.	"DDAMM (Drunk Drivers Against Mad Mothers)"  	Jeff Hanneman	Pap Smear	1:01
+6.	"Guilty of Being White"  	Ian MacKaye	Minor Threat	1:07
+7.	"I Hate You"  	Mastrokalos, Dodwell, Hansen	Verbal Abuse	2:16
+8.	"Filler/I Don't Want to Hear It"  	MacKaye, Lyle Preslar, Brian Baker, Jeff Nelson	Minor Threat	2:28
+9.	"Spiritual Law"  	Casey Royer	D.I.	3:00
+10.	"Mr. Freeze"  	Kyle Toucher	Dr. Know	2:24
+11.	"Violent Pacification"  	Spike Cassidy, Kurt Brecht	D.R.I.	2:38
+12.	"Richard Hung Himself"  	Royer, Taccone	D.I.	3:22
+13.	"I'm Gonna Be Your God" ("I Wanna Be Your Dog")	James Osterberg, Ron Asheton, Scott Asheton, David Alexander	The Stooges	2:58
+14.	"Gemini"  
+</info>
 </channel>
 
 </channels>
