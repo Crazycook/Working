@@ -1,13 +1,17 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
 
 <channel>
-<name>f4mTester Sports</name>
+<name>Saskatchewan Rush Replay</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Sports-TV/fm4Tester%20Sports.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Saskatchewan%20Rush%20Replay.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>The Saskatchewan Rush are a professional box lacrosse team based in Saskatoon, Saskatchewan, Canada. They are members of the Western Division of the National Lacrosse League and play their home games at the SaskTel Centre. Wikipedia
+Arena: SaskTel Centre
+General manager: Derek Keenan
+Based in: Saskatoon
+Championships:2015 as edmonton Rush, 2016</info>
 </channel>
 
 <channel>
