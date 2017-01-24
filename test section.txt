@@ -1,0 +1,7 @@
+﻿<item>
+<item>
+<title>eska (plexus) </title>
+<link>plugin://program.plexus/?mode=1&url=http://eeephone.ru/ace.php?ch=cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/11328.acelive</link>
+<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
