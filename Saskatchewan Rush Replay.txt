@@ -1,0 +1,20 @@
+﻿<item>
+<title>PRE-SEASON DEC. 16: CALGARY ROUGHNECKS @ SASKATCHEWAN RUSH</title>
+<link>http://default.media.boxxspring.net/hls1500k_b80b529b5b4beefc7ea674d17553ad0c.ts.m3u8</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+</item>
+<item>
+<title>DEC. 16: CALGARY ROUGHNECKS @ SASKATCHEWAN RUSH</title>
+<link>http://default.media.boxxspring.net/hls1500k_b80b529b5b4beefc7ea674d17553ad0c.ts.m3u8</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+</item>
+<item>
+<title>JAN. 7: SASKATCHEWAN RUSH @ GEORGIA SWARM</title>
+<link>http://default.media.boxxspring.net/hls1000k_b07fd07a954fd06ddaa2ddecf11c6aa4.ts.m3u8</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+</item>
+<item>
+<title>JAN. 14: SASKATCHEWAN RUSH @ TORONTO ROCK</title>
+<link>http://default.media.boxxspring.net/hls0600k_d57a3a95b540673b988717a89b3c7847.ts.m3u8</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+</item>
