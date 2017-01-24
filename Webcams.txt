@@ -1,4 +1,4 @@
-<item>
+ï»¿<item>
 <title>Harmanli</title>
 <link>rtsp://93.183.167.17:554/live/ch00_0</link>
 <thumbnail></thumbnail>
@@ -44,41 +44,10 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Downtown Tokoyo</title>
-<link>http://iphone-streaming.ustream.tv/uhls/16163337/streams/live/iphone/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>Downtown Tokoyo Cam 2</title>
 <link>http://iphone-streaming.ustream.tv/uhls/17662918/streams/live/iphone/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>Russia St Petersburg 1</title>
-<link>http://vpiter.tv:8083/camera2/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Russia St Petersburg 2</title>
-<link>http://vpiter.tv:8083/camera13/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Russia St Petersburg 3</title>
-<link>http://vpiter.tv:8083/camera26/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Russia St Petersburg 4</title>
-<link>http://vpiter.tv:8083/camera27/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Russia St Petersburg 5</title>
-<link>http://vpiter.tv:8083/camera28/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>vODAFON wEB CAM</title>
 <link>http://37.252.248.84/nokta_vodafone/nokta3/stml.m3u8</link>
 <thumbnail></thumbnail>
@@ -101,86 +70,6 @@
 <item>
 <title>EXYUG-Banja luka (trg krajine)</title>
 <link>http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 1</title>
-<link>http://vpiter.tv:8083/camera1/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 13</title>
-<link>http://vpiter.tv:8083/camera13/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 14</title>
-<link>http://vpiter.tv:8083/camera14/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 16</title>
-<link>http://vpiter.tv:8083/camera16/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 17</title>
-<link>http://vpiter.tv:8083/camera17/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 19</title>
-<link>http://vpiter.tv:8083/camera19/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 2</title>
-<link>http://vpiter.tv:8083/camera2/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 23</title>
-<link>http://vpiter.tv:8083/camera23/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 25</title>
-<link>http://vpiter.tv:8083/camera25/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 26</title>
-<link>http://vpiter.tv:8083/camera26/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 27</title>
-<link>http://vpiter.tv:8083/camera27/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 28</title>
-<link>http://vpiter.tv:8083/camera28/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 3</title>
-<link>http://vpiter.tv:8083/camera3/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 4</title>
-<link>http://vpiter.tv:8083/camera4/0,0,640,480/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 5</title>
-<link>http://vpiter.tv:8083/camera4/640,480,640,480/h264</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>RUS-St Petersburg 6</title>
-<link>http://vpiter.tv:8083/camera6/h264</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -214,12 +103,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Zürich - Uetliberg</title>
+<title>DE:ZÃ¼rich - Uetliberg</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv65_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Würzburg - Hotel Alter Kranen</title>
+<title>DE:WÃ¼rzburg - Hotel Alter Kranen</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv70_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -234,7 +123,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Wiek - Rügen</title>
+<title>DE:Wiek - RÃ¼gen</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv25_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -249,12 +138,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Warnemünde - Yachthafen</title>
+<title>DE:WarnemÃ¼nde - Yachthafen</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv4_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Warnemünde - Best Western Hotel</title>
+<title>DE:WarnemÃ¼nde - Best Western Hotel</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv20_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -264,17 +153,17 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Tübingen - Heindl Internet AG</title>
+<title>DE:TÃ¼bingen - Heindl Internet AG</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv104_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Tübingen - Casino am Neckar</title>
+<title>DE:TÃ¼bingen - Casino am Neckar</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv109_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Travemünde - Strand</title>
+<title>DE:TravemÃ¼nde - Strand</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv54_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -304,7 +193,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Sölden - Freizeit Arena</title>
+<title>DE:SÃ¶lden - Freizeit Arena</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv96_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -319,7 +208,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Scharbeutz - Lübecker Bucht</title>
+<title>DE:Scharbeutz - LÃ¼becker Bucht</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv41_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -329,7 +218,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Saarbrücken - La Residence</title>
+<title>DE:SaarbrÃ¼cken - La Residence</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv68_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -369,12 +258,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Pelzerhaken - Lübecker Bucht</title>
+<title>DE:Pelzerhaken - LÃ¼becker Bucht</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv8_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Passau - Hotel König</title>
+<title>DE:Passau - Hotel KÃ¶nig</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv98_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -414,37 +303,37 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Münster - Stadthaus</title>
+<title>DE:MÃ¼nster - Stadthaus</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv63_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Münster - Raphaelsklinik</title>
+<title>DE:MÃ¼nster - Raphaelsklinik</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv116_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:München - wetter.com-Redaktion</title>
+<title>DE:MÃ¼nchen - wetter.com-Redaktion</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv55_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:München - Deutsche Eiche</title>
+<title>DE:MÃ¼nchen - Deutsche Eiche</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv72_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Mönchengladbach - Best Western Crown</title>
+<title>DE:MÃ¶nchengladbach - Best Western Crown</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv118_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Lübeck - Radisson Blu</title>
+<title>DE:LÃ¼beck - Radisson Blu</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv64_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Lübeck - MUK</title>
+<title>DE:LÃ¼beck - MUK</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv44_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -474,7 +363,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Kühlungsborn - Strand</title>
+<title>DE:KÃ¼hlungsborn - Strand</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv35_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -484,22 +373,22 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Köln - Pullman Cologne</title>
+<title>DE:KÃ¶ln - Pullman Cologne</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv99_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Köln - Kölnturm</title>
+<title>DE:KÃ¶ln - KÃ¶lnturm</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv69_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Kitzbühel - Hotel Rasmushof</title>
+<title>DE:KitzbÃ¼hel - Hotel Rasmushof</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv143_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Kitzbühel - Hahnenkamm Bergstation</title>
+<title>DE:KitzbÃ¼hel - Hahnenkamm Bergstation</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv121_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -534,7 +423,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Hörnum - Sylt</title>
+<title>DE:HÃ¶rnum - Sylt</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv7_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -569,7 +458,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Haffkrug - Lübecker Bucht</title>
+<title>DE:Haffkrug - LÃ¼becker Bucht</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv40_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -589,7 +478,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Fulda - Schlossstraße</title>
+<title>DE:Fulda - SchlossstraÃŸe</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv62_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -624,12 +513,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Eckernförde - Strand</title>
+<title>DE:EckernfÃ¶rde - Strand</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv45_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Eckernförde - Hafen</title>
+<title>DE:EckernfÃ¶rde - Hafen</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv46_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -654,22 +543,22 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Büsum - Museumshafen</title>
+<title>DE:BÃ¼sum - Museumshafen</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv33_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Büsum - Hauptstrand</title>
+<title>DE:BÃ¼sum - Hauptstrand</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv32_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Büsum - Familienlagune</title>
+<title>DE:BÃ¼sum - Familienlagune</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv42_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Brunsbüttel - Schleuse</title>
+<title>DE:BrunsbÃ¼ttel - Schleuse</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv37_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -729,12 +618,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Bad Brückenau - Kurverwaltung Bad Brückenau</title>
+<title>DE:Bad BrÃ¼ckenau - Kurverwaltung Bad BrÃ¼ckenau</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv140_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>DE:Augsburg - Königsplatz</title>
+<title>DE:Augsburg - KÃ¶nigsplatz</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv39_450p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -754,12 +643,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CH:Zürich - Zoo Cam 3</title>
+<title>CH:ZÃ¼rich - Zoo Cam 3</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv23_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CH:Zürich - Zoo Cam 1</title>
+<title>CH:ZÃ¼rich - Zoo Cam 1</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv78_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -889,7 +778,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>BOSNIA-Zenica Shopping Center Džananovic</title>
+<title>BOSNIA-Zenica Shopping Center DÅ¾ananovic</title>
 <link>rtmp://cdn-01.whatsupcams.com/live//ba_zen2</link>
 <thumbnail></thumbnail>
 </item>
@@ -1094,7 +983,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz CH:Zürich - Zoo Cam 2</title>
+<title>zzz CH:ZÃ¼rich - Zoo Cam 2</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv78b_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -1124,12 +1013,12 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz DE:Lüneburg - Hotel Bergström</title>
+<title>zzz DE:LÃ¼neburg - Hotel BergstrÃ¶m</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv135_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz DE:Meißen - Fa. Hübner</title>
+<title>zzz DE:MeiÃŸen - Fa. HÃ¼bner</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv94_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -1139,7 +1028,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz DE:Warnemünde - Am Strom 72</title>
+<title>zzz DE:WarnemÃ¼nde - Am Strom 72</title>
 <link>rtmp://stream.livespotting.tv/windit-edge/vv16_720p.stream</link>
 <thumbnail></thumbnail>
 </item>
@@ -1194,7 +1083,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz EXYUG-Zagreb Café de Paris</title>
+<title>zzz EXYUG-Zagreb CafÃ© de Paris</title>
 <link>rtmp://cdn-01.whatsupcams.com/live//wuc-enc00190</link>
 <thumbnail></thumbnail>
 </item>
@@ -1204,7 +1093,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>zzz EXYUG-Zagreb Ski – Sljeme</title>
+<title>zzz EXYUG-Zagreb Ski â€“ Sljeme</title>
 <link>rtmp://cdn-01.whatsupcams.com/live//hr_sljeme1</link>
 <thumbnail></thumbnail>
 </item>
@@ -1214,7 +1103,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Estação Espacial Internacional</title>
+<title>EstaÃ§Ã£o Espacial Internacional</title>
 <link>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -1414,7 +1303,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>LEÇA DA PALMEIRA</title>
+<title>LEÃ‡A DA PALMEIRA</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -1464,7 +1353,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>NAZARÉ</title>
+<title>NAZARÃ‰</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -1484,7 +1373,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>RIBEIRA D´ ILHAS</title>
+<title>RIBEIRA DÂ´ ILHAS</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -1524,7 +1413,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>CAPARICA S.JOÃO</title>
+<title>CAPARICA S.JOÃƒO</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -1579,7 +1468,7 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>PRAIA DA GALÉ</title>
+<title>PRAIA DA GALÃ‰</title>
 <link>http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8</link>
 <thumbnail></thumbnail>
 </item>
