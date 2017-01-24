@@ -5,7 +5,7 @@
 <channel>
 <name>Saskatchewan Rush Replay</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Saskatchewan%20Rush%20Replay.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Sports-TV/Saskatchewan%20Rush%20Replay.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>The Saskatchewan Rush are a professional box lacrosse team based in Saskatoon, Saskatchewan, Canada. They are members of the Western Division of the National Lacrosse League and play their home games at the SaskTel Centre. Wikipedia
 Arena: SaskTel Centre
