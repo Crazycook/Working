@@ -47,4 +47,4 @@
 <fanart>https://upload.wikimedia.org/wikipedia/en/2/20/Trailer_Park_Boys_logo.png</fanart>
 </item>
 
-http://192.95.33.51/live/Gw2jHizi7P8VC2Ox_nmzDQ/1485467962/d12d2c37e8c211f096ea78fd159643ba.m3u8
+
