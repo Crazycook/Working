@@ -1,0 +1,84 @@
+﻿<item>
+<title>01 Ain't My Bitch</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/01%20Ain't%20My%20Bitch.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>02 2 X 4</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/02%202%20X%204.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>03 The House Jack Built</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/03%20The%20House%20Jack%20Built.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>04 Until It Sleeps</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/04%20Until%20It%20Sleeps.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>05 King Nothing</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/05%20King%20Nothing.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>06 Hero of the Day</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/06%20Hero%20of%20the%20Day.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>07 Bleeding Me</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/07%20Bleeding%20Me.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>08 Cure</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/08%20Cure.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>09 Poor Twisted Me</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/09%20Poor%20Twisted%20Me.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>10 Wasting My Hate</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/10%20Wasting%20My%20Hate.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>11 Mama Said.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/11%20Mama%20Said.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>12 Thorn Within</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/12%20Thorn%20Within.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>13 Ronnie</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/13%20Ronnie.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>14 The Outlaw Torn.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Load%20(1996)/14%20The%20Outlaw%20Torn.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+</item>

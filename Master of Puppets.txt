@@ -1,0 +1,48 @@
+﻿<item>
+<title>01-Battery</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/01-Battery.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>02-Master of Puppets</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/02-Master%20of%20Puppets.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>03-The Thing That Should Not Be</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/03-The%20Thing%20That%20Should%20Not%20Be.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>04-Welcome Home (Sanitarium)</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/04-Welcome%20Home%20(Sanitarium).mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>05-Disposable Heroes</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/05-Disposable%20Heroes.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>06-Leper Messiah</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/06-Leper%20Messiah.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>07-Orion (Instrumental).mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/07-Orion%20(Instrumental).mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
+<item>
+<title>08-Damage, Inc.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Master%20of%20Puppets/08-Damage,%20Inc.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/B_LtOTAVIAANGG6.jpg:large</fanart>
+</item>
