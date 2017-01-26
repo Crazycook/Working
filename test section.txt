@@ -1,7 +1,101 @@
 ﻿<item>
-<item>
-<title>eska (plexus) </title>
-<link>plugin://program.plexus/?mode=1&url=http://eeephone.ru/ace.php?ch=cHNFbkxYbVQyclZ6MS8yc1czMkdaUXduN0g5RTNFSmFad1ArdUNmRWhUeXRFNTJSbXowSStaR3NxektBWjg0WFRnalNacm5KcmIyeXprTXZNZk5HOFE9PQ/11328.acelive</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<title>SKYUK:SKY SPORTS 4</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/686.ts</link>
+<thumbnail></thumbnail>
 </item>
+<item>
+<title>SKYUK:SKY MOVIES ACTION</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/672.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY MOVIES COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/670.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY MOVIES DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/671.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY MOVIES FAMILY HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/669.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY MOVIES PREMIERE HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/668.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY MOVIES THRILLER</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/675.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY TWO</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/651.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY ONE HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/649.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:SKY ONE</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/650.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:RTE ONE</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/661.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:RTE 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/662.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:RTE 2</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/730.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:ITV 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/657.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:ITV 2</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/658.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:ITV 3</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/659.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/679.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:DISNEY MOVIE</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/682.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:BT SPORTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/693.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SKYUK:BT SPORT 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/691.ts</link>
+<thumbnail></thumbnail>
+</item>
+
