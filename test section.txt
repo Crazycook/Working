@@ -1,101 +1,126 @@
 ﻿<item>
-<title>SKYUK:SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/6grandiptv419/03332325/686.ts</link>
+<item>
+<title>Bein 1</title>
+<link>rtmp://151.80.21.128/myapp//927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES ACTION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/6grandiptv419/03332325/672.ts</link>
+<title>Bein 2</title>
+<link>rtmp://151.80.21.128/myapp//928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/670.ts</link>
+<title>Bein 3</title>
+<link>rtmp://151.80.21.128/myapp//929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/671.ts</link>
+<title>Bein Sports</title>
+<link>rtmp://151.80.21.128/myapp//930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES FAMILY HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/669.ts</link>
+<title>Bein Sports</title>
+<link>rtmp://151.80.21.128/myapp//933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES PREMIERE HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/668.ts</link>
+<title>UK:SKY SPORT 1</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTsyjkiy-1/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY MOVIES THRILLER</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/675.ts</link>
+<title>UK:SKY SPORT 2</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTsyjkiy-2/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY TWO</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/651.ts</link>
+<title>UK:SKY SPORT 3</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTsyjkiy-3/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY ONE HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/649.ts</link>
+<title>UK:SKY SPORT 4</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTsyjkiy-4/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:SKY ONE</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/650.ts</link>
+<title>UK:SKY SPORT 5</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTsyjkiy-5/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:RTE ONE</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/661.ts</link>
+<title>UK:BT SPORT 1</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTbeETy-1/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:RTE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/662.ts</link>
+<title>UK:BT SPORT 2</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTbeETy-2/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:RTE 2</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/730.ts</link>
+<title>ARENA SPORT 1</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTairoona-1/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:ITV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/657.ts</link>
+<title>ARENA SPORT 2</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTairoona-2/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:ITV 2</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/658.ts</link>
+<title>ARENA SPORT 3</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTairoona-3/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:ITV 3</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/659.ts</link>
+<title>ARENA SPORT 4</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTairoona-4/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:ESPN HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/679.ts</link>
+<title>ARENA SPORT 5</title>
+<link>http://149.202.207.8:8080/tinKk00JuTTairoona-5/Strm/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:DISNEY MOVIE</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/682.ts</link>
+<title>Sky sport 1</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysports1/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:BT SPORTS 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/693.ts</link>
+<title>Sky sport 2</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysports2/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>SKYUK:BT SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/691.ts</link>
+<title>Sky sport 3</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysports3/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+<title>Sky sport 4</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysports4/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky sport 5</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysports5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Skysport News</title>
+<link>http://visiosoftltd.com:8080/streamflare/skysportsnews/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT SPORT 1</title>
+<link>http://visiosoftltd.com:8080/streamflare/bt1/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT SPORT 2</title>
+<link>http://visiosoftltd.com:8080/streamflare/bt2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
