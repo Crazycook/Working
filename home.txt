@@ -1,4 +1,4 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
 <channel>
@@ -22,14 +22,30 @@
 <thumbnail>https://c2.staticflickr.com/8/7251/7590353426_7b620e7ddf_b.jpgjpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Black%20Album.txt</externallink>
 <fanart>https://i.ytimg.com/vi/DqDeH3hwxfw/maxresdefault.jpg</fanart>
-<info>Metallica (commonly known as The Black Album) is the eponymous fifth studio album by American heavy metal band Metallica. Released on August 12, 1991 by Elektra Records, it received widespread critical acclaim and became the band's best-selling album. Metallica produced five singles that are considered to be among the band's best-known songs, which include "Enter Sandman," "The Unforgiven," "Nothing Else Matters," "Wherever I May Roam," and "Sad but True." "Don't Tread on Me" was also issued to rock radio shortly after the album's release, but the song did not receive a commercial single release. The album marked a change in the band's sound from the thrash metal style of the previous four albums to a slower one. Metallica promoted the album with a series of tours. In 2003, the album was ranked number 252 on Rolling Stone's 500 greatest albums of all time.
-The recording of Metallica was troubled, as the band frequently entered conflicts with Bob Rock, the band's new producer, during production. The album debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top album charts. By February 2016, the album spent 363 weeks on the Billboard album chart, making it one of the ten longest running discs of all time. Metallica is one of the best-selling albums worldwide, and the best-selling album in the United States since Nielsen SoundScan tracking began. The album was certified 16� platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States, the first album in the SoundScan era to do so. Metallica played the album in its entirety during the 2012 European Black Album Tour.</info>
+<info>Metallica (commonly known as The Black Album) is the eponymous fifth studio album by American heavy metal band Metallica. Released on August 12, 1991 by Elektra Records, it received widespread critical acclaim and became the band's best-selling album. Metallica produced five singles that are considered to be among the band's best-known songs, which include "Enter Sandman," "The Unforgiven," "Nothing Else Matters," "Wherever I May Roam," and "Sad but True."  The album marked a change in the band's sound from the thrash metal style of the previous four albums to a slower one.
+The recording of Metallica was troubled, as the band frequently entered conflicts with Bob Rock, the band's new producer, during production. The album debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top album charts. By February 2016, the album spent 363 weeks on the Billboard album chart, making it one of the ten longest running discs of all time. Metallica is one of the best-selling albums worldwide, and the best-selling album in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States.</info>
 </channel>
 
 <channel>
 <name>Death Magnetic</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Metallica_-_Death_Magnetic_cover.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Death%20Magnetic.txt</externallink>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Load</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Load.txt</externallink>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Master of Puppets</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Master%20of%20Puppets.txt</externallink>
 <fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
