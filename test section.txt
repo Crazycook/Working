@@ -1,11 +1,11 @@
 ﻿<item>
 <title>SKYUK:SKY SPORTS 4</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/686.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/6grandiptv419/03332325/686.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>SKYUK:SKY MOVIES ACTION</title>
-<link>plugin://plugin.video.f4mTester/?;url=http://37.187.135.50:8000/live/6grandiptv419/03332325/672.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/6grandiptv419/03332325/672.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
