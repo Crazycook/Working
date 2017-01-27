@@ -1,0 +1,78 @@
+﻿<item>
+<title>01-Fuel</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/01-Fuel.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>02-The Memory Remains</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/02-The%20Memory%20Remains.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>03-Devil's Dance</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/03-Devil's%20Dance.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>04-The Unforgiven II</title>
+<link>04-The Unforgiven II.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>05-Better Than You</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/05-Better%20Than%20You.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>06-Slither</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/06-Slither.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>07-Carpe Diem Baby</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/07-Carpe%20Diem%20Baby.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>08-Bad Seed</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/08-Bad%20Seed.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>09-Where The Wild Things Are</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/09-Where%20The%20Wild%20Things%20Are.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>10-Prince Charming</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/10-Prince%20Charming.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>11-Low Man's Lyric</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/11-Low%20Man's%20Lyric.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>12-Attitude</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/12-Attitude.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
+<item>
+<title>13-Fixxxer</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica%20-%20Reload/13-Fixxxer.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9b/Metallica_-_Reload_cover.jpg</thumbnail>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+</item>
