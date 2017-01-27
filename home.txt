@@ -10,6 +10,14 @@
 </channel>
 
 <channel>
+<name>Ride the lightning</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Ride%20the%20Lightning.txt</externallink>
+<fanart>https://s3.amazonaws.com/bit-photos/large/264274.jpeg</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>St.Anger</name>
 <thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/St.%20Anger.txt</externallink>
@@ -39,6 +47,14 @@ The recording of Metallica was troubled, as the band frequently entered conflict
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Load.txt</externallink>
 <fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+<name>Reload</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Metallica_-_Reload_cover.jpg/220px-Metallica_-_Reload_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Reload.txt</externallink>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
