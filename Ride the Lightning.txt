@@ -1,0 +1,48 @@
+﻿<item>
+<title>01-Fight Fire with Fire</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Fight%20Fire%20with%20Fire.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>02-Ride the Lightning</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Ride%20the%20Lightning.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>03-For Whom the Bell Tolls.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/For%20Whom%20the%20Bell%20Tolls.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>04-Fade to Black.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Fade%20to%20Black.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>05-Trapped Under Ice.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Trapped%20Under%20Ice.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>06-Escape.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Escape.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>07-Creeping Death.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Creeping%20Death.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
+<item>
+<title>Call of Ktulu.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/Metallica-Ride%20the%20lighting/Call%20of%20Ktulu.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Metallica_-_Ride_the_Lightning_cover.jpg/220px-Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
+<fanart>http://i.imgur.com/1v2srCl.jpg</fanart>
+</item>
