@@ -1,9 +1,9 @@
-﻿<item>
-<title>Game 0 : PRE-SEASON DEC. 16: CALGARY ROUGHNECKS @ SASKATCHEWAN RUSH</title>
+﻿
+<item>
+<title>Preseason : DEC. 16: CALGARY ROUGHNECKS @ SASKATCHEWAN RUSH</title>
 <link>http://default.media.boxxspring.net/hls1500k_b80b529b5b4beefc7ea674d17553ad0c.ts.m3u8</link>
 <thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
 </item>
-
 <item>
 <title>Game 1 : JAN. 7: SASKATCHEWAN RUSH @ GEORGIA SWARM</title>
 <link>http://default.media.boxxspring.net/hls1000k_b07fd07a954fd06ddaa2ddecf11c6aa4.ts.m3u8</link>
@@ -17,5 +17,10 @@
 <item>
 <title>Game 3 : JAN. 21: ROCHESTER KNIGHTHAWKS @ SASKATCHEWAN RUSH</title>
 <link>http://default.media.boxxspring.net/hls2000k_3f365143e93bc7648d27d27b06b718e5.ts.m3u8</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+</item>
+<item>
+<title>Game 4 : JAN. 27: VANCOUVER STEALTH @ SASKATCHEWAN RUSH</title>
+<link>http://default.media.boxxspring.net/1080p_9edf188e47dbd5fb7ccb56048ad21311.mp4</link>
 <thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
 </item>
