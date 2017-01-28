@@ -124,3 +124,928 @@
 <link>http://visiosoftltd.com:8080/streamflare/bt2/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
+<item>
+<title>1 - BBC Four (CBeebies)</title>
+<link>http://148.251.195.105/q_bbc_four_gb.m3u8?user=165765&amp;token=2fee509282eae6f4f80dc4ff19c1b441&amp;e=1485698821&amp;bands=1556</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>2 - CNN Intl. Europe</title>
+<link>http://144.76.2.39/q_cnn_inteurope_gb.m3u8?user=165765&amp;token=15abfeb7a513626b7f0ee18b9e58dd7a&amp;e=1485698821&amp;bands=960</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>3 - Disney Channel</title>
+<link>http://144.76.2.39/q_disney_channel_gb.m3u8?user=165765&amp;token=8d390df087a8c477f8c75c4a5210ac49&amp;e=1485698821&amp;bands=1556</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>4 - Globo HD</title>
+<link>http://playbr.from-al.com:58823/aglobohd/index.m3u8?token=18f6ab86456c6a4bae332d6e693dfe44-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>5 - Nick Jr UK</title>
+<link>http://144.76.2.39/q_nick_junior_gb.m3u8?user=165765&amp;token=4c9ee0efa5758f55666e16978994c7eb&amp;e=1485698821&amp;bands=1556</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>6 - Nickelodeon</title>
+<link>http://144.76.2.39/q_nickelodeon_gb.m3u8?user=165765&amp;token=70d09909a64bc482eb981648fcbecd19&amp;e=1485698821&amp;bands=1556</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>7 - Premier Sports</title>
+<link>http://148.251.195.105/q_premier_sports_gb.m3u8?user=165765&amp;token=1d743386279df8c256e8be1a0d6c5ca7&amp;e=1485698821&amp;enc=aes&amp;bands=956</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>8 - Sky Movies Comedy</title>
+<link>http://144.76.2.39/q_sky_moviescomedy_gb.m3u8?user=165765&amp;token=bcc3ad6f5963b54c8597be425ae9eba5&amp;e=1485698821&amp;bands=956</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>9 - Sky Movies Sci-Fi Horror</title>
+<link>http://136.243.12.170/q_sky_moviesscifia_gb.m3u8?user=165765&amp;token=c1c48c1b429d18f153602c2b3ae16d82&amp;e=1485698821&amp;bands=956</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>10 - Sky News UK</title>
+<link>http://144.76.2.39/q_sky_news_gb.m3u8?user=165765&amp;token=1772d0c55b04190e214223106705a07c&amp;e=1485698821&amp;bands=956</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>11 - Sky Sports 1</title>
+<link>http://144.76.3.83/q_sky_sports1_gb.m3u8?user=165765&amp;token=830207e627ad05dec4f65758908dae08&amp;e=1485698821&amp;bands=960</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>12 - Sky Sports 2</title>
+<link>http://144.76.3.83/q_sky_sports2_gb.m3u8?user=165765&amp;token=c54d8dc2d934acae254eb28919aca453&amp;e=1485698821&amp;bands=960</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>13 - Sky Sports 3</title>
+<link>http://144.76.3.83/q_sky_sports3_gb.m3u8?user=165765&amp;token=608f6f0553ef125d04a13c4333ff45f9&amp;e=1485698821&amp;bands=960</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>14 - Globo SP</title>
+<link>http://playbr.from-al.com:80/aglobo/index.m3u8?token=1724d6bc1060fb3efdd5870aabe8ccb3-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>15 - TV Verdes Mares</title>
+<link>http://playbr.from-al.com:8080/averdesmares/index.m3u8?token=e8963bd994583b3f659a0b06407a975a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>16 - TV Bahia</title>
+<link>http://playbr.from-al.com:8080/abahia/index.m3u8?token=92456dd65fb20aa851ae23de31d3ae06-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>17 - TV Anhaguera</title>
+<link>http://playbr.from-al.com:8080/aanhaguera/index.m3u8?token=0ce6ad8817a0c5baf3fa25e821fa9415-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>18 - RBS TV</title>
+<link>http://playbr.from-al.com:8080/arbs/index.m3u8?token=93ad1529216c5cc7a3ca45425d3f80a4-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>19 - Globo RJ</title>
+<link>http://playbr.from-al.com:8080/agloborj/index.m3u8?token=ccf12a7e5afe026a246cc6ba3cd1e04a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>20 - Globo Nordeste</title>
+<link>http://playbr.from-al.com:8080/aglobone/index.m3u8?token=18dcdb942146f975772088887e5385e7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>21 - Globo MG</title>
+<link>http://playbr.from-al.com:8080/aglobomg/index.m3u8?token=3a3755a02b729a9751dbd173c134187d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>22 - Globo Brasa</title>
+<link>http://playbr.from-al.com:8080/aglobobsb/index.m3u8?token=342e880a0d71dfc9010b7b3495bfca5e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>23 - Rede Brasil</title>
+<link>http://playbr.from-al.com:8080/aredebrasil/index.m3u8?token=5c9f0cb54cc1acab34bbf0d4e3e2074b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>24 - Terra Viva</title>
+<link>http://playbr.from-al.com:8080/aterraviva/index.m3u8?token=bb69e47d5410eaa962d03518e2630c62-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>25 - SBT HD</title>
+<link>http://playbr.from-al.com:57845/asbthd/index.m3u8?token=cf8496675cf64e94a7ea6d54bf58aa9a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>26 - SBT</title>
+<link>http://playbr.from-al.com:80/asbt/index.m3u8?token=6befda9101a50e1e03fe882fc829994c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>27 - Redetv</title>
+<link>http://playbr.from-al.com:80/aredetv/index.m3u8?token=39041038be4b325f33441acdcee84c55-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>28 - Band</title>
+<link>http://playbr.from-al.com:80/aband/index.m3u8?token=471b112cd6ca8c969b60b3fed05d8bc7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>29 - Band Alternativo</title>
+<link>http://playbr.from-al.com:80/abandalt/index.m3u8?token=efd55c93f33b807ccc7da6d75c7c9120-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>30 - Record HD</title>
+<link>http://playbr.from-al.com:57845/arecordhd/index.m3u8?token=6be60dc99014600f30b47175ac33f5e3-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>31 - Record</title>
+<link>http://playbr.from-al.com:80/arecord/index.m3u8?token=90855d918d06c66a35b0a74f43911815-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>32 - NBR</title>
+<link>http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>33 - Band HD</title>
+<link>http://playbr.from-al.com:57845/abandhd/index.m3u8?token=abf5615380c169261e871bb1dbd98ec2-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>34 - Futura</title>
+<link>http://playbr.from-al.com:80/afutura/index.m3u8?token=388700b53de9a665afbdd4776849e92e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>35 - Play TV</title>
+<link>http://playbr.from-al.com:8080/vplaytv/index.m3u8?token=cc30dd7e570b3b0195b2bd2fba920467-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>36 - TV Brasil</title>
+<link>http://playbr.from-al.com:80/atvbrasil/index.m3u8?token=8909271839c3544fbd53d981ae554ad3-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>37 - TV Cultura</title>
+<link>http://playbr.from-al.com:80/acultura/index.m3u8?token=1791b5d65b58e6ade0f8562a2aafef99-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>38 - Canal Brasil</title>
+<link>http://playbr.from-al.com:80/acanalbrasil/index.m3u8?token=8f4cff020024b8026c44a9e9e58c66d6-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>39 - Telecine Premium HD</title>
+<link>http://playbr.from-al.com:57845/ftcpremiumhd/index.m3u8?token=e1fceba190b9d672eab3140004496826-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>40 - Telecine Premium</title>
+<link>http://playbr.from-al.com:80/ftcpremium/index.m3u8?token=3ac4aad5ae16b3b61e55cb89058e034b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>41 - Telecine Action HD</title>
+<link>http://playbr.from-al.com:58823/ftcactionhd/index.m3u8?token=c13f1d436a2697744378a508b0ee2131-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>42 - Telecine Action</title>
+<link>http://playbr.from-al.com:80/ftcaction/index.m3u8?token=30c670468bdf98fa95546a4bb9d8ac49-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>43 - Telecine Pipoca HD</title>
+<link>http://playbr.from-al.com:58823/ftcpipocahd/index.m3u8?token=aeb09ee8248335fff6b3b5cbddfd8670-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>44 - Telecine Pipoca</title>
+<link>http://playbr.from-al.com:80/ftcpipoca/index.m3u8?token=3af8f6d9013aa172b6cdf45dc42f8c02-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>45 - Telecine Fun HD</title>
+<link>http://playbr.from-al.com:58823/ftcfunhd/index.m3u8?token=3681e413a22824708244d7851dd2f5eb-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>46 - Telecine Fun</title>
+<link>http://playbr.from-al.com:80/ftcfun/index.m3u8?token=adbc6c036815149b86f1529cc0ccfafe-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>47 - Telecine  Touch</title>
+<link>http://playbr.from-al.com:80/ftctouch/index.m3u8?token=d8867043b6022544330a42581ee8c2c5-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>48 - Telecine Cult</title>
+<link>http://playbr.from-al.com:80/ftccult/index.m3u8?token=f6d8d151b0b1b01c58f906bc744ac697-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>49 - HBO HD</title>
+<link>http://playbr.from-al.com:58823/fhbohd/index.m3u8?token=10ac468007fe4da129fdd5452953f8cf-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>50 - HBO</title>
+<link>http://playbr.from-al.com:80/fhbo/index.m3u8?token=44701000da015966d3753d7f99748ff1-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>51 - HBO 2 HD</title>
+<link>http://playbr.from-al.com:58823/fhbo2hd/index.m3u8?token=c740e5e2c3f24e9d74738e472f42304e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>52 - HBO 2</title>
+<link>http://playbr.from-al.com:80/fhbo2/index.m3u8?token=450e1f10ca4567c9d590cd1597f95bba-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>53 - HBO Familly</title>
+<link>http://playbr.from-al.com:80/fhbofamilly/index.m3u8?token=5b26be3b2fd3b844af1859a0f38553e6-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>54 - HBO Plus Brasil</title>
+<link>http://playbr.from-al.com:55547/fhboplusbrasil/index.m3u8?token=54607071a1c1594075fd28640cdebd9a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>55 - Fox Action HD</title>
+<link>http://playbr.from-al.com:57845/ffoxactionhd/index.m3u8?token=f679ac2384ece6a2c223dc30d16f5cb1-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>56 - HBO Plus e</title>
+<link>http://playbr.from-al.com:8080/fhbopluse/index.m3u8?token=8d8fe21827003c060abb64cf66d55b42-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>57 - HBO Signature</title>
+<link>http://playbr.from-al.com:80/fhbosignature/index.m3u8?token=dd6a01fe3ca40e3f5def20b5b3148a9c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>58 - Universal Channel</title>
+<link>http://playbr.from-al.com:80/funiversalchanel/index.m3u8?token=5ed3e65c2a71cb80680352133293849d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>59 - Studio Universal</title>
+<link>http://playbr.from-al.com:80/fstudiouniversal/index.m3u8?token=44c6c71c6376d94b42686bd37d7910ba-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>60 - FOX</title>
+<link>http://playbr.from-al.com:80/ffox/index.m3u8?token=13929ab00b210b085fd09097ed3ba162-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>61 - FX</title>
+<link>http://playbr.from-al.com:80/ffx/index.m3u8?token=f32c3839d0db4c5fa519820b7a909c6a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>62 - AXN</title>
+<link>http://playbr.from-al.com:80/faxn/index.m3u8?token=744b8bcfbf86c700d12858962b1d7bfa-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>63 - Megapix</title>
+<link>http://playbr.from-al.com:80/fmegapix/index.m3u8?token=279099ad53984e2c17362ecd5ede111e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>64 - Warner</title>
+<link>http://playbr.from-al.com:80/fwarner/index.m3u8?token=13277ddf67e11b8abf5c5be6d2384082-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>65 - Sony</title>
+<link>http://playbr.from-al.com:80/fsony/index.m3u8?token=85bae8f22920f05669eb6b72efc9ce0f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>66 - TBS</title>
+<link>http://playbr.from-al.com:80/ftbs/index.m3u8?token=e8b7fb56bb1b30829d06e0328b95a3f1-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>67 - TCM</title>
+<link>http://playbr.from-al.com:80/ftcm/index.m3u8?token=bef460a9443862f3b019c03419b39a9a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>68 - Paramount</title>
+<link>http://playbr.from-al.com:80/fparamount/index.m3u8?token=9ad7df04b16efd623e9b6eab080b6662-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>69 - MAX</title>
+<link>http://playbr.from-al.com:80/fmax/index.m3u8?token=801f695f74a5443b73968dfd46852a60-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>70 - Max Prime e</title>
+<link>http://playbr.from-al.com:8080/fmaxprimee/index.m3u8?token=981f81c48aa3298d7540bdcd16293602-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>71 - MAX UP</title>
+<link>http://alebr.from-ale.com:80/fmaxup/index.m3u8?token=af95b1834ea76bce82647ea366a8b90f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>72 - Max Prime</title>
+<link>http://playbr.from-al.com:80/fmaxprime/index.m3u8?token=6c52d342a6260a4c2e474a1d7f815fd4-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>73 - Cinemax</title>
+<link>http://playbr.from-al.com:80/fcinemax/index.m3u8?token=79f33b08b23ad90d332010979f98c33f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>74 - TNT HD</title>
+<link>http://playbr.from-al.com:57845/ftnthd/index.m3u8?token=627971470ac1eeaf0dfdc50d8bea39d8-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>75 - TNT</title>
+<link>http://playbr.from-al.com:80/ftnt/index.m3u8?token=da38c3993f6672696f84832a960627f0-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>76 - Space</title>
+<link>http://playbr.from-al.com:80/fspace/index.m3u8?token=8da4ccf78555f658dd23334edf6e7d3e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>77 - Fox 1 HD</title>
+<link>http://playbr.from-al.com:57845/ffox1hd/index.m3u8?token=c25e153f7eed4f34d0537ecf250f7aa1-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>78 - Mais Globosat</title>
+<link>http://playbr.from-al.com:80/fmaisglobosat/index.m3u8?token=107f9c579828eb9dba3bce071c9d0ff0-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>79 - SyFy</title>
+<link>http://playbr.from-al.com:80/fsyfy/index.m3u8?token=1e191c251a3484c9e6469667fc989c8e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>80 - TNT S곩es</title>
+<link>http://playbr.from-al.com:80/ftntseries/index.m3u8?token=28172e8a3e51198155a6d000b54dc4c5-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>81 - Prime Box Brasil</title>
+<link>http://playbr.from-al.com:80/fprimeboxbrasil/index.m3u8?token=7eafce25bbe846a733c2be9ed4d937bf-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>82 - iSAT</title>
+<link>http://playbr.from-al.com:80/fisat/index.m3u8?token=9bfe2ff8a7a0324fd5573f8055c015d9-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>83 - Comedy Central</title>
+<link>http://playbr.from-al.com:80/fcomedycentral/index.m3u8?token=f0c1652bea11cfdaf66490becd1e657e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>84 - VIVA</title>
+<link>http://playbr.from-al.com:80/vviva/index.m3u8?token=05e64b0b2c5fc0b4740af11e18365fa2-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>85 - Bis</title>
+<link>http://playbr.from-al.com:80/vbis/index.m3u8?token=364e7ba127bb7731176ccaaf20b349c4-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>86 - MTV</title>
+<link>http://playbr.from-al.com:8080/vmtv/index.m3u8?token=11e15849e52072f0ecb9a239f8587089-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>87 - Multishow</title>
+<link>http://playbr.from-al.com:80/vmultishow/index.m3u8?token=b3a5b171e3ae723447bcf62353a36cc1-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>88 - GNT</title>
+<link>http://playbr.from-al.com:80/vgnt/index.m3u8?token=9fbf5ba4e647043720a7eb97668e092e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>89 - A&E</title>
+<link>http://playbr.from-al.com:80/vae/index.m3u8?token=a43c89e8e9ad376670add7f9b8a72d09-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>90 - E!</title>
+<link>http://playbr.from-al.com:80/venterteinement/index.m3u8?token=d2607939e4f53b3360106dab641ba909-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>91 - Fox Life</title>
+<link>http://playbr.from-al.com:80/vfoxlife/index.m3u8?token=6b98ce9dca00211bca09a95fea38a5f7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>92 - TLC</title>
+<link>http://playbr.from-al.com:80/vtlc/index.m3u8?token=52a8e56bcb58846dd9fb74a68cd44c36-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>93 - Lifetime</title>
+<link>http://playbr.from-al.com:8080/vlifetime/index.m3u8?token=b76de27268afbfbc6795d0b1d49414cb-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>94 - VH1 Mega Hits</title>
+<link>http://playbr.from-al.com:80/vvh1megahits/index.m3u8?token=0a8484f49918841e110330df5fd4bcd8-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>95 - Arte 1</title>
+<link>http://playbr.from-al.com:80/varte1/index.m3u8?token=b6514b77697a88357c05d32b113da83d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>96 - Curta!</title>
+<link>http://playbr.from-al.com:8080/vcurta/index.m3u8?token=8fe3e19a89ba6bb41dff07a007911961-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>97 - Nat Geo HD</title>
+<link>http://playbr.from-al.com:57845/dnatgeohd/index.m3u8?token=30846c8e3b6f9ecb57a03bcf6c39651c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>98 - Nat Geo</title>
+<link>http://playbr.from-al.com:80/dnatgeo/index.m3u8?token=4b4040e0a8487e5b809b630ddce8662e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>99 - Discovery Channel HD</title>
+<link>http://playbr.from-al.com:58823/ddiscoverychannelhd/index.m3u8?token=8b37740d5a55b5d35dc2a86e2828c467-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>100 - Discovery</title>
+<link>http://playbr.from-al.com:80/ddiscovery/index.m3u8?token=5c4fcad071abb3ebba2847f522908cb0-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>101 - Investiga褯 Discovery</title>
+<link>http://playbr.from-al.com:80/dinvestigacao/index.m3u8?token=947017840f3ff89d38e7f23114dc63ab-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>102 - Discovery Home & Health HD</title>
+<link>http://playbr.from-al.com:57845/dhomehealthhd/index.m3u8?token=1727368b01b8350b2ec8b1398369801d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>103 - Discovery Home & Health</title>
+<link>http://playbr.from-al.com:8080/dhomehealth/index.m3u8?token=cf673fc8a15518f26dd52549f017a912-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>104 - Discovery Turbo HD</title>
+<link>http://playbr.from-al.com:57845/dturbohd/index.m3u8?token=90e689430714bb68760dbac3579f0fcc-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>105 - Discovery Turbo</title>
+<link>http://playbr.from-al.com:80/ddiscoveryturbo/index.m3u8?token=2619cdf45a228f4e9ebe99b2315a111d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>106 - Discovery Civilization</title>
+<link>http://playbr.from-al.com:80/ddiscoverycivilization/index.m3u8?token=1aa32301e84e811df492414928976f39-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>107 - Animal Planet HD</title>
+<link>http://playbr.from-al.com:8080/danimalplanethd/index.m3u8?token=f12d677a7fe69a50b0197830f9cab751-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>108 - Animal Planet</title>
+<link>http://playbr.from-al.com:80/danimalplanet/index.m3u8?token=c131a51782a4b0d7bbf925d8b6ed4357-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>109 - History HD</title>
+<link>http://playbr.from-al.com:58823/dhistoryhd/index.m3u8?token=694c869aabafe330bbe73c03c379d43b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>110 - History</title>
+<link>http://playbr.from-al.com:80/dhistory/index.m3u8?token=2668d2a5b27f1d39a2b4bd2e498bb7e5-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>111 - H2</title>
+<link>http://playbr.from-al.com:8080/dh2/index.m3u8?token=289d98561568140a87e8e9eb41ee5028-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>112 - Discovery Science</title>
+<link>http://playbr.from-al.com:80/ddiscoveryscience/index.m3u8?token=11b3da36832beb190cb72ff4a15ffd51-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>113 - Tru TV</title>
+<link>http://playbr.from-al.com:80/dtrutv/index.m3u8?token=f71e365f6d1a01da248724cf71dbc8d6-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>114 - Music Box Brasil</title>
+<link>http://playbr.from-al.com:80/vmusicboxbrasil/index.m3u8?token=2aca9cb5d8874adb19eba9e79f20169d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>115 - Fish TV</title>
+<link>http://playbr.from-al.com:80/dfishtv/index.m3u8?token=bb186e3945c93326edf061079778b21a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>116 - Food Network</title>
+<link>http://playbr.from-al.com:8080/vfood/index.m3u8?token=ecc0b72bb966745959d9dc4e6f592c57-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>117 - ESPN</title>
+<link>http://playbr.from-al.com:80/eespn/index.m3u8?token=f7e5a1676ff710b895a771b44adf797b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>118 - ESPN +</title>
+<link>http://playbr.from-al.com:80/eespnplus/index.m3u8?token=6645dd776bd290f877f3443219f15fd8-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>119 - ESPN Brasil HD</title>
+<link>http://playbr.from-al.com:58823/eespnbrhd/index.m3u8?token=4c7f288d258f5abd02bf88cd7f659cd7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>120 - ESPN Brasil</title>
+<link>http://playbr.from-al.com:80/eespnbr/index.m3u8?token=46a63a5f65944e63c2ff269bffb78338-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>121 - Sportv HD</title>
+<link>http://playbr.from-al.com:57845/esportvhd/index.m3u8?token=17b56587f6adc8bdfd1b22715f14c49f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>122 - SporTV</title>
+<link>http://playbr.from-al.com:80/esportv/index.m3u8?token=b5e2ac79cefb76990fa5a9c0116edd48-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>123 - Sportv 2 HD</title>
+<link>http://playbr.from-al.com:57845/esportv2hd/index.m3u8?token=45c4a8b27534eddc0ca30c04fa4c515e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>124 - SporTV2</title>
+<link>http://playbr.from-al.com:80/esportv2/index.m3u8?token=590f8d2a23caf52ceb27f25a6a8363e9-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>125 - Sportv3 HD</title>
+<link>http://playbr.from-al.com:57845/esportv3hd/index.m3u8?token=a43510f6340650f69a7ff50a7bc05f31-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>126 - SporTV3</title>
+<link>http://playbr.from-al.com:80/esportv3/index.m3u8?token=d636ae53a3b9c11b2c58754915101e17-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>127 - Bandsports</title>
+<link>http://playbr.from-al.com:80/ebandsports/index.m3u8?token=8a24070dff03b1f1e0860c3acd46e3ef-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>128 - Canal Off</title>
+<link>http://playbr.from-al.com:80/ecanaloff/index.m3u8?token=eb0e5743f3bb384564968c84067500e7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>129 - Fox Sport HD</title>
+<link>http://playbr.from-al.com:58823/efoxsporthd/index.m3u8?token=37937b0cb2591698b43347a9e2293048-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>130 - FOX Sports</title>
+<link>http://playbr.from-al.com:80/efoxsports/index.m3u8?token=b801f9e528461eccd563436829a2069e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>131 - Fox Sports 2</title>
+<link>http://playbr.from-al.com:80/efoxsport2/index.m3u8?token=61c963081cfe90681b3dda1c6d01b35a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>132 - Ei Maxx HD</title>
+<link>http://playbr.from-al.com:57845/eeimaxxhd/index.m3u8?token=7b20252e8678e31a18c826dadcbc3278-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>133 - Ei Maxx</title>
+<link>http://playbr.from-al.com:80/emaxx/index.m3u8?token=ec3fea5c93a01eb08a830cb8cb778e2f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>134 - EI Maxx 2 HD</title>
+<link>http://playbr.from-al.com:58823/eeimaxx2hd/index.m3u8?token=2e91206d5a8fa7d05f4976c9a03e0e1c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>135 - Ei Maxx 2</title>
+<link>http://playbr.from-al.com:80/emaxx2/index.m3u8?token=8ff26f625d180481e0513345fc18cc1f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>136 - WooHoo</title>
+<link>http://playbr.from-al.com:80/ewoohoo/index.m3u8?token=c3ea28906d737682ab5ac899ebe4c213-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>137 - Esporte Interativo</title>
+<link>http://playbr.from-al.com:57845/eesporteinterativo/index.m3u8?token=f88599733962a65e69986146f38b342a-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>138 - NHK World</title>
+<link>http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>139 - Rai YoYo</title>
+<link>http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1800000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>140 - Rai Movie</title>
+<link>http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>141 - Globo News</title>
+<link>http://playbr.from-al.com:80/nglobonews/index.m3u8?token=99027194aaa0a09b9f10e89553ba64c2-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>142 - Record News</title>
+<link>http://playbr.from-al.com:80/nrecordnews/index.m3u8?token=a138611947a48e2caf2bde0225bd3703-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>143 - Bandnews</title>
+<link>http://playbr.from-al.com:80/nbandnews/index.m3u8?token=00060c6153db6b816fbef530af1cc138-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>144 - ABC News</title>
+<link>http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>145 - Bloomberg</title>
+<link>http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>146 - France 24</title>
+<link>http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>147 - SIC Notas</title>
+<link>http://213.13.26.11:80/live/sicnoticias/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>148 - Euronews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8?token=89dfdbdfc1d8d406ce503be46d66b906-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>149 - Sic Internacional</title>
+<link>http://playbr.from-al.com:8080/isicinternacional/index.m3u8?token=eee06ddb796ddc4c725b2dd16286609e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>150 - Rede Vida</title>
+<link>http://playbr.from-al.com:8080/rredevida/index.m3u8?token=5325bd7f6f25c3c4c0b5591a6d9da653-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>151 - Can褯 Nova</title>
+<link>http://playbr.from-al.com:8080/rcancaonova/index.m3u8?token=a1af11d14c8fd9ac1c3cc0b047dce581-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>152 - TV Aparecida</title>
+<link>http://ale.from-al.com:8080/rtvaparecida/index.m3u8?token=c5692f0902333a10b92d27f47b16e917-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>153 - Novo Tempo</title>
+<link>http://playbr.from-al.com:80/rnovotempo/index.m3u8?token=cee2ede078b1e65401c0bf014b61ed15-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>154 - RBI</title>
+<link>http://playbr.from-al.com:8080/rrbi/index.m3u8?token=5ae3cd9c3d5650fb75d299ca5835d116-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>155 - Premiere Clubs HD</title>
+<link>http://playbr.from-al.com:57845/ppremiereclubshd/index.m3u8?token=d2c03e4c8de4304d2b57e2c66e863444-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>156 - Premiere Clubes</title>
+<link>http://playbr.from-al.com:80/ppremiereclubs/index.m3u8?token=7d85b0933c4e22f1172f240f9b8843e0-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>157 - Premiere 2 HD</title>
+<link>http://playbr.from-al.com:58823/ppremiere2hd/index.m3u8?token=28048572cca750f673b66fc837cfe4a2-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>158 - Premiere 2</title>
+<link>http://playbr.from-al.com:80/ppremiere2/index.m3u8?token=f4212fd847c2f3d47f401b1fdeb70f54-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>159 - Premiere 3 HD</title>
+<link>http://playbr.from-al.com:58823/ppremiere3hd/index.m3u8?token=48a4ad8e5dce05d69d6fb6c840291c1c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>160 - Premiere 3</title>
+<link>http://playbr.from-al.com:80/ppremiere3/index.m3u8?token=66907a1e196c9d40da96aec402a0fe05-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>161 - Premiere 4 HD</title>
+<link>http://playbr.from-al.com:58823/ppremiere4hd/index.m3u8?token=562eac0cde38a3dfba8e21272af2b6c7-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>162 - Premiere 4</title>
+<link>http://playbr.from-al.com:80/ppremiere4/index.m3u8?token=d4a82c284da0b1dd4709d3bc0e96d25b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>163 - Premiere 5 HD</title>
+<link>http://playbr.from-al.com:58823/ppremiere5hd/index.m3u8?token=cf268f3fca29f821cbb3d9a25c9270a6-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>164 - Premiere 5</title>
+<link>http://playbr.from-al.com:80/ppremiere5/index.m3u8?token=e85a03d0b9e6ee557f37235224159135-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>165 - Premiere 6</title>
+<link>http://playbr.from-al.com:80/ppremiere6/index.m3u8?token=6c3f6ba4ceee67f34a1252a8b7a8b667-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>166 - Premiere 7</title>
+<link>http://playbr.from-al.com:80/ppremiere7/index.m3u8?token=2fc7b1b8850072ba3d33ff48a3471810-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>167 - Premiere 8</title>
+<link>http://playbr.from-al.com:8080/ppremiere8/index.m3u8?token=00c85b720d61013655ec1a6e278c8753-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>168 - Premiere 9</title>
+<link>http://playbr.from-al.com:80/ppremiere9/index.m3u8?token=75be50215074cb4bc160fc57118a6d10-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>169 - Combate HD</title>
+<link>http://playbr.from-al.com:57845/pcombatehd/index.m3u8?token=de51f91a630ffa490d20dc8c85f159cb-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>170 - Combate</title>
+<link>http://playbr.from-al.com:80/pcombate/index.m3u8?token=bcafb6a9e4d5af61bb56c92061098f9d-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>171 - Gloob</title>
+<link>http://playbr.from-al.com:80/igloob/index.m3u8?token=4ba2d404ec7e71e2314fe5b4b81ee2b4-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>172 - Cartoon Network</title>
+<link>http://playbr.from-al.com:80/icartoonnetwork/index.m3u8?token=0d74f3a32e882928c52b05a850573cd2-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>173 - Disney</title>
+<link>http://playbr.from-al.com:80/idisney/index.m3u8?token=d944ddcfafafb9b5e9a7aec7609a2c80-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>174 - Disney Junior</title>
+<link>http://playbr.from-al.com:80/idisneyjr/index.m3u8?token=06e939a81bd69ed3ad16a6fc8b90df3c-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>175 - Disney XD</title>
+<link>http://playbr.from-al.com:80/idisneyxd/index.m3u8?token=eafcfa3a727cc5c1709ba9f30bafdb4f-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>176 - Nick</title>
+<link>http://playbr.from-al.com:80/inick/index.m3u8?token=04f3dc6fa665287dc4a565b8343dc1ae-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>177 - Nick Jr.</title>
+<link>http://playbr.from-al.com:80/inickjr/index.m3u8?token=034f6f4f0a28ba85949f5728d46f3392-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>178 - Nickelodeon</title>
+<link>http://playbr.from-al.com:80/inickelodeon/index.m3u8?token=7b61b1e755e85f4da9655f9c6d15b5ed-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>179 - Discovery Kids</title>
+<link>http://playbr.from-al.com:80/idiscoverykids/index.m3u8?token=3c3b568161a12a9e70b707384314c5ed-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>180 - Boomerang</title>
+<link>http://playbr.from-al.com:80/iboomerang/index.m3u8?token=2fc2b738ef8551a8a5397d4b135fdc49-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>181 - Tooncast</title>
+<link>http://playbr.from-al.com:80/itooncast/index.m3u8?token=db4c0bb9054279a9d77056e0cd4a20b6-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>182 - Playboy TV</title>
+<link>http://playbr.from-al.com:80/pplayboy/index.m3u8?token=b3bb18c0de0630df97de949de58f1a8b-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>183 - Sexy Hot</title>
+<link>http://playbr.from-al.com:80/psexyhot/index.m3u8?token=5779e0614860e9a2d5661c245f502184-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>184 - Sextreme</title>
+<link>http://playbr.from-al.com:80/psextreme/index.m3u8?token=341e5acda9a208981060c138b74ab76e-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>185 - BBB 2017</title>
+<link>http://playbr.from-al.com:8080/vbbb2017/index.m3u8?token=0eb6579367275a8142cde286dfa7f2ad-1485698821-165765-60106-</link>
+<thumbnail></thumbnail>
+</item>
