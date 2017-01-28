@@ -1,13 +1,13 @@
+ï»¿<item>
 <item>
-<item>
-<title>TVA Nouvelles Abitibi-Témiscamingue en direct</title>
+<title>TVA Nouvelles Abitibi-TÃ©miscamingue en direct</title>
 <link>rtmp://67.212.85.90/media/cfem.tva</link>
 <thumbnail>http://i.imgur.com/tedwcjv.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>ICI Radio-Canada - Québec - CBVT-DT</title>
+<title>ICI Radio-Canada - QuÃ©bec - CBVT-DT</title>
 <link>http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/DSM5OlY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>ICI Radio-Canada - Montréal</title>
+<title>ICI Radio-Canada - MontrÃ©al</title>
 <link>http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8</link>
 <thumbnail>http://i.imgur.com/DSM5OlY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -75,4 +75,9 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>The Weather Network (Live Feed)</title>
+<link>https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master_Layer4.m3u8</link>
+<thumbnail>https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
