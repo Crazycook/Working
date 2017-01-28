@@ -78,6 +78,6 @@
 <item>
 <title>The Weather Network (Live Feed)</title>
 <link>https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master_Layer4.m3u8</link>
-<thumbnail>https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAk9AAAAJDBlMGRiNmVmLTY0ZmMtNDYyNC1iYWZjLTZjNjUxNzEwZGQwNA.png</thumbnail>
+<thumbnail>http://i.imgur.com/AhUCu4Y.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
