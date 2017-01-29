@@ -2,8 +2,6 @@
 
 <channels>
 
-
-
 <channel>
 <name>Billboard Top 100 1956-1999</name>
 <thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
@@ -26,7 +24,7 @@
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/home.txt</externallink>
 <fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
 <info>Slayer is an American thrash metal band from Huntington Park, California, formed in 1981 by guitarist Kerry King and drummer Dave Lombardo. Slayer rose to fame with its 1986 release Reign in Blood, and is credited as one of the "big four" thrash metal bands, along with Metallica, Megadeth, and Anthrax.[1] Since its debut album in 1983, the band has released twelve studio albums, two live albums, a box set, six music videos, two extended plays and a cover album
-Slayer's musical style involves fast tremolo picking, double bass drumming, riffs in irregular scales and shouted vocals. In the original line-up, King, Hanneman, and lead vocalist/bassist Tom Araya contributed to the band's lyrics, and all of the band's music was written by King, Hanneman and Lombardo. The band's lyrics and album art, which cover topics such as murder, serial killers, necrophilia, torture, genocide, human experimentation, Satanism, hate crimes, terrorism, religion, antireligion, Nazism, and warfare, have generated album bans, delays, lawsuits, and criticism from religious groups and the public. </info>
+Slayer's musical style involves fast tremolo picking, double bass drumming, riffs in irregular scales and shouted vocals. The band's lyrics and album art, which cover topics such as murder, serial killers, necrophilia, torture, genocide, human experimentation, Satanism, hate crimes, terrorism, religion, antireligion, Nazism, and warfare, have generated album bans, delays, lawsuits, and criticism from religious groups and the public. </info>
 </channel>
 
 </channels>
