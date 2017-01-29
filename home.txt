@@ -19,10 +19,10 @@
 
 <channel>
 <name>58</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>DiRTYBURGER Streams</info>
+<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Billboard-Top-100-1959---1999/58.txt</externallink>
+<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
+<info>Billboard Top 100 for 1958</info>
 </channel>
 
 <channel>
