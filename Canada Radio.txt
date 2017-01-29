@@ -1,4 +1,230 @@
 <item>
+<title>CBC Radio One Edmonton Alberta</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_EDM@372985/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Calgary Alberta</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_CGY@372026/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Kamloops British Columbia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_KAM@384142/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Victoria British Columbia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_VIC@387331/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Prince George British columbia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_PRG@347029/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Kelona British columbia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_KEL@386538/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Vancouver British Columbia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_VCR@314572/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Winnepeg manitoba</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_WPG@384111/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Saint John New brunswick</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_SNB@371252/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Moncton New brunswick</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_MCT@360345/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Fredricton New brunswick</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_FRD@134846/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Saint John's Newfoundland and labrador</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_SNF@28674/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Grand Falls Newfoundland and labrador</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_GFA@360512/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Goose Bay Newfoundland and labrador</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_GBA@48512/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Cornerbrook Newfoundland and labrador</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_COR@353666/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Yellowknife Yukon Territories</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_YKN@330427/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Inuvil Nunavut</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_INK@313092/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Sydney Nova Scotia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_SYD@51412/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Halifax Nova Scotia</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_HFX@353708/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Iqaluit Nunavut</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_IQA@110100/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Kitchener-waterloo Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_EKW@371992/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Thunderbay Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_TBA@366707/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Windsor Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_WDR@324611/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Sudbary Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_SUD@384513/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Ottawa Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One London Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_LDN@48520/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Toronto Ontario</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_TOR@118420/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Charlottetown PEI</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_CHR@360550/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Quebec City Quebec</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_QQU@366526/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One North Quebec Quebec (French)</title>
+<link>http://liveradio.cbc.ca/i/CBCR1N_MTL@366613/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Montreal Quebec</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_MTL@360544/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Saskatoon Saskatchewan</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_SSK@387344/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Regina Saskatchewan</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_REG@118346/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio One Whitehorse Yukon</title>
+<link>http://liveradio.cbc.ca/i/CBCR1_CHR@360550/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Mountain</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_EDM@48972/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Pacific</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_VCR@353638/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Int Pacific</title>
+<link>http://liveradiointernational.cbc.ca/i/CBCR2_IPT@353578/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Central</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_WPG@385274/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Atlantic</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_HFX@382379/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Eastern</title>
+<link>http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC Radio 2 Int Eastern</title>
+<link>http://liveradiointernational.cbc.ca/i/CBCR2_IET@344197/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MBC Radio CJLR LA RONGE / AIR RONGE 89.9</title>
+<link>http://cjlr.streamon.fm/streamlib/init-32k.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MBC Radio CIPI BEAUVAL/LAC LA PLONGE 96.5</title>
+<link>http://cipi.streamon.fm/streamlib/init-24k.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MBC Radio CJAZ PELICAN NARROWS 89.9 https://static-media.streema.com/media/cache/5f/40/5f407cbbe99598251923d57399f18858.jpg</title>
+<link>http://cjlr.streamon.fm:8000/CJLR-32k.aac?type=.flv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MBC Radio CFCK CANOE LAKE 103.9</title>
+<link>http://cfck.streamon.fm/hls/CFCK.mp4.m3u8?version=3&amp;_r=nvr06l6h3p</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>CKRM 620 AM Regina</title>
 <link>http://ckrm.streamon.fm:8000/CKRM-48k.aac</link>
 <thumbnail>http://i.imgur.com/PEkX0q5.png</thumbnail>
@@ -155,28 +381,28 @@
 </item>
 
 <item>
-<title>103.9 MHz – CISN-FM CISN COUNTY Edmonton AB</title>
+<title>103.9 MHz â€“ CISN-FM CISN COUNTY Edmonton AB</title>
 <link>http://live.leanstream.co/CISNFM-MP3</link>
 <thumbnail>https://i.imgur.com/ngweikF.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>105.1 MHz – CKRY-FM Edmonton AB</title>
+<title>105.1 MHz â€“ CKRY-FM Edmonton AB</title>
 <link>http://live.leanstream.co/CKRYFM-MP3</link>
 <thumbnail>https://i.imgur.com/UPJjb40.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>1490 MHz – CJOY-AM Guelph On</title>
+<title>1490 MHz â€“ CJOY-AM Guelph On</title>
 <link>http://live.leanstream.co/CJOYAM-MP3</link>
 <thumbnail>https://i.imgur.com/sjduvba.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>630 kHz – CHED-AM Edmonton</title>
+<title>630 kHz â€“ CHED-AM Edmonton</title>
 <link>http://live.leanstream.co/CHEDAM-MP3?</link>
 <thumbnail>https://i.imgur.com/cVeZogm.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -190,7 +416,7 @@
 </item>
 
 <item>
-<title>91.7 MHz – CHBH-FM The Bounce, Edmonton, AB</title>
+<title>91.7 MHz â€“ CHBH-FM The Bounce, Edmonton, AB</title>
 <link>http://edm917.akacast.akamaistream.net/7/518/118520/v1/rogers.akacast.akamaistream.net/edm917</link>
 <thumbnail>https://i.imgur.com/BefnQNJ.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -239,7 +465,7 @@
 </item>
 
 <item>
-<title>CFPL-FM FM 96 London’s Best Rock London ON</title>
+<title>CFPL-FM FM 96 Londonâ€™s Best Rock London ON</title>
 <link>http://live.leanstream.co/CFPLFM-MP3</link>
 <thumbnail>https://i.imgur.com/aZu8nEc.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -288,7 +514,7 @@
 </item>
 
 <item>
-<title>CJUM-FM – University of Manitoba, Winnipeg, Canada</title>
+<title>CJUM-FM â€“ University of Manitoba, Winnipeg, Canada</title>
 <link>http://130.179.97.69:8080</link>
 <thumbnail>https://i.imgur.com/WAMW295.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -344,7 +570,7 @@
 </item>
 
 <item>
-<title>CKXG-FM – 102.3 K-Rock – Grand Falls-Windsor, NL, Canada</title>
+<title>CKXG-FM â€“ 102.3 K-Rock â€“ Grand Falls-Windsor, NL, Canada</title>
 <link>http://3303.live.streamtheworld.com/CKXGFMAAC?</link>
 <thumbnail>https://i.imgur.com/k3vwLcx.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -365,7 +591,7 @@
 </item>
 
 <item>
-<title>FM The X – CFBX. Kamloops, B.C. Canada</title>
+<title>FM The X â€“ CFBX. Kamloops, B.C. Canada</title>
 <link>http://198.162.21.84:8002</link>
 <thumbnail>https://i.imgur.com/ZBDUmtZ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -379,7 +605,7 @@
 </item>
 
 <item>
-<title>Khalsa FM – Edmonton, Canada</title>
+<title>Khalsa FM â€“ Edmonton, Canada</title>
 <link>http://198.178.123.8:7798</link>
 <thumbnail>https://i.imgur.com/TZKDHtP.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -435,7 +661,7 @@
 </item>
 
 <item>
-<title>Energie Est du Québec (Rimouski) (CIKI-FM)</title>
+<title>Energie Est du QuÃ©bec (Rimouski) (CIKI-FM)</title>
 <link>Http://14153.live.streamtheworld.com:443/CIKIFMAAC_SC</link>
 <thumbnail>https://i.imgur.com/ByDIHyY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -449,7 +675,7 @@
 </item>
 
 <item>
-<title>UCB Canada – Chatham-Kent</title>
+<title>UCB Canada â€“ Chatham-Kent</title>
 <link>http://67.228.150.175:8930</link>
 <thumbnail>https://i.imgur.com/MhQqXse.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
