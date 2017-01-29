@@ -1,5 +1,10 @@
-﻿<item>
- <item>
+<item>
+<item>
+<title>ARENA SPORT 4</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://i.imgur.com/EdjMuVH.png</thumbnail>
+</item>
+<item>
 <title>TSN 1</title>
 <link>plugin://program.plexus/?mode=1&url=//4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3IZYL94xtJ4OUuGIHGxBFq0Yu6gHwIqoeK1HHM26BbnCejA0VFA</thumbnail>
