@@ -1,7 +1,7 @@
 ﻿<item>
  <item>
 <title>TSN 1</title>
-<link>plugin://plugin.video.plexus/?;url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
+<link>plugin://program.plexus/?mode=1&url=//4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3IZYL94xtJ4OUuGIHGxBFq0Yu6gHwIqoeK1HHM26BbnCejA0VFA</thumbnail>
 </item>
 <item>
