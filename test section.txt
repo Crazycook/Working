@@ -1,5 +1,10 @@
 <item>
 <item>
+<title>ARENA SPORT 4 try 2</title>
+<link>acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d</link>
+<thumbnail>http://i.imgur.com/EdjMuVH.png</thumbnail>
+</item>
+<item>
 <title>ARENA SPORT 4 try 1</title>
 <link>plugin://program.plexus/&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d</link>
 <thumbnail>http://i.imgur.com/EdjMuVH.png</thumbnail>
