@@ -1,7 +1,17 @@
 ﻿<item>
-<title>Harmanli</title>
-<link>rtsp://93.183.167.17:554/live/ch00_0</link>
-<thumbnail></thumbnail>
+<title>Irish Kevins bar Key West Florida</title>
+<link>http://52.2.51.240:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8</link>
+<thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
+</item>
+<item>
+<title>Irish Kevins Street Key West Florida</title>
+<link>http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8</link>
+<thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
+</item>
+<item>
+<title>Irish Kevins Key West Florida</title>
+<link>http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8</link>
+<thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
 </item>
 <item>
 <title>Plovdiv</title>
