@@ -1,9 +1,4 @@
-﻿<item>
 <item>
-<title>OSN WWE - Royale Rumble 2017</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1959.ts</link>
-<thumbnail>http://i.imgur.com/sUFvhhc.jpg</thumbnail>
-</fanart><fanart>https://i.ytimg.com/vi/AlfAwJyPC9M/maxresdefault.jpg
-</item>
+
 
 
