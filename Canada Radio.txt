@@ -223,7 +223,6 @@
 <link>http://cfck.streamon.fm/hls/CFCK.mp4.m3u8?version=3&amp;_r=nvr06l6h3p</link>
 <thumbnail></thumbnail>
 </item>
-
 <item>
 <title>CKRM 620 AM Regina</title>
 <link>http://ckrm.streamon.fm:8000/CKRM-48k.aac</link>
