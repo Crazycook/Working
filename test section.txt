@@ -1,7 +1,12 @@
 <item>
 <item>
+<title>wwe osn</title>
+<link>plugin://plugin.video.f4mTester/?&streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/paolo01/paolo01/2373.ts</link>
+<thumbnail>http://i.imgur.com/EdjMuVH.png</thumbnail>
+</item>
+<item>
 <title>ARENA SPORT 4 try 2</title>
-<link>acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d</link>
+<link>plugin://plugin.video.f4mTester/?&streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/paolo01/paolo01/1177.ts</link>
 <thumbnail>http://i.imgur.com/EdjMuVH.png</thumbnail>
 </item>
 <item>
