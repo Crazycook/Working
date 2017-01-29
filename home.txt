@@ -114,4 +114,12 @@
 <info>Test section for f4m and acestream or sort of working links</info>
 </channel>
 
+<channel>
+<name>Special events</name>
+<thumbnail>http://i.imgur.com/1fM9yWp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Special%20Events.txt</externallink>
+<fanart>http://www.stcuthbertwrose.church/wp-content/uploads/2016/09/special-events.jpg</fanart>
+<info>well we'll sees</info>
+</channel>
+
 </channels>
