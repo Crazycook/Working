@@ -44,6 +44,17 @@ Stars: Emilia Clarke, Peter Dinklage, Kit Harington </info>
 </channel>
 
 <channel>
+<name>Halt and Catch Fire</name>
+<thumbnail>http://i.imgur.com/muYDFJ5.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Halt%20and%20Catch%20Fire.txt</externallink>
+<fanart>http://i.imgur.com/rQHzmhC.jpg</fanart>
+<info>Halt and Catch Fire TV Series (2014– )
+Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
+Creators: Christopher Cantwell, Christopher C. Rogers
+Stars: Lee Pace, Scoot McNairy, Mackenzie Davis </info>
+</channel
+
+<channel>
 <name>2 Broke Girls</name>
 <thumbnail>http://www.tv4u.top/pics/w185/580f134738403.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/2%20Broke%20Girls.txt</externallink>
@@ -85,6 +96,17 @@ Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
 A Walking Dead spin-off, set in Los Angeles, following two families who must band together to survive the undead apocalypse.
 Creators: Dave Erickson, Robert Kirkman
 Stars: Kim Dickens, Cliff Curtis, Frank Dillane </info>
+</channel>
+
+<channel>
+<name>Sense8</name>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sense8.txt</externallink>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+<info>Sense8 TV Series (2015– )
+A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.
+Creators: J. Michael Straczynski, Lana Wachowski, Lilly Wachowski
+Stars: Terrence Mann, Doona Bae, Jamie Clayton</info>
 </channel>
 
 <channel>
