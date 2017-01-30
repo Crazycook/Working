@@ -1,0 +1,71 @@
+﻿<item>
+<title>Sense8 S01E01 720p</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E01%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E02 720p</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E02%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E03 720p</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E03%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E04 720p</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E04%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E05 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E05%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E06 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E06%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E07 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E07%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E08 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E08%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E09 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E09%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E010 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E10%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<title>Sense8 S01E11 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E11%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8 S01E012 720</title>
+<link>http://dl6.nightsdl.com/TV.Show/S/Sense8/S01/720p/Sense8%20S01E12%20720p-[Nightsdl.Com].mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
