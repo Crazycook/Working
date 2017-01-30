@@ -58,10 +58,10 @@
 </channel>
 
 <channel>
-<name>Ballers</name>
-<thumbnail>http://kinomirkz.net/_ld/243/58697582.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ballers.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Vikings</name>
+<thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Vikings.txt</externallink>
+<fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
