@@ -110,6 +110,17 @@ Stars: Terrence Mann, Doona Bae, Jamie Clayton</info>
 </channel>
 
 <channel>
+<name>The Leftovers</name>
+<thumbnail>http://i.imgur.com/XR4OnPy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Leftovers.txt</externallink>
+<fanart>http://i.imgur.com/rLzKcdD.jpg</fanart>
+<info>The Leftovers  TV Series (2014– )
+Three years after the disappearance of 2% of the global population, a group of people from New York struggle to continue their lives, while they cope with the tragedy of the unexplained nature of the event.
+Creators: Damon Lindelof, Tom Perrotta
+Stars: Justin Theroux, Amy Brenneman, Christopher Eccleston,Liv Taylor</info>
+</channel>
+
+<channel>
 <name>Vikings</name>
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Vikings.txt</externallink>
