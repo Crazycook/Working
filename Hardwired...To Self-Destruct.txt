@@ -1,0 +1,156 @@
+﻿<item>
+<title>01. Hardwired</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD1/01.%20Hardwired.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>02. Atlas, Rise!.mp3</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD1/02.%20Atlas,%20Rise!.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>03. Now That We're Dead</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD1/03.%20Now%20That%20We're%20Dead.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>04. Moth Into Flame</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD1/04.%20Moth%20Into%20Flame.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>05. Dream No More</title>
+<link>http://blogs.hatrix.fr/musiques/Metallica/And%20justice%20for%20all/Metallica%20Justice%2005.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>06. Halo On Fire</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD1/06.%20Halo%20On%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>01. Confusion</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/01.%20Confusion.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>02. ManUNkind</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/02.%20ManUNkind.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>03. Here Comes Revenge</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/03.%20Here%20Comes%20Revenge.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>04. Am I Savage</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/04.%20Am%20I%20Savage.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>05. Murder One</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/05.%20Murder%20One.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>06. Spit Out The Bone</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD2/06.%20Spit%20Out%20The%20Bone.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>01. Lords Of Summer</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/01.%20Lords%20Of%20Summer.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>02. Ronnie Rising Medley (A Light In The Black, Tarot Woman, Stargazer, Kill The King)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/02.%20Ronnie%20Rising%20Medley%20(A%20Light%20In%20The%20Black,%20Tarot%20Woman,%20Stargazer,%20Kill%20The%20King).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>03. When A Blind Man Cries</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/03.%20When%20A%20Blind%20Man%20Cries.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>04. Remember Tomorrow</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/04.%20Remember%20Tomorrow.mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>05. Helpless (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/05.%20Helpless%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>06. Hit The Lights (Live At Rasputin Music)http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/06.%20Hit%20The%20Lights%20(Live%20At%20Rasputin%20Music).mp3</title>
+<link></link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>07. The Four Horsemen (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/07.%20The%20Four%20Horsemen%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>08. Ride The Lightning (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/08.%20Ride%20The%20Lightning%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>09. Fade To Black (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/09.%20Fade%20To%20Black%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>10. Jump In The Fire (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/10.%20Jump%20In%20The%20Fire%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>11. For Whom The Bell Tolls (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/11.%20For%20Whom%20The%20Bell%20Tolls%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>12. Creeping Death (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/12.%20Creeping%20Death%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>13. Metal Militia (Live At Rasputin Music)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/13.%20Metal%20Militia%20(Live%20At%20Rasputin%20Music).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
+<item>
+<title>14. Hardwired (Live In Minneapolis)</title>
+<link>http://penguinnet.asuscomm.com/Downloads/Torrent/Misc/Metallica%20-%20Hardwired%e2%80%a6To%20Self-Destruct%20(Limited%20Deluxe%20Edition)%20-%202016%20(320%20kbps)/CD3/14.%20Hardwired%20(Live%20In%20Minneapolis).mp3</link>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</item>
