@@ -19,4 +19,13 @@
 <info>Section currently under construction</info>
 </channel>
 
+<channel>
+<name>Vod Movies English</name>
+<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/vod.movies.English.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>Section currently under construction</info>
+</channel>
+https://raw.githubusercontent.com/Crazycook/Working/Movies/Mihanpik.txt
+
 </channels>
