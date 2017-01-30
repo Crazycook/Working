@@ -1,305 +1,358 @@
-<item>
+﻿<item>
 <title>Game of Thrones Season 1 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e8.mp4</link>
-<thumbnail></thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 10</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones1e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 10</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones2e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones3e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones gameofthroneicefire</title>
 <link>http://www.deadlyblogger.com/NewRelease/gameofthroneicefire.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 10</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones4e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 10</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones5e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 1</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e1.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 2</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e2.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 3</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e3.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpghttps://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 4</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e4.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 5</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e5.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 6</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e6.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 7</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e7.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 8</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e8.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 9</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 10</title>
 <link>http://www.deadlyblogger.com/NewRelease/thrones6e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>

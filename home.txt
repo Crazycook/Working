@@ -1,60 +1,79 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
-Sons.of.Anarchy.S02E13
 <channel>
 <name>Sons of Anarchy</name>
 <thumbnail>https://new.static.tv.nu/16685983?width=320&height=480</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sons%20of%20Anarchy.txt</externallink>
 <fanart>http://www.gstatic.com/tv/thumb/tvbanners/10941485/p10941485_b_v8_aa.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.
+Creator: Kurt Sutter
+Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 <channel>
 <name>Firefly</name>
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Firefly.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Firefly (2002–2003)
+Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
+Creator: Joss Whedon
+Stars: Nathan Fillion, Gina Torres, Alan Tudyk
+</info>
 </channel>
-
 <channel>
 <name>Daredevil</name>
-<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Daredevil-televison.jpg/250px-Daredevil-televison.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Daredevil.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Daredevil TV Series (2015– )
+Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind lawyer by day, and vigilante by night.
+Creator: Drew Goddard
+Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
 </channel>
 
 <channel>
 <name>Game of Thrones</name>
-<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Game%20of%20Thrones.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+<info>Game of Thrones TV Series (2011– )
+Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.
+Creators: David Benioff, D.B. Weiss
+Stars: Emilia Clarke, Peter Dinklage, Kit Harington </info>
 </channel>
 
 <channel>
 <name>2 Broke Girls</name>
-<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<thumbnail>http://www.tv4u.top/pics/w185/580f134738403.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/2%20Broke%20Girls.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>https://bloginor38.files.wordpress.com/2013/07/80bbf-2brokegirls-bestofoleg720p_h-264-aac-mp4_000638671.jpg</fanart>
+<info>2 Broke Girls TV Series (2011– )
+Two young women waitressing at a greasy spoon diner strike up an unlikely friendship in the hopes of launching a successful business - if only they can raise the cash.
+Creators: Whitney Cummings, Michael Patrick King
+Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
 </channel>
 
 <channel>
 <name>Orange is the New Black</name>
-<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Orange%20is%20the%20New%20Black.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+<info>Orange Is the New Black TV Series (2013– )
+The story of Piper Chapman, a woman in her thirties who is sentenced to fifteen months in prison after being convicted of a decade-old crime of transporting money to her drug-dealing girlfriend.
+Creator: Jenji Kohan
+Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 </channel>
 
 <channel>
 <name>The Walking Dead</name>
-<thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
+<info>The Walking Dead TV Series (2010– )
+Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is overrun by the undead, and must lead a group of survivors to stay alive.
+Creator: Frank Darabont
+Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
 </channel>
 
 <channel>
@@ -62,7 +81,10 @@ Sons.of.Anarchy.S02E13
 <thumbnail>https://yvrshoots.com/wp-content/uploads/2015/03/Screenshot-632.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
 <fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Fear the Walking Dead TV Series (2015– )
+A Walking Dead spin-off, set in Los Angeles, following two families who must band together to survive the undead apocalypse.
+Creators: Dave Erickson, Robert Kirkman
+Stars: Kim Dickens, Cliff Curtis, Frank Dillane </info>
 </channel>
 
 <channel>
@@ -70,23 +92,32 @@ Sons.of.Anarchy.S02E13
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Vikings.txt</externallink>
 <fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Vikings TV Series (2013– )
+The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
+Creator: Michael Hirst
+Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
 </channel>
 
 <channel>
 <name>Aftermath</name>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Aftermath.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
+<info>Aftermath Sci-Fi TV Series (2016– )
+The Copeland family battle for survival when civilization comes to an apocalyptic end, triggered by massive storms, meteor strikes, earthquakes, a plague - and the rise of supernatural creatures.
+Creators: Glenn Davis, William Laurin
+Stars: James Tupper, Anne Heche, Levi Meaden</info>
 </channel>
 
 <channel>
 <name>The 100</name>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20100.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
+<info>The 100  Drama, Mystery, Sci-Fi TV Series (2014– )
+Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet.
+Creator: Jason Rothenberg
+Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
 </channel>
 
 <channel>
@@ -94,7 +125,10 @@ Sons.of.Anarchy.S02E13
 <thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Incorporated.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Incorporated  Sci-Fi, Thriller | TV Series (2016– )
+A man attempts to thwart a giant corporation that seems to have unlimited power.
+Creators: David Pastor, Àlex Pastor
+Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
 </channel>
 
 </channels>

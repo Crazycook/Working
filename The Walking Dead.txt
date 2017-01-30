@@ -1,158 +1,179 @@
-<item>
+﻿<item>
 <title>The Walking Dead Season 1 Episode 1</title>
 <link>http://bit.ly/20cidqj</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 1 Episode 2</title>
 <link>http://bit.ly/1QfwNrM</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 1 Episode 3</title>
 <link>http://bit.ly/1K13qwP</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 1 Episode 4</title>
 <link>http://bit.ly/1K13yfH</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 1 Episode 5</title>
 <link>http://bit.ly/1P9p9S0</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 1 Episode 6</title>
 <link>http://bit.ly/1S3ny41</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 2 Episode 1</title>
 <link>http://bit.ly/1nWefpF</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 2</title>
 <link>http://bit.ly/1Q7ELJv</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 3</title>
 <link>http://bit.ly/20TUayF</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 4</title>
 <link>http://bit.ly/1PMwCrX</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 5</title>
 <link>http://bit.ly/20mVaZX</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 2 Episode 6</title>
 <link>http://bit.ly/1mqHP5A</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 2 Episode 7</title>
 <link>http://bit.ly/1mqHP5A</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 8</title>
 <link>http://bit.ly/1Lf5lZy</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 9</title>
 <link>http://bit.ly/1KashhI</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 2 Episode 10</title>
 <link>http://bit.ly/1o0W0A3</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 11</title>
 <link>http://bit.ly/1Lf5z31</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 2 Episode 12</title>
 <link>http://bit.ly/1Wc1dzp</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 <item>
 <title>The Walking Dead Season 2 Episode 13</title>
 <link>http://bit.ly/1PMwSqT</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 1</title>
 <link>http://bit.ly/1XgQ5CC</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 2</title>
 <link>http://bit.ly/1TbcH8m</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 3</title>
 <link>http://bit.ly/1KasUI8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 4</title>
 <link>http://bit.ly/1nWfpBn</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 5</title>
 <link>http://bit.ly/1T4UO9O</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 6</title>
 <link>http://bit.ly/1Sevsrm</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 3 Episode 7</title>
 <link>http://bit.ly/1PAyKzj</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 3 Episode 8</title>
 <link>http://bit.ly/1Kat8iB</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 9</title>
 <link>http://bit.ly/1T4VcVN</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 10</title>
 <link>http://bit.ly/1T4Vig9</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 11</title>
 <link>http://bit.ly/1SGAoWx</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 12</title>
 <link>http://bit.ly/1o0XjPh</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 <item>
 <title>The Walking Dead Season 3 Episode 13</title>
 <link>http://bit.ly/1SGAu0m</link>
@@ -161,235 +182,272 @@
 <item>
 <title>The Walking Dead Season 3 Episode 14</title>
 <link>http://bit.ly/1XgQDIJ</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 15</title>
 <link>http://bit.ly/1V1Nvid</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
 <item>
 <title>The Walking Dead Season 3 Episode 16</title>
 <link>http://bit.ly/1PMxGvY</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 4 Episode 1</title>
 <link>http://bit.ly/1TbdLcp</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 4 Episode 2</title>
 <link>http://bit.ly/20mXGiW</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 3</title>
 <link>http://bit.ly/1Q7HCSA</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 4 Episode 4</title>
 <link>http://bit.ly/20JjURz</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 5</title>
 <link>http://bit.ly/1PMyhh8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 6</title>
 <link>http://bit.ly/1o0YuhQ</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 7</title>
 <link>http://bit.ly/1Tbe1Io</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 8</title>
 <link>http://bit.ly/23VvmZC</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 9</title>
 <link>http://bit.ly/1T4XWmb</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 10</title>
 <link>http://bit.ly/1PMyssL</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 11</title>
 <link>http://bit.ly/1KDLNmX</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 12</title>
 <link>http://bit.ly/1mqKLz4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 13</title>
 <link>http://bit.ly/1mqKQTf</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 14</title>
 <link>http://bit.ly/1mqKTOW</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 15</title>
 <link>http://bit.ly/1O1SYQD</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 4 Episode 16</title>
 <link>http://bit.ly/1Pjuvu2</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 5 Episode 1</title>
 <link>http://bit.ly/1LfacKl</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 2</title>
 <link>http://bit.ly/1Q7JA5A</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 3</title>
 <link>http://bit.ly/1RngyxG</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 4</title>
 <link>http://bit.ly/1o108A0</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 5</title>
 <link>http://bit.ly/1PACoJJ</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 6</title>
 <link>http://bit.ly/1mqMfcx</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 7</title>
 <link>http://bit.ly/1Wc7VFI</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 8</title>
 <link>http://bit.ly/1RnhdPI</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 5 Episode 9</title>
 <link>http://bit.ly/1TQQHPi</link>
-<thumbnail></thumbnail>
-</item>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart></item>
 <item>
 <title>The Walking Dead Season 5 Episode 10</title>
 <link>http://bit.ly/1PACQaO</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 11</title>
 <link>http://bit.ly/1V1S8cn</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 12</title>
 <link>http://bit.ly/1Lfb55O</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 13</title>
 <link>http://bit.ly/20TYRbR</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 14</title>
 <link>http://bit.ly/1V1SrDK</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 15</title>
 <link>http://bit.ly/20TZ5zM</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 5 Episode 16</title>
 <link>http://bit.ly/1SGDv0x</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 1</title>
 <link>http://bit.ly/1Q61qPX</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 2</title>
 <link>http://bit.ly/1Qq6UWh</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 3</title>
 <link>http://bit.ly/1Wcajwb</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 4</title>
 <link>http://bit.ly/1Wcaqb3</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 5</title>
 <link>http://bit.ly/1PMAIQG</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 6</title>
 <link>http://bit.ly/1SGEzRX</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 7</title>
 <link>http://bit.ly/1QTYPvO</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 8</title>
 <link>http://bit.ly/1nWkWry</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 9</title>
 <link>http://deadlyblogger.com/NewRelease/walks6e9.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 10</title>
 <link>http://deadlyblogger.com/NewRelease/walks6e10.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 11</title>
 <link>http://deadlyblogger.com/NewRelease/walks6e11.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 12</title>
 <link>http://deadlyblogger.com/NewRelease/walks6e12.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
