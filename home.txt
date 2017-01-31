@@ -10,6 +10,18 @@
 Creator: Kurt Sutter
 Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
+
+<channel>
+<name>Ascension</name>
+<thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
+<fanart>http://pics.filmaffinity.com/Ascension_TV_Series-942626277-large.jpg</fanart>
+<info>Ascension TV Mini-Series (2014– )
+A young woman's murder causes the subjects of a century-long mission to populate a new world to question the true nature of the project as they approach the point of no return.
+Creators: Adrian Cruz, Philip Levens
+Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
+</channel>
+
 <channel>
 <name>Firefly</name>
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
@@ -151,6 +163,15 @@ Stars: James Tupper, Anne Heche, Levi Meaden</info>
 Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet.
 Creator: Jason Rothenberg
 Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
+</channel>
+
+<channel>
+<name>Trailer Park Boys</name>
+<thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Trailer%20Park%20Boys.txt</externallink>
+<fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
+<info>Trailer Park Boys
+ Comedy, Crime, Drama | TV Series (2001–2016)</info>
 </channel>
 
 <channel>
