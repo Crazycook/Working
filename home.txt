@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>/Mihanpik</name>
+<name>Mihanpik</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/Mihanpik.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -20,14 +20,20 @@
 </channel>
 
 <channel>
-<name>/Mixed movies</name>
+<name>Mixed movies</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/mixed%20movies.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channel>
+<name>dl melimedia ir</name>
+<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/mixed%20movies.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
 
-https://raw.githubusercontent.com/Crazycook/Working/Movies/mixed%20movies.txt
 
 </channels>
