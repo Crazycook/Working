@@ -117,7 +117,7 @@
 <channel>
 <name>Test Section</name>
 <thumbnail>http://i.imgur.com/floigHC.jpg</thumbnail>
-<externallink>https://github.com/Crazycook/Working/blob/Live-TV/test%20section.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/test%20section.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>Test section for f4m and acestream</info>
 </channel>
