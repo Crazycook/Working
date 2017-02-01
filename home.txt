@@ -30,7 +30,7 @@
 <channel>
 <name>dl melimedia ir</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/mixed%20movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/dl%20melimedia%20ir.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
