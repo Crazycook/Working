@@ -125,8 +125,17 @@
 <thumbnail></thumbnail>
 </item>
 <item>
+<title>---something--</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv74.selfip.com/live/gjemadhsadikoviq/UV1q1ByvFX/206.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>---bein what--</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv74.selfip.com/live/gjemadhsadikoviq/UV1q1ByvFX/206.ts</link>
+<thumbnail></thumbnail>
+</item>
 <title>---BEINSPORTS--</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/germany/germany/3074.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.electroclair.net:8000/live/germany/germany/3074.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>
 <item>
