@@ -3,6 +3,14 @@
 <channels>
 
 <channel>
+<name>f4mtester Channels</name>
+<thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/f4m.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>24-7</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/24-7.txt</externallink>
@@ -109,17 +117,17 @@
 <channel>
 <name>Test Section</name>
 <thumbnail>http://i.imgur.com/1fM9yWp.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/test%20section.txt</externallink>
+<externallink>https://github.com/Crazycook/Working/blob/Live-TV/test%20section.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>Test section for f4m and acestream or sort of working links</info>
+<info>Test section for f4m and acestream</info>
 </channel>
 
 <channel>
-<name>Special events</name>
-<thumbnail>http://i.imgur.com/1fM9yWp.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Special%20Events.txt</externallink>
-<fanart>http://www.stcuthbertwrose.church/wp-content/uploads/2016/09/special-events.jpg</fanart>
-<info>well we'll sees</info>
+<name>Test Section 2</name>
+<thumbnail>http://i.imgur.com/floigHC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/test%20section%202.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>Test section 2</info>
 </channel>
 
 </channels>
