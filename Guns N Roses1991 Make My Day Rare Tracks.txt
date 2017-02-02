@@ -1,0 +1,90 @@
+﻿<item>
+<title>01 - Guns N' Roses - Jumping Jack Flash (Electric)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/01%20-%20Guns%20N'%20Roses%20-%20Jumping%20Jack%20Flash%20(Electric).mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>02 - Guns N' Roses - Reckless Life</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/02%20-%20Guns%20N'%20Roses%20-%20Reckless%20Life.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>03 - Guns N' Roses - Heartbreak Hotel</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/03%20-%20Guns%20N'%20Roses%20-%20Heartbreak%20Hotel.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>04 - Guns N' Roses - Shadow of Your Love</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/04%20-%20Guns%20N'%20Roses%20-%20Shadow%20of%20Your%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>05 - Guns N' Roses - Welcome To The Jungle</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/05%20-%20Guns%20N'%20Roses%20-%20Welcome%20To%20The%20Jungle.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>06 - Guns N' Roses - Move To The City</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/06%20-%20Guns%20N'%20Roses%20-%20Move%20To%20The%20City.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>07 - Guns N' Roses - Jumping Jack Flash (Acoustic)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/07%20-%20Guns%20N'%20Roses%20-%20Jumping%20Jack%20Flash%20(Acoustic).mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>08 - Guns N' Roses - November Rain (Piano)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/08%20-%20Guns%20N'%20Roses%20-%20November%20Rain%20(Piano).mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>09 - Guns N' Roses - Nice Boys (Don't Play Rock N' Roll)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/09%20-%20Guns%20N'%20Roses%20-%20Nice%20Boys%20(Don't%20Play%20Rock%20N'%20Roll).mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>10 - Guns N' Roses - Whole Lotta Rosie</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/10%20-%20Guns%20N'%20Roses%20-%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>11 - Guns N' Roses - Blues Jam</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/11%20-%20Guns%20N'%20Roses%20-%20Blues%20Jam.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>12 - Guns N' Roses - One In A Million</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/12%20-%20Guns%20N'%20Roses%20-%20One%20In%20A%20Million.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>13 - Guns N' Roses - November Rain (Guitar)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/13%20-%20Guns%20N'%20Roses%20-%20November%20Rain%20(Guitar).mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>14 - Guns N' Roses - Paradise City</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/14%20-%20Guns%20N'%20Roses%20-%20Paradise%20City.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>
+<item>
+<title>15 - Guns N' Roses - Instrumental Jam</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Make%20My%20Day%20Rare%20Tracks/15%20-%20Guns%20N'%20Roses%20-%20Instrumental%20Jam.mp3</link>
+<thumbnail>http://i.imgur.com/I3XUmPP.jpg</thumbnail>
+<fanart>http://i.imgur.com/cC16R9X.jpg</fanart>
+</item>

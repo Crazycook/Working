@@ -1,0 +1,72 @@
+﻿<item>
+<title>01 - Guns N' Roses - Since I Don't Have You</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/01%20-%20Guns%20N'%20Roses%20-%20Since%20I%20Don't%20Have%20You.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>02 - Guns N' Roses - New Rose.</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/02%20-%20Guns%20N'%20Roses%20-%20New%20Rose.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>03 - Guns N' Roses - Down on the Farm</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/03%20-%20Guns%20N'%20Roses%20-%20Down%20on%20the%20Farm.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>04 - Guns N' Roses - Human Being</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/04%20-%20Guns%20N'%20Roses%20-%20Human%20Being.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>05 - Guns N' Roses - Raw Power</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/05%20-%20Guns%20N'%20Roses%20-%20Raw%20Power.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>06 - Guns N' Roses - Ain't It Fun</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/06%20-%20Guns%20N'%20Roses%20-%20Ain't%20It%20Fun.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>07 - Guns N' Roses - Buick Makane</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/07%20-%20Guns%20N'%20Roses%20-%20Buick%20Makane.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>08 - Guns N' Roses - Hair of the Dog</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/08%20-%20Guns%20N'%20Roses%20-%20Hair%20of%20the%20Dog.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>09 - Guns N' Roses - Attitude</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/09%20-%20Guns%20N'%20Roses%20-%20Attitude.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>10 - Guns N' Roses - Black Leather</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/10%20-%20Guns%20N'%20Roses%20-%20Black%20Leather.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>11 - Guns N' Roses - You Can't Put Your Arms Around a Memory</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/11%20-%20Guns%20N'%20Roses%20-%20You%20Can't%20Put%20Your%20Arms%20Around%20a%20Memory.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>
+<item>
+<title>12 - Guns N' Roses - I Don't Care About You</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1993%20-%20Guns%20N%20Roses%20-%20The%20Spaghetti%20Incident/12%20-%20Guns%20N'%20Roses%20-%20I%20Don't%20Care%20About%20You.mp3</link>
+<thumbnail>http://i.imgur.com/WPOTIpl.jpg</thumbnail>
+<fanart>http://i.imgur.com/arpSezb.jpg</fanart>
+</item>

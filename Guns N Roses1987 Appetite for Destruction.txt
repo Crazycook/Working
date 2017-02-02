@@ -1,0 +1,72 @@
+﻿<item>
+<title>01 - Guns 'n Roses - Welcome to the Jungle</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/01%20-%20Guns%20'n%20Roses%20-%20Welcome%20to%20the%20Jungle.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>02 - Guns 'n Roses - It's so easy</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/02%20-%20Guns%20'n%20Roses%20-%20It's%20so%20easy.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>03 - Guns 'n Roses - Nightrain</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/03%20-%20Guns%20'n%20Roses%20-%20Nightrain.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>04 - Guns 'n Roses - Out ta get me</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/04%20-%20Guns%20'n%20Roses%20-%20Out%20ta%20get%20me.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>05 - Guns 'n Roses - Mr. Brownstone</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/05%20-%20Guns%20'n%20Roses%20-%20Mr.%20Brownstone.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>06 - Guns 'n Roses - Paradise City</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/06%20-%20Guns%20'n%20Roses%20-%20Paradise%20City.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>07 - Guns 'n Roses - My Michelle</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/07%20-%20Guns%20'n%20Roses%20-%20My%20Michelle.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>08 - Guns 'n Roses - Think about you</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/08%20-%20Guns%20'n%20Roses%20-%20Think%20about%20you.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>09 - Guns 'n Roses - Sweet Child o'mine</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/09%20-%20Guns%20'n%20Roses%20-%20Sweet%20Child%20o'mine.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>10 - Guns 'n Roses - You're crazy</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/10%20-%20Guns%20'n%20Roses%20-%20You're%20crazy.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>11 - Guns 'n Roses - Anything goes</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/11%20-%20Guns%20'n%20Roses%20-%20Anything%20goes.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>
+<item>
+<title>12 - Guns 'n Roses - Rocket Queen</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1987%20-%20Guns%20N%20Roses%20-%20Appetite%20For%20Destruction/12%20-%20Guns%20'n%20Roses%20-%20Rocket%20Queen.mp3</link>
+<thumbnail>http://i.imgur.com/tM0C5OK.jpg</thumbnail>
+<fanart>http://i.imgur.com/q0qrIu4.jpg</fanart>
+</item>

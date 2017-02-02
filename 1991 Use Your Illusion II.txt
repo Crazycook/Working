@@ -1,0 +1,83 @@
+﻿<item>
+<title>01 - Civil War</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/01%20-%20Civil%20War.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>02 - 14 Years</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/02%20-%2014%20Years.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>03 - Yesterdays</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/03%20-%20Yesterdays.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>04 - Knockin' On Heaven's Door</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/04%20-%20Knockin'%20On%20Heaven's%20Door.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>05 - Get In The Ring</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/05%20-%20Get%20In%20The%20Ring.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>06 - Shotgun Blues</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/06%20-%20Shotgun%20Blues.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>07 - Breakdown</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/07%20-%20Breakdown.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>08 - Pretty Tied Up</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/08%20-%20Pretty%20Tied%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>09 - Locomotive</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/09%20-%20Locomotive.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>10 - So Fine</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/10%20-%20So%20Fine.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>11 - Estranged</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/11%20-%20Estranged.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>12 - You Could Be Mine</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/12%20-%20You%20Could%20Be%20Mine.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>13 - Don't Cry (All Lyrics)</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/13%20-%20Don't%20Cry%20(All%20Lyrics).mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
+</item>
+<item>
+<title>14 - My World</title>
+<link>http://alliza.iptime.org/mobile/%c8%a8%c6%fa%b4%f5/%c1%c1%c0%ba%c0%da%b7%e1%bd%c7/%c0%bd%be%c7%c0%da%b7%e1%bd%c7/Guns%20N%20Roses%20-%20Discography/1991%20-%20Guns%20N%20Roses%20-%20Use%20Your%20Illusion%20II/14%20-%20My%20World.mp3</link>
+<thumbnail>http://i.imgur.com/0WKqCGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/9aHtGjC.jpg</fanart>
