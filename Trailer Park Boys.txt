@@ -1,4 +1,4 @@
-<item>
+﻿<item>
 <title>S01E01 - Take Your Little Gun And Get Out Of My Trailer Park</title>
 <link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%201/S01E01%20-%20Take%20Your%20Little%20Gun%20And%20Get%20Out%20Of%20My%20Trailer%20Park.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
@@ -71,56 +71,58 @@
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>	
+Christmas Special</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/Christmas%20Special.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E01 - Never Cry Shitwolf</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E01%20-%20Never%20Cry%20Shitwolf.mp4	</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E02 - A Man's Gotta Eat</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E02%20-%20A%20Man's%20Gotta%20Eat.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E03 - Rub 'N Tiz'zug</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E03%20-%20Rub%20'N%20Tiz'zug.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>	
+S04E04 - The Green Bastard</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E04%20-%20The%20Green%20Bastard.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E05 - Conky</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E05%20-%20Conky.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E06 - If You Love Something, Set It Free</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E06%20-%20If%20You%20Love%20Something,%20Set%20It%20Free.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E07 - Propane, Propane</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E07%20-%20Propane,%20Propane.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>S04E08 - Workin' Man.</title>
+<link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%204/S04E08%20-%20Workin'%20Man.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
