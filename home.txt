@@ -1,15 +1,6 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
-
-<channel>
-<name>Billboard Top 100 1956-1999</name>
-<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Billboard-Top-100-1959---1999/home.txt</externallink>
-<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
 <channel>
 <name>Metallica</name>
 <thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
@@ -23,8 +14,24 @@
 <thumbnail>http://fontmeme.com/images/Slayer-Logo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/home.txt</externallink>
 <fanart>http://fontmeme.com/images/Slayer-Logo.jpg</fanart>
-<info>Slayer is an American thrash metal band from Huntington Park, California, formed in 1981 by guitarist Kerry King and drummer Dave Lombardo. Slayer rose to fame with its 1986 release Reign in Blood, and is credited as one of the "big four" thrash metal bands, along with Metallica, Megadeth, and Anthrax.[1] Since its debut album in 1983, the band has released twelve studio albums, two live albums, a box set, six music videos, two extended plays and a cover album
-Slayer's musical style involves fast tremolo picking, double bass drumming, riffs in irregular scales and shouted vocals. The band's lyrics and album art, which cover topics such as murder, serial killers, necrophilia, torture, genocide, human experimentation, Satanism, hate crimes, terrorism, religion, antireligion, Nazism, and warfare, have generated album bans, delays, lawsuits, and criticism from religious groups and the public. </info>
+<info>Slayer is an American thrash metal band from Huntington Park, California, formed in 1981 by guitarist Kerry King and drummer Dave Lombardo.  Since its debut album in 1983, the band has released twelve studio albums, two live albums, a box set, six music videos, two extended plays and a cover album
+Slayer's musical style involves fast tremolo picking, double bass drumming, riffs in irregular scales and shouted vocals. In the original line-up, King, Hanneman, and lead vocalist/bassist Tom Araya contributed to the band's lyrics, and all of the band's music was written by King, Hanneman and Lombardo. The band's lyrics and album art, which cover topics such as murder, serial killers, necrophilia, torture, genocide, human experimentation, Satanism, hate crimes, terrorism, religion, antireligion, Nazism, and warfare, have generated album bans, delays, lawsuits, and criticism from religious groups and the public. </info>
+</channel>
+
+<channel>
+<name>Guns N Roses</name>
+<thumbnail>http://i.imgur.com/3vn6Rnt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Guns-N-Roses/home.txt</externallink>
+<fanart>http://i.imgur.com/wfPO9lI.jpg</fanart>
+<info>Guns N' Roses is an American hard rock band from Los Angeles formed in 1985. The lineup, when first signed to Geffen Records in 1986, consisted of vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler.</info>
+</channel>
+
+<channel>
+<name>Billboard Top 100 1956-1999</name>
+<thumbnail>http://3.bp.blogspot.com/-any8G2J99rA/TtDYjW4lVvI/AAAAAAAAA3A/8SYDkVRmKug/s1600/billboard-logo-2_thumb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Billboard-Top-100-1959---1999/home.txt</externallink>
+<fanart>https://i.ytimg.com/vi/K3SLThVY0SI/maxresdefault.jpg</fanart>
+<info>DiRTYBURGER Streams</info>
 </channel>
 
 </channels>
