@@ -126,12 +126,6 @@
 </item>
 <item>
 <title>1HD</title>
-<link>plugin://plugin.video.plexus/?;url=acestream://f8349c83078b0e9533d39b7025cd7564a9816aff</link>
+<link>plugin://plugin.video.plexus?;streamtype=1&amp;url=acestream://f8349c83078b0e9533d39b7025cd7564a9816aff</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>1HD</title>
-<link>acestream://f8349c83078b0e9533d39b7025cd7564a9816aff</link>
-<thumbnail></thumbnail>
-</item>
-
