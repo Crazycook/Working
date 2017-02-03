@@ -253,3 +253,9 @@
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
 </item>
+<item>
+<title>The 100֠S04E01</title>
+<link>http://dl.my-film.org/serial/The%20100/Season%204%20-%20720p%20x265/The.100.S04E01.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
+</item>

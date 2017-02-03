@@ -294,7 +294,7 @@
 </item>
 <item>
 <title>Vikings.S04E20.720p.HDTV</title>
-<link></link>
+<link>http://dl.my-film.org/serial/Vikings/Season%204%20-%20720p%20HDTV/Vikings.S04E20.720p.HDTV.x264-[My-Film].mkv</link>
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <fanart>https://augedesbetrachters.files.wordpress.com/2016/08/vikings.png</fanart>
 </item>
