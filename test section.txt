@@ -125,42 +125,13 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Arena Sport 1 (Спорт)</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://07e6572f996caf5171c50018f732ad38efa67eb4</link>
+<title>1hd</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://b893d1a957e1b783159ae74752af060dca5bc864</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>Arena Sport 2 (Спорт)</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://a611bffd57f141c5091e7e7c835b64e9fdaa46a3</link>
+<title>Exotica tv</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://1572ed1497b670f9c1f4d4dd5a1df6775963aecb</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>Arena Sport 3 (Спорт)</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Arena Sport 4 (Спорт)</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BT Sport Europe</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5e6aaac0404893cc6d85145bb988f93052d55086</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BTV 1 HD</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://5d56b45fa2bbdeea98669c48848d01347f95e00f</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>BTV 2</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Canal+ Deportes</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://b7b5b339e21754e81797a7be2e1b031fa323fe01</link>
-<thumbnail></thumbnail>
-</item>
+1572ed1497b670f9c1f4d4dd5a1df6775963aecb
