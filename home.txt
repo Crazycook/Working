@@ -12,6 +12,17 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 
 <channel>
+<name>2 Broke Girls</name>
+<thumbnail>http://www.tv4u.top/pics/w185/580f134738403.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/2%20Broke%20Girls.txt</externallink>
+<fanart>https://bloginor38.files.wordpress.com/2013/07/80bbf-2brokegirls-bestofoleg720p_h-264-aac-mp4_000638671.jpg</fanart>
+<info>2 Broke Girls TV Series (2011– )
+Two young women waitressing at a greasy spoon diner strike up an unlikely friendship in the hopes of launching a successful business - if only they can raise the cash.
+Creators: Whitney Cummings, Michael Patrick King
+Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
@@ -20,6 +31,29 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 A young woman's murder causes the subjects of a century-long mission to populate a new world to question the true nature of the project as they approach the point of no return.
 Creators: Adrian Cruz, Philip Levens
 Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
+</channel>
+<channel>
+<name>Colony</name>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Colony.txt</externallink>
+<fanart>Colony
+In the not-too-distant future, Los Angeles has been invaded and occupied by outside forces, causing a rift between the city's residents; some have collaborated with the occupation, while others are rebelling and suffering the consequences that come with that choice. Former FBI agent Will Bowman and his wife, Katie, must consider their familial obligations when making their decision because they were separated from their son, Bram, during the invasion. Proxy Snyder, a cunning and powerful leader within the occupational government, offers Will the opportunity to get Bram back if he works with the invading faction. Will's decision doesn't sit well with Katie, but the couple risk their lives -- and their relationship -- to protect their family.
+First episode date: January 14, 2016
+Network: USA Network
+Program creator: Carlton Cuse
+Executive producers: Josh Holloway, Nelson McCormick, Juan J. Campanella, Carlton Cuse
+Genres: Drama, Science Fiction</info>
+</channel>
+
+<channel>
+<name>Daredevil</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Daredevil-televison.jpg/250px-Daredevil-televison.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Daredevil.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>Daredevil TV Series (2015– )
+Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind lawyer by day, and vigilante by night.
+Creator: Drew Goddard
+Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
 </channel>
 
 <channel>
@@ -32,16 +66,6 @@ Five hundred years in the future, a renegade crew aboard a small spacecraft trie
 Creator: Joss Whedon
 Stars: Nathan Fillion, Gina Torres, Alan Tudyk
 </info>
-</channel>
-<channel>
-<name>Daredevil</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Daredevil-televison.jpg/250px-Daredevil-televison.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Daredevil.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>Daredevil TV Series (2015– )
-Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind lawyer by day, and vigilante by night.
-Creator: Drew Goddard
-Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
 </channel>
 
 <channel>
@@ -64,17 +88,15 @@ Stars: Emilia Clarke, Peter Dinklage, Kit Harington </info>
 Set in the 1980s, this series dramatizes the personal computing boom through the eyes of a visionary, an engineer and a prodigy whose innovations directly confront the corporate behemoths of the time. Their personal and professional partnership will be challenged by greed and ego while charting the changing culture in Texas' Silicon Prairie.
 Creators: Christopher Cantwell, Christopher C. Rogers
 Stars: Lee Pace, Scoot McNairy, Mackenzie Davis </info>
-</channel
+</channel>
 
 <channel>
-<name>2 Broke Girls</name>
-<thumbnail>http://www.tv4u.top/pics/w185/580f134738403.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/2%20Broke%20Girls.txt</externallink>
-<fanart>https://bloginor38.files.wordpress.com/2013/07/80bbf-2brokegirls-bestofoleg720p_h-264-aac-mp4_000638671.jpg</fanart>
-<info>2 Broke Girls TV Series (2011– )
-Two young women waitressing at a greasy spoon diner strike up an unlikely friendship in the hopes of launching a successful business - if only they can raise the cash.
-Creators: Whitney Cummings, Michael Patrick King
-Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
+<name>Mr. Robot</name>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Robot.txt</externallink>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+<info>Young, anti-social computer programmer Elliot works as a cybersecurity engineer during the day, but at night he is a vigilante hacker. He is recruited by the mysterious leader of an underground group of hackers to join their organization. Elliot's task? Help bring down corporate America, including the company he is paid to protect, which presents him with a moral dilemma. Although he works for a corporation, his personal beliefs make it hard to resist the urge to take down the heads of multinational companies that he believes are running -- and ruining -- the world.
+Network: USA Network</info>
 </channel>
 
 <channel>
@@ -100,9 +122,31 @@ Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
 </channel>
 
 <channel>
+<name>The Walking Dead (1080p X265)</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead%201080p%20X265.txt</externallink>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
+<info>The Walking Dead TV Series (2010– )
+Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is overrun by the undead, and must lead a group of survivors to stay alive.
+Creator: Frank Darabont
+Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
+</channel>
+
+<channel>
 <name>Fear The Walking Dead</name>
 <thumbnail>https://yvrshoots.com/wp-content/uploads/2015/03/Screenshot-632.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
+<fanart>http://i.imgur.com/Vm2Dmo3.jpg</fanart>
+<info>Set initially in Los Angeles, California and then later in Mexico,[8] the series follows a dysfunctional, blended family composed of high school guidance counselor Madison Clark, her English teacher boyfriend Travis Manawa, her daughter Alicia, her drug-addicted son Nick, Travis' son from a previous marriage, Chris, Chris' mother, Liza Ortiz, and others who join their group at the onset of the zombie apocalypse.[9][10] They must revamp themselves, skills- and attitude-wise, to survive, as they come to terms with the impending collapse of civilization
+First episode date: August 23, 2015
+Network: AMC
+Predecessor: The Walking Dead</info>
+</channel>
+
+<channel>
+<name>That 70's Show</name>
+<thumbnail>http://i.imgur.com/jWd2dIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/That%2070s%20Show.txt</externallink>
 <fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
 <info>Fear the Walking Dead TV Series (2015– )
 A Walking Dead spin-off, set in Los Angeles, following two families who must band together to survive the undead apocalypse.
@@ -110,15 +154,19 @@ Creators: Dave Erickson, Robert Kirkman
 Stars: Kim Dickens, Cliff Curtis, Frank Dillane </info>
 </channel>
 
+https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/That%2070s%20Show.txt
+
 <channel>
 <name>Sense8</name>
 <thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sense8.txt</externallink>
 <fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
-<info>Sense8 TV Series (2015– )
-A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.
-Creators: J. Michael Straczynski, Lana Wachowski, Lilly Wachowski
-Stars: Terrence Mann, Doona Bae, Jamie Clayton</info>
+<info>That '70s Show
+
+Set in the mood ring and polyester era of the 1970s, the series is a retro-hip situation comedy about an eclectic group of friends on the verge of adulthood. They live in the suburbs of Wisconsin, where they yearn for independence amid the growing pains of becoming adults.
+First episode date: August 23, 1998
+Final episode date: May 18, 2006
+Theme song: In the Street</info>
 </channel>
 
 <channel>
