@@ -1,0 +1,132 @@
+﻿<item>
+<title>Mr.Robot S01E01</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E01.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E02</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E02.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E03</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E03.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E04</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E04.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E05</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E05.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E06</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E06.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E07</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E07.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E08</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E08.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E09</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E09.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S01E10</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%201/Mr.Robot%20S01E10.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E01</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E01.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E02</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E02.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E03</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E03.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E04</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E04.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E05</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E05.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E06</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E06.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E07</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E07.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E08</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E08.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E09</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E09.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E10</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E10.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E11</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E11.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
+<item>
+<title>Mr.Robot S02E12</title>
+<link>http://sirftp.com/Shows_Series/Mr.Robot/Season%202/Mr.Robot%20S02E12.mkv</link>
+<thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
+<fanart>http://i.imgur.com/1s8BtMh.jpg</fanart>
+</item>
