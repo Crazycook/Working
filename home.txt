@@ -3,17 +3,17 @@
 <channels>
 
 <channel>
-<name>F4M List One</name>
+<name>ball live com</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/f4m.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/Ball%20Live%20com.txt</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
 
 <channel>
-<name>F4M List bob</name>
+<name>ip cs4 ip</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/fm4%20%20217.23.4.1927070%20live%20bob%20bob%20501.ts.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/ip%20cs4%20ip.txt.txt</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
