@@ -1,0 +1,1040 @@
+﻿<item>
+<title>Schedule @ spcentral.tv/schedule.html</title>
+<link>http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/180.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/207.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports News HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/262.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/156.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/157.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/158.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/159.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/160.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports F1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/161.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports Mix HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/261.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/162.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/163.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/164.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport ESPN HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/126.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/260.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 2 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/259.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 3 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/258.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 4 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/257.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 5 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/256.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports F1 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/255.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/254.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 2 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/253.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 3 1080p</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/252.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Premier Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/109.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Eurosport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/133.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Eurosport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/134.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MUTV HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/116.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ITV HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/120.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC One HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/118.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC Two HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/119.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/391.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/392.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports News</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/94.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/95.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/96.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/97.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 4 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/98.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 5 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/99.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports F1 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/100.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/101.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT sport 2 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/102.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT sport 3 SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/103.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport Espn SD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/104.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Eurosport</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/105.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>British Eurosport2</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/106.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Box Nation</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/113.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Premier Sports</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/108.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>eir Sport 1</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/107.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>eir Sport 2</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/206.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LFC TV</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/114.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Chelsea TV</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/117.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MUTV</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/115.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>At The Races</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/110.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/111.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Nick Junior</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/393.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Disney Junior</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/394.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Select</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/204.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Sci-Fi & Horror</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/205.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Premiere</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/196.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Family</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/199.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Drama & Romance</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/200.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Disney</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/197.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Crime & Thriller</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/203.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Comedy</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/201.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Cinema Action & Adventure</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/202.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>USA Network HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/125.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Bein Sports USA HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/130.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>WWE Network HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/137.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/188.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/189.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/190.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/191.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TSN 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/192.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sportsnet 360 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/184.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sportsnet One HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/185.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sportsnet Ontario HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/186.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sportsnet World HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/187.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Willow Cricket HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/127.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sport 1 DE</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/233.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sport 2 DE</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/232.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Bundesliga 1</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/234.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/511.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/510.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/509.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/508.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/507.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 6 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/506.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/505.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 8 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/504.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 9 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/503.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BeIN Sport Arabia 10 HD</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/502.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Xtra 1</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/209.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Xtra 2</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/210.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Xtra 3</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/211.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>****Schedule Channel Listings @ spcentral.tv/schedule****</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/512.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 01:ESPNEWS</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/395.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 02:ESPN</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/396.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 03:ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/397.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 04:ESPN U</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/398.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 05:FS1</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/399.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 06:FS2</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/400.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 07:NFL NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/401.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 08:NBA TV</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/402.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 09:MLB NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/403.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 10:NHL NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/404.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 11:NBCSN</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/405.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 12</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/406.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 13</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/407.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 14</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/408.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 15</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/409.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 16: WWE Network</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/410.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 17</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/411.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 18</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/412.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 19</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/413.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 20</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/414.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 21</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/415.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 22</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/416.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 23</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/417.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 24</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/418.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 25</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/419.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 26</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/420.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 27</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/421.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 28</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/422.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 29</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/423.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 30</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/424.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 31</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/425.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 32</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/426.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 33</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/427.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 34:NBC</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/428.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 35:CBS</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/429.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 36:ABC</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/430.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 37:FOX</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/431.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 38</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/432.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 39:CNBC</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/433.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 40</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/434.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 41</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/435.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 42</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/436.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 43</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/437.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 44:FX</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/438.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 45:FXX</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/439.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 46:COMEDY CENTRAL</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/440.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 47:AMC</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/441.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 48:HBO</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/442.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 49:HBO COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/443.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 50:HBO SIGNATURE</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/444.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 51:HBO ZONE</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/445.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 52:SHOWTIME</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/446.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 53</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/447.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 54</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/448.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 55</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/449.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 56</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/450.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 57</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/451.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 58</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/452.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 59</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/453.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 60</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/454.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 61</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/455.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 62</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/456.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 63</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/457.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 64</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/458.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 65</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/459.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 66</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/460.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 67</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/461.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 68</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/462.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 69</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/463.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 70</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/464.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 71</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/465.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 72</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/466.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 73</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/467.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 74</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/468.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 75</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/469.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 76</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/470.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 77</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/471.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 78</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/472.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 79</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/473.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 80</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/474.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 81</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/475.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 82</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/476.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 83</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/477.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 84</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/478.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 85</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/479.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 86</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/480.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 87</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/481.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 88</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/482.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 89</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/483.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 90</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/484.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 91</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/485.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 92</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/486.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 93</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/487.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 94</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/488.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 95</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/489.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 96</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/490.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 97</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/491.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 98</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/492.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 99</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/493.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 100</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/494.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 101</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/495.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 102</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/496.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 103</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/497.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 104</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/498.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 105</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/499.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 106</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/500.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Channel 107</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/live/kyleshaw93@hotmail.com/bm67c2OA2w/501.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>UFC 206</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/514.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Match of the Day 14/Jan</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/517.mkv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Match of the Day 2 15/Jan</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/518.mkv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC Match of the Day Week 22 2017 21/Jan</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/519.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BBC Match of the Day 2 Week 22 2017 22/Jan</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://5.79.79.164/MOTD/MOTD_22_Jan.mp4</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Boxing Carl Frampton vs Leo Santa Cruz Jan 28</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://ball-live.com:7070/movie/kyleshaw93@hotmail.com/bm67c2OA2w/521.mkv</link>
+<thumbnail></thumbnail>
+</item>
