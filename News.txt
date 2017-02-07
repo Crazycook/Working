@@ -88,8 +88,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-
-
 <item>
 <title>ABC News 1</title>
 <link>http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8</link>
@@ -133,9 +131,16 @@
 </item>
 
 <item>
-<title>NBC NEWS</title>
+<title>NBC News</title>
 <link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
 <thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fox News Radio</title>
+<link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/Bvaoiu7.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
