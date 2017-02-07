@@ -57,6 +57,18 @@ Genres: Drama, Science Fiction</info>
 </channel>
 
 <channel>
+<name>Battlestar Galactica</name>
+<thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
+<fanart>http://i.imgur.com/rbunHn3.png</fanart>
+<info>Battlestar Galactica
+This update of the late-1970s series takes a decidedly darker tone as what's left of humankind struggles for survival against the robot Cylons, who have killed millions. The Galactica, led by William Adama, protects a patched-together fleet of civilians -- led by de facto president Laura Roslin -- in search of a mythical planet called Earth.
+First episode date: October 18, 2004
+Theme song: Gayatri
+Spin-off: Caprica</info>
+</channel>
+
+<channel>
 <name>Daredevil</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Daredevil-televison.jpg/250px-Daredevil-televison.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Daredevil.txt</externallink>
@@ -65,6 +77,26 @@ Genres: Drama, Science Fiction</info>
 Matt Murdock, with his other senses superhumanly enhanced, fights crime as a blind lawyer by day, and vigilante by night.
 Creator: Drew Goddard
 Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
+</channel>
+
+<channel>
+<name>Doctor Who Classic</name>
+<thumbnail>http://i.imgur.com/UO2pioa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Doctor%20Who%20Classic.txt</externallink>
+<fanart>http://i.imgur.com/zWPARc5.jpg</fanart>
+<info>Doctor Who 
+TV Series (1963–1989) 695 episodes
+Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
+Creator: Sydney Newman
+William Hartnell First Doctor Nov 63-Oct 1966
+Patrick Troughton Second Doctor 29 October 1966 - 21 June 1969
+Jon Pertwee Third Doctor 3 January 1970 -June 1974
+Tom Baker Fourth Doctor 8 June 1974 - March 1981
+Peter Davison Fifth Doctor 21 March 1981- 16 March 1984
+Colin Baker Sixth Doctor 16 March 1984 - December 1986
+Sylvester McCoy	Seventh Doctor 7 September 1987 - 6 December 1989
+Paul McGann Eighth Doctor 27 May 1996
+</info>
 </channel>
 
 <channel>
