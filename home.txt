@@ -83,7 +83,7 @@ Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
 <name>Doctor Who Classic</name>
 <thumbnail>http://i.imgur.com/UO2pioa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Doctor%20Who%20Classic.txt</externallink>
-<fanart>http://i.imgur.com/zWPARc5.jpg</fanart>
+<fanart>http://i.imgur.com/tFbrX0H.jpg</fanart>
 <info>Doctor Who 
 TV Series (1963–1989) 695 episodes
 Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
