@@ -34,5 +34,12 @@
 <info>F4mTester Required for this section</info>
 </channel>
 
+<channel>
+<name>trial</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/trial.txt</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
 
 </channels>
