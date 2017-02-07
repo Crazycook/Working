@@ -1,4 +1,4 @@
-<item>
+﻿<item>
 <title>1HD</title>
 <link>http://80.250.191.10:1935/live/livestream3/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/2xw3x7O.png</thumbnail>
@@ -657,6 +657,13 @@
 </item>
 
 <item>
+<title>Russian Music Box</title>
+<link>http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/qnlq9tb.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Si TV</title>
 <link>http://hd.worldkast.com:1935/8436/8436/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/YlB6wt4.jpg</thumbnail>
@@ -727,13 +734,6 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>Zougla</title>
 <link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8</link>
 <thumbnail>http://i.imgur.com/kkRVhiu.jpg</thumbnail>
@@ -744,5 +744,12 @@
 <title>ZFM</title>
 <link>rtmp://kippingmultimediaal.nl:1935/live/ZFM1</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Celine Dion Live in Las Vegas vod 20 min</title>
+<link>https://vod.livestream.com/events/000000000049ef80/9f0b8629-c01c-4a4f-b0de-dd42191d1bf6_4000.m3u8?token=0_5886afc8_8f1edcf4f1172e78bdf0d0811d9c130bd0c196c2&start=479&end=1699</link>
+<thumbnail>http://i.imgur.com/lJ1yI5B.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
