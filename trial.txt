@@ -1,0 +1,5 @@
+﻿<item>
+<title>46.105.115.37l</title>
+<link>plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url=http://46.105.115.37:8000/get.php?username=iptv1790&password=179065287&type=m3u</link>
+<thumbnail></thumbnail>
+</item>
