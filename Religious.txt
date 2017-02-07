@@ -1,4 +1,4 @@
-<item>
+Ôªø<item>
 <title>3ABN Kidz</title>
 <link>http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8</link>
 <thumbnail>http://i.imgur.com/v2owHpY.jpg</thumbnail>
@@ -188,6 +188,13 @@
 </item>
 
 <item>
+<title>Amazing Discoveries</title>
+<link>rtmp://amazingdrtmp.tulix.tv/amazingdiscoveries//mystream2</link>
+<thumbnail>http://i.imgur.com/jJ0R7yj.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>KDOV theDove 43 - 44 LP - Medford - OR</title>
 <link>rtmp://s1.thedove.us/theDoveTV/2theDoveTV.sdp</link>
 <thumbnail>http://i.imgur.com/PFG7A2E.png</thumbnail>
@@ -202,7 +209,7 @@
 </item>
 
 <item>
-<title>CANAL SHOW DA F…</title>
+<title>CANAL SHOW DA F√â</title>
 <link>http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_600_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/4HY2LbO.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -237,7 +244,7 @@
 </item>
 
 <item>
-<title>REede FAMÕLIA</title>
+<title>REede FAM√çLIA</title>
 <link>http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8</link>
 <thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
