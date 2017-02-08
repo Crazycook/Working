@@ -2,6 +2,7 @@
 
 <channels>
 
+
 <channel>
 <name>ball live com</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
@@ -27,11 +28,66 @@
 </channel>
 
 <channel>
-<name>materials</name>
+<name>http://iptv.nbrz.ru:9705</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/materials.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/1.m3u</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
 
+<channel>
+<name>http://149.202.198.186:50100</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/2.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://qiptv.eu:88</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/3.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://gootvonline.net:8585</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/4.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://worldcs.info:8080</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/5.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://worldcs.info:8080</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/6.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://193.70.116.156:8080</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/7.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
+
+<channel>
+<name>http://93.190.143.200:15000</name>
+<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/8.m3u</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info>F4mTester Required for this section</info>
+</channel>
 </channels>
