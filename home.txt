@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>f4mtester Channels</name>
+<name>Daily Lists</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/home.txt</externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
