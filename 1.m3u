@@ -1,1869 +1,1869 @@
 #EXTM3U
 #EXTINF:0,==== IPTV Europa Digital ====
-http://iptv.nbrz.ru:9705/live/and/and/871.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/871.ts
 #EXTINF:0,Top Channel HD
-http://iptv.nbrz.ru:9705/live/and/and/106.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/106.ts
 #EXTINF:0,Klan HD
-http://iptv.nbrz.ru:9705/live/and/and/107.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/107.ts
 #EXTINF:0,Top Channel SD
-http://iptv.nbrz.ru:9705/live/and/and/25.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/25.ts
 #EXTINF:0,Klan SD
-http://iptv.nbrz.ru:9705/live/and/and/878.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/878.ts
 #EXTINF:0,Top Channel Full HD
-http://iptv.nbrz.ru:9705/live/and/and/2050.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2050.ts
 #EXTINF:0,Klan Full HD
-http://iptv.nbrz.ru:9705/live/and/and/2049.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2049.ts
 #EXTINF:0,Top News
-http://iptv.nbrz.ru:9705/live/and/and/3.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/3.ts
 #EXTINF:0,Rtk HD
-http://iptv.nbrz.ru:9705/live/and/and/15.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/15.ts
 #EXTINF:0,VIZION PLUS
-http://iptv.nbrz.ru:9705/live/and/and/1730.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1730.ts
 #EXTINF:0,Vizion Plus HD
-http://iptv.nbrz.ru:9705/live/and/and/880.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/880.ts
 #EXTINF:0,RTK
-http://iptv.nbrz.ru:9705/live/and/and/935.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/935.ts
 #EXTINF:0,Ktv HD
-http://iptv.nbrz.ru:9705/live/and/and/48.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/48.ts
 #EXTINF:0,KTV
-http://iptv.nbrz.ru:9705/live/and/and/934.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/934.ts
 #EXTINF:0,RTV 21 HD
-http://iptv.nbrz.ru:9705/live/and/and/47.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/47.ts
 #EXTINF:0,RTV 21
-http://iptv.nbrz.ru:9705/live/and/and/933.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/933.ts
 #EXTINF:0,Klan Kosova
-http://iptv.nbrz.ru:9705/live/and/and/932.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/932.ts
 #EXTINF:0,Klan kosova HD
-http://iptv.nbrz.ru:9705/live/and/and/1008.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1008.ts
 #EXTINF:0,RTK 2
-http://iptv.nbrz.ru:9705/live/and/and/913.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/913.ts
 #EXTINF:0,Rtk 3
-http://iptv.nbrz.ru:9705/live/and/and/820.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/820.ts
 #EXTINF:0,Rtk 4
-http://iptv.nbrz.ru:9705/live/and/and/700.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/700.ts
 #EXTINF:0,News 24
-http://iptv.nbrz.ru:9705/live/and/and/5.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/5.ts
 #EXTINF:0,News 24 HD
-http://iptv.nbrz.ru:9705/live/and/and/1678.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1678.ts
 #EXTINF:0,Ora News HD
-http://iptv.nbrz.ru:9705/live/and/and/728.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/728.ts
 #EXTINF:0,A1 Report
-http://iptv.nbrz.ru:9705/live/and/and/927.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/927.ts
 #EXTINF:0,Abc News
-http://iptv.nbrz.ru:9705/live/and/and/6.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/6.ts
 #EXTINF:0,UTV News
-http://iptv.nbrz.ru:9705/live/and/and/1619.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1619.ts
 #EXTINF:0,Channel One
-http://iptv.nbrz.ru:9705/live/and/and/911.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/911.ts
 #EXTINF:0,Scan Al
-http://iptv.nbrz.ru:9705/live/and/and/1620.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1620.ts
 #EXTINF:0,Tvsh
-http://iptv.nbrz.ru:9705/live/and/and/108.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/108.ts
 #EXTINF:0,RTSH HD
-http://iptv.nbrz.ru:9705/live/and/and/162.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/162.ts
 #EXTINF:0,Klan Plus
-http://iptv.nbrz.ru:9705/live/and/and/32.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/32.ts
 #EXTINF:0,ARTA TV
-http://iptv.nbrz.ru:9705/live/and/and/912.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/912.ts
 #EXTINF:0,Kombi
-http://iptv.nbrz.ru:9705/live/and/and/40.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/40.ts
 #EXTINF:0,EuroNews
-http://iptv.nbrz.ru:9705/live/and/and/226.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/226.ts
 #EXTINF:0,VOA
-http://iptv.nbrz.ru:9705/live/and/and/1621.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1621.ts
 #EXTINF:0,Rtsh 3
-http://iptv.nbrz.ru:9705/live/and/and/856.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/856.ts
 #EXTINF:0,Tema Tv
-http://iptv.nbrz.ru:9705/live/and/and/928.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/928.ts
 #EXTINF:0,Real Tv
-http://iptv.nbrz.ru:9705/live/and/and/2036.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2036.ts
 #EXTINF:0,21 Plus
-http://iptv.nbrz.ru:9705/live/and/and/725.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/725.ts
 #EXTINF:0,Zjarr Tv
-http://iptv.nbrz.ru:9705/live/and/and/812.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/812.ts
 #EXTINF:0,21 HD Popullore
-http://iptv.nbrz.ru:9705/live/and/and/49.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/49.ts
 #EXTINF:0,Star Plus Shkoder
-http://iptv.nbrz.ru:9705/live/and/and/181.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/181.ts
 #EXTINF:0,Sot 7 Pogradec
-http://iptv.nbrz.ru:9705/live/and/and/999.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/999.ts
 #EXTINF:0,Vlora Tv
-http://iptv.nbrz.ru:9705/live/and/and/1058.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1058.ts
 #EXTINF:0,Vlora 1
-http://iptv.nbrz.ru:9705/live/and/and/1594.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1594.ts
 #EXTINF:0,FOKUS
-http://iptv.nbrz.ru:9705/live/and/and/1060.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1060.ts
 #EXTINF:0,BLU SKY
-http://iptv.nbrz.ru:9705/live/and/and/7.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/7.ts
 #EXTINF:0,IN TV
-http://iptv.nbrz.ru:9705/live/and/and/837.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/837.ts
 #EXTINF:0,Rrokum HD
-http://iptv.nbrz.ru:9705/live/and/and/717.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/717.ts
 #EXTINF:0,CLICK TV
-http://iptv.nbrz.ru:9705/live/and/and/930.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/930.ts
 #EXTINF:0,Plus TV
-http://iptv.nbrz.ru:9705/live/and/and/1837.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1837.ts
 #EXTINF:0,BCTV Europe
-http://iptv.nbrz.ru:9705/live/and/and/1622.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1622.ts
 #EXTINF:0,Jug Tv
-http://iptv.nbrz.ru:9705/live/and/and/238.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/238.ts
 #EXTINF:0,First Tv
-http://iptv.nbrz.ru:9705/live/and/and/936.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/936.ts
 #EXTINF:0,Alsat M-B
-http://iptv.nbrz.ru:9705/live/and/and/985.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/985.ts
 #EXTINF:0,Alsat M
-http://iptv.nbrz.ru:9705/live/and/and/39.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/39.ts
 #EXTINF:0,Shenja Tv
-http://iptv.nbrz.ru:9705/live/and/and/904.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/904.ts
 #EXTINF:0,Tribuna
-http://iptv.nbrz.ru:9705/live/and/and/1050.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1050.ts
 #EXTINF:0,ALBTV USA
-http://iptv.nbrz.ru:9705/live/and/and/1630.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1630.ts
 #EXTINF:0,MKTV2
-http://iptv.nbrz.ru:9705/live/and/and/94.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/94.ts
 #EXTINF:0,Era tv
-http://iptv.nbrz.ru:9705/live/and/and/9.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/9.ts
 #EXTINF:0,RTB Bujanoc
-http://iptv.nbrz.ru:9705/live/and/and/1610.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1610.ts
 #EXTINF:0,Tetova Muzik
-http://iptv.nbrz.ru:9705/live/and/and/1588.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1588.ts
 #EXTINF:0,TV Cameria
-http://iptv.nbrz.ru:9705/live/and/and/862.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/862.ts
 #EXTINF:0,TV Mitrovica
-http://iptv.nbrz.ru:9705/live/and/and/1629.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1629.ts
 #EXTINF:0,Tv Opoja
-http://iptv.nbrz.ru:9705/live/and/and/937.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/937.ts
 #EXTINF:0,Islam Tv
-http://iptv.nbrz.ru:9705/live/and/and/1721.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1721.ts
 #EXTINF:0,Peace Tv
-http://iptv.nbrz.ru:9705/live/and/and/860.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/860.ts
 #EXTINF:0,Top Channel EST USA
-http://iptv.nbrz.ru:9705/live/and/and/873.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/873.ts
 #EXTINF:0,KLAN EST USA
-http://iptv.nbrz.ru:9705/live/and/and/876.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/876.ts
 #EXTINF:0,Vizion+ EST USA
-http://iptv.nbrz.ru:9705/live/and/and/879.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/879.ts
 #EXTINF:0,TVSH EST
-http://iptv.nbrz.ru:9705/live/and/and/1628.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1628.ts
 #EXTINF:0,News 24 EST
-http://iptv.nbrz.ru:9705/live/and/and/922.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/922.ts
 #EXTINF:0,Ora News EST
-http://iptv.nbrz.ru:9705/live/and/and/903.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/903.ts
 #EXTINF:0,Abc News EST
-http://iptv.nbrz.ru:9705/live/and/and/2041.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2041.ts
 #EXTINF:0,Alsat M EST USA
-http://iptv.nbrz.ru:9705/live/and/and/877.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/877.ts
 #EXTINF:0,RTK EST
-http://iptv.nbrz.ru:9705/live/and/and/2038.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2038.ts
 #EXTINF:0,Klan Kosova EST
-http://iptv.nbrz.ru:9705/live/and/and/2039.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2039.ts
 #EXTINF:0,Alb Humor
-http://iptv.nbrz.ru:9705/live/and/and/938.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/938.ts
 #EXTINF:0,Alb Humor 2
-http://iptv.nbrz.ru:9705/live/and/and/1052.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1052.ts
 #EXTINF:0,Bang Bang
-http://iptv.nbrz.ru:9705/live/and/and/12.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/12.ts
 #EXTINF:0,Cufo
-http://iptv.nbrz.ru:9705/live/and/and/13.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/13.ts
 #EXTINF:0,Junior
-http://iptv.nbrz.ru:9705/live/and/and/14.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/14.ts
 #EXTINF:0,Tibo Kids
-http://iptv.nbrz.ru:9705/live/and/and/2034.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2034.ts
 #EXTINF:0,Baby Tv
-http://iptv.nbrz.ru:9705/live/and/and/783.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/783.ts
 #EXTINF:0,Disney Channel
-http://iptv.nbrz.ru:9705/live/and/and/853.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/853.ts
 #EXTINF:0,Alb Kids
-http://iptv.nbrz.ru:9705/live/and/and/1049.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1049.ts
 #EXTINF:0,Alb Vizatimore
-http://iptv.nbrz.ru:9705/live/and/and/2035.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2035.ts
 #EXTINF:0,Explorer Shkence
-http://iptv.nbrz.ru:9705/live/and/and/16.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/16.ts
 #EXTINF:0,Explorer History
-http://iptv.nbrz.ru:9705/live/and/and/17.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/17.ts
 #EXTINF:0,Explorer Natyre
-http://iptv.nbrz.ru:9705/live/and/and/18.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/18.ts
 #EXTINF:0,TLC
-http://iptv.nbrz.ru:9705/live/and/and/727.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/727.ts
 #EXTINF:0,Discovery AL
-http://iptv.nbrz.ru:9705/live/and/and/1057.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1057.ts
 #EXTINF:0,TRAVEL CHANNEL
-http://iptv.nbrz.ru:9705/live/and/and/983.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/983.ts
 #EXTINF:0,National Geographic AL
-http://iptv.nbrz.ru:9705/live/and/and/768.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/768.ts
 #EXTINF:0,24 Kitchen
-http://iptv.nbrz.ru:9705/live/and/and/906.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/906.ts
 #EXTINF:0,Apollon TV
-http://iptv.nbrz.ru:9705/live/and/and/1590.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1590.ts
 #EXTINF:0,Dasma Tv
-http://iptv.nbrz.ru:9705/live/and/and/811.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/811.ts
 #EXTINF:0,City Tv
-http://iptv.nbrz.ru:9705/live/and/and/715.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/715.ts
 #EXTINF:0,AVN
-http://iptv.nbrz.ru:9705/live/and/and/1059.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1059.ts
 #EXTINF:0,Fen Tv
-http://iptv.nbrz.ru:9705/live/and/and/1313.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1313.ts
 #EXTINF:0,Ballkanika
-http://iptv.nbrz.ru:9705/live/and/and/827.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/827.ts
 #EXTINF:0,Planeta Tv
-http://iptv.nbrz.ru:9705/live/and/and/1045.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1045.ts
 #EXTINF:0,My Music
-http://iptv.nbrz.ru:9705/live/and/and/27.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/27.ts
 #EXTINF:0,Supersonic Tv
-http://iptv.nbrz.ru:9705/live/and/and/24.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/24.ts
 #EXTINF:0,BBF
-http://iptv.nbrz.ru:9705/live/and/and/28.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/28.ts
 #EXTINF:0,Folk Plus
-http://iptv.nbrz.ru:9705/live/and/and/212.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/212.ts
 #EXTINF:0,Super Folk
-http://iptv.nbrz.ru:9705/live/and/and/38.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/38.ts
 #EXTINF:0,elrodi
-http://iptv.nbrz.ru:9705/live/and/and/43.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/43.ts
 #EXTINF:0,Tirana Tv
-http://iptv.nbrz.ru:9705/live/and/and/37.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/37.ts
 #EXTINF:0,Folklorit
-http://iptv.nbrz.ru:9705/live/and/and/156.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/156.ts
 #EXTINF:0,Music Al
-http://iptv.nbrz.ru:9705/live/and/and/863.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/863.ts
 #EXTINF:0,MFM music
-http://iptv.nbrz.ru:9705/live/and/and/1623.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1623.ts
 #EXTINF:0,Top Music
-http://iptv.nbrz.ru:9705/live/and/and/1998.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1998.ts
 #EXTINF:0,Star Tv Music
-http://iptv.nbrz.ru:9705/live/and/and/1627.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1627.ts
 #EXTINF:0,MUZIKE HITE
-http://iptv.nbrz.ru:9705/live/and/and/1626.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1626.ts
 #EXTINF:0,Max Tv
-http://iptv.nbrz.ru:9705/live/and/and/2048.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2048.ts
 #EXTINF:0,Syribluehd
-http://iptv.nbrz.ru:9705/live/and/and/1999.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1999.ts
 #EXTINF:0,T+ HD
-http://iptv.nbrz.ru:9705/live/and/and/20.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/20.ts
 #EXTINF:0,Plus HD
-http://iptv.nbrz.ru:9705/live/and/and/770.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/770.ts
 #EXTINF:0,Film Nje HD
-http://iptv.nbrz.ru:9705/live/and/and/998.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/998.ts
 #EXTINF:0,Film Dy HD
-http://iptv.nbrz.ru:9705/live/and/and/31.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/31.ts
 #EXTINF:0,Film Nje SD
-http://iptv.nbrz.ru:9705/live/and/and/994.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/994.ts
 #EXTINF:0,Film Dy SD
-http://iptv.nbrz.ru:9705/live/and/and/995.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/995.ts
 #EXTINF:0,Sky Shqip
-http://iptv.nbrz.ru:9705/live/and/and/1741.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1741.ts
 #EXTINF:0,Sky AL ShkencÃ«
-http://iptv.nbrz.ru:9705/live/and/and/1613.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1613.ts
 #EXTINF:0,Sky Planet
-http://iptv.nbrz.ru:9705/live/and/and/1932.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1932.ts
 #EXTINF:0,AL: Sky Novela
-http://iptv.nbrz.ru:9705/live/and/and/1519.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1519.ts
 #EXTINF:0,Sky AL DramÃ«
-http://iptv.nbrz.ru:9705/live/and/and/1615.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1615.ts
 #EXTINF:0,Sky AL Aksion
-http://iptv.nbrz.ru:9705/live/and/and/1614.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1614.ts
 #EXTINF:0,Sky Komedi
-http://iptv.nbrz.ru:9705/live/and/and/939.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/939.ts
 #EXTINF:0,Kino Premiere 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/767.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/767.ts
 #EXTINF:0,Kino Premiere 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/925.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/925.ts
 #EXTINF:0,Kino Premiere 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1002.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1002.ts
 #EXTINF:0,Kino Prank HD
-http://iptv.nbrz.ru:9705/live/and/and/1732.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1732.ts
 #EXTINF:0,Kino Sci Fi
-http://iptv.nbrz.ru:9705/live/and/and/1000.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1000.ts
 #EXTINF:0,Kino Dark
-http://iptv.nbrz.ru:9705/live/and/and/1001.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1001.ts
 #EXTINF:0,Kino Romance HD
-http://iptv.nbrz.ru:9705/live/and/and/926.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/926.ts
 #EXTINF:0,Kino Thriller
-http://iptv.nbrz.ru:9705/live/and/and/1568.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1568.ts
 #EXTINF:0,Kino Drama
-http://iptv.nbrz.ru:9705/live/and/and/857.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/857.ts
 #EXTINF:0,Kino Aksion
-http://iptv.nbrz.ru:9705/live/and/and/175.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/175.ts
 #EXTINF:0,Kino Komedi
-http://iptv.nbrz.ru:9705/live/and/and/4.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/4.ts
 #EXTINF:0,Film Shqip
-http://iptv.nbrz.ru:9705/live/and/and/1625.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1625.ts
 #EXTINF:0,ALB FILM SHQIP HD
-http://iptv.nbrz.ru:9705/live/and/and/874.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/874.ts
 #EXTINF:0,Fox AL
-http://iptv.nbrz.ru:9705/live/and/and/996.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/996.ts
 #EXTINF:0,Fox Life Al
-http://iptv.nbrz.ru:9705/live/and/and/1063.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1063.ts
 #EXTINF:0,EXTRA  KOMEDY
-http://iptv.nbrz.ru:9705/live/and/and/2.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2.ts
 #EXTINF:0,ShqipTV Cifteli HD
-http://iptv.nbrz.ru:9705/live/and/and/1524.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1524.ts
 #EXTINF:0,Antena Tv
-http://iptv.nbrz.ru:9705/live/and/and/1521.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1521.ts
 #EXTINF:0,Alb Muzik
-http://iptv.nbrz.ru:9705/live/and/and/1520.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1520.ts
 #EXTINF:0,Alb Thriller  HD
-http://iptv.nbrz.ru:9705/live/and/and/1733.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1733.ts
 #EXTINF:0,Film 24 HD
-http://iptv.nbrz.ru:9705/live/and/and/1518.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1518.ts
 #EXTINF:0,ShqipTV Movie HD
-http://iptv.nbrz.ru:9705/live/and/and/1527.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1527.ts
 #EXTINF:0,ShqipTV Hindi HD
-http://iptv.nbrz.ru:9705/live/and/and/1526.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1526.ts
 #EXTINF:0,ShqipTV Horror HD
-http://iptv.nbrz.ru:9705/live/and/and/1525.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1525.ts
 #EXTINF:0,ShqipTV Western HD
-http://iptv.nbrz.ru:9705/live/and/and/1523.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1523.ts
 #EXTINF:0,SHQIP ALB AKSION
-http://iptv.nbrz.ru:9705/live/and/and/1528.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1528.ts
 #EXTINF:0,Alb Aksion HD
-http://iptv.nbrz.ru:9705/live/and/and/1517.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1517.ts
 #EXTINF:0,ALB TV Comedy
-http://iptv.nbrz.ru:9705/live/and/and/1611.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1611.ts
 #EXTINF:0,ShqipTV Fantasy HD
-http://iptv.nbrz.ru:9705/live/and/and/1529.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1529.ts
 #EXTINF:0,Digi Gold
-http://iptv.nbrz.ru:9705/live/and/and/191.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/191.ts
 #EXTINF:0,Digi Gold 1
-http://iptv.nbrz.ru:9705/live/and/and/1530.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1530.ts
 #EXTINF:0,Digi Gold 2
-http://iptv.nbrz.ru:9705/live/and/and/1531.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1531.ts
 #EXTINF:0,Digi Gold 3
-http://iptv.nbrz.ru:9705/live/and/and/1532.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1532.ts
 #EXTINF:0,Digi Gold 4
-http://iptv.nbrz.ru:9705/live/and/and/1533.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1533.ts
 #EXTINF:0,Digi Gold 5
-http://iptv.nbrz.ru:9705/live/and/and/1522.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1522.ts
 #EXTINF:0,Stinet
-http://iptv.nbrz.ru:9705/live/and/and/19.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/19.ts
 #EXTINF:0,Film Autor
-http://iptv.nbrz.ru:9705/live/and/and/192.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/192.ts
 #EXTINF:0,Film Hits
-http://iptv.nbrz.ru:9705/live/and/and/42.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/42.ts
 #EXTINF:0,Film Hits +1
-http://iptv.nbrz.ru:9705/live/and/and/74.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/74.ts
 #EXTINF:0,Film Thriller
-http://iptv.nbrz.ru:9705/live/and/and/45.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/45.ts
 #EXTINF:0,Film Drame
-http://iptv.nbrz.ru:9705/live/and/and/46.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/46.ts
 #EXTINF:0,Film Aksion SD
-http://iptv.nbrz.ru:9705/live/and/and/993.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/993.ts
 #EXTINF:0,Film Aksion
-http://iptv.nbrz.ru:9705/live/and/and/21.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/21.ts
 #EXTINF:0,Film Komedi
-http://iptv.nbrz.ru:9705/live/and/and/22.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/22.ts
 #EXTINF:0,SuperSport 1
-http://iptv.nbrz.ru:9705/live/and/and/861.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/861.ts
 #EXTINF:0,Supersport 2
-http://iptv.nbrz.ru:9705/live/and/and/30.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/30.ts
 #EXTINF:0,Supersport 3
-http://iptv.nbrz.ru:9705/live/and/and/34.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/34.ts
 #EXTINF:0,Supersport  4
-http://iptv.nbrz.ru:9705/live/and/and/33.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/33.ts
 #EXTINF:0,SuperSport 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/2040.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2040.ts
 #EXTINF:0,SuperSport 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/154.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/154.ts
 #EXTINF:0,Supersport 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/720.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/720.ts
 #EXTINF:0,SuperSport 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/722.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/722.ts
 #EXTINF:0,Supersport 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/168.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/168.ts
 #EXTINF:0,Supersport 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/742.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/742.ts
 #EXTINF:0,Supersport 1 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1003.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1003.ts
 #EXTINF:0,Supersport 2 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1004.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1004.ts
 #EXTINF:0,SuperSport 3 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1005.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1005.ts
 #EXTINF:0,SuperSport 4 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1616.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1616.ts
 #EXTINF:0,SuperSport 5 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1617.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1617.ts
 #EXTINF:0,SuperSport 6 Digitalb Kudo
-http://iptv.nbrz.ru:9705/live/and/and/1618.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1618.ts
 #EXTINF:0,Supersport Kosova 1
-http://iptv.nbrz.ru:9705/live/and/and/35.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/35.ts
 #EXTINF:0,Supersport Kosova 2
-http://iptv.nbrz.ru:9705/live/and/and/36.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/36.ts
 #EXTINF:0,TV DUKAGJINI
-http://iptv.nbrz.ru:9705/live/and/and/8.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/8.ts
 #EXTINF:0,Joly HD
-http://iptv.nbrz.ru:9705/live/and/and/169.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/169.ts
 #EXTINF:0,Linving HD
-http://iptv.nbrz.ru:9705/live/and/and/732.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/732.ts
 #EXTINF:0,3 Plus
-http://iptv.nbrz.ru:9705/live/and/and/173.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/173.ts
 #EXTINF:0,Smile
-http://iptv.nbrz.ru:9705/live/and/and/752.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/752.ts
 #EXTINF:0,Tring Tring
-http://iptv.nbrz.ru:9705/live/and/and/53.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/53.ts
 #EXTINF:0,Tring Kids
-http://iptv.nbrz.ru:9705/live/and/and/2037.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2037.ts
 #EXTINF:0,SOFIA
-http://iptv.nbrz.ru:9705/live/and/and/929.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/929.ts
 #EXTINF:0,Tiptv
-http://iptv.nbrz.ru:9705/live/and/and/65.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/65.ts
 #EXTINF:0,Tring World
-http://iptv.nbrz.ru:9705/live/and/and/772.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/772.ts
 #EXTINF:0,Tring History
-http://iptv.nbrz.ru:9705/live/and/and/56.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/56.ts
 #EXTINF:0,Tring Planet
-http://iptv.nbrz.ru:9705/live/and/and/52.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/52.ts
 #EXTINF:0,Tring Fantasy
-http://iptv.nbrz.ru:9705/live/and/and/721.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/721.ts
 #EXTINF:0,Tring Life
-http://iptv.nbrz.ru:9705/live/and/and/713.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/713.ts
 #EXTINF:0,Tring Super
-http://iptv.nbrz.ru:9705/live/and/and/716.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/716.ts
 #EXTINF:0,Tring Max
-http://iptv.nbrz.ru:9705/live/and/and/50.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/50.ts
 #EXTINF:0,Tring Shqip
-http://iptv.nbrz.ru:9705/live/and/and/55.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/55.ts
 #EXTINF:0,Tring Comedy
-http://iptv.nbrz.ru:9705/live/and/and/51.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/51.ts
 #EXTINF:0,Tring Sport News
-http://iptv.nbrz.ru:9705/live/and/and/232.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/232.ts
 #EXTINF:0,Tring Sport 1
-http://iptv.nbrz.ru:9705/live/and/and/714.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/714.ts
 #EXTINF:0,Tring Sport 2
-http://iptv.nbrz.ru:9705/live/and/and/769.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/769.ts
 #EXTINF:0,Tring Sport 3
-http://iptv.nbrz.ru:9705/live/and/and/54.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/54.ts
 #EXTINF:0,Tring Sport 4
-http://iptv.nbrz.ru:9705/live/and/and/814.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/814.ts
 #EXTINF:0,==== Ballkan Channel=====
-http://iptv.nbrz.ru:9705/live/and/and/869.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/869.ts
 #EXTINF:0,MRTV 1
-http://iptv.nbrz.ru:9705/live/and/and/93.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/93.ts
 #EXTINF:0,24 Vesti
-http://iptv.nbrz.ru:9705/live/and/and/914.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/914.ts
 #EXTINF:0,TV Uskana
-http://iptv.nbrz.ru:9705/live/and/and/1929.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1929.ts
 #EXTINF:0,Sitel
-http://iptv.nbrz.ru:9705/live/and/and/91.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/91.ts
 #EXTINF:0,MK:Top Estrada
-http://iptv.nbrz.ru:9705/live/and/and/1589.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1589.ts
 #EXTINF:0,SITEL 3
-http://iptv.nbrz.ru:9705/live/and/and/908.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/908.ts
 #EXTINF:0,Telma
-http://iptv.nbrz.ru:9705/live/and/and/90.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/90.ts
 #EXTINF:0,Alfa MK
-http://iptv.nbrz.ru:9705/live/and/and/800.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/800.ts
 #EXTINF:0,KANAL 5
-http://iptv.nbrz.ru:9705/live/and/and/92.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/92.ts
 #EXTINF:0,MK: Kanal 5+
-http://iptv.nbrz.ru:9705/live/and/and/712.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/712.ts
 #EXTINF:0,RTV 21MK
-http://iptv.nbrz.ru:9705/live/and/and/982.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/982.ts
 #EXTINF:0,Intv au MK
-http://iptv.nbrz.ru:9705/live/and/and/1390.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1390.ts
 #EXTINF:0,Tv Nova MK
-http://iptv.nbrz.ru:9705/live/and/and/875.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/875.ts
 #EXTINF:0,Dm Sat
-http://iptv.nbrz.ru:9705/live/and/and/699.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/699.ts
 #EXTINF:0,BG: NOVA
-http://iptv.nbrz.ru:9705/live/and/and/1683.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1683.ts
 #EXTINF:0,BG: Kino Nova
-http://iptv.nbrz.ru:9705/live/and/and/1684.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1684.ts
 #EXTINF:0,BG: Cinema
-http://iptv.nbrz.ru:9705/live/and/and/1685.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1685.ts
 #EXTINF:0,BG: bTV Lady
-http://iptv.nbrz.ru:9705/live/and/and/1687.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1687.ts
 #EXTINF:0,BG: Cinema+
-http://iptv.nbrz.ru:9705/live/and/and/1686.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1686.ts
 #EXTINF:0,BG: bTV Comedy
-http://iptv.nbrz.ru:9705/live/and/and/1688.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1688.ts
 #EXTINF:0,BG: bTV Cinema
-http://iptv.nbrz.ru:9705/live/and/and/1689.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1689.ts
 #EXTINF:0,BG: bTV Action
-http://iptv.nbrz.ru:9705/live/and/and/1690.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1690.ts
 #EXTINF:0,BG:TOP MUSIC HITS 2017 (music only)
-http://iptv.nbrz.ru:9705/live/and/and/1681.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1681.ts
 #EXTINF:0,BG: BNT 1
-http://iptv.nbrz.ru:9705/live/and/and/1680.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1680.ts
 #EXTINF:0,BG: Alfa
-http://iptv.nbrz.ru:9705/live/and/and/1682.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1682.ts
 #EXTINF:0,BG: Nova Sport
-http://iptv.nbrz.ru:9705/live/and/and/1693.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1693.ts
 #EXTINF:0,BG: Diema Sport 1
-http://iptv.nbrz.ru:9705/live/and/and/1691.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1691.ts
 #EXTINF:0,BG: Diema sport 2
-http://iptv.nbrz.ru:9705/live/and/and/1692.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1692.ts
 #EXTINF:0,Nova TV
-http://iptv.nbrz.ru:9705/live/and/and/100.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/100.ts
 #EXTINF:0,RTL Televizja
-http://iptv.nbrz.ru:9705/live/and/and/891.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/891.ts
 #EXTINF:0,RTL 2
-http://iptv.nbrz.ru:9705/live/and/and/829.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/829.ts
 #EXTINF:0,RTL LIVING
-http://iptv.nbrz.ru:9705/live/and/and/2060.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2060.ts
 #EXTINF:0,PRVA
-http://iptv.nbrz.ru:9705/live/and/and/230.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/230.ts
 #EXTINF:0,OBN
-http://iptv.nbrz.ru:9705/live/and/and/99.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/99.ts
 #EXTINF:0,HRT
-http://iptv.nbrz.ru:9705/live/and/and/97.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/97.ts
 #EXTINF:0,HRT 2
-http://iptv.nbrz.ru:9705/live/and/and/98.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/98.ts
 #EXTINF:0,RTS 1
-http://iptv.nbrz.ru:9705/live/and/and/150.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/150.ts
 #EXTINF:0,Rts 2
-http://iptv.nbrz.ru:9705/live/and/and/765.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/765.ts
 #EXTINF:0,BN
-http://iptv.nbrz.ru:9705/live/and/and/178.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/178.ts
 #EXTINF:0,B92
-http://iptv.nbrz.ru:9705/live/and/and/151.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/151.ts
 #EXTINF:0,Doma
-http://iptv.nbrz.ru:9705/live/and/and/779.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/779.ts
 #EXTINF:0,Hayat HD
-http://iptv.nbrz.ru:9705/live/and/and/997.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/997.ts
 #EXTINF:0,NR 1 Serb
-http://iptv.nbrz.ru:9705/live/and/and/761.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/761.ts
 #EXTINF:0,PINK
-http://iptv.nbrz.ru:9705/live/and/and/85.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/85.ts
 #EXTINF:0,Pink 2
-http://iptv.nbrz.ru:9705/live/and/and/867.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/867.ts
 #EXTINF:0,Pink 3
-http://iptv.nbrz.ru:9705/live/and/and/764.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/764.ts
 #EXTINF:0,Pink Premium
-http://iptv.nbrz.ru:9705/live/and/and/868.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/868.ts
 #EXTINF:0,PINK CRIME&MYSTERY
-http://iptv.nbrz.ru:9705/live/and/and/730.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/730.ts
 #EXTINF:0,Pink Plus
-http://iptv.nbrz.ru:9705/live/and/and/756.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/756.ts
 #EXTINF:0,Pink Extra
-http://iptv.nbrz.ru:9705/live/and/and/763.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/763.ts
 #EXTINF:0,Pink Film
-http://iptv.nbrz.ru:9705/live/and/and/176.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/176.ts
 #EXTINF:0,Pink BH
-http://iptv.nbrz.ru:9705/live/and/and/115.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/115.ts
 #EXTINF:0,PInk Horror
-http://iptv.nbrz.ru:9705/live/and/and/762.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/762.ts
 #EXTINF:0,PINK THRILLER
-http://iptv.nbrz.ru:9705/live/and/and/758.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/758.ts
 #EXTINF:0,PINK ACTION
-http://iptv.nbrz.ru:9705/live/and/and/86.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/86.ts
 #EXTINF:0,Pink Comedy
-http://iptv.nbrz.ru:9705/live/and/and/726.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/726.ts
 #EXTINF:0,Pink Romance
-http://iptv.nbrz.ru:9705/live/and/and/866.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/866.ts
 #EXTINF:0,Pink Kids
-http://iptv.nbrz.ru:9705/live/and/and/224.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/224.ts
 #EXTINF:0,PINK FOLK 1
-http://iptv.nbrz.ru:9705/live/and/and/87.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/87.ts
 #EXTINF:0,HAYAT FOLK
-http://iptv.nbrz.ru:9705/live/and/and/229.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/229.ts
 #EXTINF:0,BN MUSIC
-http://iptv.nbrz.ru:9705/live/and/and/760.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/760.ts
 #EXTINF:0,Discovery World BK
-http://iptv.nbrz.ru:9705/live/and/and/757.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/757.ts
 #EXTINF:0,EX-YU: Animal Planet
-http://iptv.nbrz.ru:9705/live/and/and/201.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/201.ts
 #EXTINF:0,Cinemax
-http://iptv.nbrz.ru:9705/live/and/and/834.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/834.ts
 #EXTINF:0,Cinestar 2
-http://iptv.nbrz.ru:9705/live/and/and/833.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/833.ts
 #EXTINF:0,Cinestar Premiere
-http://iptv.nbrz.ru:9705/live/and/and/832.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/832.ts
 #EXTINF:0,HBO Comedy
-http://iptv.nbrz.ru:9705/live/and/and/831.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/831.ts
 #EXTINF:0,HBO Adria
-http://iptv.nbrz.ru:9705/live/and/and/830.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/830.ts
 #EXTINF:0,Sport Klub 1
-http://iptv.nbrz.ru:9705/live/and/and/101.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/101.ts
 #EXTINF:0,Sport Klub 2
-http://iptv.nbrz.ru:9705/live/and/and/102.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/102.ts
 #EXTINF:0,Sport Klub 3
-http://iptv.nbrz.ru:9705/live/and/and/103.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/103.ts
 #EXTINF:0,Arena Sport 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/62.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/62.ts
 #EXTINF:0,Arena Sport 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/63.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/63.ts
 #EXTINF:0,Arena Sport 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/171.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/171.ts
 #EXTINF:0,Arena Sport 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/64.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/64.ts
 #EXTINF:0,Arena Sport 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/816.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/816.ts
 #EXTINF:0,====KANALE ITALY=====
-http://iptv.nbrz.ru:9705/live/and/and/870.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/870.ts
 #EXTINF:0,Rai 1 .HD
-http://iptv.nbrz.ru:9705/live/and/and/118.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/118.ts
 #EXTINF:0,Rai 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/117.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/117.ts
 #EXTINF:0,Rai 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/120.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/120.ts
 #EXTINF:0,Rai  4
-http://iptv.nbrz.ru:9705/live/and/and/887.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/887.ts
 #EXTINF:0,Rai 5
-http://iptv.nbrz.ru:9705/live/and/and/197.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/197.ts
 #EXTINF:0,Rai Premium
-http://iptv.nbrz.ru:9705/live/and/and/890.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/890.ts
 #EXTINF:0,Rai Movie
-http://iptv.nbrz.ru:9705/live/and/and/889.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/889.ts
 #EXTINF:0,RSI LA 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1592.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1592.ts
 #EXTINF:0,RSI La 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1593.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1593.ts
 #EXTINF:0,Sky Tg 24
-http://iptv.nbrz.ru:9705/live/and/and/204.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/204.ts
 #EXTINF:0,Italia 1
-http://iptv.nbrz.ru:9705/live/and/and/122.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/122.ts
 #EXTINF:0,Italia 2
-http://iptv.nbrz.ru:9705/live/and/and/141.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/141.ts
 #EXTINF:0,Rete 4
-http://iptv.nbrz.ru:9705/live/and/and/123.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/123.ts
 #EXTINF:0,Canale 5
-http://iptv.nbrz.ru:9705/live/and/and/121.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/121.ts
 #EXTINF:0,LA7
-http://iptv.nbrz.ru:9705/live/and/and/701.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/701.ts
 #EXTINF:0,Sky Uno
-http://iptv.nbrz.ru:9705/live/and/and/105.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/105.ts
 #EXTINF:0,FOX Life HD Italy
-http://iptv.nbrz.ru:9705/live/and/and/989.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/989.ts
 #EXTINF:0,Fox Italy
-http://iptv.nbrz.ru:9705/live/and/and/817.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/817.ts
 #EXTINF:0,Premium Calcio +1HD
-http://iptv.nbrz.ru:9705/live/and/and/142.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/142.ts
 #EXTINF:0,Premium Cinema HD
-http://iptv.nbrz.ru:9705/live/and/and/111.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/111.ts
 #EXTINF:0,Premium Cinema 2
-http://iptv.nbrz.ru:9705/live/and/and/189.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/189.ts
 #EXTINF:0,Premium Studio Universal
-http://iptv.nbrz.ru:9705/live/and/and/884.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/884.ts
 #EXTINF:0,Premium Joy
-http://iptv.nbrz.ru:9705/live/and/and/188.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/188.ts
 #EXTINF:0,Premium Joy +1
-http://iptv.nbrz.ru:9705/live/and/and/1309.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1309.ts
 #EXTINF:0,Premium Joy +2
-http://iptv.nbrz.ru:9705/live/and/and/1304.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1304.ts
 #EXTINF:0,Premium Stories
-http://iptv.nbrz.ru:9705/live/and/and/110.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/110.ts
 #EXTINF:0,Premium Energy
-http://iptv.nbrz.ru:9705/live/and/and/109.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/109.ts
 #EXTINF:0,Premium Energy +1HD
-http://iptv.nbrz.ru:9705/live/and/and/1315.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1315.ts
 #EXTINF:0,Premium Energy +2HD
-http://iptv.nbrz.ru:9705/live/and/and/1327.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1327.ts
 #EXTINF:0,Premium Crime
-http://iptv.nbrz.ru:9705/live/and/and/104.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/104.ts
 #EXTINF:0,Premium Emotion
-http://iptv.nbrz.ru:9705/live/and/and/44.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/44.ts
 #EXTINF:0,Premium Emotion +1
-http://iptv.nbrz.ru:9705/live/and/and/1303.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1303.ts
 #EXTINF:0,Premium Emotion +2
-http://iptv.nbrz.ru:9705/live/and/and/1301.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1301.ts
 #EXTINF:0,Premium Action
-http://iptv.nbrz.ru:9705/live/and/and/112.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/112.ts
 #EXTINF:0,Premium Action +24
-http://iptv.nbrz.ru:9705/live/and/and/1591.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1591.ts
 #EXTINF:0,PREMIUM COMEDY
-http://iptv.nbrz.ru:9705/live/and/and/172.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/172.ts
 #EXTINF:0,Sky Disney XD
-http://iptv.nbrz.ru:9705/live/and/and/916.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/916.ts
 #EXTINF:0,it Disney Junior
-http://iptv.nbrz.ru:9705/live/and/and/810.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/810.ts
 #EXTINF:0,Cartoon Network
-http://iptv.nbrz.ru:9705/live/and/and/134.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/134.ts
 #EXTINF:0,CARTOONITO
-http://iptv.nbrz.ru:9705/live/and/and/1933.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1933.ts
 #EXTINF:0,Rai YoYo
-http://iptv.nbrz.ru:9705/live/and/and/881.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/881.ts
 #EXTINF:0,Premium Sport
-http://iptv.nbrz.ru:9705/live/and/and/213.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/213.ts
 #EXTINF:0,Premium FoxSport
-http://iptv.nbrz.ru:9705/live/and/and/828.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/828.ts
 #EXTINF:0,Premium Sport 2 +1HD
-http://iptv.nbrz.ru:9705/live/and/and/803.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/803.ts
 #EXTINF:0,Premium Sport 2 +2HD
-http://iptv.nbrz.ru:9705/live/and/and/802.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/802.ts
 #EXTINF:0,Rai Sport 1
-http://iptv.nbrz.ru:9705/live/and/and/888.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/888.ts
 #EXTINF:0,Premium Sport FHD
-http://iptv.nbrz.ru:9705/live/and/and/113.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/113.ts
 #EXTINF:0,Premium Calcio 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/205.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/205.ts
 #EXTINF:0,Premium Calcio 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/210.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/210.ts
 #EXTINF:0,Premium Calcio 3
-http://iptv.nbrz.ru:9705/live/and/and/755.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/755.ts
 #EXTINF:0,Premium Calcio 4
-http://iptv.nbrz.ru:9705/live/and/and/754.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/754.ts
 #EXTINF:0,Premium Calcio 5
-http://iptv.nbrz.ru:9705/live/and/and/753.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/753.ts
 #EXTINF:0,Premium Calcio 6
-http://iptv.nbrz.ru:9705/live/and/and/915.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/915.ts
 #EXTINF:0,IT: Sky Cinema 3D
-http://iptv.nbrz.ru:9705/live/and/and/1307.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1307.ts
 #EXTINF:0,Sky Cinema 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/114.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/114.ts
 #EXTINF:0,Sky Cinema Family HD
-http://iptv.nbrz.ru:9705/live/and/and/116.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/116.ts
 #EXTINF:0,SkyCinema Hits
-http://iptv.nbrz.ru:9705/live/and/and/132.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/132.ts
 #EXTINF:0,Sky Cinema Max HD
-http://iptv.nbrz.ru:9705/live/and/and/128.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/128.ts
 #EXTINF:0,Sky Cinema Comedy HD
-http://iptv.nbrz.ru:9705/live/and/and/163.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/163.ts
 #EXTINF:0,Cinema Passion HD
-http://iptv.nbrz.ru:9705/live/and/and/164.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/164.ts
 #EXTINF:0,Sky Cinema Cult HD
-http://iptv.nbrz.ru:9705/live/and/and/931.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/931.ts
 #EXTINF:0,Sky Cinema Classic HD
-http://iptv.nbrz.ru:9705/live/and/and/146.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/146.ts
 #EXTINF:0,Sky Atlantic HD
-http://iptv.nbrz.ru:9705/live/and/and/892.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/892.ts
 #EXTINF:0,SKY Discovery
-http://iptv.nbrz.ru:9705/live/and/and/127.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/127.ts
 #EXTINF:0,Discovery Dmax IT
-http://iptv.nbrz.ru:9705/live/and/and/1612.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1612.ts
 #EXTINF:0,Sky History HD
-http://iptv.nbrz.ru:9705/live/and/and/221.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/221.ts
 #EXTINF:0,SKY ANIMAL PLANET
-http://iptv.nbrz.ru:9705/live/and/and/208.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/208.ts
 #EXTINF:0,NationalGeo HD
-http://iptv.nbrz.ru:9705/live/and/and/223.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/223.ts
 #EXTINF:0,Caccia & Pesca
-http://iptv.nbrz.ru:9705/live/and/and/81.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/81.ts
 #EXTINF:0,Rai Gulp
-http://iptv.nbrz.ru:9705/live/and/and/124.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/124.ts
 #EXTINF:0,MTV Live
-http://iptv.nbrz.ru:9705/live/and/and/708.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/708.ts
 #EXTINF:0,Euro Sport
-http://iptv.nbrz.ru:9705/live/and/and/155.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/155.ts
 #EXTINF:0,Sky Moto GP
-http://iptv.nbrz.ru:9705/live/and/and/129.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/129.ts
 #EXTINF:0,Sky Sport 24 HD
-http://iptv.nbrz.ru:9705/live/and/and/157.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/157.ts
 #EXTINF:0,Sky Sport 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/125.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/125.ts
 #EXTINF:0,Sky Sport 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/126.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/126.ts
 #EXTINF:0,Sky Supercalcio HD
-http://iptv.nbrz.ru:9705/live/and/and/180.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/180.ts
 #EXTINF:0,Sky Calcio 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/195.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/195.ts
 #EXTINF:0,Sky Calcio 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/219.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/219.ts
 #EXTINF:0,Sky Calcio 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/220.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/220.ts
 #EXTINF:0,PrimaFila 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/72.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/72.ts
 #EXTINF:0,PrimaFila 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/199.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/199.ts
 #EXTINF:0,PrimaFila 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/190.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/190.ts
 #EXTINF:0,PrimaFila 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/88.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/88.ts
 #EXTINF:0,Primafila 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/73.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/73.ts
 #EXTINF:0,Primafila 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/215.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/215.ts
 #EXTINF:0,Primafila 7 HD
-http://iptv.nbrz.ru:9705/live/and/and/216.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/216.ts
 #EXTINF:0,Primafila 8 HD
-http://iptv.nbrz.ru:9705/live/and/and/217.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/217.ts
 #EXTINF:0,Primafila 9 HD
-http://iptv.nbrz.ru:9705/live/and/and/214.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/214.ts
 #EXTINF:0,Primafila 10 HD
-http://iptv.nbrz.ru:9705/live/and/and/207.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/207.ts
 #EXTINF:0,====KANALE ENGLISH=====
-http://iptv.nbrz.ru:9705/live/and/and/872.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/872.ts
 #EXTINF:0,BBC 1 UK
-http://iptv.nbrz.ru:9705/live/and/and/211.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/211.ts
 #EXTINF:0,BBC 2(Uk)
-http://iptv.nbrz.ru:9705/live/and/and/1381.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1381.ts
 #EXTINF:0,BBC 3(Uk)
-http://iptv.nbrz.ru:9705/live/and/and/1380.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1380.ts
 #EXTINF:0,BBC 4 (Uk)
-http://iptv.nbrz.ru:9705/live/and/and/1382.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1382.ts
 #EXTINF:0,UK: ITV 1
-http://iptv.nbrz.ru:9705/live/and/and/694.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/694.ts
 #EXTINF:0,UK: RTE 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/147.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/147.ts
 #EXTINF:0,ITV 2
-http://iptv.nbrz.ru:9705/live/and/and/695.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/695.ts
 #EXTINF:0,ITV 3
-http://iptv.nbrz.ru:9705/live/and/and/696.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/696.ts
 #EXTINF:0,ITV 4
-http://iptv.nbrz.ru:9705/live/and/and/697.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/697.ts
 #EXTINF:0,Sky UK Premiere
-http://iptv.nbrz.ru:9705/live/and/and/166.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/166.ts
 #EXTINF:0,UK - SKY THRILLER
-http://iptv.nbrz.ru:9705/live/and/and/158.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/158.ts
 #EXTINF:0,SKY  FOX CRIME HD
-http://iptv.nbrz.ru:9705/live/and/and/744.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/744.ts
 #EXTINF:0,Sky Family HD UK
-http://iptv.nbrz.ru:9705/live/and/and/160.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/160.ts
 #EXTINF:0,UK: Sky Sci-Fi
-http://iptv.nbrz.ru:9705/live/and/and/703.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/703.ts
 #EXTINF:0,UK: Sky Drama
-http://iptv.nbrz.ru:9705/live/and/and/145.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/145.ts
 #EXTINF:0,Sky Movies Action  (UK)
-http://iptv.nbrz.ru:9705/live/and/and/159.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/159.ts
 #EXTINF:0,Sky UK Comedy
-http://iptv.nbrz.ru:9705/live/and/and/165.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/165.ts
 #EXTINF:0,Nat Geo Wild
-http://iptv.nbrz.ru:9705/live/and/and/706.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/706.ts
 #EXTINF:0,Discovery UK
-http://iptv.nbrz.ru:9705/live/and/and/705.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/705.ts
 #EXTINF:0,Discovery History
-http://iptv.nbrz.ru:9705/live/and/and/801.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/801.ts
 #EXTINF:0,Sky SPORTS F1 (UK)
-http://iptv.nbrz.ru:9705/live/and/and/68.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/68.ts
 #EXTINF:0,SkyUK: BT Sport 1
-http://iptv.nbrz.ru:9705/live/and/and/130.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/130.ts
 #EXTINF:0,SKY UK: BT SPORT 2
-http://iptv.nbrz.ru:9705/live/and/and/131.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/131.ts
 #EXTINF:0,SKY Sport 1 HD (uk)
-http://iptv.nbrz.ru:9705/live/and/and/57.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/57.ts
 #EXTINF:0,SKY Sport 2 HD (uk)
-http://iptv.nbrz.ru:9705/live/and/and/58.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/58.ts
 #EXTINF:0,SKY Sport 3 HD (uk)
-http://iptv.nbrz.ru:9705/live/and/and/59.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/59.ts
 #EXTINF:0,SKY Sport 4 HD (uk)
-http://iptv.nbrz.ru:9705/live/and/and/60.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/60.ts
 #EXTINF:0,SKY Sport 5 HD (uk)
-http://iptv.nbrz.ru:9705/live/and/and/61.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/61.ts
 #EXTINF:0,DE:Sky Sport 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/1213.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1213.ts
 #EXTINF:0,Amol Tv
-http://iptv.nbrz.ru:9705/live/and/and/1206.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1206.ts
 #EXTINF:0,DE:Sky Sport 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/1211.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1211.ts
 #EXTINF:0,BLOOMBERG
-http://iptv.nbrz.ru:9705/live/and/and/1212.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1212.ts
 #EXTINF:0,DE:Sky Sport 7 HD
-http://iptv.nbrz.ru:9705/live/and/and/1210.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1210.ts
 #EXTINF:0,De:Sky Sport 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/1214.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1214.ts
 #EXTINF:0,DE:Sky Sport 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1222.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1222.ts
 #EXTINF:0,NL: TLC
-http://iptv.nbrz.ru:9705/live/and/and/1541.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1541.ts
 #EXTINF:0,GR: SPICY Greek
-http://iptv.nbrz.ru:9705/live/and/and/1573.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1573.ts
 #EXTINF:0,NL: Fox Sports 6
-http://iptv.nbrz.ru:9705/live/and/and/1572.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1572.ts
 #EXTINF:0,NL: Fox Sports 5
-http://iptv.nbrz.ru:9705/live/and/and/1571.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1571.ts
 #EXTINF:0,NL: FILM 1 SPORTLIGHT
-http://iptv.nbrz.ru:9705/live/and/and/1574.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1574.ts
 #EXTINF:0,NL: SPORTS 1 EXSTRA 2
-http://iptv.nbrz.ru:9705/live/and/and/1542.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1542.ts
 #EXTINF:0,NL: SBS 9
-http://iptv.nbrz.ru:9705/live/and/and/1543.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1543.ts
 #EXTINF:0,NL: SBS 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/1544.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1544.ts
 #EXTINF:0,NL: RTL-8
-http://iptv.nbrz.ru:9705/live/and/and/1545.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1545.ts
 #EXTINF:0,NL: RTL-7
-http://iptv.nbrz.ru:9705/live/and/and/1546.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1546.ts
 #EXTINF:0,NL: RTL-5
-http://iptv.nbrz.ru:9705/live/and/and/1547.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1547.ts
 #EXTINF:0,NL: RTL-4
-http://iptv.nbrz.ru:9705/live/and/and/1548.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1548.ts
 #EXTINF:0,NL: NPO 3
-http://iptv.nbrz.ru:9705/live/and/and/1549.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1549.ts
 #EXTINF:0,NL: NPO 2
-http://iptv.nbrz.ru:9705/live/and/and/1550.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1550.ts
 #EXTINF:0,NL: SPORT 1 EXSTRA 1
-http://iptv.nbrz.ru:9705/live/and/and/1540.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1540.ts
 #EXTINF:0,NL: NPO 1
-http://iptv.nbrz.ru:9705/live/and/and/1551.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1551.ts
 #EXTINF:0,GR: Macedonia TV HD
-http://iptv.nbrz.ru:9705/live/and/and/1552.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1552.ts
 #EXTINF:0,NL: NET 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/1553.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1553.ts
 #EXTINF:0,NL: HBO 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1554.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1554.ts
 #EXTINF:0,NL: HBO 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1555.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1555.ts
 #EXTINF:0,NL: HBO 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1556.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1556.ts
 #EXTINF:0,NL: Fox Sports 1 Eredivisie HD
-http://iptv.nbrz.ru:9705/live/and/and/1560.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1560.ts
 #EXTINF:0,NL: Fox Sports 2
-http://iptv.nbrz.ru:9705/live/and/and/1559.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1559.ts
 #EXTINF:0,NL: Fox Sports 3 Eredivisie
-http://iptv.nbrz.ru:9705/live/and/and/1558.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1558.ts
 #EXTINF:0,NL: Fox Sports 4 Internationaal
-http://iptv.nbrz.ru:9705/live/and/and/1557.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1557.ts
 #EXTINF:0,NL: Fox
-http://iptv.nbrz.ru:9705/live/and/and/1561.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1561.ts
 #EXTINF:0,NL: Film 1 Premiere HD
-http://iptv.nbrz.ru:9705/live/and/and/1562.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1562.ts
 #EXTINF:0,NL: Film 1 Comedy
-http://iptv.nbrz.ru:9705/live/and/and/1563.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1563.ts
 #EXTINF:0,NL: Film 1 Action
-http://iptv.nbrz.ru:9705/live/and/and/1564.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1564.ts
 #EXTINF:0,NL: Disney Channel
-http://iptv.nbrz.ru:9705/live/and/and/1565.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1565.ts
 #EXTINF:0,NL: FILM 1 SUNDANCE
-http://iptv.nbrz.ru:9705/live/and/and/1566.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1566.ts
 #EXTINF:0,SW:TV 4
-http://iptv.nbrz.ru:9705/live/and/and/1442.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1442.ts
 #EXTINF:0,SE: Kanal 5
-http://iptv.nbrz.ru:9705/live/and/and/1443.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1443.ts
 #EXTINF:0,SE: Discovery Channel
-http://iptv.nbrz.ru:9705/live/and/and/1444.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1444.ts
 #EXTINF:0,SE:TV Sjuan
-http://iptv.nbrz.ru:9705/live/and/and/1445.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1445.ts
 #EXTINF:0,SE: TV8 SW
-http://iptv.nbrz.ru:9705/live/and/and/1446.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1446.ts
 #EXTINF:0,NOR: Viasat Sport
-http://iptv.nbrz.ru:9705/live/and/and/1441.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1441.ts
 #EXTINF:0,SE: Viasat Film Premiere
-http://iptv.nbrz.ru:9705/live/and/and/1447.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1447.ts
 #EXTINF:0,NO: VOX Norway
-http://iptv.nbrz.ru:9705/live/and/and/1496.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1496.ts
 #EXTINF:0,NO: Viasat Film
-http://iptv.nbrz.ru:9705/live/and/and/1488.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1488.ts
 #EXTINF:0,NO: Viasat Film Family
-http://iptv.nbrz.ru:9705/live/and/and/1487.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1487.ts
 #EXTINF:0,NO: Viasat 4 Norway
-http://iptv.nbrz.ru:9705/live/and/and/1495.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1495.ts
 #EXTINF:0,NO: Viasat Series
-http://iptv.nbrz.ru:9705/live/and/and/1494.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1494.ts
 #EXTINF:0,TV2 Zebra SWE
-http://iptv.nbrz.ru:9705/live/and/and/1497.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1497.ts
 #EXTINF:0,SeTv4 Film
-http://iptv.nbrz.ru:9705/live/and/and/1499.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1499.ts
 #EXTINF:0,SE: C More Hockey
-http://iptv.nbrz.ru:9705/live/and/and/1493.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1493.ts
 #EXTINF:0,NO: NRK1
-http://iptv.nbrz.ru:9705/live/and/and/1500.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1500.ts
 #EXTINF:0,tvm3
-http://iptv.nbrz.ru:9705/live/and/and/1501.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1501.ts
 #EXTINF:0,WEO
-http://iptv.nbrz.ru:9705/live/and/and/1502.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1502.ts
 #EXTINF:0,NOR: C More Live
-http://iptv.nbrz.ru:9705/live/and/and/1489.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1489.ts
 #EXTINF:0,SE: Kanal 9 HD
-http://iptv.nbrz.ru:9705/live/and/and/1490.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1490.ts
 #EXTINF:0,SE: TV10
-http://iptv.nbrz.ru:9705/live/and/and/1491.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1491.ts
 #EXTINF:0,SE: TV12
-http://iptv.nbrz.ru:9705/live/and/and/1492.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1492.ts
 #EXTINF:0,NO: VIASAT: SVT1
-http://iptv.nbrz.ru:9705/live/and/and/1486.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1486.ts
 #EXTINF:0,V2 Sport Premium SWE
-http://iptv.nbrz.ru:9705/live/and/and/1482.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1482.ts
 #EXTINF:0,TV3 Sport 1 SWE
-http://iptv.nbrz.ru:9705/live/and/and/1483.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1483.ts
 #EXTINF:0,VIASAT: SVT2
-http://iptv.nbrz.ru:9705/live/and/and/1484.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1484.ts
 #EXTINF:0,Viasat Film Hits
-http://iptv.nbrz.ru:9705/live/and/and/1485.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1485.ts
 #EXTINF:0,CHANNEL 4 Sweden
-http://iptv.nbrz.ru:9705/live/and/and/1498.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1498.ts
 #EXTINF:0,Viasat_Comedy SWE
-http://iptv.nbrz.ru:9705/live/and/and/1448.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1448.ts
 #EXTINF:0,SE: SVT2
-http://iptv.nbrz.ru:9705/live/and/and/1449.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1449.ts
 #EXTINF:0,C More Fotboll SWE
-http://iptv.nbrz.ru:9705/live/and/and/1450.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1450.ts
 #EXTINF:0,SE:TV 4 Film
-http://iptv.nbrz.ru:9705/live/and/and/1451.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1451.ts
 #EXTINF:0,More Fotboll SWE
-http://iptv.nbrz.ru:9705/live/and/and/1452.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1452.ts
 #EXTINF:0,C More First SWE
-http://iptv.nbrz.ru:9705/live/and/and/1453.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1453.ts
 #EXTINF:0,NO=C_More_Emotion (global)
-http://iptv.nbrz.ru:9705/live/and/and/1454.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1454.ts
 #EXTINF:0,More Action SWE
-http://iptv.nbrz.ru:9705/live/and/and/1455.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1455.ts
 #EXTINF:0,KANAL 5 SE
-http://iptv.nbrz.ru:9705/live/and/and/1456.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1456.ts
 #EXTINF:0,=====KANALE GJERMANE=====
-http://iptv.nbrz.ru:9705/live/and/and/910.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/910.ts
 #EXTINF:0,RTL Deutschland
-http://iptv.nbrz.ru:9705/live/and/and/170.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/170.ts
 #EXTINF:0,RTL II Deutschland
-http://iptv.nbrz.ru:9705/live/and/and/136.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/136.ts
 #EXTINF:0,Super RTL
-http://iptv.nbrz.ru:9705/live/and/and/203.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/203.ts
 #EXTINF:0,ZDF
-http://iptv.nbrz.ru:9705/live/and/and/95.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/95.ts
 #EXTINF:0,DE:-SKY-NOSTALGIE
-http://iptv.nbrz.ru:9705/live/and/and/202.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/202.ts
 #EXTINF:0,ARD
-http://iptv.nbrz.ru:9705/live/and/and/96.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/96.ts
 #EXTINF:0,VOX DE
-http://iptv.nbrz.ru:9705/live/and/and/723.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/723.ts
 #EXTINF:0,PRO 7 DE
-http://iptv.nbrz.ru:9705/live/and/and/702.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/702.ts
 #EXTINF:0,ATV 24
-http://iptv.nbrz.ru:9705/live/and/and/740.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/740.ts
 #EXTINF:0,DE: DMAX
-http://iptv.nbrz.ru:9705/live/and/and/1041.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1041.ts
 #EXTINF:0,ARTE.DE
-http://iptv.nbrz.ru:9705/live/and/and/161.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/161.ts
 #EXTINF:0,DE: 3Sat
-http://iptv.nbrz.ru:9705/live/and/and/748.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/748.ts
 #EXTINF:0,NICKELODEON DE
-http://iptv.nbrz.ru:9705/live/and/and/1028.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1028.ts
 #EXTINF:0,DE: SRF 2
-http://iptv.nbrz.ru:9705/live/and/and/711.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/711.ts
 #EXTINF:0,DE: Kika
-http://iptv.nbrz.ru:9705/live/and/and/139.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/139.ts
 #EXTINF:0,SAT 1
-http://iptv.nbrz.ru:9705/live/and/and/747.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/747.ts
 #EXTINF:0,Orf 1
-http://iptv.nbrz.ru:9705/live/and/and/750.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/750.ts
 #EXTINF:0,Orf 2
-http://iptv.nbrz.ru:9705/live/and/and/749.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/749.ts
 #EXTINF:0,Discovery Turbo
-http://iptv.nbrz.ru:9705/live/and/and/710.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/710.ts
 #EXTINF:0,RTL Plus
-http://iptv.nbrz.ru:9705/live/and/and/1043.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1043.ts
 #EXTINF:0,DE Sky Germany 13 Street HD
-http://iptv.nbrz.ru:9705/live/and/and/149.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/149.ts
 #EXTINF:0,DE: Syfy
-http://iptv.nbrz.ru:9705/live/and/and/1042.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1042.ts
 #EXTINF:0,MGM DE
-http://iptv.nbrz.ru:9705/live/and/and/1027.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1027.ts
 #EXTINF:0,SKY FOX DE
-http://iptv.nbrz.ru:9705/live/and/and/1026.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1026.ts
 #EXTINF:0,DE Sky Cinema HD
-http://iptv.nbrz.ru:9705/live/and/and/177.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/177.ts
 #EXTINF:0,Sky Cinema +24
-http://iptv.nbrz.ru:9705/live/and/and/66.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/66.ts
 #EXTINF:0,Sky Hits DE
-http://iptv.nbrz.ru:9705/live/and/and/782.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/782.ts
 #EXTINF:0,Sky De Krimi
-http://iptv.nbrz.ru:9705/live/and/and/148.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/148.ts
 #EXTINF:0,Srf 1 HDs 1
-http://iptv.nbrz.ru:9705/live/and/and/1044.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1044.ts
 #EXTINF:0,DE: Sky  Atlantic
-http://iptv.nbrz.ru:9705/live/and/and/138.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/138.ts
 #EXTINF:0,SKY DE EMOTION
-http://iptv.nbrz.ru:9705/live/and/and/218.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/218.ts
 #EXTINF:0,SKY ACTION DE
-http://iptv.nbrz.ru:9705/live/and/and/135.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/135.ts
 #EXTINF:0,SKY COMEDY DE
-http://iptv.nbrz.ru:9705/live/and/and/813.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/813.ts
 #EXTINF:0,Sky Kids DE
-http://iptv.nbrz.ru:9705/live/and/and/709.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/709.ts
 #EXTINF:0,PT: SPORT TV 1
-http://iptv.nbrz.ru:9705/live/and/and/746.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/746.ts
 #EXTINF:0,Digi Sport 1
-http://iptv.nbrz.ru:9705/live/and/and/140.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/140.ts
 #EXTINF:0,ES: C _DEPORTES2
-http://iptv.nbrz.ru:9705/live/and/and/1184.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1184.ts
 #EXTINF:0,DE:Disney channels
-http://iptv.nbrz.ru:9705/live/and/and/809.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/809.ts
 #EXTINF:0,SKY Bundesliga
-http://iptv.nbrz.ru:9705/live/and/and/71.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/71.ts
 #EXTINF:0,SportDigital HD DE
-http://iptv.nbrz.ru:9705/live/and/and/865.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/865.ts
 #EXTINF:0,SKY Sport 1 HD (de)
-http://iptv.nbrz.ru:9705/live/and/and/75.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/75.ts
 #EXTINF:0,SKY Sport 2 HD (de)
-http://iptv.nbrz.ru:9705/live/and/and/76.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/76.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1293.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1293.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1334.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1334.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/1329.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1329.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/1323.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1323.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/1287.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1287.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 7 HD
-http://iptv.nbrz.ru:9705/live/and/and/1286.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1286.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 8 HD
-http://iptv.nbrz.ru:9705/live/and/and/1285.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1285.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 9 HD
-http://iptv.nbrz.ru:9705/live/and/and/1311.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1311.ts
 #EXTINF:0,DE: SKY BUNDESLIGA 10 HD
-http://iptv.nbrz.ru:9705/live/and/and/1300.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1300.ts
 #EXTINF:0,DE: History
-http://iptv.nbrz.ru:9705/live/and/and/167.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/167.ts
 #EXTINF:0,DE: Sky NatGeo Wild HD
-http://iptv.nbrz.ru:9705/live/and/and/731.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/731.ts
 #EXTINF:0,National Geographic Channel Deutschland
-http://iptv.nbrz.ru:9705/live/and/and/235.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/235.ts
 #EXTINF:0,DE-SKY SELECT 1
-http://iptv.nbrz.ru:9705/live/and/and/1205.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1205.ts
 #EXTINF:0,DE-SKY SELECT 2
-http://iptv.nbrz.ru:9705/live/and/and/1203.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1203.ts
 #EXTINF:0,DE-SKY SELECT 3
-http://iptv.nbrz.ru:9705/live/and/and/1202.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1202.ts
 #EXTINF:0,DE-SKY SELECT 4
-http://iptv.nbrz.ru:9705/live/and/and/1201.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1201.ts
 #EXTINF:0,DE-SKY SELECT 5
-http://iptv.nbrz.ru:9705/live/and/and/1200.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1200.ts
 #EXTINF:0,DE-SKY SELECT 6
-http://iptv.nbrz.ru:9705/live/and/and/1199.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1199.ts
 #EXTINF:0,DE-SKY SELECT 7
-http://iptv.nbrz.ru:9705/live/and/and/1198.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1198.ts
 #EXTINF:0,DE-SKY SELECT 8
-http://iptv.nbrz.ru:9705/live/and/and/1197.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1197.ts
 #EXTINF:0,DE-SKY SELECT 10
-http://iptv.nbrz.ru:9705/live/and/and/1204.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1204.ts
 #EXTINF:0,VH1 CLASSIC
-http://iptv.nbrz.ru:9705/live/and/and/1185.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1185.ts
 #EXTINF:0,VH1
-http://iptv.nbrz.ru:9705/live/and/and/1186.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1186.ts
 #EXTINF:0,SP: TVE 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1181.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1181.ts
 #EXTINF:0,SP: CAZA Y PESCA
-http://iptv.nbrz.ru:9705/live/and/and/1182.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1182.ts
 #EXTINF:0,ODISEA
-http://iptv.nbrz.ru:9705/live/and/and/1183.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1183.ts
 #EXTINF:0,SP:HWD HOLLYWOOD HD
-http://iptv.nbrz.ru:9705/live/and/and/1177.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1177.ts
 #EXTINF:0,HISTORIA
-http://iptv.nbrz.ru:9705/live/and/and/1178.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1178.ts
 #EXTINF:0,SP: LA SEXTA
-http://iptv.nbrz.ru:9705/live/and/and/1179.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1179.ts
 #EXTINF:0,FOX LIFE
-http://iptv.nbrz.ru:9705/live/and/and/1173.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1173.ts
 #EXTINF:0,FOX
-http://iptv.nbrz.ru:9705/live/and/and/1174.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1174.ts
 #EXTINF:0,LA1 (es)
-http://iptv.nbrz.ru:9705/live/and/and/1175.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1175.ts
 #EXTINF:0,DISCOVERY MAX
-http://iptv.nbrz.ru:9705/live/and/and/1176.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1176.ts
 #EXTINF:0,SP: Real Madrid
-http://iptv.nbrz.ru:9705/live/and/and/1187.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1187.ts
 #EXTINF:0,COSMO
-http://iptv.nbrz.ru:9705/live/and/and/1188.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1188.ts
 #EXTINF:0,AXN WHITE
-http://iptv.nbrz.ru:9705/live/and/and/1168.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1168.ts
 #EXTINF:0,AXN
-http://iptv.nbrz.ru:9705/live/and/and/1169.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1169.ts
 #EXTINF:0,AMC ES
-http://iptv.nbrz.ru:9705/live/and/and/1171.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1171.ts
 #EXTINF:0,tcm
-http://iptv.nbrz.ru:9705/live/and/and/1172.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1172.ts
 #EXTINF:0,COMEDY CENTRAL
-http://iptv.nbrz.ru:9705/live/and/and/1189.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1189.ts
 #EXTINF:0,CANAL COCINA
-http://iptv.nbrz.ru:9705/live/and/and/1190.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1190.ts
 #EXTINF:0,CANAL  COMEDIA
-http://iptv.nbrz.ru:9705/live/and/and/1191.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1191.ts
 #EXTINF:0,CANAL   SERIES
-http://iptv.nbrz.ru:9705/live/and/and/1192.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1192.ts
 #EXTINF:0,C  SERIES EXTRA
-http://iptv.nbrz.ru:9705/live/and/and/1193.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1193.ts
 #EXTINF:0,C  ESTRENOS
-http://iptv.nbrz.ru:9705/live/and/and/1194.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1194.ts
 #EXTINF:0,C  ACCION
-http://iptv.nbrz.ru:9705/live/and/and/1195.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1195.ts
 #EXTINF:0,Canal + Liga
-http://iptv.nbrz.ru:9705/live/and/and/698.ts
-#EXTINF:0,C   FÃhttp://iptv.nbrz.ru:9705/live/and/and/1196.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/698.ts
+#EXTINF:0,C   FÃplugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1196.ts
 #EXTINF:0,Es:Deporte
-http://iptv.nbrz.ru:9705/live/and/and/1208.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1208.ts
 #EXTINF:0,SP: Taquilla 1
-http://iptv.nbrz.ru:9705/live/and/and/1955.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1955.ts
 #EXTINF:0,SP: Taquilla 2
-http://iptv.nbrz.ru:9705/live/and/and/1953.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1953.ts
 #EXTINF:0,SP: Taquilla 3
-http://iptv.nbrz.ru:9705/live/and/and/1952.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1952.ts
 #EXTINF:0,SP: Taquilla 4
-http://iptv.nbrz.ru:9705/live/and/and/1951.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1951.ts
 #EXTINF:0,SP: Taquilla 5
-http://iptv.nbrz.ru:9705/live/and/and/1950.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1950.ts
 #EXTINF:0,SP: Taquilla 6
-http://iptv.nbrz.ru:9705/live/and/and/1949.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1949.ts
 #EXTINF:0,SP: Taquilla 7
-http://iptv.nbrz.ru:9705/live/and/and/1948.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1948.ts
 #EXTINF:0,SP: Taquilla 8
-http://iptv.nbrz.ru:9705/live/and/and/1947.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1947.ts
 #EXTINF:0,SP: Taquilla 9
-http://iptv.nbrz.ru:9705/live/and/and/1946.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1946.ts
 #EXTINF:0,SP: Taquilla 10
-http://iptv.nbrz.ru:9705/live/and/and/1954.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1954.ts
 #EXTINF:0,PT:TVI Ficcao
-http://iptv.nbrz.ru:9705/live/and/and/1404.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1404.ts
 #EXTINF:0,PT:TVI 24
-http://iptv.nbrz.ru:9705/live/and/and/1434.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1434.ts
 #EXTINF:0,PT:TV Records
-http://iptv.nbrz.ru:9705/live/and/and/1408.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1408.ts
 #EXTINF:0,PT:Tvi Reality
-http://iptv.nbrz.ru:9705/live/and/and/1436.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1436.ts
 #EXTINF:0,PT:Sporting TV
-http://iptv.nbrz.ru:9705/live/and/and/1415.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1415.ts
 #EXTINF:0,PT:Series TV
-http://iptv.nbrz.ru:9705/live/and/and/1432.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1432.ts
 #EXTINF:0,PT:Rtp Africa
-http://iptv.nbrz.ru:9705/live/and/and/1411.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1411.ts
 #EXTINF:0,PT:Rtp 3
-http://iptv.nbrz.ru:9705/live/and/and/1405.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1405.ts
 #EXTINF:0,PT:Rtp 2
-http://iptv.nbrz.ru:9705/live/and/and/1406.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1406.ts
 #EXTINF:0,PT:Rtp 1
-http://iptv.nbrz.ru:9705/live/and/and/1407.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1407.ts
 #EXTINF:0,PT:Porto Canal
-http://iptv.nbrz.ru:9705/live/and/and/1416.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1416.ts
 #EXTINF:0,PT:Panda Biggs
-http://iptv.nbrz.ru:9705/live/and/and/1417.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1417.ts
 #EXTINF:0,PT:Odisseia
-http://iptv.nbrz.ru:9705/live/and/and/1418.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1418.ts
 #EXTINF:0,PT:Nickelodeon
-http://iptv.nbrz.ru:9705/live/and/and/1419.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1419.ts
 #EXTINF:0,PT:National Geographic Wild
-http://iptv.nbrz.ru:9705/live/and/and/1420.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1420.ts
 #EXTINF:0,es:National Geographic
-http://iptv.nbrz.ru:9705/live/and/and/1409.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1409.ts
 #EXTINF:0,PT:Historia
-http://iptv.nbrz.ru:9705/live/and/and/1412.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1412.ts
 #EXTINF:0,PT:Globo
-http://iptv.nbrz.ru:9705/live/and/and/1413.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1413.ts
 #EXTINF:0,PT:Fox movies
-http://iptv.nbrz.ru:9705/live/and/and/1414.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1414.ts
 #EXTINF:0,PT:Fox Life
-http://iptv.nbrz.ru:9705/live/and/and/1424.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1424.ts
 #EXTINF:0,PT:Fox HD
-http://iptv.nbrz.ru:9705/live/and/and/1425.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1425.ts
 #EXTINF:0,PT:Fox crime
-http://iptv.nbrz.ru:9705/live/and/and/1426.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1426.ts
 #EXTINF:0,PT:Disney Junior
-http://iptv.nbrz.ru:9705/live/and/and/1421.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1421.ts
 #EXTINF:0,PT:Disney Channel
-http://iptv.nbrz.ru:9705/live/and/and/1410.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1410.ts
 #EXTINF:0,PT:Cinemundo
-http://iptv.nbrz.ru:9705/live/and/and/1428.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1428.ts
 #EXTINF:0,PT:Cine 4 HD
-http://iptv.nbrz.ru:9705/live/and/and/1435.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1435.ts
 #EXTINF:0,PT:Cine 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1437.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1437.ts
 #EXTINF:0,PT:Cine 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1433.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1433.ts
 #EXTINF:0,PT:Cine 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1438.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1438.ts
 #EXTINF:0,PT:Canal Hollywood
-http://iptv.nbrz.ru:9705/live/and/and/1429.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1429.ts
 #EXTINF:0,PT:Benfica Tv 2
-http://iptv.nbrz.ru:9705/live/and/and/1430.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1430.ts
 #EXTINF:0,PT:Benfica Tv 1
-http://iptv.nbrz.ru:9705/live/and/and/1431.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1431.ts
 #EXTINF:0,PT:Baby TV
-http://iptv.nbrz.ru:9705/live/and/and/1422.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1422.ts
 #EXTINF:0,PT:A&E
-http://iptv.nbrz.ru:9705/live/and/and/1423.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1423.ts
 #EXTINF:0,PT: SPORT TV 2
-http://iptv.nbrz.ru:9705/live/and/and/886.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/886.ts
 #EXTINF:0,PT: SPORT TV 3
-http://iptv.nbrz.ru:9705/live/and/and/1440.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1440.ts
 #EXTINF:0,PT: SPORT TV 4
-http://iptv.nbrz.ru:9705/live/and/and/1439.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1439.ts
 #EXTINF:0,==========France Canal + Bein Sport=======
-http://iptv.nbrz.ru:9705/live/and/and/1397.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1397.ts
 #EXTINF:0,France O HD
-http://iptv.nbrz.ru:9705/live/and/and/69.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/69.ts
 #EXTINF:0,France 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/222.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/222.ts
 #EXTINF:0,France 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/70.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/70.ts
 #EXTINF:0,FR: France 4  HD
-http://iptv.nbrz.ru:9705/live/and/and/1319.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1319.ts
 #EXTINF:0,FR: FRANCE 5
-http://iptv.nbrz.ru:9705/live/and/and/1333.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1333.ts
 #EXTINF:0,City
-http://iptv.nbrz.ru:9705/live/and/and/1034.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1034.ts
 #EXTINF:0,M6
-http://iptv.nbrz.ru:9705/live/and/and/143.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/143.ts
 #EXTINF:0,W9
-http://iptv.nbrz.ru:9705/live/and/and/1030.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1030.ts
 #EXTINF:0,6ter
-http://iptv.nbrz.ru:9705/live/and/and/1031.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1031.ts
 #EXTINF:0,Canal C
-http://iptv.nbrz.ru:9705/live/and/and/1032.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1032.ts
 #EXTINF:0,1 - WEO fr
-http://iptv.nbrz.ru:9705/live/and/and/1180.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1180.ts
 #EXTINF:0,BOOMERANG
-http://iptv.nbrz.ru:9705/live/and/and/733.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/733.ts
 #EXTINF:0,TV Lux
-http://iptv.nbrz.ru:9705/live/and/and/1033.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1033.ts
 #EXTINF:0,OM5 TV
-http://iptv.nbrz.ru:9705/live/and/and/89.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/89.ts
 #EXTINF:0,FR: TF1
-http://iptv.nbrz.ru:9705/live/and/and/227.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/227.ts
 #EXTINF:0,FRA -  AB Moteur
-http://iptv.nbrz.ru:9705/live/and/and/206.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/206.ts
 #EXTINF:0,i24 NEWS
-http://iptv.nbrz.ru:9705/live/and/and/1029.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1029.ts
 #EXTINF:0,French: Canal + Decale HD
-http://iptv.nbrz.ru:9705/live/and/and/745.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/745.ts
 #EXTINF:0,Canal+ France
-http://iptv.nbrz.ru:9705/live/and/and/988.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/988.ts
 #EXTINF:0,Canal+ Family
-http://iptv.nbrz.ru:9705/live/and/and/986.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/986.ts
 #EXTINF:0,Canal+ Emotion
-http://iptv.nbrz.ru:9705/live/and/and/987.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/987.ts
 #EXTINF:0,Canal+ Cinema
-http://iptv.nbrz.ru:9705/live/and/and/759.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/759.ts
 #EXTINF:0,FR: PARIS PREMIERE
-http://iptv.nbrz.ru:9705/live/and/and/1308.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1308.ts
 #EXTINF:0,FR: OCS MAX
-http://iptv.nbrz.ru:9705/live/and/and/1288.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1288.ts
 #EXTINF:0,FR: OCS GEANT
-http://iptv.nbrz.ru:9705/live/and/and/1289.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1289.ts
 #EXTINF:0,FR: OCS CITY
-http://iptv.nbrz.ru:9705/live/and/and/1290.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1290.ts
 #EXTINF:0,FR: OCS CHOC
-http://iptv.nbrz.ru:9705/live/and/and/1291.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1291.ts
 #EXTINF:0,FR: CINE POLAR HD
-http://iptv.nbrz.ru:9705/live/and/and/1328.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1328.ts
 #EXTINF:0,FR: COMEDIE  HD
-http://iptv.nbrz.ru:9705/live/and/and/1322.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1322.ts
 #EXTINF:0,FR: RTL9
-http://iptv.nbrz.ru:9705/live/and/and/1312.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1312.ts
 #EXTINF:0,FR: ACTION
-http://iptv.nbrz.ru:9705/live/and/and/1324.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1324.ts
 #EXTINF:0,RMC Decouverte
-http://iptv.nbrz.ru:9705/live/and/and/1325.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1325.ts
 #EXTINF:0,FR_CINE_FX
-http://iptv.nbrz.ru:9705/live/and/and/1317.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1317.ts
 #EXTINF:0,FR_CANAL_SERIES_HD
-http://iptv.nbrz.ru:9705/live/and/and/1292.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1292.ts
 #EXTINF:0,FR: Serie Club
-http://iptv.nbrz.ru:9705/live/and/and/1294.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1294.ts
 #EXTINF:0,FR: CANAL J
-http://iptv.nbrz.ru:9705/live/and/and/1335.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1335.ts
 #EXTINF:0,FR: HD1
-http://iptv.nbrz.ru:9705/live/and/and/1330.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1330.ts
 #EXTINF:0,FR: AB1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1701.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1701.ts
 #EXTINF:0,FR: TCM Cinema
-http://iptv.nbrz.ru:9705/live/and/and/1702.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1702.ts
 #EXTINF:0,FR: TCM Cinema HD
-http://iptv.nbrz.ru:9705/live/and/and/1337.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1337.ts
 #EXTINF:0,UK BT Sport 3
-http://iptv.nbrz.ru:9705/live/and/and/1704.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1704.ts
 #EXTINF:0,UK: Sky Sports News
-http://iptv.nbrz.ru:9705/live/and/and/1705.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1705.ts
 #EXTINF:0,FR: Canal Play 3
-http://iptv.nbrz.ru:9705/live/and/and/1706.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1706.ts
 #EXTINF:0,FR: Canal Play 4
-http://iptv.nbrz.ru:9705/live/and/and/1707.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1707.ts
 #EXTINF:0,FR: Canal Play 5
-http://iptv.nbrz.ru:9705/live/and/and/1708.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1708.ts
 #EXTINF:0,FR: SFR Sport 1 HD
-http://iptv.nbrz.ru:9705/live/and/and/1694.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1694.ts
 #EXTINF:0,FR: SFR Sport 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1695.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1695.ts
 #EXTINF:0,FR: SFR Sport 3 HD
-http://iptv.nbrz.ru:9705/live/and/and/1696.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1696.ts
 #EXTINF:0,Wrestling Channel
-http://iptv.nbrz.ru:9705/live/and/and/1698.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1698.ts
 #EXTINF:0,FR: Foot  24
-http://iptv.nbrz.ru:9705/live/and/and/1697.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1697.ts
 #EXTINF:0,C Star
-http://iptv.nbrz.ru:9705/live/and/and/1703.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1703.ts
 #EXTINF:0,FR: Eurosport 2 HD
-http://iptv.nbrz.ru:9705/live/and/and/1700.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1700.ts
 #EXTINF:0,FR: Equidia Live HD
-http://iptv.nbrz.ru:9705/live/and/and/1699.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1699.ts
 #EXTINF:0,FR: Gulli
-http://iptv.nbrz.ru:9705/live/and/and/1331.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1331.ts
 #EXTINF:0,FR:DISNEY XD
-http://iptv.nbrz.ru:9705/live/and/and/1320.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1320.ts
 #EXTINF:0,FR_Chasse_et_Peche
-http://iptv.nbrz.ru:9705/live/and/and/1318.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1318.ts
 #EXTINF:0,Ushuaia
-http://iptv.nbrz.ru:9705/live/and/and/133.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/133.ts
 #EXTINF:0,FR: Animax
-http://iptv.nbrz.ru:9705/live/and/and/1295.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1295.ts
 #EXTINF:0,FR: Planete  A/E
-http://iptv.nbrz.ru:9705/live/and/and/1298.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1298.ts
 #EXTINF:0,FR: Planete
-http://iptv.nbrz.ru:9705/live/and/and/1299.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1299.ts
 #EXTINF:0,FR: Nat Geo Wild
-http://iptv.nbrz.ru:9705/live/and/and/1296.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1296.ts
 #EXTINF:0,FR: Nat Geo
-http://iptv.nbrz.ru:9705/live/and/and/1297.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1297.ts
 #EXTINF:0,FR: DiscoveryScienceHD
-http://iptv.nbrz.ru:9705/live/and/and/1321.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1321.ts
 #EXTINF:0,Discovery Showcase HD
-http://iptv.nbrz.ru:9705/live/and/and/1007.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1007.ts
 #EXTINF:0,FR_Discovery_HD
-http://iptv.nbrz.ru:9705/live/and/and/1316.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1316.ts
 #EXTINF:0,MTV Rocks
-http://iptv.nbrz.ru:9705/live/and/and/1332.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1332.ts
 #EXTINF:0,MTV Dance
-http://iptv.nbrz.ru:9705/live/and/and/1326.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1326.ts
 #EXTINF:0,FR_NRJ_TV
-http://iptv.nbrz.ru:9705/live/and/and/1314.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1314.ts
 #EXTINF:0,M6 Music
-http://iptv.nbrz.ru:9705/live/and/and/807.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/807.ts
 #EXTINF:0,Canal  Sport HD
-http://iptv.nbrz.ru:9705/live/and/and/729.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/729.ts
 #EXTINF:0,FR: A_LA_CARTE_02
-http://iptv.nbrz.ru:9705/live/and/and/1338.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1338.ts
 #EXTINF:0,FR: A_LA_CARTE_03
-http://iptv.nbrz.ru:9705/live/and/and/1339.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1339.ts
 #EXTINF:0,FR: A_LA_CARTE_04
-http://iptv.nbrz.ru:9705/live/and/and/1340.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1340.ts
 #EXTINF:0,FR: A_LA_CARTE_05
-http://iptv.nbrz.ru:9705/live/and/and/1341.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1341.ts
 #EXTINF:0,AR: BEIN SPORTS 1HD
-http://iptv.nbrz.ru:9705/live/and/and/1585.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1585.ts
 #EXTINF:0,AR: BEIN SPORTS 2HD
-http://iptv.nbrz.ru:9705/live/and/and/1586.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1586.ts
 #EXTINF:0,AR: BEIN SPORTS 3HD
-http://iptv.nbrz.ru:9705/live/and/and/1587.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1587.ts
 #EXTINF:0,beIN Sports HD 4
-http://iptv.nbrz.ru:9705/live/and/and/773.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/773.ts
 #EXTINF:0,AR:BeIN SPORTS 5 HD
-http://iptv.nbrz.ru:9705/live/and/and/1054.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1054.ts
 #EXTINF:0,AR:BeIN SPORTS 6 HD
-http://iptv.nbrz.ru:9705/live/and/and/1055.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1055.ts
 #EXTINF:0,AR:BEIN SPORTS 7 HD
-http://iptv.nbrz.ru:9705/live/and/and/1056.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1056.ts
 #EXTINF:0,Arabic: Bein Sports 10 HD
-http://iptv.nbrz.ru:9705/live/and/and/885.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/885.ts
 #EXTINF:0,AR: BEIN SPORTS 7HD
-http://iptv.nbrz.ru:9705/live/and/and/1575.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1575.ts
 #EXTINF:0,AR: BEIN SPORTS 8HD
-http://iptv.nbrz.ru:9705/live/and/and/1576.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1576.ts
 #EXTINF:0,AR: BEIN SPORTS 9HD
-http://iptv.nbrz.ru:9705/live/and/and/1577.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1577.ts
 #EXTINF:0,AR: BEIN SPORTS 10HD
-http://iptv.nbrz.ru:9705/live/and/and/1578.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1578.ts
 #EXTINF:0,AR: BEIN SPORTS 11HD
-http://iptv.nbrz.ru:9705/live/and/and/1579.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1579.ts
 #EXTINF:0,AR: BEIN SPORTS 12HD
-http://iptv.nbrz.ru:9705/live/and/and/1580.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1580.ts
 #EXTINF:0,AR: BEIN MOVIES 1HD
-http://iptv.nbrz.ru:9705/live/and/and/1581.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1581.ts
 #EXTINF:0,AR: BEIN MOVIES 2HD
-http://iptv.nbrz.ru:9705/live/and/and/1582.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1582.ts
 #EXTINF:0,AR: BEIN MOVIES 3HD
-http://iptv.nbrz.ru:9705/live/and/and/1583.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1583.ts
 #EXTINF:0,AR: BEIN MOVIES 4HD
-http://iptv.nbrz.ru:9705/live/and/and/1584.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1584.ts
 #EXTINF:0,FR: A_LA_CARTE_06
-http://iptv.nbrz.ru:9705/live/and/and/1342.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1342.ts
 #EXTINF:0,FR: A_LA_CARTE_07
-http://iptv.nbrz.ru:9705/live/and/and/1343.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1343.ts
 #EXTINF:0,FR_INFOSPORT_HD
-http://iptv.nbrz.ru:9705/live/and/and/1336.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1336.ts
 #EXTINF:0,Bein Sport  1 HD FR
-http://iptv.nbrz.ru:9705/live/and/and/194.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/194.ts
 #EXTINF:0,Bein Sport  2 HD FR
-http://iptv.nbrz.ru:9705/live/and/and/193.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/193.ts
 #EXTINF:0,beIN Sports HD 3 FR
-http://iptv.nbrz.ru:9705/live/and/and/724.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/724.ts
 #EXTINF:0,=========-GREECE-TURKE-============
-http://iptv.nbrz.ru:9705/live/and/and/1398.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1398.ts
 #EXTINF:0,ERT 1
-http://iptv.nbrz.ru:9705/live/and/and/179.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/179.ts
 #EXTINF:0,Ert 2
-http://iptv.nbrz.ru:9705/live/and/and/778.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/778.ts
 #EXTINF:0,EPT3
-http://iptv.nbrz.ru:9705/live/and/and/1386.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1386.ts
 #EXTINF:0,Mega
-http://iptv.nbrz.ru:9705/live/and/and/137.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/137.ts
 #EXTINF:0,Star (GR)
-http://iptv.nbrz.ru:9705/live/and/and/83.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/83.ts
 #EXTINF:0,Alpha (GR)
-http://iptv.nbrz.ru:9705/live/and/and/84.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/84.ts
 #EXTINF:0,E ! gr
-http://iptv.nbrz.ru:9705/live/and/and/119.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/119.ts
 #EXTINF:0,GR: Boyah GR
-http://iptv.nbrz.ru:9705/live/and/and/1310.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1310.ts
 #EXTINF:0,CAPITAL
-http://iptv.nbrz.ru:9705/live/and/and/1725.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1725.ts
 #EXTINF:0,APT
-http://iptv.nbrz.ru:9705/live/and/and/1724.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1724.ts
 #EXTINF:0,IDX GR
-http://iptv.nbrz.ru:9705/live/and/and/1723.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1723.ts
 #EXTINF:0,SCIENCE GR
-http://iptv.nbrz.ru:9705/live/and/and/1722.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1722.ts
 #EXTINF:0,Nea gr
-http://iptv.nbrz.ru:9705/live/and/and/82.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/82.ts
 #EXTINF:0,Ant 1 (GR)
-http://iptv.nbrz.ru:9705/live/and/and/152.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/152.ts
 #EXTINF:0,Nickelodeon GR
-http://iptv.nbrz.ru:9705/live/and/and/225.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/225.ts
 #EXTINF:0,Sky GR
-http://iptv.nbrz.ru:9705/live/and/and/777.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/777.ts
 #EXTINF:0,Music Greek
-http://iptv.nbrz.ru:9705/live/and/and/836.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/836.ts
 #EXTINF:0,Mad (GR)
-http://iptv.nbrz.ru:9705/live/and/and/185.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/185.ts
 #EXTINF:0,Nr 1 Channel
-http://iptv.nbrz.ru:9705/live/and/and/808.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/808.ts
 #EXTINF:0,PLUS GR
-http://iptv.nbrz.ru:9705/live/and/and/1385.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1385.ts
 #EXTINF:0,ANIMAL PLANET GR
-http://iptv.nbrz.ru:9705/live/and/and/1305.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1305.ts
 #EXTINF:0,NT1
-http://iptv.nbrz.ru:9705/live/and/and/806.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/806.ts
 #EXTINF:0,TRT 8
-http://iptv.nbrz.ru:9705/live/and/and/805.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/805.ts
 #EXTINF:0,ATV
-http://iptv.nbrz.ru:9705/live/and/and/815.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/815.ts
 #EXTINF:0,TRT HD
-http://iptv.nbrz.ru:9705/live/and/and/186.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/186.ts
 #EXTINF:0,Kanal D HD Turk
-http://iptv.nbrz.ru:9705/live/and/and/187.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/187.ts
 #EXTINF:0,TRT Muzik
-http://iptv.nbrz.ru:9705/live/and/and/80.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/80.ts
 #EXTINF:0,Star Tv Turk
-http://iptv.nbrz.ru:9705/live/and/and/77.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/77.ts
 #EXTINF:0,Show Tv Turk
-http://iptv.nbrz.ru:9705/live/and/and/78.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/78.ts
 #EXTINF:0,TR:SHOW TV
-http://iptv.nbrz.ru:9705/live/and/and/1347.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1347.ts
 #EXTINF:0,Moviesmart Turk
-http://iptv.nbrz.ru:9705/live/and/and/1367.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1367.ts
 #EXTINF:0,TR:-Sinema-Turk
-http://iptv.nbrz.ru:9705/live/and/and/1369.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1369.ts
 #EXTINF:0,TR:CNN TURK
-http://iptv.nbrz.ru:9705/live/and/and/1352.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1352.ts
 #EXTINF:0,TR:TV 8
-http://iptv.nbrz.ru:9705/live/and/and/1378.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1378.ts
 #EXTINF:0,TR:ULKE TV
-http://iptv.nbrz.ru:9705/live/and/and/1364.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1364.ts
 #EXTINF:0,Power HD
-http://iptv.nbrz.ru:9705/live/and/and/234.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/234.ts
 #EXTINF:0,PowerTurk HD
-http://iptv.nbrz.ru:9705/live/and/and/184.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/184.ts
 #EXTINF:0,TR:KRAL TV
-http://iptv.nbrz.ru:9705/live/and/and/1354.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1354.ts
 #EXTINF:0,TR:HABER TURK
-http://iptv.nbrz.ru:9705/live/and/and/1353.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1353.ts
 #EXTINF:0,TR:NAT GEO WILD
-http://iptv.nbrz.ru:9705/live/and/and/1355.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1355.ts
 #EXTINF:0,HABERTURK HD
-http://iptv.nbrz.ru:9705/live/and/and/804.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/804.ts
 #EXTINF:0,Lig Tv 1
-http://iptv.nbrz.ru:9705/live/and/and/209.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/209.ts
 #EXTINF:0,Lig tv 2
-http://iptv.nbrz.ru:9705/live/and/and/79.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/79.ts
 #EXTINF:0,Lig tv 3
-http://iptv.nbrz.ru:9705/live/and/and/182.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/182.ts
 #EXTINF:0,TR:LIG TV 4
-http://iptv.nbrz.ru:9705/live/and/and/1344.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1344.ts
 #EXTINF:0,TR:TIVIBUSPOR 1
-http://iptv.nbrz.ru:9705/live/and/and/1345.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1345.ts
 #EXTINF:0,TR:TIVIBUSPOR 2
-http://iptv.nbrz.ru:9705/live/and/and/1346.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1346.ts
 #EXTINF:0,NTV SPORT TR
-http://iptv.nbrz.ru:9705/live/and/and/835.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/835.ts
 #EXTINF:0,TR:DISNEY CHANNEL TV
-http://iptv.nbrz.ru:9705/live/and/and/1348.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1348.ts
 #EXTINF:0,TR: Minika Cocuk
-http://iptv.nbrz.ru:9705/live/and/and/1349.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1349.ts
 #EXTINF:0,TR: Flash TV
-http://iptv.nbrz.ru:9705/live/and/and/1365.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1365.ts
 #EXTINF:0,TR: Fanatik
-http://iptv.nbrz.ru:9705/live/and/and/1368.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1368.ts
 #EXTINF:0,TR:-Sinema-Aksiyon
-http://iptv.nbrz.ru:9705/live/and/and/1350.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1350.ts
 #EXTINF:0,TR: Sinema 1
-http://iptv.nbrz.ru:9705/live/and/and/1389.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1389.ts
 #EXTINF:0,TR:DISCOVERY CHANNEL
-http://iptv.nbrz.ru:9705/live/and/and/1356.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1356.ts
 #EXTINF:0,Salon 2
-http://iptv.nbrz.ru:9705/live/and/and/1362.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1362.ts
 #EXTINF:0,TR: A Haber
-http://iptv.nbrz.ru:9705/live/and/and/1371.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1371.ts
 #EXTINF:0,TR: Sinema TV 1001
-http://iptv.nbrz.ru:9705/live/and/and/1379.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1379.ts
 #EXTINF:0,TR: MOVIESMART-PLATIN
-http://iptv.nbrz.ru:9705/live/and/and/1357.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1357.ts
 #EXTINF:0,TR: SINEMAX_COMEDY_HD
-http://iptv.nbrz.ru:9705/live/and/and/1366.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1366.ts
 #EXTINF:0,TR: TRT DIYANET
-http://iptv.nbrz.ru:9705/live/and/and/1387.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1387.ts
 #EXTINF:0,TR:-CINESTAR-ANIMASYON
-http://iptv.nbrz.ru:9705/live/and/and/1384.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1384.ts
 #EXTINF:0,TR:Sinema Aksiyon
-http://iptv.nbrz.ru:9705/live/and/and/1383.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1383.ts
 #EXTINF:0,TR:FOX
-http://iptv.nbrz.ru:9705/live/and/and/1351.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1351.ts
 #EXTINF:0,Salon 1
-http://iptv.nbrz.ru:9705/live/and/and/1363.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1363.ts
 #EXTINF:0,Salon 3
-http://iptv.nbrz.ru:9705/live/and/and/1361.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1361.ts
 #EXTINF:0,Sinema 3 TV
-http://iptv.nbrz.ru:9705/live/and/and/1358.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1358.ts
 #EXTINF:0,KANAL 7 HD
-http://iptv.nbrz.ru:9705/live/and/and/1360.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1360.ts
 #EXTINF:0,IDMAN TV
-http://iptv.nbrz.ru:9705/live/and/and/1359.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1359.ts
 #EXTINF:0,TR:Cine Star TÃ¼rk 2
-http://iptv.nbrz.ru:9705/live/and/and/1373.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1373.ts
 #EXTINF:0,TR:Cine Star TÃ¼rk
-http://iptv.nbrz.ru:9705/live/and/and/1374.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1374.ts
 #EXTINF:0,TR:Cine Star Nostalji
-http://iptv.nbrz.ru:9705/live/and/and/1375.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1375.ts
 #EXTINF:0,TR:Cine Star Komedi
-http://iptv.nbrz.ru:9705/live/and/and/1376.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1376.ts
 #EXTINF:0,TR:Cine Star Gerilim
-http://iptv.nbrz.ru:9705/live/and/and/1377.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1377.ts
 #EXTINF:0,TR:-Sinema-Mix-1
-http://iptv.nbrz.ru:9705/live/and/and/1388.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1388.ts
 #EXTINF:0,TR VIXX TV KOMEDI
-http://iptv.nbrz.ru:9705/live/and/and/1372.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1372.ts
 #EXTINF:0,Moviesmart Premium
-http://iptv.nbrz.ru:9705/live/and/and/1370.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1370.ts
 #EXTINF:0,AR: Panorama_Drama2
-http://iptv.nbrz.ru:9705/live/and/and/1921.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1921.ts
 #EXTINF:0,DUBAI ONE
-http://iptv.nbrz.ru:9705/live/and/and/1925.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1925.ts
 #EXTINF:0,DUBAI RACING1
-http://iptv.nbrz.ru:9705/live/and/and/1927.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1927.ts
 #EXTINF:0,Dubai Sports
-http://iptv.nbrz.ru:9705/live/and/and/1926.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1926.ts
 #EXTINF:0,DUBAI TV
-http://iptv.nbrz.ru:9705/live/and/and/1922.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1922.ts
 #EXTINF:0,AR: Panorama_Film
-http://iptv.nbrz.ru:9705/live/and/and/1919.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1919.ts
 #EXTINF:0,SAMA DUBAI
-http://iptv.nbrz.ru:9705/live/and/and/1923.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1923.ts
 #EXTINF:0,AR: Panorama_Comedy
-http://iptv.nbrz.ru:9705/live/and/and/1920.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1920.ts
 #EXTINF:0,AR: DUBAI_DRAMA
-http://iptv.nbrz.ru:9705/live/and/and/1924.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1924.ts
 #EXTINF:0,Star cinema 1
-http://iptv.nbrz.ru:9705/live/and/and/1891.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1891.ts
 #EXTINF:0,Star cinema 2
-http://iptv.nbrz.ru:9705/live/and/and/1893.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1893.ts
 #EXTINF:0,ART AFLAM 1
-http://iptv.nbrz.ru:9705/live/and/and/1894.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1894.ts
 #EXTINF:0,ART AFLAM 2
-http://iptv.nbrz.ru:9705/live/and/and/1895.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1895.ts
 #EXTINF:0,ART CINEMA
-http://iptv.nbrz.ru:9705/live/and/and/1896.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1896.ts
 #EXTINF:0,MBC  DRAMA
-http://iptv.nbrz.ru:9705/live/and/and/1902.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1902.ts
 #EXTINF:0,MBC 1
-http://iptv.nbrz.ru:9705/live/and/and/1897.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1897.ts
 #EXTINF:0,MBC 2
-http://iptv.nbrz.ru:9705/live/and/and/1898.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1898.ts
 #EXTINF:0,MBC 3
-http://iptv.nbrz.ru:9705/live/and/and/1899.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1899.ts
 #EXTINF:0,MBC 4
-http://iptv.nbrz.ru:9705/live/and/and/1900.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1900.ts
 #EXTINF:0,MBC ACTION
-http://iptv.nbrz.ru:9705/live/and/and/1903.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1903.ts
 #EXTINF:0,MBC BOLLYWOOD
-http://iptv.nbrz.ru:9705/live/and/and/1905.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1905.ts
 #EXTINF:0,MBC MAX
-http://iptv.nbrz.ru:9705/live/and/and/1904.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1904.ts
 #EXTINF:0,OSN MOVIES ACTION 2
-http://iptv.nbrz.ru:9705/live/and/and/1914.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1914.ts
 #EXTINF:0,OSN MOVIES COMEDY
-http://iptv.nbrz.ru:9705/live/and/and/1913.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1913.ts
 #EXTINF:0,OSN MOVIES DRAMA
-http://iptv.nbrz.ru:9705/live/and/and/1912.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1912.ts
 #EXTINF:0,OSN MOVIES PREMIERE
-http://iptv.nbrz.ru:9705/live/and/and/1911.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1911.ts
 #EXTINF:0,OSN MOVIES PREMIERE  2
-http://iptv.nbrz.ru:9705/live/and/and/1910.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1910.ts
 #EXTINF:0,OSN ON DEMAND
-http://iptv.nbrz.ru:9705/live/and/and/1915.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1915.ts
 #EXTINF:0,OSN STAR MOVIES
-http://iptv.nbrz.ru:9705/live/and/and/1909.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1909.ts
 #EXTINF:0,OSN MOVIES ACTION+2
-http://iptv.nbrz.ru:9705/live/and/and/1908.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1908.ts
 #EXTINF:0,OSN YA HALA SHABAB
-http://iptv.nbrz.ru:9705/live/and/and/1907.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1907.ts
 #EXTINF:0,OSN YA HALA SHABAB DRAMA
-http://iptv.nbrz.ru:9705/live/and/and/1906.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/1906.ts
 #EXTINF:0,The-snare-2017
-http://iptv.nbrz.ru:9705/movie/and/and/1972.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1972.mp4
 #EXTINF:0,Bad Kids Of Crestview Academy (2017) | Aksion -  Komedi, Thriller | Viti: 2017
-http://iptv.nbrz.ru:9705/movie/and/and/2053.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2053.mp4
 #EXTINF:0,Death Race 2050 (2017)
-http://iptv.nbrz.ru:9705/movie/and/and/2051.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2051.mp4
 #EXTINF:0,Arsenali
-http://iptv.nbrz.ru:9705/movie/and/and/1969.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1969.mp4
 #EXTINF:0,Arrival (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1984.mp4
-#EXTINF:0,Assassinhttp://iptv.nbrz.ru:9705/movie/and/and/1985.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1984.mp4
+#EXTINF:0,Assassinplugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1985.mp4
 #EXTINF:0,At The End Of The Tunnel (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1986.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1986.mp4
 #EXTINF:0,Baaghi (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1987.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1987.mp4
 #EXTINF:0,Operation Avalanche (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1982.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1982.mp4
 #EXTINF:0,Ouija: Origin Of Evil (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1981.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1981.mp4
 #EXTINF:0,Cardboard Boxer (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1991.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1991.mp4
 #EXTINF:0,Citizen Soldier (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1990.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1990.mp4
 #EXTINF:0,Eliminators (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1992.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1992.mp4
 #EXTINF:0,Finding-dory-2016
-http://iptv.nbrz.ru:9705/movie/and/and/1993.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1993.mp4
 #EXTINF:0,Friend Request (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1994.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1994.mp4
 #EXTINF:0,Howard Lovecraft & The Frozen Kingdom (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1988.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1988.mp4
 #EXTINF:0,I Am Wrath (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1997.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1997.mp4
 #EXTINF:0,In A Valley Of Violence (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1996.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1996.mp4
 #EXTINF:0,Inside Out (2011)
-http://iptv.nbrz.ru:9705/movie/and/and/1989.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1989.mp4
 #EXTINF:0,Zonja Nga Qyteti
-http://iptv.nbrz.ru:9705/movie/and/and/1715.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1715.mkv
 #EXTINF:0,Shrek 1
-http://iptv.nbrz.ru:9705/movie/and/and/1718.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1718.mkv
 #EXTINF:0,Per Pushime Ne Rome - Komedi
-http://iptv.nbrz.ru:9705/movie/and/and/1717.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1717.mkv
 #EXTINF:0,Pallati 176
-http://iptv.nbrz.ru:9705/movie/and/and/1720.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1720.mkv
 #EXTINF:0,Epoka E Akullnajave 3
-http://iptv.nbrz.ru:9705/movie/and/and/1713.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1713.mkv
 #EXTINF:0,Epoka E Akullnajave 2
-http://iptv.nbrz.ru:9705/movie/and/and/1712.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1712.mkv
 #EXTINF:0,The Secret Life Of Pets
-http://iptv.nbrz.ru:9705/movie/and/and/1652.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1652.mkv
 #EXTINF:0,The Purge Election Year
-http://iptv.nbrz.ru:9705/movie/and/and/1666.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1666.mkv
 #EXTINF:0,The Good Dinosaur
-http://iptv.nbrz.ru:9705/movie/and/and/1647.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1647.mkv
 #EXTINF:0,The Bfg
-http://iptv.nbrz.ru:9705/movie/and/and/1664.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1664.mkv
 #EXTINF:0,Star Trek Beyond
-http://iptv.nbrz.ru:9705/movie/and/and/1648.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1648.mkv
 #EXTINF:0,Dirty Grandpa (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2003.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2003.mp4
 #EXTINF:0,Now You See Me 2
-http://iptv.nbrz.ru:9705/movie/and/and/1642.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1642.mkv
 #EXTINF:0,Neighbors 2: Sorority
-http://iptv.nbrz.ru:9705/movie/and/and/1655.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1655.mkv
 #EXTINF:0,Marauders
-http://iptv.nbrz.ru:9705/movie/and/and/1660.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1660.mkv
 #EXTINF:0,Ghostbusters
-http://iptv.nbrz.ru:9705/movie/and/and/1651.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1651.mkv
 #EXTINF:0,Central Intelligence
-http://iptv.nbrz.ru:9705/movie/and/and/1663.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1663.mkv
 #EXTINF:0,Carnage Park
-http://iptv.nbrz.ru:9705/movie/and/and/1658.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1658.mkv
 #EXTINF:0,Bad Moms
-http://iptv.nbrz.ru:9705/movie/and/and/1643.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1643.mkv
 #EXTINF:0,Alice Through The Looking Glass
-http://iptv.nbrz.ru:9705/movie/and/and/1657.mkv
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1657.mkv
 #EXTINF:0,/hasan
-http://iptv.nbrz.ru:9705/movie/and/and/1934.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1934.mp4
 #EXTINF:0,1920 London 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1935.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1935.mp4
 #EXTINF:0,Adventures On The Red Plane 
-http://iptv.nbrz.ru:9705/movie/and/and/1938.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1938.mp4
 #EXTINF:0,Constantine 2005
-http://iptv.nbrz.ru:9705/movie/and/and/1936.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1936.mp4
 #EXTINF:0,Erased 2012
-http://iptv.nbrz.ru:9705/movie/and/and/1937.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1937.mp4
 #EXTINF:0,Hail Caesar 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1941.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1941.mp4
 #EXTINF:0,Kill Command 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1939.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1939.mp4
 #EXTINF:0,Home Alone (1990)
-http://iptv.nbrz.ru:9705/movie/and/and/2055.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2055.mp4
 #EXTINF:0,Brotherhood (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2057.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2057.mp4
 #EXTINF:0,Bachelorette (2012)
-http://iptv.nbrz.ru:9705/movie/and/and/2054.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2054.mp4
 #EXTINF:0,13 Hours: The Secret Soldiers Of Benghazi (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2056.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2056.mp4
 #EXTINF:0,A Cinderella Story: If The Shoe Fits (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2007.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2007.mp4
 #EXTINF:0,Passengers (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2059.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2059.mp4
 #EXTINF:0,Criminal (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2004.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2004.mp4
 #EXTINF:0,Deepwater Horizon (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2001.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2001.mp4
 #EXTINF:0,Divines (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2002.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2002.mp4
 #EXTINF:0,End Of A Gun (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2005.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2005.mp4
 #EXTINF:0,Fast Convoy (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2006.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2006.mp4
 #EXTINF:0,Absolutely Fabulous: The Movie (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2008.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2008.mp4
 #EXTINF:0,The Legend Of Tarzan 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1928.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1928.mp4
 #EXTINF:0,The Confirmation 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1940.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1940.mp4
 #EXTINF:0,The Russia 
-http://iptv.nbrz.ru:9705/movie/and/and/1944.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1944.mp4
 #EXTINF:0,Welcome Back 2015 
-http://iptv.nbrz.ru:9705/movie/and/and/1943.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1943.mp4
 #EXTINF:0,American Honey 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1957.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1957.mp4
 #EXTINF:0,Anonymous The Hacker (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1956.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1956.mp4
 #EXTINF:0,Babbo Bastardo 2 (bad Santa 2) Ita 2016
-http://iptv.nbrz.ru:9705/movie/and/and/1960.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1960.mp4
 #EXTINF:0,Bounty Killer
-http://iptv.nbrz.ru:9705/movie/and/and/1959.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1959.mp4
 #EXTINF:0,La Festa Prima Delle Feste (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1958.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1958.mp4
 #EXTINF:0,The Hollow Point (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1965.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1965.mp4
 #EXTINF:0,Max Steel (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1966.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1966.mp4
 #EXTINF:0,Rocky Handsome (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1967.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1967.mp4
 #EXTINF:0,Baked-brooklyn-2016
-http://iptv.nbrz.ru:9705/movie/and/and/1976.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1976.mp4
 #EXTINF:0,Deepwater-horizon-2016
-http://iptv.nbrz.ru:9705/movie/and/and/1973.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1973.mp4
 #EXTINF:0,Home-alone-2-lost-new-york
-http://iptv.nbrz.ru:9705/movie/and/and/1978.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1978.mp4
 #EXTINF:0,Moana (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/1974.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1974.mp4
 #EXTINF:0,Café Society (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2058.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2058.mp4
 #EXTINF:0,Spirit: Stallion Of The Cimarron (2002)
-http://iptv.nbrz.ru:9705/movie/and/and/1975.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1975.mp4
 #EXTINF:0,Grandpa-2016
-http://iptv.nbrz.ru:9705/movie/and/and/2009.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2009.mp4
 #EXTINF:0,Housefull 3 (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2011.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2011.mp4
 #EXTINF:0,Ae Dil Hai Mushkil (2016)
-http://iptv.nbrz.ru:9705/movie/and/and/2012.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/2012.mp4
 #EXTINF:0,>>>> Radio <<<<<
-http://iptv.nbrz.ru:9705/live/and/and/2017.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2017.ts
 #EXTINF:0,AL: Radio 24 Popullore
-http://iptv.nbrz.ru:9705/live/and/and/2020.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2020.ts
 #EXTINF:0,AL: Radio Dashuria
-http://iptv.nbrz.ru:9705/live/and/and/2026.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2026.ts
 #EXTINF:0,AL: Radio Dielli
-http://iptv.nbrz.ru:9705/live/and/and/2025.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2025.ts
 #EXTINF:0,AL: Radio Gurbeti
-http://iptv.nbrz.ru:9705/live/and/and/2024.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2024.ts
 #EXTINF:0,AL: Radio KOSOVA
-http://iptv.nbrz.ru:9705/live/and/and/2018.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2018.ts
 #EXTINF:0,AL: Radio Kosova e Lire
-http://iptv.nbrz.ru:9705/live/and/and/2019.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2019.ts
 #EXTINF:0,AL: Radio Kosovarja
-http://iptv.nbrz.ru:9705/live/and/and/2023.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2023.ts
 #EXTINF:0,AL: Radio KS'Dance HITS
-http://iptv.nbrz.ru:9705/live/and/and/2015.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2015.ts
 #EXTINF:0,TOP ALBANIA RADIO
-http://iptv.nbrz.ru:9705/live/and/and/2028.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2028.ts
 #EXTINF:0,AL: Radio KS'POPULLORE
-http://iptv.nbrz.ru:9705/live/and/and/2022.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2022.ts
 #EXTINF:0,AL: Radio RASH Tr
-http://iptv.nbrz.ru:9705/live/and/and/2032.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2032.ts
 #EXTINF:0,AL: Radio Shqipet e Folklorit
-http://iptv.nbrz.ru:9705/live/and/and/2021.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2021.ts
 #EXTINF:0,AL: Radio Tirana 1
-http://iptv.nbrz.ru:9705/live/and/and/2030.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2030.ts
 #EXTINF:0,AL: Radio Tirana 2
-http://iptv.nbrz.ru:9705/live/and/and/2031.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2031.ts
 #EXTINF:0,AL: SuperStar Radio Tirana 98.7
-http://iptv.nbrz.ru:9705/live/and/and/2029.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2029.ts
 #EXTINF:0,AL: Top Gold Radio 100.8 FM Tirana
-http://iptv.nbrz.ru:9705/live/and/and/2016.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2016.ts
 #EXTINF:0,GR: TV RYTHMOS 94.3
-http://iptv.nbrz.ru:9705/live/and/and/2014.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/live/and/and/2014.ts
 #EXTINF:0,Test3
-http://iptv.nbrz.ru:9705/movie/and/and/1970.mp4
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://iptv.nbrz.ru:9705/movie/and/and/1970.mp4
