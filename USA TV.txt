@@ -7,6 +7,13 @@
 </item>
 
 <item>
+<title>Animal Planet Live</title>
+<link>http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>360 North</title>
 <link>http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/1vCDjD0.jpg</thumbnail>
@@ -157,6 +164,13 @@
 </item>
 
 <item>
+<title>WPCT BeachTV 46 - 47 DT - Panama City Bch - FL Florida</title>
+<link>rtmp://media4.tripsmarter.com/LiveTV/DTVHD</link>
+<thumbnail>http://boris.16mb.com/tv/us/beach_tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>W33BY-D TV33 - Detroit - MI Michigan</title>
 <link>http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/C39szxk.png</thumbnail>
@@ -174,6 +188,13 @@
 <title>Minneapolis 79 - 79CTV - Minneapolis - MN Minnesota</title>
 <link>rtmp://wowza1.qc.implex.net/cityofminneapolis/live1</link>
 <thumbnail>http://i.imgur.com/GJL5FDe.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Teveo Miami Spanish</title>
+<link>http://q.gs/9830047/tveomiamitodokodim3u8</link>
+<thumbnail>http://i.imgur.com/1Tlnec7.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 

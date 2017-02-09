@@ -229,6 +229,13 @@
 </item>
 
 <item>
+<title>Russia Today USA</title>
+<link>http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index1600.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Russia Today</title>
 <link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8</link>
 <thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
@@ -239,6 +246,13 @@
 <title>RT Documentary</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/NuqR2K6.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Channel News Asia</title>
+<link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 

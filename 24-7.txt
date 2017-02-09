@@ -1,4 +1,12 @@
 ﻿<item>
+
+<item>
+<title>Aquarium Live</title>
+<link>http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8</link>
+<thumbnail>http://i.imgur.com/adtXawg.png</thumbnail>
+<fanart>http://i.imgur.com/tQjbbuw.jpg</fanart>
+</item>
+
 <item>
 <title>Bruce Lee</title>
 <link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
@@ -13,6 +21,14 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Adult Swim</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>ADULT SWIM Fish Center</title>
 <link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
 <thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
@@ -34,10 +50,15 @@
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<title>Toonami Aftermath</title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/ZiV8Gjb.jpg</thumbnail>
+<fanart>http://i.imgur.com/arVRlAa.jpg</fanart>
 </item>
 
-
+<item>
+<title>Mystery Science Theater</title>
+<link>http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/jXcFExa.png</thumbnail>
+<fanart>http://i.imgur.com/9IKQkvT.png</fanart>
+</item>

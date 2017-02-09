@@ -47,8 +47,16 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Ideal World </title>
 <link>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/mGJFh4K.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Swap Shop</title>
+<link>http://iphone-streaming.ustream.tv/uhls/7116032/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/P6c2DFd.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
