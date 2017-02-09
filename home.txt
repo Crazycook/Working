@@ -66,11 +66,19 @@ The recording of Metallica was troubled, as the band frequently entered conflict
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channHardwired...To Self-Destruct</name>
+<channel>Hardwired...To Self-Destruct</name>
 <thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Hardwired...To%20Self-Destruct.txt</externallink>
 <fanart>http://i.imgur.com/9QRc8M7.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
+
+<channel>videos</name>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Hardwired...To%20Self-Destruct.txt</externallink>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
+</channel>
+
+https://raw.githubusercontent.com/Crazycook/Working/Metallica/Videos.txt
 
 </channels>
