@@ -1,3 +1,141 @@
+﻿<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart>http://i.imgur.com/7L9yJJv.png</fanart>
+</item>
+<item>
+<title>Simple Kodi - Create a Wizard</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>PUSSYCAT</title>
 <utube>6IyU02E9bdM</utube>
@@ -84,7 +222,7 @@
 </item>
 <item>
 <title>Dancing man wearing a horse mask cooks wild mushrooms.</title>
-<utube>NHY3kq6uoko</utube>
+<utube>ffDPTKn7HiY</utube>
 <thumbnail>http://i.imgur.com/mZ44tnO.jpg</thumbnail>
 <fanart>http://i.imgur.com/7L9yJJv.png</fanart>
 </item>
