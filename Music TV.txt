@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>4 Music</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8</link>
+<thumbnail>http://i.imgur.com/w22MZwa.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>24 Rock One</title>
 <link>http://194.116.83.15:80/24RockOne66</link>
 <thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
@@ -98,6 +105,12 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Clubbing TV</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8</link>
+<thumbnail>http://i.imgur.com/wDJsB65.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 <item>
 <title>Cool HD - 103.7 TV</title>
 <link>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
@@ -353,6 +366,13 @@
 </item>
 
 <item>
+<title>Ibiza Global</title>
+<link>http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/eBcekYJ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Indies Live</title>
 <link>http://ec.playmedia.fr/indies-live/live/playlist.m3u8</link>
 <thumbnail>http://nasdy.website/indieslive/wp-content/uploads/sites/47/2016/08/logo_il-2.png</thumbnail>
@@ -537,6 +557,12 @@
 </item>
 
 <item>
+<title>Promo DJ TV</title>
+<link>http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8</link>
+<thumbnail>http://i.imgur.com/dlq6k92.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>radioutv</title>
 <link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
 <thumbnail>https://i.imgur.com/8Q8vVM3.jpg</thumbnail>
@@ -674,6 +700,13 @@
 <title>Slam TV</title>
 <link>http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8</link>
 <thumbnail>https://i.imgur.com/hdyc8zy.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Spirit TV</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/b8zuHLt.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
