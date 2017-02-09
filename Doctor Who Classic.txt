@@ -3339,260 +3339,746 @@
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E01%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E01%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E01%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E01%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E02 Part</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E02%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E03%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E03%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E03%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E03 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E03%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E04 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E04%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E04 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E04%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E04 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E04%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E04 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E04%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E05 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E05%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E05 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E05%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E05 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E05%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E05 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E05%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E06 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E06%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E06 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E06%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E07 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E07%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S20E07 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s20/Doctor%20Who%20Classic%20S20E07%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E01%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E01%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E01%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E01%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E02 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E02%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E02 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E02%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E03%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E03%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E03%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E03 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E03%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E04 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E04%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E04 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E04%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E04 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E04%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E04 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E04%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E05 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E05%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E05 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E05%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E05 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E05%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E05 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E05%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E06 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E06%20Part01%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E06 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E06%20Part02%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E06 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E06%20Part03%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
 </item>
 <item>
-<title>Doctor Who Classic </title>
-<link></link>
+<title>Doctor Who Classic S21E06 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E06%20Part04%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
 <fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S21E07 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E07%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S21E07 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E07%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S21E07 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E07%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S21E07 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s21/Doctor%20Who%20Classic%20S21E07%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E01</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who ClassicS22E02</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E03</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E05</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E06</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E7</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E08</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E09</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E10</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E11a</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E11a%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E11b</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E11b%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E12</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S22E13</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s22/Doctor%20Who%20Classic%20S22E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E01%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E01%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E01%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E01%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E02 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E02%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E02 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E02%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E02 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E02%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E02 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E02%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E03%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E03%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E03%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E03%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who ClassicS23E03 Part1 </title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E04%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E03%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E04%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S23E03 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s23/Doctor%20Who%20Classic%20S23E04%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/ngB7LSI.png</thumbnail>
+<fanart>http://i.imgur.com/qDqgxbW.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E01%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E01%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E01%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E01%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E02 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E02%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E02 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E02%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E02 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E02%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E02 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E02%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E03%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E03%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E01 Part</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E03%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E04 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E04%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E04 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E04%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S24E04 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s24/Doctor%20Who%20Classic%20S24E04%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E01%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E01%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E01%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E01%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E02 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E02%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E02 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E02%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E02 Part</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E02%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E02 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E02%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E03%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E03%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E03%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E04 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E04%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E04 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E04%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E04 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E04%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S25E04 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s25/Doctor%20Who%20Classic%20S25E04%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E01 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E01%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E01 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E01%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E01 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E01%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E01 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E01%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E02 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E02%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E02 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E02%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E02 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E02%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E03 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E03%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E03 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E03%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E03 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E03%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E03 Part4</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E03%20Part04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E04 Part1</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E04%20Part01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E04 Part2</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E04%20Part02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic S26E04 Part3</title>
+<link>http://s1.bia2m.biz/Series//Doctor%20Who%20Classic/s26/Doctor%20Who%20Classic%20S26E04%20Part03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic </title>
+<link></link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic </title>
+<link></link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic </title>
+<link></link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic </title>
+<link></link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
+</item>
+<item>
+<title>Doctor Who Classic </title>
+<link></link>
+<thumbnail>http://i.imgur.com/Z7zpIT3.png</thumbnail>
+<fanart>http://i.imgur.com/6UBM24u.jpg</fanart>
 </item>
