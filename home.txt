@@ -153,6 +153,18 @@ Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 </channel>
 
 <channel>
+<name>Preacher</name>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Orange%20is%20the%20New%20Black.txt</externallink>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+<info>Preacher
+
+Preacher is an American television series developed by Evan Goldberg, Seth Rogen and Sam Catlin for AMC starring Dominic Cooper.
+First episode date : May 22, 2016
+Network : AMC</info>
+</channel>
+
+<channel>
 <name>The Walking Dead</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead.txt</externallink>
