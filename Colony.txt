@@ -83,8 +83,8 @@
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>Colony S02 E05 720p</title>
+<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E05%20720p%20(MovIran).mp4</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
