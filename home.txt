@@ -1,6 +1,53 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>1983 Show No Mercy</name>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/1983%20-%20Show%20No%20Mercy.txt</externallink>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+<info>Show No Mercy Studio album by Slayer
+Show No Mercy is the debut studio album by American thrash metal band Slayer, released in December 1983 through Metal Blade Records. Wikipedia
+Artist: Slayer
+Release date: December 3, 1983
+Label: Metal Blade Records
+Producer: Brian Slagel
+Genres: Thrash metal, Black metal, Speed metal
+</info>
+</channel>
+
+<channel>
+<name>1984 Haunting the Chapel (EP)</name>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/1984%20Haunting%20the%20Chapel%20(ep).txt</externallink>
+<fanart>http://i.imgur.com/2wbqbEx.jpg</fanart>
+<info>Haunting the Chapel Album by Slayer
+Haunting the Chapel is an EP released by American thrash metal band Slayer in 1984 through Metal Blade and Enigma Records. Wikipedia
+Artist: Slayer
+Release date: August 4, 1984
+Label: Metal Blade Records
+Producer: Brian Slagel
+Genre: Thrash metal
+</info>
+</channel>
+
+<channel>
+<name>1984 Live Undead</name>
+<thumbnail>http://i.imgur.com/d5rAs37.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Slayer/1984%20Live%20Undead.txt</externallink>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+<info>Live Undead Live album by Slayer
+Live Undead is the first live album by American thrash metal band Slayer. It was released through Metal Blade Records and recorded in New York City in front of a room of people. Wikipedia
+Artist: Slayer
+Release date: November 16, 1984
+Producer: Bill Metoyer
+Label: Metal Blade Records
+Genre: Thrash metal
+</info>
+</channel>
+
+
 <channel>
 <name>Undisputed Attitude</name>
 <thumbnail>http://cdn-s3.allmusic.com/release-covers/500/0002/764/0002764342.jpg</thumbnail>
