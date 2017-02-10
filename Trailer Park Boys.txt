@@ -1,15 +1,42 @@
 ﻿<item>
+<title>Trailer Park Boys Countdown to Liqour day</title>
+<link>http://hmm.naturalbd.com:81/hmt/Trailer%20Park%20Boys%202.avi</link>
+<thumbnail>http://i.imgur.com/RPML6Ot.jpg</thumbnail>
+<fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
+</item>
+<item>
+<title>Trailer Park Boys the Movie (1999)</title>
+<link>http://89.46.103.110:8777/hls/dfuqidr5vy2qedz7nlyb5fzoa4mw3laocmdbpqglrs4wwpnmawqa2hngzkiq/chunk.m3u8</link>
+<thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
+<fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
+</item>
+<item>
 <title>S01E01 - Take Your Little Gun And Get Out Of My Trailer Park</title>
 <link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%201/S01E01%20-%20Take%20Your%20Little%20Gun%20And%20Get%20Out%20Of%20My%20Trailer%20Park.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
 <item>
+<title>S01E01 - Take Your Little Gun And Get Out Of My Trailer Park</title>
+<link>http://95.211.209.133:8777/42ipfduls7uzcg3h5e6cnhvry2jp6h4oppto24z62n4elfiiaj3pckr3lrna/v.mp4</link>
+<thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
+<fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
+</item>
+
+<item>
 <title>S01E02 - Fuck Community College, Lets Get Drunk And Eat Chicken Fingers</title>
 <link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%201/S01E02%20-%20Fuck%20Community%20College,%20Lets%20Get%20Drunk%20And%20Eat%20Chicken%20Fingers.mp4</link>
 <thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
 <fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
 </item>
+
+<item>
+<title>S01E02 - Fuck Community College, Lets Get Drunk And Eat Chicken Fingers</title>
+<link>http://5.79.81.103:8777/w6ipg7mhs7uzcg3h5e6cnh52qjiqbgkswx2v5gh7wscb57q4uanzqnyohela/v.mp4</link>
+<thumbnail>http://i.imgur.com/OdQn30H.jpg</thumbnail>
+<fanart>http://i.imgur.com/hwPvbwY.jpg</fanart>
+</item>
+
 <item>
 <title>S01E04 - Mrs. Peterson's Dog Gets Fucked Up</title>
 <link>http://store.sw4rmsqu4d.com/archives/TV%20Shows/Trailer%20Park%20Boys/Season%201/S01E04%20-%20Mrs.%20Peterson's%20Dog%20Gets%20Fucked%20Up.mp4</link>
