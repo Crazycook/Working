@@ -1,15 +1,6 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
-<channel>
-<name>Sons of Anarchy</name>
-<thumbnail>https://new.static.tv.nu/16685983?width=320&height=480</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sons%20of%20Anarchy.txt</externallink>
-<fanart>http://www.gstatic.com/tv/thumb/tvbanners/10941485/p10941485_b_v8_aa.jpg</fanart>
-<info>A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.
-Creator: Kurt Sutter
-Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
-</channel>
 
 <channel>
 <name>12 Monkeys</name>
@@ -34,6 +25,17 @@ Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
 </channel>
 
 <channel>
+<name>Aftermath</name>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Aftermath.txt</externallink>
+<fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
+<info>Aftermath Sci-Fi TV Series (2016– )
+The Copeland family battle for survival when civilization comes to an apocalyptic end, triggered by massive storms, meteor strikes, earthquakes, a plague - and the rise of supernatural creatures.
+Creators: Glenn Davis, William Laurin
+Stars: James Tupper, Anne Heche, Levi Meaden</info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
@@ -43,6 +45,20 @@ A young woman's murder causes the subjects of a century-long mission to populate
 Creators: Adrian Cruz, Philip Levens
 Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
 </channel>
+
+<channel>
+<name>Battlestar Galactica 2005</name>
+<thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
+<fanart>http://i.imgur.com/rbunHn3.png</fanart>
+<info>Battlestar Galactica
+
+This update of the late-1970s series takes a decidedly darker tone as what's left of humankind struggles for survival against the robot Cylons, who have killed millions. The Galactica, led by William Adama, protects a patched-together fleet of civilians -- led by de facto president Laura Roslin -- in search of a mythical planet called Earth.
+First episode date: October 18, 2004
+Theme song: Gayatri
+Spin-off: Caprica</info>
+</channel>
+
 <channel>
 <name>Colony</name>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
@@ -155,7 +171,7 @@ Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 <channel>
 <name>Preacher</name>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Orange%20is%20the%20New%20Black.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Preacher.txt</externallink>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 <info>Preacher
 
@@ -199,16 +215,15 @@ Predecessor: The Walking Dead</info>
 
 <channel>
 <name>That 70's Show</name>
-<thumbnail>http://i.imgur.com/jWd2dIS.png</thumbnail>
+<thumbnail>http://i.imgur.com/ntCEhH9.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/That%2070s%20Show.txt</externallink>
-<fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
-<info>Fear the Walking Dead TV Series (2015– )
-A Walking Dead spin-off, set in Los Angeles, following two families who must band together to survive the undead apocalypse.
-Creators: Dave Erickson, Robert Kirkman
-Stars: Kim Dickens, Cliff Curtis, Frank Dillane </info>
+<fanart>http://i.imgur.com/Vo2TbxQ.jpg</fanart>
+<info>That '70s Show
+Set in the mood ring and polyester era of the 1970s, the series is a retro-hip situation comedy about an eclectic group of friends on the verge of adulthood. They live in the suburbs of Wisconsin, where they yearn for independence amid the growing pains of becoming adults.
+First episode date: August 23, 1998
+Final episode date: May 18, 2006
+Theme song: In the Street</info>
 </channel>
-
-https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/That%2070s%20Show.txt
 
 <channel>
 <name>Sense8</name>
@@ -221,6 +236,16 @@ Set in the mood ring and polyester era of the 1970s, the series is a retro-hip s
 First episode date: August 23, 1998
 Final episode date: May 18, 2006
 Theme song: In the Street</info>
+</channel>
+
+<channel>
+<name>Sons of Anarchy</name>
+<thumbnail>https://new.static.tv.nu/16685983?width=320&height=480</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sons%20of%20Anarchy.txt</externallink>
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/10941485/p10941485_b_v8_aa.jpg</fanart>
+<info>A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.
+Creator: Kurt Sutter
+Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 
 <channel>
@@ -243,17 +268,6 @@ Stars: Justin Theroux, Amy Brenneman, Christopher Eccleston,Liv Taylor</info>
 The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
 Creator: Michael Hirst
 Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
-</channel>
-
-<channel>
-<name>Aftermath</name>
-<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Aftermath.txt</externallink>
-<fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
-<info>Aftermath Sci-Fi TV Series (2016– )
-The Copeland family battle for survival when civilization comes to an apocalyptic end, triggered by massive storms, meteor strikes, earthquakes, a plague - and the rise of supernatural creatures.
-Creators: Glenn Davis, William Laurin
-Stars: James Tupper, Anne Heche, Levi Meaden</info>
 </channel>
 
 <channel>
