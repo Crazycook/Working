@@ -1,0 +1,24 @@
+﻿<item>
+<title>01. Chemical Warfare</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Haunting%20The%20Chapel%20(EP)%20%5bPHCR-16167%5d/01.%20Chemical%20Warfare.mp3</link>
+<thumbnail>http://i.imgur.com/d5rAs37.jpg</thumbnail>
+<fanart>http://i.imgur.com/2wbqbEx.jpg</fanart>
+</item>
+<item>
+<title>02. Captor Of Sin</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Haunting%20The%20Chapel%20(EP)%20%5bPHCR-16167%5d/02.%20Captor%20Of%20Sin.mp3</link>
+<thumbnail>http://i.imgur.com/d5rAs37.jpg</thumbnail>
+<fanart>http://i.imgur.com/2wbqbEx.jpg</fanart>
+</item>
+<item>
+<title>03. Haunting The Chapel</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Haunting%20The%20Chapel%20(EP)%20%5bPHCR-16167%5d/03.%20Haunting%20The%20Chapel.mp3</link>
+<thumbnail>http://i.imgur.com/d5rAs37.jpg</thumbnail>
+<fanart>http://i.imgur.com/2wbqbEx.jpg</fanart>
+</item>
+<item>
+<title>04. Aggressive Perfector</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Haunting%20The%20Chapel%20(EP)%20%5bPHCR-16167%5d/04.%20Aggressive%20Perfector.mp3</link>
+<thumbnail>http://i.imgur.com/d5rAs37.jpg</thumbnail>
+<fanart>http://i.imgur.com/2wbqbEx.jpg</fanart>
+</item>

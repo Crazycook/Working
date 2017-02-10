@@ -1,0 +1,72 @@
+﻿<item>
+<title>01. Evil Has No Boundaries.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/01.%20Evil%20Has%20No%20Boundaries.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>02.The Antichrist.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/02.The%20Antichrist.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>03. Die By The Sword.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/03.%20Die%20By%20The%20Sword.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>04. Fight Till Death.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/04.%20Fight%20Till%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>05. Metal Storm,Face the Slayer.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/05.%20Metal%20Storm,Face%20the%20Slayer.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>06. Black Magic.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/06.%20Black%20Magic.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>07. Tormentor.mp3</title>
+<link><http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/07.%20Tormentor.mp3/link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>08. The Final Command.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/08.%20The%20Final%20Command.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>09. Crionics.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/09.%20Crionics.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>10. Show No Mercy.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/10.%20Show%20No%20Mercy.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>
+<item>
+<title>11. Chemical Warfare.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1983%20-%20Show%20No%20Mercy%20%5bPHCR-1107%5d/11.%20Chemical%20Warfare.mp3</link>
+<thumbnail>http://i.imgur.com/vDNegF0.png</thumbnail>
+<fanart>http://i.imgur.com/91ObqWQ.jpg</fanart>
+</item>

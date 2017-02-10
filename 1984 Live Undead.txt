@@ -1,0 +1,48 @@
+﻿<item>
+<title>01. Black Magic</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/01.%20Black%20Magic.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>02. Die By The Sword</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/02.%20Die%20By%20The%20Sword.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>03. Captor Of Sin</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/03.%20Captor%20Of%20Sin.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>04. The Antichrist</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/04.%20The%20Antichrist.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>05. Evil Has No Boundaries</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/05.%20Evil%20Has%20No%20Boundaries.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>06. Show No Mercy</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/06.%20Show%20No%20Mercy.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>07. Aggressive Perfector</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/07.%20Aggressive%20Perfector.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
+<item>
+<title>08. Chemical Warfare</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1984%20-%20Live%20Undead%20%5bPHCR-4109%5d/08.%20Chemical%20Warfare.mp3</link>
+<thumbnail>http://i.imgur.com/LRwLdXd.jpg</thumbnail>
+<fanart>http://i.imgur.com/zmZ0CqF.jpg</fanart>
+</item>
