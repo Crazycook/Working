@@ -57,15 +57,14 @@ Genres: Drama, Science Fiction</info>
 </channel>
 
 <channel>
-<name>Battlestar Galactica</name>
-<thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
-<fanart>http://i.imgur.com/rbunHn3.png</fanart>
-<info>Battlestar Galactica
-This update of the late-1970s series takes a decidedly darker tone as what's left of humankind struggles for survival against the robot Cylons, who have killed millions. The Galactica, led by William Adama, protects a patched-together fleet of civilians -- led by de facto president Laura Roslin -- in search of a mythical planet called Earth.
-First episode date: October 18, 2004
-Theme song: Gayatri
-Spin-off: Caprica</info>
+<name>Due South</name>
+<thumbnail>http://i.imgur.com/KJGMYQn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Due%20South.txt</externallink>
+<fanart>http://i.imgur.com/YjonDF6.jpg</fanart>
+<info>Due South
+A modern day Dudley Do-Right, Constable Benton Fraser is a Canadian Mountie who goes to Chicago with his pet wolf to find his father's murderer. Extremely polite and moral, Fraser eventually teams up with streetwise Detective Ray Vecchio, choosing to stay in Chicago after uncovering corruption in the RCMP makes him persona non grata at home.
+First episode date: April 23, 1994
+Final episode date: March 14, 1999</info>
 </channel>
 
 <channel>
