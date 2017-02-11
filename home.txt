@@ -38,7 +38,7 @@
 <channel>
 <name>sirftp.com</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/sirftp.com.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/sirftp.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
