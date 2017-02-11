@@ -1,8 +1,6 @@
 <layouttype>thumbnail</layouttype>
 
-
 <channels>
-
 <channel>
 <name>Movies</name>
 <thumbnail>http://i.imgur.com/BOgwUAR.png</thumbnail>
@@ -42,6 +40,4 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>F4mTester needed for this section</info>
 </channel>
-
-
 </channels>
