@@ -1,4 +1,4 @@
-<layouttype>thumbnail</layouttype>
+﻿<layouttype>thumbnail</layouttype>
 
 <channels>
 <channel>
@@ -34,9 +34,9 @@
 </channel>
 
 <channel>
-<name>vod from iptv</name>
+<name>sirftp</name>
 <thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/Vod%20from%20iptv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/sirftp.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>F4mTester needed for this section</info>
 </channel>
