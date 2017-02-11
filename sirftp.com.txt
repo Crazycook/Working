@@ -5,7 +5,7 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 <item>
-<title>Captain America Civil Wa</title>
+<title>Captain America Civil War</title>
 <link>http://sirftp.com/Movies/Captain%20America%20Civil%20War.mkv</link>
 <thumbnail>http://www.ipwatchdog.com/wp-content/uploads/2015/03/laptop-video-concept.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -47,8 +47,7 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 <item>
-<title>	
-Friday The 13th (2009)</title>
+<title>	Friday The 13th (2009)</title>
 <link>http://sirftp.com/Movies/Friday%20The%2013th%20(2009).mkv</link>
 <thumbnail>http://www.ipwatchdog.com/wp-content/uploads/2015/03/laptop-video-concept.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -228,7 +227,7 @@ Friday The 13th (2009)</title>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 <item>
-<title>	Zootopia</title>
+<title>Zootopia</title>
 <link>http://sirftp.com/Movies/Zootopia.mkv</link>
 <thumbnail>http://www.ipwatchdog.com/wp-content/uploads/2015/03/laptop-video-concept.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
