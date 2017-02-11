@@ -95,7 +95,6 @@ Producers: James Hetfield, Lars Ulrich</info>
 <thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Until%20The%20StudioShit%20Load.txt</externallink>
 <fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
-<info></info>
 </channel>
 
 <channel>
@@ -162,7 +161,6 @@ Genres: Heavy metal, Thrash metal, Hard rock, Symphonic metal</info>
 <thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/The%20Golden%20Unplugged.txt</externallink>
 <fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
-<info></info>
 </channel>
 
 <channel>
@@ -193,12 +191,6 @@ Producer: Rick Rubin
 Genres: Heavy metal, Thrash metal</info>
 </channel>
 
-
-
-
-
-
-
 <channel>
 <name>Hardwired...To Self-Destruct</name>
 <thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
@@ -206,12 +198,4 @@ Genres: Heavy metal, Thrash metal</info>
 <fanart>http://i.imgur.com/9QRc8M7.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
-
-<channel>
-</name>videos</name>
-<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Videos.txt</externallink>
-<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
-</channel>
-
 </channels>
