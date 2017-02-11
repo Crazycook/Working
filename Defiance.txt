@@ -1,0 +1,222 @@
+﻿<item>
+<title>Defiance S01E01.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E02.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E03.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E01.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E05.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E06.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E07.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E08.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E09.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E10.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E11.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S01E12.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s1/Defiance%20S01%20E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E00.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E00%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E01.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E02.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E03.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E04.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E05.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E06.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E07.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E08.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E09.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E10.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E11.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S02E12-E13480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s2/Defiance%20S02%20E12-E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E01-E02.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E01-2%20(Bia2Movies)%20.mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E03.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E04.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E05.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E06.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E07.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E08.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E09.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E10.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E11.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance S03E12.480p</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
+<item>
+<title>Defiance</title>
+<link>http://s1.bia2m.biz/Series/Defiance/s3/Defiance%20S03%20E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+</item>
