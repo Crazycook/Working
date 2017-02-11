@@ -1,0 +1,126 @@
+﻿<item>
+<title>CD 1 : 01 - The Ecstacy of Gold</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/01%20-%20The%20Ecstacy%20of%20Gold.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 02 - The Call of Ktulu</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/02%20-%20The%20Call%20of%20Ktulu.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 03 - Master of Puppets</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/03%20-%20Master%20of%20Puppets.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 04 - Of Wolf And Man</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/04%20-%20Of%20Wolf%20And%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 05 - The Thing That Should Not Be</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/05%20-%20The%20Thing%20That%20Should%20Not%20Be.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 06 - Fuel</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/06%20-%20Fuel.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 07 - The Memory Remains</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/07%20-%20The%20Memory%20Remains.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 08 - No Leaf Clover</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/08%20-%20No%20Leaf%20Clover.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 09 - Hero of the Day</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/09%20-%20Hero%20of%20the%20Day.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 10 - Devil's Dance</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/10%20-%20Devil's%20Dance.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 11 - Bleeding Me </title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD1/11%20-%20Bleeding%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 01 - Nothing Else Matters</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/01%20-%20Nothing%20Else%20Matters.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 02 - Until It Sleeps</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/02%20-%20Until%20It%20Sleeps.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 03 - For Whom The Bell Tolls</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/03%20-%20For%20Whom%20The%20Bell%20Tolls.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 04 - Human</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/04%20-%20Human.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 05 - Wherever I May Roam</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/05%20-%20Wherever%20I%20May%20Roam.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 06 - Outlaw Torn</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/06%20-%20Outlaw%20Torn.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 07 - Sad But True</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/07%20-%20Sad%20But%20True.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 08 - One</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/08%20-%20One.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 09 - Enter Sandman</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/09%20-%20Enter%20Sandman.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 10 - Battery</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1999%20-%20S&M/CD2/10%20-%20Battery.mp3</link>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+</item>

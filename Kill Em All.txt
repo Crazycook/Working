@@ -1,0 +1,72 @@
+﻿<item>
+<title>01 - Hit The Lights</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/01%20-%20Hit%20The%20Lights.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>02 - The Four Horsemen</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/02%20-%20The%20Four%20Horsemen.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>03 - Motorbreath</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/03%20-%20Motorbreath.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>04 - Jump In The Fire</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/04%20-%20Jump%20In%20The%20Fire.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>05 - (Anesthesia) Pulling Teeth</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/05%20-%20(Anesthesia)%20Pulling%20Teeth.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>06 - Whiplash</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/06%20-%20Whiplash.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>07 - Phantom Lord</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/07%20-%20Phantom%20Lord.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>08 - No Remorse</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/08%20-%20No%20Remorse.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>09 - Seek & Destroy</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/09%20-%20Seek%20&%20Destroy.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>10 - Metal Militia</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/10%20-%20Metal%20Militia.mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>11 - Am I Evil_ (Bonus Track)</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/11%20-%20Am%20I%20Evil_%20(Bonus%20Track).mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>
+<item>
+<title>12 - Blitzkrieg (Bonus Track)</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1983%20-%20Kill'em%20All/12%20-%20Blitzkrieg%20(Bonus%20Track).mp3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+</item>

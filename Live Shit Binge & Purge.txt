@@ -1,0 +1,144 @@
+﻿<item>
+<title> CD 1 : 01 - Enter Sandman</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/01%20-%20Enter%20Sandman.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 02 - Creeping Death</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/02%20-%20Creeping%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 03 - Harvester of Sorrow</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/03%20-%20Harvester%20of%20Sorrow.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 04 - Welcome Home (Sanitarium)</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/04%20-%20Welcome%20Home%20(Sanitarium).mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 05 - Sad but True</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/05%20-%20Sad%20but%20True.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 06 - Of Wolf and Man</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/06%20-%20Of%20Wolf%20and%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 07 - The Unforgiven</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/07%20-%20The%20Unforgiven.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 08 - Justice Medley</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/08%20-%20Justice%20Medley.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 1 : 09 - Bass_Guitar Solos</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD1/09%20-%20Bass_Guitar%20Solos.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 01 - Through the Never</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/01%20-%20Through%20the%20Never.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 02 - For Whom the Bell Tolls</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/02%20-%20For%20Whom%20the%20Bell%20Tolls.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 03 - Fade to Black</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/03%20-%20Fade%20to%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 04 - Master of Puppets</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/04%20-%20Master%20of%20Puppets.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 05 - Seek & Destroy</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/05%20-%20Seek%20&%20Destroy.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 2 : 06 - Whiplash</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD2/06%20-%20Whiplash.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 01 - Nothing Else Matters</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/01%20-%20Nothing%20Else%20Matters.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 02 - Wherever I May Roam</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/02%20-%20Wherever%20I%20May%20Roam.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 03 - Am I Evil</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/03%20-%20Am%20I%20Evil.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>>CD 3 : 04 - Last Caress</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/04%20-%20Last%20Caress.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 05 - One</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/05%20-%20One.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 06 - Battery</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/06%20-%20Battery.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 07 - The Four Horsemen</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/07%20-%20The%20Four%20Horsemen.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 08 - Motorbreath</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/08%20-%20Motorbreath.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>
+<item>
+<title>CD 3 : 09 - Stone Cold Crazy</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Live/1993%20-%20Live%20Shit%20Binge%20And%20Purge/CD3/09%20-%20Stone%20Cold%20Crazy.mp3</link>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+</item>

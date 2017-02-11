@@ -1,0 +1,186 @@
+﻿<item>
+<title>01 - F.O.A.D.</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/01%20-%20F.O.A.D.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>02 - Breadfan</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/02%20-%20Breadfan.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>03 - Motorbreath</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/03%20-%20Motorbreath.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>04 - Ride the Lightning</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/04%20-%20Ride%20the%20Lightning.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>05 - No Remorse</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/05%20-%20No%20Remorse.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>06 - Nothing else matters</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/06%20-%20Nothing%20else%20matters.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>07 - Back in Black</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/07%20-%20Back%20in%20Black.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>08 - In the Time of Dying</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/08%20-%20In%20the%20Time%20of%20Dying.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>09 - Three Horse in the Ground</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/09%20-%20Three%20Horse%20in%20the%20Ground.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>10 - Youthanasia</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/10%20-%20Youthanasia.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>11 - Don't forch me there</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/11%20-%20Don't%20forch%20me%20there.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>12 - Mama said</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/12%20-%20Mama%20said.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>13 - (unknown)</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/13%20-%20(unknown).mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>14 - Ain't no Fun</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/14%20-%20Ain't%20no%20Fun.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>15 - Nuns have no Fun</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/15%20-%20Nuns%20have%20no%20Fun.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>16 - Doomed by the living Dead</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/16%20-%20Doomed%20by%20the%20living%20Dead.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>17 - Black Night</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/17%20-%20Black%20Night.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>18 - Into the Coven</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/18%20-%20Into%20the%20Coven.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>19 - At the Sound of the Demon Bell</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/19%20-%20At%20the%20Sound%20of%20the%20Demon%20Bell.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>20 - A Corpse without Soul</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/20%20-%20A%20Corpse%20without%20Soul.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>21 - Devil Eyes</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/21%20-%20Devil%20Eyes.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>22 - Hey Jude</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/22%20-%20Hey%20Jude.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>23 - Until it sleeps</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/23%20-%20Until%20it%20sleeps.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>24 - Wonderwall</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/24%20-%20Wonderwall.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>25 - Just a Jam</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/25%20-%20Just%20a%20Jam.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>26 - Jazz Jam.mp3</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/26%20-%20Jazz%20Jam.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>27 - Riff</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/27%20-%20Riff.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>28 - Another Jam</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/28%20-%20Another%20Jam.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>29 - Better than thou</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/29%20-%20Better%20than%20thou.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>30 - Mouldy</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/30%20-%20Mouldy.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>
+<item>
+<title>31 - Memory</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/2000%20-%20Until%20the%20Studioshit%20Load/31%20-%20Memory.mp3</link>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<fanart>https://img.discogs.com/5Ei0f872D08eB5I3vRHAtbeG6dU=/fit-in/591x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1257349116.jpeg.jpg</fanart>
+</item>

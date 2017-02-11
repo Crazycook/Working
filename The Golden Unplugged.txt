@@ -1,0 +1,83 @@
+﻿<item>
+<title>01 - Mama Said</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/01%20-%20Mama%20Said.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>02 - Low Man's Lyric</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/02%20-%20Low%20Man's%20Lyric.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>03 - Helpless</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/03%20-%20Helpless.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>04 - Four Horsemen</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/04%20-%20Four%20Horsemen.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>05 - Poor Twisted Me</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/05%20-%20Poor%20Twisted%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>06 - Nothing Else Matters</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/06%20-%20Nothing%20Else%20Matters.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>07 - Creeping Death</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/07%20-%20Creeping%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>08 - Tuesday's Gone</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/08%20-%20Tuesday's%20Gone.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>09 - Last Cares</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/09%20-%20Last%20Cares.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>10 - Low Man's Lyric</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/10%20-%20Low%20Man's%20Lyric.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>11 - Helpless</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/11%20-%20Helpless.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title>12 - Last Caress</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/12%20-%20Last%20Caress.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
+<item>
+<title><item>
+<title>13 - Nothing Else Matters.mp3</title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/13%20-%20Nothing%20Else%20Matters.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item></title>
+<link>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Compilations/1998%20-%20The%20Golden%20Unplugged/12%20-%20Last%20Caress.mp3</link>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+</item>
