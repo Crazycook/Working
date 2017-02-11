@@ -73,6 +73,17 @@ Genres: Drama, Science Fiction</info>
 </channel>
 
 <channel>
+<name>Defiance</name>
+<thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Defiance.txt</externallink>
+<fanart>http://i.imgur.com/hW7FdJU.jpg</fanart>
+<info>Defiance
+It's the middle of the 21st century and there are new rules and a completely altered landscape on Earth after three decades of alien races arriving on the planet. Mysterious Nolan and his charge, Irisa, come to the town of Defiance, located atop the ruins of what was St. Louis, in an attempt to keep things in order as humans and aliens try to coexist. Events occur that threaten to disrupt the peace the town has fought to establish. In what Syfy is calling a first-ever convergence of TV and online gaming, each happening -- both in the show and in the companion video game -- affects what happens in the other medium, and the two evolve together as one story.
+First episode date: April 15, 2013
+Network: Syfy</info>
+</channel>
+
+<channel>
 <name>Due South</name>
 <thumbnail>http://i.imgur.com/KJGMYQn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Due%20South.txt</externallink>
