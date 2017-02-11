@@ -1,61 +1,34 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
+
 <channel>
-<name>And Justice For All</name>
-<thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/And%20Justice%20For%20All.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<name>Kill Em All</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5c/Metallica_-_Kill_'Em_All_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Kill%20Em%20All.txt</externallink>
+<fanart>https://i.ytimg.com/vi/8UZdoIZTuKg/maxresdefault.jpg</fanart>
+<info>Kill 'Em All
+Studio album by Metallica
+Kill 'Em All is the debut studio album by the American heavy metal band Metallica, released on July 25, 1983, by the independent record label Megaforce Records.
+Artist: Metallica
+Release date: July 25, 1983
+Label: Megaforce Records
+Genres: Thrash metal, Speed metal</info>
 </channel>
 
 <channel>
-<name>Ride the lightning</name>
+<name>Ride the Lightning</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Metallica_-_Ride_the_Lightning_cover.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Ride%20the%20Lightning.txt</externallink>
 <fanart>https://s3.amazonaws.com/bit-photos/large/264274.jpeg</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>St.Anger</name>
-<thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/St.%20Anger.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>Black Album</name>
-<thumbnail>https://c2.staticflickr.com/8/7251/7590353426_7b620e7ddf_b.jpgjpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Black%20Album.txt</externallink>
-<fanart>https://i.ytimg.com/vi/DqDeH3hwxfw/maxresdefault.jpg</fanart>
-<info>Metallica (commonly known as The Black Album) is the eponymous fifth studio album by American heavy metal band Metallica. Released on August 12, 1991 by Elektra Records, it received widespread critical acclaim and became the band's best-selling album. Metallica produced five singles that are considered to be among the band's best-known songs, which include "Enter Sandman," "The Unforgiven," "Nothing Else Matters," "Wherever I May Roam," and "Sad but True."  The album marked a change in the band's sound from the thrash metal style of the previous four albums to a slower one.
-The recording of Metallica was troubled, as the band frequently entered conflicts with Bob Rock, the band's new producer, during production. The album debuted at number one in ten countries and spent four consecutive weeks at the top of the Billboard 200, making it Metallica's first album to top album charts. By February 2016, the album spent 363 weeks on the Billboard album chart, making it one of the ten longest running discs of all time. Metallica is one of the best-selling albums worldwide, and the best-selling album in the United States since Nielsen SoundScan tracking began. The album was certified 16× platinum by the Recording Industry Association of America (RIAA) in 2012, and has sold over sixteen million copies in the United States.</info>
-</channel>
-
-<channel>
-<name>Death Magnetic</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Metallica_-_Death_Magnetic_cover.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Death%20Magnetic.txt</externallink>
-<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>Load</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Load.txt</externallink>
-<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>Reload</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Metallica_-_Reload_cover.jpg/220px-Metallica_-_Reload_cover.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Reload.txt</externallink>
-<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Ride the Lightning
+Studio album by Metallica
+Ride the Lightning is the second studio album by American heavy metal band Metallica, released on July 27, 1984, by the independent record label Megaforce Records. Wikipedia
+Artist: Metallica
+Release date: July 27, 1984
+Producer: Flemming Rasmussen
+Label: Megaforce Records
+Genres: Thrash metal, Speed metal</info>
 </channel>
 
 <channel>
@@ -63,8 +36,168 @@ The recording of Metallica was troubled, as the band frequently entered conflict
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Master%20of%20Puppets.txt</externallink>
 <fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Master of Puppets
+Studio album by Metallica
+Master of Puppets is the third studio album by American heavy metal band Metallica, released on March 3, 1986 by Elektra Records.
+Artist: Metallica
+Release date: March 3, 1986
+Producer: Flemming Rasmussen
+Label: Elektra Records
+Genre: Thrash metal</info>
 </channel>
+
+<channel>
+<name>And Justice For All</name>
+<thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/And%20Justice%20For%20All.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>...And Justice for All
+Studio album by Metallica
+…And Justice for All is the fourth studio album by American heavy metal band Metallica, released on August 25, 1988, by Elektra Records. It was the band's first studio album to feature bassist Jason Newsted after the death of Cliff Burton in 1986. Wikipedia
+Artist: Metallica
+Release date: August 25, 1988
+Label: Vertigo Records
+Genres: Heavy metal, Thrash metal, Progressive metal</info>
+</channel>
+
+<channel>
+<name>Black Album</name>
+<thumbnail>https://c2.staticflickr.com/8/7251/7590353426_7b620e7ddf_b.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Black%20Album.txt</externallink>
+<fanart>https://i.ytimg.com/vi/DqDeH3hwxfw/maxresdefault.jpg</fanart>
+<info>Metallica
+Studio album by Metallica
+Metallica is the eponymous fifth studio album by American heavy metal band Metallica. Released on August 12, 1991 by Elektra Records, it received widespread critical acclaim and became the band's best-selling album.
+Artist: Metallica
+Release date: August 12, 1991
+Producers: James Hetfield, Bob Rock, Lars Ulrich
+Genres: Heavy metal, Thrash metal, Hard rock
+Awards: Grammy Award for Best Metal Performance, Billboard Music Award for Catalog Album of the Year</info>
+</channel>
+
+<channel>
+<name>Live Shit: Binge & Purge</name>
+<thumbnail>http://i.imgur.com/EyI0RGV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Live%20Shit%20Binge%20%26%20Purge.txt</externallink>
+<fanart>http://i.imgur.com/8cacdk9.jpg</fanart>
+<info>Live Shit: Binge & Purge
+Live album by Metallica
+Live Shit: Binge & Purge is a live album by the American heavy metal band Metallica. It was the band's first live album and was released in a box set format on November 23, 1993. Wikipedia
+Artist: Metallica
+Release date: November 23, 1993
+Label: Elektra Records
+Genres: Heavy metal, Thrash metal
+Producers: James Hetfield, Lars Ulrich</info>
+</channel>
+
+<channel>
+<name>Until The Studioshit Load</name>
+<thumbnail>https://img.discogs.com/DExnTbV-gwI94SOGozC0-KjRzxM=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1987182-1256915104.jpeg.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Until%20The%20StudioShit%20Load.txt</externallink>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Load</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Metallica_-_Load_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Load.txt</externallink>
+<fanart>https://i.ytimg.com/vi/F9AE3K3_MAo/maxresdefault.jpg</fanart>
+<info>Load
+Studio album by Metallica
+Load is the sixth studio album by the American heavy metal band Metallica, released on June 4, 1996 by Elektra Records in the United States and by Vertigo Records internationally. 
+Artist: Metallica
+Release date: June 4, 1996
+Label: Sony Records
+Genres: Heavy metal, Hard rock, Alternative metal, Blues rock
+Producers: James Hetfield, Bob Rock, Lars Ulrich</info>
+</channel>
+
+<channel>
+<name>Reload</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Metallica_-_Reload_cover.jpg/220px-Metallica_-_Reload_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Reload.txt</externallink>
+<fanart>https://www.gramofony-desky.cz/img_produkty/nejvetsi/reload_1444209510.jpg</fanart>
+<info>Reload
+Studio album by Metallica
+Reload is the seventh studio album by American heavy metal band Metallica, released on November 18, 1997 by Elektra Records.
+Artist: Metallica
+Release date: November 18, 1997
+Label: Sony Records
+Genres: Heavy metal, Hard rock, Alternative metal
+Producers: James Hetfield, Bob Rock, Lars Ulrich</info>
+</channel>
+
+<channel>
+<name>Garage Inc.</name>
+<thumbnail>http://i.imgur.com/yW1mYQp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Reload.txt</externallink>
+<fanart>http://i.imgur.com/pKNn3ra.jpg</fanart>
+<info>Garage Inc.
+Compilation album by Metallica
+Garage, Inc. is a compilation album of cover songs by American thrash metal band Metallica. It was released on November 23, 1998 through Elektra Records. Over 2.5 million copies have been sold in the U.S. as certified by the RIAA. Wikipedia
+Artist: Metallica
+Release date: November 23, 1998
+Genres: Heavy metal, Thrash metal, Hard rock, Crossover thrash
+Producers: James Hetfield, Bob Rock, Lars Ulrich, Mark Whitake</info>
+</channel>
+
+<channel>
+<name>S&M</name>
+<thumbnail>http://i.imgur.com/gIeboQi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/S%26M.txt</externallink>
+<fanart>http://i.imgur.com/TqMg6vF.jpg</fanart>
+<info>S&M
+Live album by Metallica
+S&M is a live album by American heavy metal band Metallica, with The San Francisco Symphony conducted by Michael Kamen. It was recorded on April 21–22, 1999 at The Berkeley Community Theatre. Wikipedia
+Artist: Metallica
+Release date: November 23, 1999
+Label: Vertigo Records
+Producers: Bob Rock, James Hetfield, Lars Ulrich, Michael Kamen
+Genres: Heavy metal, Thrash metal, Hard rock, Symphonic metal</info>
+</channel>
+
+<channel>
+<name>the Golden Unplugged Album</name>
+<thumbnail>http://i.imgur.com/oV34zA0.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/The%20Golden%20Unplugged.txt</externallink>
+<fanart>http://i.imgur.com/vJxrq4I.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>St.Anger</name>
+<thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/St.%20Anger.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>St. Anger
+Studio album by Metallica
+St. Anger is the eighth studio album by American heavy metal band Metallica, released on June 5, 2003, by Elektra Records.
+Artist: Metallica
+Release date: June 5, 2003
+Label: Universal Music LLC
+Genres: Heavy metal, Thrash metal, Nu metal, Crossover thrash</info>
+</channel>
+
+<channel>
+<name>Death Magnetic</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Metallica_-_Death_Magnetic_cover.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Death%20Magnetic.txt</externallink>
+<fanart>http://musicallighthouse.com/wp-content/uploads/2013/09/Metallica-logo.png</fanart>
+<info>Death Magnetic
+Studio album by Metallica
+Death Magnetic is the ninth studio album by American heavy metal band Metallica, released on September 12, 2008 through Warner Bros. Records.
+Artist: Metallica
+Release date: September 12, 2008
+Producer: Rick Rubin
+Genres: Heavy metal, Thrash metal</info>
+</channel>
+
+
+
+
+
+
 
 <channel>
 <name>Hardwired...To Self-Destruct</name>
@@ -72,6 +205,13 @@ The recording of Metallica was troubled, as the band frequently entered conflict
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Hardwired...To%20Self-Destruct.txt</externallink>
 <fanart>http://i.imgur.com/9QRc8M7.png</fanart>
 <info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
+</name>videos</name>
+<thumbnail>http://i.imgur.com/sF2rR5f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/Videos.txt</externallink>
+<fanart>http://i.imgur.com/9QRc8M7.png</fanart>
 </channel>
 
 </channels>
