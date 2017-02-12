@@ -1,4 +1,4 @@
-<item>
+﻿<item>
 <item>
 <title>Bmw 100automoto.tv</title>
 <link>mms://100automoto.tv/bmw</link>
@@ -141,10 +141,25 @@
 </item>
 
 <item>
+<title>Sevilla FC TV</title>
+<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</link>
+<thumbnail>https://i.imgur.com/8lHbzRF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BETIS TV</title>
+<link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/VyplynV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Redbull TV</title>
 <link>http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/3xy5NvV.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>Rete Sport 8 </title>
@@ -154,15 +169,16 @@
 </item>
 
 <item>
-<title>Rev�N Television</title>
+<title>Rev´N Television</title>
 <link>http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/OE4jjum.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
-<title>Sevilla FC TV</title>
-<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</link>
-<thumbnail>https://i.imgur.com/8lHbzRF.jpg</thumbnail>
+<title>Sports Night</title>
+<link>http://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/OE4jjum.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -186,6 +202,14 @@
 <thumbnail>https://i.imgur.com/WQ96ZEX.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>UK At the Races</title>
+<link>http://dwun498y9o8lf.cloudfront.net/coder1/coder.channels.channel2/hls/3/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/JzWkhwA.jpg</thumbnail>
+<fanart>http://i.imgur.com/FiecHaJ.png</fanart>
+</item>
+
 
 <item>
 <title>Win Sports</title>
