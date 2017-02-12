@@ -130,12 +130,4 @@
 <info>Test section for f4m and acestream</info>
 </channel>
 
-<channel>
-<name>Test Section 2</name>
-<thumbnail>http://i.imgur.com/floigHC.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/test%20section%202.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>Test section 2</info>
-</channel>
-
 </channels>
