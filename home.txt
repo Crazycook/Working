@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>Special Events</name>
+<thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/Special%20Events.txt</externallink>
+<fanart>http://i.imgur.com/xSicatN.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>24-7</name>
 <thumbnail>http://i.imgur.com/kFtg685.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/24-7.txt</externallink>
