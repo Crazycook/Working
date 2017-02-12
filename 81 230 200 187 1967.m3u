@@ -1,534 +1,534 @@
 #EXTM3U
 #EXTINF:0,MBC 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/565.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/565.ts
 #EXTINF:0,MBC 3
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/566.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/566.ts
 #EXTINF:0,MBC4
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/13.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/13.ts
 #EXTINF:0,MBC MAX
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/569.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/569.ts
 #EXTINF:0,MBC Action
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/567.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/567.ts
 #EXTINF:0,MBC Masr
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/554.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/554.ts
 #EXTINF:0,MBC Masr 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/9.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/9.ts
 #EXTINF:0,MBC Variety
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/576.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/576.ts
 #EXTINF:0,MBC DRAMA
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/4.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/4.ts
 #EXTINF:0,MBC1 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/10.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/10.ts
 #EXTINF:0,MBC2 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/11.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/11.ts
 #EXTINF:0,MBC3 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/12.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/12.ts
 #EXTINF:0,MBC MAX HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/7.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/7.ts
 #EXTINF:0,MBC Action HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/2.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/2.ts
 #EXTINF:0,MBC DRAMA PLUS HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/559.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/559.ts
 #EXTINF:0,MBC Bollywood
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/3.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/3.ts
 #EXTINF:0,Zee Alwan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/193.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/193.ts
 #EXTINF:0,Funoon
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/568.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/568.ts
 #EXTINF:0,Alemarat
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/575.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/575.ts
 #EXTINF:0,DUBAI Zaman
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/70.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/70.ts
 #EXTINF:0,DUBAI SPORTS 3
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/68.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/68.ts
 #EXTINF:0,DUBAI SPORT 4
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/142.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/142.ts
 #EXTINF:0,DUBAI Racing
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/72.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/72.ts
 #EXTINF:0,DUBAI ONE
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/56.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/56.ts
 #EXTINF:0,DUBAI
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/67.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/67.ts
 #EXTINF:0,SAMA Dubai
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/65.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/65.ts
 #EXTINF:0,Sada El Balad
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/365.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/365.ts
 #EXTINF:0,Kaifa
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/512.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/512.ts
 #EXTINF:0,Arab Geographic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/556.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/556.ts
 #EXTINF:0,National Geographic Ab
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/433.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/433.ts
 #EXTINF:0,Quest Arabyia
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/222.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/222.ts
 #EXTINF:0,Sada El Balad 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/366.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/366.ts
 #EXTINF:0,RT UK
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/356.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/356.ts
 #EXTINF:0,RT Arabic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/82.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/82.ts
 #EXTINF:0,RT America
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/578.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/578.ts
 #EXTINF:0,KNN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/534.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/534.ts
 #EXTINF:0,CNN Turk
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/485.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/485.ts
 #EXTINF:0,CNN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/180.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/180.ts
 #EXTINF:0,Fox23
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/526.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/526.ts
 #EXTINF:0,Euronews EN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/145.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/145.ts
 #EXTINF:0,Euronews AR
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/144.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/144.ts
 #EXTINF:0,El Mehwar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/212.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/212.ts
 #EXTINF:0,El bilad
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/522.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/522.ts
 #EXTINF:0,DW arabic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/140.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/140.ts
 #EXTINF:0,BBC Arabic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/75.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/75.ts
 #EXTINF:0,Aljaleya TV Canada
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/381.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/381.ts
 #EXTINF:0,Al Kahera Wal Nas 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/240.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/240.ts
 #EXTINF:0,Al Kahera Wal Nas 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/239.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/239.ts
 #EXTINF:0,Aljazeera Mubasher
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/49.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/49.ts
 #EXTINF:0,Al jazeera Documentary
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/46.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/46.ts
 #EXTINF:0,Al jazeera HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/369.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/369.ts
 #EXTINF:0,Al Jazeera
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/45.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/45.ts
 #EXTINF:0,Alhadath Iraq
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/563.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/563.ts
 #EXTINF:0,Al Hadath
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/50.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/50.ts
 #EXTINF:0,Al Ekhbarya
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/124.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/124.ts
 #EXTINF:0,Al Arabiya HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/370.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/370.ts
 #EXTINF:0,Al Arabiya
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/51.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/51.ts
 #EXTINF:0,Abu Dhabi TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/77.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/77.ts
 #EXTINF:0,Abu Dhabi Drama
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/432.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/432.ts
 #EXTINF:0,On Sport
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/363.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/363.ts
 #EXTINF:0,On Live
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/364.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/364.ts
 #EXTINF:0,ON E
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/362.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/362.ts
 #EXTINF:0,El Balad Drama
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/367.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/367.ts
 #EXTINF:0,Al nahar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/89.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/89.ts
 #EXTINF:0,Al nahar Drama
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/92.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/92.ts
 #EXTINF:0,Rotana Masriya
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/182.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/182.ts
 #EXTINF:0,Rotana Classic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/183.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/183.ts
 #EXTINF:0,Rotana Khalijiah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/184.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/184.ts
 #EXTINF:0,Rotana Aflam
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/187.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/187.ts
 #EXTINF:0,Rotana Mosica
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/186.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/186.ts
 #EXTINF:0,Nile Family
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/149.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/149.ts
 #EXTINF:0,Nile Cinema
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/155.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/155.ts
 #EXTINF:0,Nile Comedy
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/153.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/153.ts
 #EXTINF:0,Nile Drama
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/151.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/151.ts
 #EXTINF:0,FOOD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/64.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/64.ts
 #EXTINF:0,CBC Sofra
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/457.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/457.ts
 #EXTINF:0,CBC Extra News
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/453.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/453.ts
 #EXTINF:0,CBC Drama
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/455.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/455.ts
 #EXTINF:0,CBC
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/458.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/458.ts
 #EXTINF:0,Orbit Musalsalat
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/553.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/553.ts
 #EXTINF:0,Orbit Cinema 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/468.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/468.ts
 #EXTINF:0,Hepaysha
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/577.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/577.ts
 #EXTINF:0,Alhayah 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/466.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/466.ts
 #EXTINF:0,Alhayah 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/465.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/465.ts
 #EXTINF:0,Al afase
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/409.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/409.ts
 #EXTINF:0,Quran
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/406.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/406.ts
 #EXTINF:0,Quran Time
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/407.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/407.ts
 #EXTINF:0,Alnas TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/404.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/404.ts
 #EXTINF:0,Quran TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/122.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/122.ts
 #EXTINF:0,Wesal
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/445.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/445.ts
 #EXTINF:0,Al Resalah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/224.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/224.ts
 #EXTINF:0,Al Rahma
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/403.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/403.ts
 #EXTINF:0,Al majd quran
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/405.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/405.ts
 #EXTINF:0,AL MAJD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/48.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/48.ts
 #EXTINF:0,Toyor Aljanah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/373.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/373.ts
 #EXTINF:0,Ajyal PAL
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/87.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/87.ts
 #EXTINF:0,Ajyal
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/126.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/126.ts
 #EXTINF:0,Jeem
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/537.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/537.ts
 #EXTINF:0,NOON
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/242.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/242.ts
 #EXTINF:0,Rwwad
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/558.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/558.ts
 #EXTINF:0,Nour Kids
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/474.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/474.ts
 #EXTINF:0,Sem Sem
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/401.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/401.ts
 #EXTINF:0,Karameesh
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/460.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/460.ts
 #EXTINF:0,Majid
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/402.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/402.ts
 #EXTINF:0,SpaceToon
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/555.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/555.ts
 #EXTINF:0,Cartoon Network AR
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/243.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/243.ts
 #EXTINF:0,TOM kids
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/564.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/564.ts
 #EXTINF:0,KurdMax
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/231.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/231.ts
 #EXTINF:0,Kurdistan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/217.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/217.ts
 #EXTINF:0,NRT arabic
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/148.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/148.ts
 #EXTINF:0,NRT 2   HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/95.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/95.ts
 #EXTINF:0,NRT 1   HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/94.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/94.ts
 #EXTINF:0,Al Dafrah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/141.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/141.ts
 #EXTINF:0,Al Rashid
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/80.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/80.ts
 #EXTINF:0,Al Sharqiya NEWS
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/79.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/79.ts
 #EXTINF:0,Al Sharqiya  HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/78.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/78.ts
 #EXTINF:0,Algadeer
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/503.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/503.ts
 #EXTINF:0,Dijlah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/504.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/504.ts
 #EXTINF:0,Alkout
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/101.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/101.ts
 #EXTINF:0,Al Hurra Iraq
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/384.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/384.ts
 #EXTINF:0,Al Hurra
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/383.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/383.ts
 #EXTINF:0,Al Forat
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/227.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/227.ts
 #EXTINF:0,Aghanina
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/497.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/497.ts
 #EXTINF:0,Alfajer TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/114.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/114.ts
 #EXTINF:0,PNN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/540.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/540.ts
 #EXTINF:0,Musawa
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/86.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/86.ts
 #EXTINF:0,Alfalstiniah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/216.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/216.ts
 #EXTINF:0,Palestine TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/85.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/85.ts
 #EXTINF:0,Palestine Mubasher
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/84.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/84.ts
 #EXTINF:0,Palestine Al yawm
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/214.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/214.ts
 #EXTINF:0,Falasteni
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/521.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/521.ts
 #EXTINF:0,Asia Sat
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/502.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/502.ts
 #EXTINF:0,Alquds
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/215.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/215.ts
 #EXTINF:0,Al Aqsa
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/83.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/83.ts
 #EXTINF:0,ANN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/206.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/206.ts
 #EXTINF:0,Orient SY
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/202.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/202.ts
 #EXTINF:0,SAMA SYRIA
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/66.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/66.ts
 #EXTINF:0,Syria UGARIT
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/41.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/41.ts
 #EXTINF:0,Syria Sat
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/36.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/36.ts
 #EXTINF:0,Syria NOUR
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/40.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/40.ts
 #EXTINF:0,Syria NEWS
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/38.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/38.ts
 #EXTINF:0,Syria EDU
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/42.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/42.ts
 #EXTINF:0,Syria DRAMA
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/37.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/37.ts
 #EXTINF:0,Alalam
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/73.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/73.ts
 #EXTINF:0,AlAAN TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/194.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/194.ts
 #EXTINF:0,MTV Lebanon
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/109.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/109.ts
 #EXTINF:0,Future
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/69.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/69.ts
 #EXTINF:0,LDC
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/552.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/552.ts
 #EXTINF:0,LBC europ
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/108.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/108.ts
 #EXTINF:0,Aljadeed
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/57.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/57.ts
 #EXTINF:0,Al Manar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/43.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/43.ts
 #EXTINF:0,Al Mayadeen
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/241.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/241.ts
 #EXTINF:0,Ifilm En
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/234.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/234.ts
 #EXTINF:0,Ifilm
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/233.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/233.ts
 #EXTINF:0,Moroco 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/579.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/579.ts
 #EXTINF:0,Moroco 2M
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/580.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/580.ts
 #EXTINF:0,Nessma
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/523.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/523.ts
 #EXTINF:0,Algeria 5
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/400.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/400.ts
 #EXTINF:0,Algeria 4
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/399.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/399.ts
 #EXTINF:0,Algeria 3
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/397.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/397.ts
 #EXTINF:0,Algeria Dzair hd
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/572.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/572.ts
 #EXTINF:0,El Djazairia
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/557.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/557.ts
 #EXTINF:0,Iqraa USA
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/571.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/571.ts
 #EXTINF:0,Iqraa
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/129.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/129.ts
 #EXTINF:0,Watan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/496.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/496.ts
 #EXTINF:0,Zaitouna
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/470.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/470.ts
 #EXTINF:0,Liwan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/514.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/514.ts
 #EXTINF:0,Libya TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/230.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/230.ts
 #EXTINF:0,Libya News
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/516.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/516.ts
 #EXTINF:0,Libya 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/511.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/511.ts
 #EXTINF:0,Kuwait Sport Plus
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/103.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/103.ts
 #EXTINF:0,Kuwait Sport HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/102.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/102.ts
 #EXTINF:0,Kuwait Plus
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/100.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/100.ts
 #EXTINF:0,Kuwait Ethraa
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/98.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/98.ts
 #EXTINF:0,Kuwait Al3rabe
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/99.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/99.ts
 #EXTINF:0,Kuwait Al Majlis
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/538.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/538.ts
 #EXTINF:0,Kuwait 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/382.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/382.ts
 #EXTINF:0,Kuwait 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/97.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/97.ts
 #EXTINF:0,Jordan Sport
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/204.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/204.ts
 #EXTINF:0,Jordan 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/203.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/203.ts
 #EXTINF:0,islam
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/446.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/446.ts
 #EXTINF:0,Huda TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/411.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/411.ts
 #EXTINF:0,Halab Today
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/205.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/205.ts
 #EXTINF:0,Free Syria
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/207.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/207.ts
 #EXTINF:0,For shabab
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/398.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/398.ts
 #EXTINF:0,Ethiopia
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/410.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/410.ts
 #EXTINF:0,Eqtisadiya
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/128.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/128.ts
 #EXTINF:0,Elsharq TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/115.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/115.ts
 #EXTINF:0,CNA
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/472.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/472.ts
 #EXTINF:0,DMM
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/513.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/513.ts
 #EXTINF:0,Digital School
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/520.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/520.ts
 #EXTINF:0,Dar Aliman
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/376.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/376.ts
 #EXTINF:0,Bzaf
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/450.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/450.ts
 #EXTINF:0,Belqees
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/368.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/368.ts
 #EXTINF:0,Ashorooq TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/197.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/197.ts
 #EXTINF:0,Arabica TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/218.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/218.ts
 #EXTINF:0,alyaman
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/408.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/408.ts
 #EXTINF:0,Altaghier
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/111.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/111.ts
 #EXTINF:0,ALSharqia
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/417.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/417.ts
 #EXTINF:0,Alrayan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/419.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/419.ts
 #EXTINF:0,Alnajah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/519.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/519.ts
 #EXTINF:0,Alkawthar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/517.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/517.ts
 #EXTINF:0,Alkarma TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/413.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/413.ts
 #EXTINF:0,ALjamela
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/562.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/562.ts
 #EXTINF:0,Aletejah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/371.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/371.ts
 #EXTINF:0,Alburhan
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/508.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/508.ts
 #EXTINF:0,Aldanah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/515.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/515.ts
 #EXTINF:0,Al qanat TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/551.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/551.ts
 #EXTINF:0,Al rai
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/110.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/110.ts
 #EXTINF:0,Al Fath
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/451.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/451.ts
 #EXTINF:0,Al Hiwar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/191.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/191.ts
 #EXTINF:0,Al Masira
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/210.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/210.ts
 #EXTINF:0,Nour Music
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/220.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/220.ts
 #EXTINF:0,Nour Mariam
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/219.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/219.ts
 #EXTINF:0,Nour GNN
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/475.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/475.ts
 #EXTINF:0,Noor Dubai
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/71.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/71.ts
 #EXTINF:0,Oman tv 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/415.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/415.ts
 #EXTINF:0,Oman Sport
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/420.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/420.ts
 #EXTINF:0,Qusaim
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/509.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/509.ts
 #EXTINF:0,Qatar
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/107.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/107.ts
 #EXTINF:0,Selah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/449.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/449.ts
 #EXTINF:0,Saudi Sport  HD1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/127.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/127.ts
 #EXTINF:0,Saudi 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/123.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/123.ts
 #EXTINF:0,Sharjah Sports
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/143.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/143.ts
 #EXTINF:0,Sharjah Kabla
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/473.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/473.ts
 #EXTINF:0,Sharjah
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/118.ts
-#EXTINF:0,Sky News plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/131.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/118.ts
+#EXTINF:0,Sky News plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/131.ts
 #EXTINF:0,Suna
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/120.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/120.ts
 #EXTINF:0,Sudia 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/121.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/121.ts
 #EXTINF:0,Sport TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/479.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/479.ts
 #EXTINF:0,Sudan TV
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/223.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/223.ts
 #EXTINF:0,Tayba
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/130.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/130.ts
 #EXTINF:0,Al kass 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/188.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/188.ts
 #EXTINF:0,Al kass 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/190.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/190.ts
 #EXTINF:0,Al kass 3
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/189.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/189.ts
 #EXTINF:0,Al kass 4
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/306.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/306.ts
 #EXTINF:0,Al kass 5
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/307.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/307.ts
 #EXTINF:0,Abu Dabi Sport 1
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/422.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/422.ts
 #EXTINF:0,Abu Dabi Sport 2
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/423.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/423.ts
 #EXTINF:0,Abu Dabi Sport 3
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/424.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/424.ts
 #EXTINF:0,Abu Dabi Sport 4
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/425.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/425.ts
 #EXTINF:0,Abu Dabi Sport 5
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/426.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/426.ts
 #EXTINF:0,Abu Dabi Sport 1 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/427.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/427.ts
 #EXTINF:0,Abu Dabi Sport 2 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/428.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/428.ts
 #EXTINF:0,Abu Dabi Sport 3 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/429.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/429.ts
 #EXTINF:0,Abu Dabi Sport 4 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/430.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/430.ts
 #EXTINF:0,Abu Dabi Sport 5 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/431.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/431.ts
 #EXTINF:0,Sky Sports 1 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/171.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/171.ts
 #EXTINF:0,Sky Sports 2 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/172.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/172.ts
 #EXTINF:0,Sky Sports 3 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/173.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/173.ts
 #EXTINF:0,Sky Sports 4 HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/174.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/174.ts
 #EXTINF:0,AR:beIN_Sports_1_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/270.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/270.ts
 #EXTINF:0,AR:beIN_Sports_2_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/262.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/262.ts
 #EXTINF:0,AR:beIN_Sports_3_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/261.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/261.ts
 #EXTINF:0,AR:beIN_Sports_4_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/260.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/260.ts
 #EXTINF:0,AR:beIN_Sports_5_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/259.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/259.ts
 #EXTINF:0,AR:beIN_Sports_6_HD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/258.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/258.ts
 #EXTINF:0,AR:BEIN_SPORTS_1_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/541.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/541.ts
 #EXTINF:0,AR:BEIN_SPORTS_2_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/542.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/542.ts
 #EXTINF:0,AR:BEIN_SPORTS_3_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/543.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/543.ts
 #EXTINF:0,AR:BEIN_SPORTS_4_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/544.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/544.ts
 #EXTINF:0,AR:BEIN_SPORTS_5_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/545.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/545.ts
 #EXTINF:0,AR:BEIN_SPORTS_6_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/546.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/546.ts
 #EXTINF:0,AR:BEIN_SPORTS_7_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/547.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/547.ts
 #EXTINF:0,AR:BEIN_SPORTS_8_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/548.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/548.ts
 #EXTINF:0,AR:BEIN_SPORTS_9_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/549.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/549.ts
 #EXTINF:0,AR:BEIN_SPORTS_10_SD
-plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= ^&://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/550.ts
+plugin://plugin.video.f4mTester/?;streamtype=TSDOWNLOADER&amp;url= http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/550.ts
