@@ -271,6 +271,19 @@ Stars: Justin Theroux, Amy Brenneman, Christopher Eccleston,Liv Taylor</info>
 </channel>
 
 <channel>
+<name>Under The Dome</name>
+<thumbnail>http://i.imgur.com/UYDzSaw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Under%20the%20Dome.txt</externallink>
+<fanart>http://i.imgur.com/A03tsy4.jpg</fanart>
+<info>Under the Dome
+American drama series
+Based on the best-selling Stephen King novel of the same name, "Under the Dome" follows the residents of Chester's Mill, Maine, as they find their small town suddenly cut off from the rest of the world by a transparent dome. While some people start to panic, a small group of citizens -- led by Army veteran Dale Barbara -- tries to maintain some semblance of peace and order, while also attempting to learn the truth about the mysterious barrier, the purpose behind it -- and, most importantly, how to escape it.
+Final episode date: September 10, 2015
+Network: CBS
+Executive producers: Steven Spielberg, Stephen King</info>
+</channel>
+
+<channel>
 <name>Vikings</name>
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Vikings.txt</externallink>
