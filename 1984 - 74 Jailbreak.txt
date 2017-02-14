@@ -1,0 +1,30 @@
+﻿<item>
+<title>01. Jailbreak</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1984%20-%2074%20Jailbreak%20(2007-2008%20Jap.%20Remaster)/01.%20Jailbreak.mp3</link>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+</item>
+<item>
+<title>02. You Ain't Got A Hold On Me</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1984%20-%2074%20Jailbreak%20(2007-2008%20Jap.%20Remaster)/02.%20You%20Ain't%20Got%20A%20Hold%20On%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+</item>
+<item>
+<title>03. Show Business</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1984%20-%2074%20Jailbreak%20(2007-2008%20Jap.%20Remaster)/03.%20Show%20Business.mp3</link>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+</item>
+<item>
+<title>04. Soul Stripper</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1984%20-%2074%20Jailbreak%20(2007-2008%20Jap.%20Remaster)/04.%20Soul%20Stripper.mp3</link>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+</item>
+<item>
+<title>05. Baby, Please Don't Go.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1984%20-%2074%20Jailbreak%20(2007-2008%20Jap.%20Remaster)/05.%20Baby,%20Please%20Don't%20Go.mp3</link>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+</item>

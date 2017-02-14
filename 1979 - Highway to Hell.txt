@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. Highway To Hell</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/01.%20Highway%20To%20Hell.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>02. Girls Got Rhythm</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/02.%20Girls%20Got%20Rhythm.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>03. Walk All Over You</title>
+<link>03. Walk All Over You.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>04. Touch Too Much</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/04.%20Touch%20Too%20Much.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>05. Beating Around The Bush</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/05.%20Beating%20Around%20The%20Bush.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>06. Shot Down In Flames</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/06.%20Shot%20Down%20In%20Flames.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>07. Get It Hot</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/07.%20Get%20It%20Hot.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>08. If You Want Blood (You've Got It)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/08.%20If%20You%20Want%20Blood%20(You've%20Got%20It).mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>09. Love Hungry Man</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/09.%20Love%20Hungry%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>
+<item>
+<title>10. Night Prowler</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1979%20-%20Highway%20to%20Hell%20(2007-2008%20Jap.%20Remaster)/10.%20Night%20Prowler.mp3</link>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+</item>

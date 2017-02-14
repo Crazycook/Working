@@ -1,0 +1,60 @@
+﻿<item>
+<title>01 - Heatseeker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/01%20-%20Heatseeker.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>02 - That's the Way I Wanna Rock N Roll</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/02%20-%20That's%20the%20Way%20I%20Wanna%20Rock%20N%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>03 - Mean Streak</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/03%20-%20Mean%20Streak.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>04 - Go Zone</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/04%20-%20Go%20Zone.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>05 - Kissin' Dynamite</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/05%20-%20Kissin'%20Dynamite.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>06 - Nick of Time</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/06%20-%20Nick%20of%20Time.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>07 - Some Sin for Nuthin'</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/07%20-%20Some%20Sin%20for%20Nuthin'.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>08 - Ruff Stuff</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/08%20-%20Ruff%20Stuff.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>09 - Two's Up</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/09%20-%20Two's%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>
+<item>
+<title>10 - This Means War</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1988%20-%20Blow%20Up%20Your%20Video%20%20(Remastered%202003)/10%20-%20This%20Means%20War.mp3</link>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+</item>

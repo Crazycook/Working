@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. Dirty Deeds Done Dirt Cheap</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/01.%20Dirty%20Deeds%20Done%20Dirt%20Cheap.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>02. Love At First Feel</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/02.%20Love%20At%20First%20Feel.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>03. Big Balls</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/03.%20Big%20Balls.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>04. Rocker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/04.%20Rocker.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>05. Problem Child</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/05.%20Problem%20Child.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>06. There's Gonna Be Some Rockin'</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/06.%20There's%20Gonna%20Be%20Some%20Rockin'.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>07. Ain't No Fun (Waiting Round To Be A Millionaire)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/07.%20Ain't%20No%20Fun%20(Waiting%20Round%20To%20Be%20A%20Millionaire).mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>08. Ride On</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/08.%20Ride%20On.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>
+<item>
+<title>09. Squealer</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%20(2007-2008%20Jap.%20Remaster)/09.%20Squealer.mp3</link>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+</item>

@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. Rock 'N' Roll Damnation</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/01.%20Rock%20'N'%20Roll%20Damnation.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>02. Down Payment Blues</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/02.%20Down%20Payment%20Blues.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>03. Gimme A Bullet</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/03.%20Gimme%20A%20Bullet.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>04. Riff Raff</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/04.%20Riff%20Raff.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>05. Sin City</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/05.%20Sin%20City.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>06. What's Next To The Moon</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/06.%20What's%20Next%20To%20The%20Moon.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>07. Gone Shootin'</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/07.%20Gone%20Shootin'.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>08. Up To My Neck In You</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/08.%20Up%20To%20My%20Neck%20In%20You.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>
+<item>
+<title>09. Kicked In The Teeth</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1978%20-%20Powerage%20(2007-2008%20Jap.%20Remaster)/09.%20Kicked%20In%20The%20Teeth.mp3</link>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+</item>

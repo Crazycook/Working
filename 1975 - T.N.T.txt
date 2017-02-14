@@ -1,0 +1,54 @@
+﻿<item>
+<title>01 - It's A Long Way To The Top (If You Wanna Rock And Roll)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/01_-_It's_A_Long_Way_To_The_Top_(If_You_Wanna_Rock_And_Roll).mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>02 - Rock And Roll Singer</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/02_-_Rock_And_Roll_Singer.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>03 - The _Jack</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/03_-_The_Jack.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>04 - Live Wire</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/04_-_Live_Wire.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>05 - T.N.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/05_-_T.N.T..mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>06 - Rocker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/06_-_Rocker.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>07 - Can I Sit Next To You Girl </title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/07_-_Can_I_Sit_Next_To_You_Girl.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>08 - High Voltage </title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/08_-_High_Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
+<item>
+<title>09 - School Days</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1975%20-%20T.N.T.%20%20(%20Vinyl%20Remaster)/09_-_School_Days.mp3</link>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+</item>
