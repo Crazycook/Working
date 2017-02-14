@@ -336,11 +336,4 @@ Creators: David Pastor, Àlex Pastor
 Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
 </channel>
 
-<channel>
-<name>trial</name>
-<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/trial.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info></info>
-</channel>
 </channels>
