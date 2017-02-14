@@ -1,6 +1,0 @@
-<item>
-<title>andromeda</title>
-<link>http://151.80.105.138:4125/ALL%20TV/%283%29%20USA%20TV/Andromeda/Season%2001/Andromeda%20-%20S01E01%20-%20Under%20the%20Night%20%281%29.mkv</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
-</item>
