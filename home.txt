@@ -57,7 +57,7 @@ First episode date: January 22, 2010
 Final episode date: November 30, 2010
 Network: Syfy</info>
 </channel>
-https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt
+
 channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
