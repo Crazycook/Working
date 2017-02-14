@@ -1,12 +1,26 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>AC/DC</name>
+<thumbnail>http://i.imgur.com/57mDxgM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC/DC/home.txt</externallink>
+<fanart>http://i.imgur.com/JT7R4Th.jpg</fanart>
+<info>AC/DC
+AC/DC are an Australian rock band, formed in 1973 by brothers Malcolm and Angus Young. A hard rock/blues rock band, they have also been considered a heavy metal band, although they have always dubbed their music simply "rock and roll". Wikipedia
+Origin: Sydney, Australia (1973)</info>
+</channel>
+
 <channel>
 <name>Metallica</name>
 <thumbnail>http://i.imgur.com/bVsHSvY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Metallica/home.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
+<info>Metallica
+Metallica is an American heavy metal band based in San Rafael, California. The band was formed in 1981 in Los Angeles when vocalist/guitarist James Hetfield responded to an advertisement posted by drummer Lars Ulrich in a local newspaper.
+Origin: Los Angeles, California, United States (1981)
+</info>
 </channel>
 
 <channel>
