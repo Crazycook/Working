@@ -58,7 +58,7 @@ Final episode date: November 30, 2010
 Network: Syfy</info>
 </channel>
 
-channel>
+<channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
