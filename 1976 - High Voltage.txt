@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. It's a Long Way to the Top (If You Wanna Rock 'n' Roll)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/01.%20It's%20a%20Long%20Way%20to%20the%20Top%20(If%20You%20Wanna%20Rock%20'n'%20Roll).mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>02. Rock 'n' Roll Singer</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/02.%20Rock%20'n'%20Roll%20Singer.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>03. The Jack</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/03.%20The%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>04. Live Wire</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/04.%20Live%20Wire.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>05. TNT</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/05.%20TNT.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>06. Can I Sit Next To You Girl</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/06.%20Can%20I%20Sit%20Next%20To%20You%20Girl.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>07. Little Lover</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/07.%20Little%20Lover.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>08. She's Got Balls</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/08.%20She's%20Got%20Balls.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>
+<item>
+<title>09. High Voltage</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1976%20-%20High%20Voltage%20(2007-2008%20Jap.%20Remaster)/09.%20High%20Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<fanart>http://i.imgur.com/hTV5QT3.jpg</fanart>
+</item>

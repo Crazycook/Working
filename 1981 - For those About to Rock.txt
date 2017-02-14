@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. For Those About To Rock (We Salute You)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/01.%20For%20Those%20About%20To%20Rock%20(We%20Salute%20You).mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>02. I Put The Finger On You</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/02.%20I%20Put%20The%20Finger%20On%20You.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>03. Let's Get It Up</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/03.%20Let's%20Get%20It%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>04. Inject The Venom</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/04.%20Inject%20The%20Venom.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>05. Snowballed</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/05.%20Snowballed.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>06. Evil Walks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/06.%20Evil%20Walks.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>07. C.O.D.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/07.%20C.O.D..mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>08. Breaking The Rules</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/08.%20Breaking%20The%20Rules.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>09. Night Of The Long Knives</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/09.%20Night%20Of%20The%20Long%20Knives.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>
+<item>
+<title>10. Spellbound</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1981%20-%20For%20Those%20About%20To%20Rock%20(2007-2008%20Jap.%20Remaster)/10.%20Spellbound.mp3</link>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+</item>

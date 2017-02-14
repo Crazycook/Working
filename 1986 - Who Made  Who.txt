@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. AC-DC - Who Made Who.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/01.%20AC-DC%20-%20Who%20Made%20Who.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>02. AC-DC - You Shook Me All Night Long</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/02.%20AC-DC%20-%20You%20Shook%20Me%20All%20Night%20Long.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>03. AC-DC - D.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/03.%20AC-DC%20-%20D.T..mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>04. AC-DC - Sink The Pink</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/04.%20AC-DC%20-%20Sink%20The%20Pink.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>05. AC-DC - Ride On</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/05.%20AC-DC%20-%20Ride%20On.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>06. AC-DC - Hells Bells</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/06.%20AC-DC%20-%20Hells%20Bells.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>07. AC-DC - Shake Your Foundations</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/07.%20AC-DC%20-%20Shake%20Your%20Foundations.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>08. AC-DC - Chase The Ace</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/08.%20AC-DC%20-%20Chase%20The%20Ace.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>
+<item>
+<title>09. AC-DC - For Those About To Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1986%20-%20Who%20Made%20Who/09.%20AC-DC%20-%20For%20Those%20About%20To%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+</item>

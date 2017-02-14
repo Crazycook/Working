@@ -1,0 +1,60 @@
+﻿<item>
+<title>01 - Hells Bells</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2001%20-%20Hells%20Bells.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>02 - Shoot to Thrill</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2002%20-%20Shoot%20to%20Thrill.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>03 - What Do You Do for Money Honey</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2003%20-%20What%20Do%20You%20Do%20for%20Money%20Honey.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>04 - Givin the Dog a Bone</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2004%20-%20Givin%20the%20Dog%20a%20Bone.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>05 - Let Me Put My Love into You</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2005%20-%20Let%20Me%20Put%20My%20Love%20into%20You.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>06 - Back in Black</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2006%20-%20Back%20in%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>07 - You Shook Me All Night Long</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2007%20-%20You%20Shook%20Me%20All%20Night%20Long.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>08 - Have a Drink on Me</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2008%20-%20Have%20a%20Drink%20on%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>09 - Shake a Leg</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2009%20-%20Shake%20a%20Leg.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>
+<item>
+<title>10 - Rock and Roll Ain't Noise Pollution.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1980%20-%20Back%20in%20Black/AC-DC%20-%20Back%20in%20Black%20-%2010%20-%20Rock%20and%20Roll%20Ain't%20Noise%20Pollution.mp3</link>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+</item>

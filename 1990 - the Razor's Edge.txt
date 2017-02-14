@@ -1,0 +1,72 @@
+﻿<item>
+<title>01. Thunderstruck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/01.%20Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>02. Fire Your Guns</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/02.%20Fire%20Your%20Guns.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>03. Moneytalks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/03.%20Moneytalks.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>04. The Razors Edge</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/04.%20The%20Razors%20Edge.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>05. Mistress For Christmas</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/05.%20Mistress%20For%20Christmas.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>06. Rock Your Heart Out</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/06.%20Rock%20Your%20Heart%20Out.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>07. Are You Ready</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/07.%20Are%20You%20Ready.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>08. Got You By The Balls</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/08.%20Got%20You%20By%20The%20Balls.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>09. Shot Of Love</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/09.%20Shot%20Of%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>10. Let's Make It</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/10.%20Let's%20Make%20It.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>11. Goodbye And Good Riddance To Bad Luck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/11.%20Goodbye%20And%20Good%20Riddance%20To%20Bad%20Luck.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>12. If You Dare</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/12.%20If%20You%20Dare.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>

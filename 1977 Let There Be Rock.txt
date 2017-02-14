@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. Go Down</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/01.%20Go%20Down.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>02. Dog Eat Dog</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/02.%20Dog%20Eat%20Dog.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>03. Let There Be Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/03.%20Let%20There%20Be%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>04. Bad Boy Boogie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/04.%20Bad%20Boy%20Boogie.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>05. Problem Child</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/05.%20Problem%20Child.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>06. Overdose</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/06.%20Overdose.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>07. Hell Ain't A Bad Place To Be</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/07.%20Hell%20Ain't%20A%20Bad%20Place%20To%20Be.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>
+<item>
+<title>08. Whole Lotta Rosie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1977%20-%20Let%20There%20Be%20Rock%20(2007-2008Jap.%20Remastered)/08.%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+</item>

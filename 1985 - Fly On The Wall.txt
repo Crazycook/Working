@@ -1,0 +1,60 @@
+﻿<item>
+<title>01 ACDC - Fly On The Wall</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/01%20ACDC%20-%20Fly%20On%20The%20Wall.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>02 ACDC - Shake Your Foundations</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/02%20ACDC%20-%20Shake%20Your%20Foundations.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>03 ACDC - First Blood</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/03%20ACDC%20-%20First%20Blood.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>04 ACDC - Danger</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/04%20ACDC%20-%20Danger.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>05 ACDC Sink The Pink</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/05%20ACDC%20Sink%20The%20Pink.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>06 ACDC - Playing With Girls</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/06%20ACDC%20-%20Playing%20With%20Girls.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>07 ACDC - Stand Up</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/07%20ACDC%20-%20Stand%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>08 ACDC - Hell Or High Water</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/08%20ACDC%20-%20Hell%20Or%20High%20Water.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>09 ACDC - Back In Business</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/09%20ACDC%20-%20Back%20In%20Business.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
+<item>
+<title>10 ACDC - Send For The Man</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1985%20-%20Fly%20On%20The%20Wall%201985%20(2008%20%20Remaster)/10%20ACDC%20-%20Send%20For%20The%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+</item>
