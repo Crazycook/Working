@@ -1,0 +1,189 @@
+﻿<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>1975 - T.N.T.</name>
+<thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1975%20-%20T.N.T.txt</externallink>
+<fanart>http://i.imgur.com/l0k3rMt.jpg</fanart>
+<info>T.N.T.
+Studio album by AC/DC
+T.N.T. is the second studio album by Australian hard rock band AC/DC, released only in Australia, on 1 December 1975. 
+Release date: December 1, 1975
+Label: Albert Productions
+Genres: Hard rock, Rock and roll, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1976 - Dirty Deeds done Dirt Cheap</name>
+<thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap.txt</externallink>
+<fanart>http://i.imgur.com/ms3lCCu.jpg</fanart>
+<info>Dirty Deeds Done Dirt Cheap
+Album by AC/DC
+Dirty Deeds Done Dirt Cheap is an album by Australian hard rock band AC/DC. It was the band's second internationally released studio album and the third to be released in Australia. All songs were written by Angus Young, Malcolm Young and Bon Scott.
+Release date: September 20, 1976
+Label: Albert Productions
+Genres: Rock music, Hard rock, Heavy metal, Rock and roll, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1976 - High Voltage</name>
+<thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1976%20-%20High%20Voltage.txt</externallink>
+<fanart>http://i.imgur.com/SaV2Mlt.jpg</fanart>
+<info>High Voltage
+Studio album by AC/DC
+High Voltage is the first internationally released studio album by Australian hard rock band AC/DC. It contains tracks from their first two previous Australia-only issued albums, High Voltage and T.N.T.. Wikipedia
+Release date: April 30, 1976
+Label: Atco Records
+Genres: Rock music, Hard rock, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1977 - Let There be Rock</name>
+<thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1977%20Let%20There%20Be%20Rock.txt</externallink>
+<fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
+<info>AC/DC: Let There Be Rock
+1980 ‧ Music/Concert film ‧ 1h 35m
+8.4/10 · IMDb
+The Australian rock band performs "Highway to Hell," "Whole Lotta Rosie" and other hard-driving hits in a December 1979 concert in Paris.
+Release date: September 7, 1980 (Canada)
+Directors: Eric Dionysius, Eric Mistler
+Music composed by: AC/DC
+Initial DVD release: October 14, 2008 (USA)
+Cinematography: Jean-Francis Gondre</info>
+</channel>
+<channel>
+<name>1978 - If You Want Blood</name>
+<thumbnail>http://i.imgur.com/UXpHlr9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1978%20-%20If%20You%20Want%20Blood.txt</externallink>
+<fanart>http://i.imgur.com/rB9H1Bg.jpg</fanart>
+<info>If You Want Blood You've Got It
+Live album by AC/DC
+If You Want Blood is the first live album by Australian hard rock band AC/DC, originally released in the UK and Europe on 13 October 1978, in the US on 21 November 1978, and in Australia on 27 November 1978.
+Release date: October 13, 1978
+Label: Atlantic Records
+Genres: Hard rock, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1978 - Powerage</name>
+<thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1978%20-%20Powerage.txt</externallink>
+<fanart>http://i.imgur.com/yBBxztD.jpg</fanart>
+<info>Powerage
+Album by AC/DC
+Powerage is an album by Australian hard rock band AC/DC. It was the band's fourth internationally released studio album and the fifth to be released in Australia. It was also the first AC/DC album to feature Cliff Williams on bass. 
+Release date: May 5, 1978
+Label: Atlantic Records
+Genres: Hard rock, Heavy metal, Rock and roll, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1979 - Highway To Hell</name>
+<thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1979%20-%20Highway%20to%20Hell.txt</externallink>
+<fanart>http://i.imgur.com/Q2Doj6c.jpg</fanart>
+<info>Highway to Hell
+Album by AC/DC
+Highway to Hell is an album by Australian hard rock band AC/DC. It was the band's fifth internationally released studio album and the sixth to be released in Australia. 
+Release date: July 27, 1979
+Producer: Robert John Lange
+Label: Atlantic Records
+Genres: Hard rock, Heavy metal, Rock and roll, Blues rock</info>
+</channel>
+<channel>
+<name>1980 - Back In Black</name>
+<thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1980%20-%20Back%20In%20Black.txt</externallink>
+<fanart>http://i.imgur.com/S5vJDd2.jpg</fanart>
+<info>Back in Black
+Studio album by AC/DC
+Back in Black is the seventh studio album by Australian rock band AC/DC. Produced by Robert John "Mutt" Lange, the album was released on 25 July 1980 by Albert Productions and Atlantic Records.
+Release date: July 25, 1980
+Producer: Robert John Lange
+Label: Atlantic Records
+Genres: Hard rock, Heavy metal, Blues rock</info>
+</channel>
+<channel>
+<name>1981 - For Those About To Rock</name>
+<thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1981%20-%20For%20those%20About%20to%20Rock.txt</externallink>
+<fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
+<info>For Those About to Rock We Salute You
+Studio album by AC/DC
+For Those About to Rock We Salute You is the eighth studio album by Australian hard rock band AC/DC. It was the band's seventh internationally released studio album and the eighth to be released in Australia.
+Release date: November 23, 1981
+Label: Atlantic Records
+Producer: Robert John Lange
+Genres: Hard rock, Heavy metal, Blues rock</info>
+</channel>
+<channel>
+<name>1984 - 74 Jailbreak</name>
+<thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1984%20-%2074%20Jailbreak.txt</externallink>
+<fanart>http://i.imgur.com/UpyLn0C.jpg</fanart>
+<info>'74 Jailbreak
+Album by AC/DC
+'74 Jailbreak is an EP by Australian rock band AC/DC, comprising five tracks that had previously been released only in Australia. It was released in 1984 in the United States, Canada, Brazil and Japan.
+Release date: October 15, 1984
+Label: Atlantic Records
+Genres: Hard rock, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1985 - Fly on the Wall</name>
+<thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1986%20-%20Who%20Made%20%20Who.txt</externallink>
+<fanart>http://i.imgur.com/jo3Cfx6.jpg</fanart>
+<info>1985 - Fly on the Wall
+Album by AC/DC
+Fly on the Wall is an album by Australian hard rock band AC/DC. It was the band's ninth internationally released studio album and the tenth to be released in Australia. All songs were written by Angus Young, Malcolm Young, and Brian Johnson. Wikipedia
+Release date: June 28, 1985
+Label: Atlantic Records
+Genres: Hard rock, Heavy metal
+Producers: Angus Young, Malcolm Young</info>
+</channel>
+<channel>
+<name>1986 - Who Made Who</name>
+<thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1986%20-%20Who%20Made%20%20Who.txt</externallink>
+<fanart>http://i.imgur.com/wE0OtRp.jpg</fanart>
+<info>Who Made Who
+Album by AC/DC
+Who Made Who is a hard rock album by Australian band AC/DC, released in 1986 as the soundtrack to the Stephen King movie Maximum Overdrive. It was re-released in 2003 as part of the AC/DC Remasters series.
+Release date: May 20, 1986
+Movie: Maximum Overdrive
+Genre: Hard rock
+Producers: Robert John Lange, Harry Vanda, George Young, Angus Young, Malcolm Young</info>
+</channel>
+<channel>
+<name>1988 - Blow Up Your Video</name>
+<thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1988%20Blow%20Up%20Your%20Video.txt</externallink>
+<fanart>http://i.imgur.com/F397kOA.jpg</fanart>
+<info>Blow Up Your Video
+Album by AC/DC
+Blow Up Your Video is an album by Australian hard rock band AC/DC. It was the band's tenth internationally released studio album and the eleventh to be released in Australia.
+Release date: January 18, 1988
+Label: Atlantic Records
+Genre: Hard rock
+Producers: Harry Vanda, George Young</info>
+</channel>
+<channel>
+<name>1990 The Razor's Edge</name>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1990%20-%20the%20Razor's%20Edge.txt</externallink>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+<info>The Razors Edge
+Album by AC/DC
+The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
+Release date: September 24, 1990
+Producer: Bruce Fairbairn
+Genres: Hard rock, Heavy metal
+Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
+
+<channels>
