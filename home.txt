@@ -149,6 +149,19 @@ Stars: Nathan Fillion, Gina Torres, Alan Tudyk
 </channel>
 
 <channel>
+F<name>Forever Knight</name>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/edited%20list.txt</externallink>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+<info>Forever Knight
+Nick Knight is an 800-year-old vampire working as a homicide detective on the graveyard shift in modern-day Toronto, a result of his feeling guilt for centuries of killing others and seeking redemption for his acts. Most of his colleagues are unaware of Nick's true identity as a vampire. Only his friend, city medical examiner Natalie Lambert, knows about Nick's identity as a vampire. One advantage to having a vampire working on the police force is the ability for Nick to use his superhuman characteristics, including enhanced senses and mind control, to help him bring criminals to justice. Nick's quest for redemption becomes more complicated when fellow vampires arrive in Toronto and throw obstacles in front of him as he strives to reach his ultimate goal -- becoming human once again.
+First episode date: May 5, 1992
+Final episode date: May 17, 1996
+Network: CBC, CBS
+</info>
+</channel>
+
+<channel>
 <name>Game of Thrones</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Game%20of%20Thrones.txt</externallink>
