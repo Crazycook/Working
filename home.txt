@@ -49,7 +49,7 @@ Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
 <channel>
 <name>Battlestar Galactica 2005</name>
 <thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
 <fanart>http://i.imgur.com/rbunHn3.png</fanart>
 <info>Caprica - Drama series
 Set nearly 60 years before the popular "Battlestar Galactica" series, this prequel traces the progress of two prominent families, the Greystones and the Adamas, in the peaceful world of the 12 Colonies. An act of terrorism has tragic consequences for both families, which shapes the future of the battle for humanity.
@@ -61,7 +61,7 @@ Network: Syfy</info>
 <channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
 <fanart>http://i.imgur.com/4EyzFTR.jpg</fanart>
 <info>Battlestar Galactica
 This update of the late-1970s series takes a decidedly darker tone as what's left of humankind struggles for survival against the robot Cylons, who have killed millions. The Galactica, led by William Adama, protects a patched-together fleet of civilians -- led by de facto president Laura Roslin -- in search of a mythical planet called Earth.
@@ -171,6 +171,19 @@ Stars: Lee Pace, Scoot McNairy, Mackenzie Davis </info>
 </channel>
 
 <channel>
+<name>Mr Bean</name>
+<thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Bean.txt</externallink>
+<fanart>http://i.imgur.com/d6RgGHa.jpg</fanart>
+<info>Mr. Bean
+British sitcom
+The misadventures of a bumbling loner.
+First episode date: January 1, 1990
+Theme song: Mr. Bean Theme Song
+Directors: John Howard Davies, Paul Weiland</info>
+</channel>
+
+<channel>
 <name>Mr. Robot</name>
 <thumbnail>http://i.imgur.com/MHWW5gp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Robot.txt</externallink>
@@ -200,6 +213,35 @@ Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 Preacher is an American television series developed by Evan Goldberg, Seth Rogen and Sam Catlin for AMC starring Dominic Cooper.
 First episode date : May 22, 2016
 Network : AMC</info>
+</channel>
+
+<channel>
+<name>Shooter</name>
+<thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Shooter.txt</externallink>
+<fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
+<info>Shooter 
+American television series
+
+Shooter is an American television drama series based on the novel Point of Impact by Stephen Hunter and the 2007 film of the same name. Wikipedia
+First episode date: November 15, 2016
+Network: USA Network
+Number of episodes: 10
+Number of seasons: 1
+Executive producer: Ryan Phillippe</info>
+</channel>
+
+<channel>
+<name>The Expanse</name>
+<thumbnail>http://i.imgur.com/Ckit4DZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Expanse.txt</externallink>
+<fanart>http://i.imgur.com/duzAZHh.jpg</fanart>
+<info>The Expanse
+American drama series
+
+Hundreds of years in the future, things are different than what we are used to after humans have colonized the solar system and Mars has become an independent military power. Rising tensions between Earth and Mars have put them on the brink of war. Against this backdrop, a hardened detective and a rogue ship's captain come together to investigate the case of a missing young woman. The investigation leads them on a race across the solar system that could expose the greatest conspiracy in human history.
+First episode date: November 23, 2015
+Network: Syfy</info> 
 </channel>
 
 <channel>
@@ -336,4 +378,11 @@ Creators: David Pastor, Àlex Pastor
 Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
 </channel>
 
+<channel>
+<name>trial</name>
+<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/trial.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info></info>
+</channel>
 </channels>
