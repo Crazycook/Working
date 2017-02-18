@@ -3,7 +3,7 @@
 <utube>e_mHL43ZnmQ</utube>
 <thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
-<info> 1989 Tv Movi</info>
+<info> 1989 Tv Movie</info>
 </item>
 
 <item>
@@ -101,6 +101,7 @@
 <utube>74WaAGNCAs8</utube>
 <thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+<info>blocked</info>
 </item>
 <item>
 <title>Forever Knight S01E17</title>
@@ -115,20 +116,188 @@
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
 </item>
 <item>
-<title>Forever Knight S01E20</title>
+<title>Forever Knight S01E19</title>
 <utube>35-nuqaP6XE</utube>
 <thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
 </item>
 <item>
-<title>Forever Knight S01E21</title>
+<title>Forever Knight S01E20</title>
 <utube>KlQFYAMo93U</utube>
 <thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
 </item>
 <item>
-<title>Forever Knight S01E22</title>
+<title>Forever Knight S01E21</title>
 <utube>QjUO-IIg1qs</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S01E22</title>
+<utube>t0wSHPy7Qak</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E01</title>
+<utube>FDSSV0W1KEM</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E02</title>
+<utube>coyWlkrxgF4</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E03</title>
+<utube>v9rVhS4fiSo</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E04</title>
+<utube>SXs3Kw48JXA</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E05</title>
+<utube>P6Q-o3lgTcE</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E06</title>
+<utube>Sjx43g5jr6M</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E07</title>
+<utube>HlzFoiL-E_Q</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E08</title>
+<utube>vSIeNC--Ja8</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E09</title>
+<utube>ptSu34xU7uk</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E10</title>
+<utube>zVTen7BdTpo</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E11</title>
+<utube>WoRsdPlBLuU</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E12</title>
+<utube>qgN0EnahJpk</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E13</title>
+<utube>RWBt6qBBuuI</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E14</title>
+<utube>ch9iEWnrtiY</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E15</title>
+<utube>WjyTNK-h8Us</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E16</title>
+<utube>mgWuVo-A2Fc</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E17</title>
+<utube>S4HzpSw8C1s</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E18</title>
+<utube>vUoDM1HDhg4</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E19</title>
+<utube>7H_RnVMGOU8</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E20</title>
+<utube>u2ap8UD7oa8</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E21</title>
+<utube>Er1oNYoEaM8</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E22</title>
+<utube>PCNcMcXruVo</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E23</title>
+<utube>nlINYadpiAo</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E24</title>
+<utube>nsvPrBapL4s</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E25</title>
+<utube>NwWntCo7-Sc</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S02E26</title>
+<utube>g1GnTWegNV0</utube>
+<thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
+<fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
+</item>
+<item>
+<title>Forever Knight S03E</title>
+<utube></utube>
 <thumbnail>http://i.imgur.com/tzevJzN.jpg</thumbnail>
 <fanart>http://i.imgur.com/o4chQ5j.jpg</fanart>
 </item>
