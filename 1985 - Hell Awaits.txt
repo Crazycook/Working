@@ -1,0 +1,54 @@
+﻿<item>
+<title>01. Hell Awaits.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/01.%20Hell%20Awaits.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>02. Kill Again</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/02.%20Kill%20Again.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>03. At Dawn They Sleep</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/03.%20At%20Dawn%20They%20Sleep.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>04. Haunting The Chapel</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/04.%20Haunting%20The%20Chapel.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>05. Praise Of Death</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/05.%20Praise%20Of%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>06. Necrophiliac</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/06.%20Necrophiliac.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>07. Captor Of Sin</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/07.%20Captor%20Of%20Sin.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>08. Crypts Of Eternity</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/08.%20Crypts%20Of%20Eternity.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>
+<item>
+<title>09. Hardening Of The Arteries</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1985%20-%20Hell%20Awaits%20%5bPHCR-1108%5d/09.%20Hardening%20Of%20The%20Arteries.mp3</link>
+<thumbnail>http://i.imgur.com/QYSyGQ9.jpg</thumbnail>
+<fanart>http://i.imgur.com/jXnqiT2.jpg</fanart>
+</item>

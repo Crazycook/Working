@@ -1,0 +1,18 @@
+﻿<item>
+<title>01. Witching Hour (feat. Machine Head)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Live%20Intrusion%20(Live)%20%5bBonus%20CD%5d/01.%20Witching%20Hour%20(feat.%20Machine%20Head).mp3</link>
+<thumbnail>http://i.imgur.com/Vnr0hyF.jpg</thumbnail>
+<fanart>http://i.imgur.com/mfBuNKn.jpg</fanart>
+</item>
+<item>
+<title>02. Divine Intervention.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Live%20Intrusion%20(Live)%20%5bBonus%20CD%5d/02.%20Divine%20Intervention.mp3</link>
+<thumbnail>http://i.imgur.com/Vnr0hyF.jpg</thumbnail>
+<fanart>http://i.imgur.com/mfBuNKn.jpg</fanart>
+</item>
+<item>
+<title>03. Dittohead</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Live%20Intrusion%20(Live)%20%5bBonus%20CD%5d/03.%20Dittohead.mp3</link>
+<thumbnail>http://i.imgur.com/Vnr0hyF.jpg</thumbnail>
+<fanart>http://i.imgur.com/mfBuNKn.jpg</fanart>
+</item>

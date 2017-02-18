@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. Angel of Death</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/01.%20Angel%20of%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>02. Piece By Piece</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/02.%20Piece%20By%20Piece.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>03. Necrophobic</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/03.%20Necrophobic.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>04. Altar of Sacrifice</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/04.%20Altar%20of%20Sacrifice.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>05. Jesus Saves</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/05.%20Jesus%20Saves.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>06. Criminally Insane</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/06.%20Criminally%20Insane.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>07. Reborn</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/07.%20Reborn.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>08. Epidemic</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/08.%20Epidemic.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>09. Postmortem</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/09.%20Postmortem.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>
+<item>
+<title>10. Raining Blood</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1986%20-%20Reign%20In%20Blood%20%5bMVCG-14%5d/10.%20Raining%20Blood.mp3</link>
+<thumbnail>http://i.imgur.com/X3osW3b.jpg</thumbnail>
+<fanart>http://i.imgur.com/F7r1uo3.jpg</fanart>
+</item>

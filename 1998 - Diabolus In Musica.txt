@@ -1,0 +1,84 @@
+﻿<item>
+<title>01. Bitter Peace</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/01.%20Bitter%20Peace.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>02. Death's Head</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/02.%20Death's%20Head.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>03. Stain Of Mind</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/03.%20Stain%20Of%20Mind.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>04. Overt Enemy</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/04.%20Overt%20Enemy.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>05. Perversions Of Pain</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/05.%20Perversions%20Of%20Pain.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>06. Love To Hate</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/06.%20Love%20To%20Hate.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>06. Love To Hate</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/06.%20Love%20To%20Hate.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>07. Desire</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/07.%20Desire.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>08. Unguarded Instinct (Bonus Track for Japan)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/08.%20Unguarded%20Instinct%20(Bonus%20Track%20for%20Japan).mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>09. In The Name Of God</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/09.%20In%20The%20Name%20Of%20God.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>10. Scrum</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/10.%20Scrum.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>11. Screaming From The Sky</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/11.%20Screaming%20From%20The%20Sky.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>12. Wicked (Bonus Track)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/12.%20Wicked%20(Bonus%20Track).mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>
+<item>
+<title>13. Point</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1998%20-%20Diabolus%20In%20Musica%20%5bSRCS%208698%5d/13.%20Point.mp3</link>
+<thumbnail>http://i.imgur.com/HfYytpn.jpg</thumbnail>
+<fanart>http://i.imgur.com/IhFeocL.jpg</fanart>
+</item>

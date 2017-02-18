@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. War Ensemble</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/01.%20War%20Ensemble.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>02. Blood Red</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/02.%20Blood%20Red.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>03. Spirit In Black</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/03.%20Spirit%20In%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>04. Expendable Youth</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/04.%20Expendable%20Youth.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>05. Dead Skin Mask</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/05.%20Dead%20Skin%20Mask.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>06. Hallowed Point</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/06.%20Hallowed%20Point.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>07. Skeletons Of Society</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/07.%20Skeletons%20Of%20Society.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>08. Temptation</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/08.%20Temptation.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>09. Born Of Fire</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/09.%20Born%20Of%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>
+<item>
+<title>10. Seasons In The Abyss</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1990%20-%20Seasons%20In%20The%20Abyss%20%5bPHCR-1042%5d/10.%20Seasons%20In%20The%20Abyss.mp3</link>
+<thumbnail>http://i.imgur.com/dTipI4J.jpg</thumbnail>
+<fanart>http://i.imgur.com/fyM8pjV.jpg</fanart>
+</item>

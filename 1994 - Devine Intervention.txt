@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. Killing Fields</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/01.%20Killing%20Fields.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>02. Sex. Murder. Art.</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/02.%20Sex.%20Murder.%20Art..mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>03. Fictional Reality</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/03.%20Fictional%20Reality.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>04. Dittohead</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/04.%20Dittohead.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>05. Divine Intervention</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/05.%20Divine%20Intervention.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>06. Circle Of Beliefs</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/06.%20Circle%20Of%20Beliefs.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>07. SS-3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/07.%20SS-3.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>08. Serenity In Murder</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/08.%20Serenity%20In%20Murder.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>09. 213</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/09.%20213.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>
+<item>
+<title>10. Mind Control</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1994%20-%20Divine%20Intervention%20%5bBVCP-774%5d/10.%20Mind%20Control.mp3</link>
+<thumbnail>http://i.imgur.com/jpFQsmC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Ydm4Yfj.jpg</fanart>
+</item>

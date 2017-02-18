@@ -1,0 +1,138 @@
+﻿<item>
+<title>CD 01 - 01. Hell Awaits</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/01.%20Hell%20Awaits.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>>CD 01 - 02. The Antichrist</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/02.%20The%20Antichrist.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 03. War Ensemble</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/03.%20%20War%20Ensemble.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>>CD 01 - 04. South of Heaven</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/04.%20South%20of%20Heaven.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 05. Raining Blood</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/05.%20Raining%20Blood.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 06. Altar of Sacrifice</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/06.%20Altar%20of%20Sacrifice.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 07. Jesus Saves</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/07.%20Jesus%20Saves.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 08. Dead Skin Mask</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/08.%20Dead%20Skin%20Mask.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 09. Seasons in the Abyss</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/09.%20Seasons%20in%20the%20Abyss.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 10. Mandatory Suicide</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/10.%20Mandatory%20Suicide.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 01 - 11. Angel of Death.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%201/11.%20Angel%20of%20Death.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 01. Hallowed Point</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/01.%20Hallowed%20Point.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 02. Blood Red</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/02.%20Blood%20Red.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 -03. Die By The Sword</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/03.%20Die%20By%20The%20Sword.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 04. Black Magic</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/04.%20Black%20Magic.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 05. Captor Of Sin</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/05.%20Captor%20Of%20Sin.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 06. Born Of Fire</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/06.%20Born%20Of%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 07. Skeletons Of Society (Bonus)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/08.%20At%20Dawn%20They%20Sleep%20(Bonus).mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 08. At Dawn They Sleep (Bonus)</title>
+<link></link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 09. Postmortem</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/09.%20Postmortem.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 10. Spirit In Black</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/10.%20Spirit%20In%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 11. Expendable Youth</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/11.%20Expendable%20Youth.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>
+<item>
+<title>CD 02 - 12. Chemical Warfare.mp3</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1991%20-%20Decade%20Of%20Aggression%20(2CD)%20%5bPHCR-2091-2%5d/Disc%202/12.%20Chemical%20Warfare.mp3</link>
+<thumbnail>http://i.imgur.com/64ygvGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/jUJu0Vi.jpg</fanart>
+</item>

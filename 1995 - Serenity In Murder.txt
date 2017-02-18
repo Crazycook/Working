@@ -1,0 +1,36 @@
+﻿<item>
+<title>01. At Dawn They Sleep (Live)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/01.%20At%20Dawn%20They%20Sleep%20(Live).mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>
+<item>
+<title>02. Dead Skin Mask (Live)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/02.%20Dead%20Skin%20Mask%20(Live).mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>
+<item>
+<title>03. Divine Intervention (Live)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/03.%20Divine%20Intervention%20(Live).mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>
+<item>
+<title>04. Dittohead (Live)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/04.%20Dittohead%20(Live).mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>
+<item>
+<title>05. Serenity In Murder (Album Version)</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/05.%20Serenity%20In%20Murder%20(Album%20Version).mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>
+<item>
+<title>06. Special Message</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1995%20-%20Serenity%20In%20Murder%20(EP)%20%5bBVCP-9207%5d/06.%20Special%20Message.mp3</link>
+<thumbnail>https://img.discogs.com/FJyCh5gC18zGB32gZ_PMH3q4Spc=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1649987-1348624320-1374.jpeg.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51yD9Fl4MyL._SL500_SX450_.jpg</fanart>
+</item>

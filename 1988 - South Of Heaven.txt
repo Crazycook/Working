@@ -1,0 +1,60 @@
+﻿<item>
+<title>01. South of Heaven</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/01.%20South%20of%20Heaven.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>02. Silent Scream</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/02.%20Silent%20Scream.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>03. Live Undead</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/03.%20Live%20Undead.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>04. Behind the Crooked Cross</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/04.%20Behind%20the%20Crooked%20Cross.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>05. Mandatory Suicide</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/05.%20Mandatory%20Suicide.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>06. Ghosts of War</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/06.%20Ghosts%20of%20War.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>07. Read Between the Lies</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/07.%20Read%20Between%20the%20Lies.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>08. Cleanse the Soul</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/08.%20Cleanse%20the%20Soul.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>09. Dissident Aggressor</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/09.%20Dissident%20Aggressor.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
+<item>
+<title>10. Spill the Blood</title>
+<link>http://blogs.hatrix.fr/musiques/Slayer/Slayer%20-%20MP3%20Discography%20(1983%20-%202009)/1988%20-%20South%20Of%20Heaven%20%5b25P2-2140%5d/10.%20Spill%20the%20Blood.mp3</link>
+<thumbnail>http://i.imgur.com/C9DQBSw.jpg</thumbnail>
+<fanart>http://i.imgur.com/5UWjsoi.jpg</fanart>
+</item>
