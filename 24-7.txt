@@ -62,3 +62,18 @@
 <thumbnail>http://i.imgur.com/jXcFExa.png</thumbnail>
 <fanart>http://i.imgur.com/9IKQkvT.png</fanart>
 </item>
+
+<item>
+<title>Adventure Time</title>
+<link>http://167.114.102.27/live/GlJN-eeiF1u7_lvp51CrCQ/1487546101/7d0db380a5b95a8ba1da0bca241abda1.m3u8</link>
+<thumbnail>http://i.imgur.com/stwHGoM.png</thumbnail>
+<fanart>http://i.imgur.com/ZJ0R2gR.png</fanart>
+</item>
+
+<item>
+<title>It's Always Sunny in Philedelphia</title>
+<link>http://192.95.33.51/live/EtqzGjpH54EzF8jHdi-AwA/1487546485/f970e2767d0cfe75876ea857f92e319b.m3u8</link>
+<thumbnail>https://s01.diziler.com/630x250/17-01/04/7.jpg?0.06239676859096588</thumbnail>
+<fanart>http://www.technologytell.com/entertainment/files/2014/04/EN_US_1280x720_70136141_Its-Always-Sunny-in-Philadelphia.jpg</fanart>
+</item>
+
