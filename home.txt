@@ -15,6 +15,7 @@ Label: Albert Productions
 Genres: Hard rock, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1976 - Dirty Deeds done Dirt Cheap</name>
 <thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
@@ -28,6 +29,7 @@ Label: Albert Productions
 Genres: Rock music, Hard rock, Heavy metal, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1976 - High Voltage</name>
 <thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
@@ -41,6 +43,7 @@ Label: Atco Records
 Genres: Rock music, Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1977 - Let There be Rock</name>
 <thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
@@ -56,6 +59,7 @@ Music composed by: AC/DC
 Initial DVD release: October 14, 2008 (USA)
 Cinematography: Jean-Francis Gondre</info>
 </channel>
+
 <channel>
 <name>1978 - If You Want Blood</name>
 <thumbnail>http://i.imgur.com/UXpHlr9.jpg</thumbnail>
@@ -69,6 +73,7 @@ Label: Atlantic Records
 Genres: Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1978 - Powerage</name>
 <thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
@@ -82,6 +87,7 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1979 - Highway To Hell</name>
 <thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
@@ -95,6 +101,7 @@ Producer: Robert John Lange
 Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Rock and roll, Blues rock</info>
 </channel>
+
 <channel>
 <name>1980 - Back In Black</name>
 <thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
@@ -108,6 +115,7 @@ Producer: Robert John Lange
 Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
+
 <channel>
 <name>1981 - For Those About To Rock</name>
 <thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
@@ -121,6 +129,7 @@ Label: Atlantic Records
 Producer: Robert John Lange
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
+
 <channel>
 <name>1984 - 74 Jailbreak</name>
 <thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
@@ -134,6 +143,7 @@ Label: Atlantic Records
 Genres: Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1985 - Fly on the Wall</name>
 <thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
@@ -147,6 +157,7 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal
 Producers: Angus Young, Malcolm Young</info>
 </channel>
+
 <channel>
 <name>1986 - Who Made Who</name>
 <thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
@@ -160,6 +171,7 @@ Movie: Maximum Overdrive
 Genre: Hard rock
 Producers: Robert John Lange, Harry Vanda, George Young, Angus Young, Malcolm Young</info>
 </channel>
+
 <channel>
 <name>1988 - Blow Up Your Video</name>
 <thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
@@ -173,6 +185,7 @@ Label: Atlantic Records
 Genre: Hard rock
 Producers: Harry Vanda, George Young</info>
 </channel>
+
 <channel>
 <name>1990 The Razor's Edge</name>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
@@ -185,5 +198,66 @@ Release date: September 24, 1990
 Producer: Bruce Fairbairn
 Genres: Hard rock, Heavy metal
 Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
+<channel>
 
-<channels>
+<channel>
+<name>1990 The Razor's Edge</name>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1990%20-%20the%20Razor's%20Edge.txt</externallink>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+<info>The Razors Edge
+Album by AC/DC
+The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
+Release date: September 24, 1990
+Producer: Bruce Fairbairn
+Genres: Hard rock, Heavy metal
+Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
+</channel>
+
+<channel>
+<name>1992 Live</name>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1992%20-%20Live.txt</externallink>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+<info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
+The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows.</info>
+</channel>
+
+<channel>
+<name>1992 Live Collectors Edition</name>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1998%20-%20Live.txt</externallink>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+<info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
+The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows. 2 CD's</info>
+</channel>
+
+<channel>
+<name>1995 Ballbreaker</name>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1995%20-%20Ballbreaker.txt</externallink>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+<info>Ballbreaker
+Album by AC/DC
+Ballbreaker is a 1995 album by Australian hard rock band AC/DC. It was the band's twelfth internationally released studio album and the thirteenth to be released in Australia. It was re-released in 2005 as part of the AC/DC Remasters series.
+Release date: September 26, 1995
+Label: Albert Productions
+Genres: Hard rock, Blues rock
+Producers: Rick Rubin, Mike Fraser</info>
+</channel>
+
+<channel>
+<name>1997 - Live From Atlantic studios</name>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1997%20-%20Live%20from%20Atlantic%20Studios%20.txt</externallink>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+<info>Live From the Atlantic Studios
+Live album by AC/DC
+Live from the Atlantic Studios is a live album by AC/DC released on the Bonfire box set. The album was recorded live at the Atlantic Recording Studios in New York, on 7 December 1977 and all tracks were remixed by George Young. Wikipedia
+Release date: November 18, 1997
+Producer: George Young
+Label: East West Records
+Genre: Hard rock</info>
+</channel>
+
+</channels>
