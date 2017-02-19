@@ -1,0 +1,66 @@
+﻿<item>
+<title>01 - Hard As A Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/01%20-%20Hard%20As%20A%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>02 - Cover You In Oil</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/02%20-%20Cover%20You%20In%20Oil.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>03 - The Furor</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/03%20-%20The%20Furor.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>04 - Boogie Man</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/04%20-%20Boogie%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>05 - The Honey Roll</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/05%20-%20The%20Honey%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>06 - Burnin' Alive</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/06%20-%20Burnin'%20Alive.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>07 - Hail Caesar</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/07%20-%20Hail%20Caesar.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>08 - Love Bomb</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/08%20-%20Love%20Bomb.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>09 - Caught With Your Pants Down</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/09%20-%20Caught%20With%20Your%20Pants%20Down.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>10 - Whiskey On The Rocks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/10%20-%20Whiskey%20On%20The%20Rocks.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>
+<item>
+<title>11 - Ballbreaker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1995%20-%20Ballbreaker%20%20(Remastered%202005)/11%20-%20Ballbreaker.mp3</link>
+<thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
+<fanart>http://i.imgur.com/rzuhfez.jpg</fanart>
+</item>

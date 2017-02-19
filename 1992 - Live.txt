@@ -1,0 +1,84 @@
+﻿<item>
+<title>01. Thunderstruck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1990%20-%20The%20Razor's%20Edge%20%20(2007-2008%20Jap.%20Remaster)/01.%20Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>02. Shoot To Thrill</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/02.%20Shoot%20To%20Thrill.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>03. Back In Black</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/03.%20Back%20In%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>04. Who Made Who</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/04.%20Who%20Made%20Who.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>05. Heatseeker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/05.%20Heatseeker.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>06. The Jack</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/06.%20The%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>07. Moneytalks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/07.%20Moneytalks.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>08. Hells Bells</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/08.%20Hells%20Bells.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>09. Dirty Deeds Done Dirt Cheap</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/09.%20Dirty%20Deeds%20Done%20Dirt%20Cheap.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>10. Whole Lotta Rosie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/10.%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>11. You Shook Me All Night Long</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/11.%20You%20Shook%20Me%20All%20Night%20Long.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>12. Highway To Hell</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/12.%20Highway%20To%20Hell.mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>13. T.N.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/13.%20T.N.T..mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>
+<item>
+<title>14. For Those About To Rock (We Salute You)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1992%20-%20Live%20(2007-2008%20Jap.%20Remaster)/14.%20For%20Those%20About%20To%20Rock%20(We%20Salute%20You).mp3</link>
+<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
+<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
+</item>

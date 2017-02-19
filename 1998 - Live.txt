@@ -1,0 +1,138 @@
+﻿<item>
+<title>CD01 - 01 ACDC - Thunderstruck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/01%20ACDC%20-%20Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 02 ACDC - Shoot To Thrill</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/02%20ACDC%20-%20Shoot%20To%20Thrill.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 03 ACDC - Back In Black</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/03%20ACDC%20-%20Back%20In%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 04 ACDC - Sin City</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/04%20ACDC%20-%20Sin%20City.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 05 ACDC - Who Made Who</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/05%20ACDC%20-%20Who%20Made%20Who.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 06 ACDC - Heatseeker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/06%20ACDC%20-%20Heatseeker.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 07 ACDC - Fire Your Guns</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/07%20ACDC%20-%20Fire%20Your%20Guns.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 08 ACDC - Jailbreak</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/08%20ACDC%20-%20Jailbreak.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 09 ACDC - The Jack</title>
+<link>09 ACDC - The Jack</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 10 ACDC - The Razor's Edge</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/10%20ACDC%20-%20The%20Razor's%20Edge.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 11 ACDC - Dirty Deeds Done Dirt Cheap</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/11%20ACDC%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD01 - 12 ACDC - Moneytalks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%201/12%20ACDC%20-%20Moneytalks.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 01 ACDC - Hells Bells</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/01%20ACDC%20-%20Hells%20Bells.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 02 ACDC - Are You Ready</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/02%20ACDC%20-%20Are%20You%20Ready.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 03 ACDC - That's The Way I Wanna Rock 'n' Roll</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/03%20ACDC%20-%20That's%20The%20Way%20I%20Wanna%20Rock%20'n'%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 04 ACDC - High Voltage</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/04%20ACDC%20-%20High%20Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 05 ACDC - You Shook Me All Night Long</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/05%20ACDC%20-%20You%20Shook%20Me%20All%20Night%20Long.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 06 ACDC - Whole Lotta Rosie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/06%20ACDC%20-%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 07 ACDC - Let There Be Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/07%20ACDC%20-%20Let%20There%20Be%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 08 ACDC - Bonny</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/08%20ACDC%20-%20Bonny.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 09 ACDC - Highway To Hell</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/09%20ACDC%20-%20Highway%20To%20Hell.mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 10 ACDC - T.N.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/10%20ACDC%20-%20T.N.T..mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>
+<item>
+<title>CD02 - 11 ACDC - For Those About To Rock (We Salute You)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1998%20-%20Live%20(2CD%20Collectors%20Edition%202008%20Jap.Remaster)/CD%202/11%20ACDC%20-%20For%20Those%20About%20To%20Rock%20(We%20Salute%20You).mp3</link>
+<thumbnail>http://i.imgur.com/J25mkLK.jpg</thumbnail>
+<fanart>http://i.imgur.com/cmrucwu.jpg</fanart>
+</item>

@@ -1,0 +1,54 @@
+﻿<item>
+<title>01 - Open</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/01%20-%20Open.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>02 - Live Wire</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/02%20-%20Live%20Wire.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>03 - Proplem Child</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/03%20-%20Proplem%20Child.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>04 - High Voltage</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/04%20-%20High%20Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>05 - Hell Ain't A Bad Place To Be</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/05%20-%20Hell%20Ain't%20A%20Bad%20Place%20To%20Be.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>06 - Dog Eat Dog</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/06%20-%20Dog%20Eat%20Dog.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>07 - The Jack</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/07%20-%20The%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>08 - Whole Lotta Rosie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/08%20-%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
+<item>
+<title>09 - Rocker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/1997%20-%20Live%20from%20Atlantic%20Studios/09%20-%20Rocker.mp3</link>
+<thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
+<fanart>http://i.imgur.com/2z3c6DD.jpg</fanart>
+</item>
