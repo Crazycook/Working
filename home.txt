@@ -48,4 +48,11 @@ Slayer's musical style involves fast tremolo picking, double bass drumming, riff
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channel>
+<name>Disco</name>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/CD's/Disco.txt</externallink>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+<info>Disco is a genre of dance music containing elements of funk, soul, pop, and salsa. It achieved popularity during the mid-1970s to the early 1980s. Disco can be seen as a reaction against both the domination of rock music and the stigmatization of dance music by the counterculture during this period. It was popular with both men and women, from many different backgrounds</info>
+</channel>
 </channels>
