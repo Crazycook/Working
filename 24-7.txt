@@ -30,11 +30,24 @@
 
 <item>
 <title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
+<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/index_ultra_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>ADULT SWIM Animation Marathon</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/animated/1/master_Layer1.m3u8</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ADULT SWIM Live Action Marathon</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/242141/adultswim_3/liveaction/1/master_Layer4.m3u8</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 <item>
 <title>Toonami Aftermath</title>
 <link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
