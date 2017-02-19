@@ -1,6 +1,19 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
+<name>High Voltage (Australian)</name>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1975%20-%20High%20Voltage%20(Australian).txt</externallink>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+<info>High Voltage
+Studio album by AC/DC
+High Voltage is the debut studio album by Australian hard rock band AC/DC, released only in Australia, on 17 February 1975. Wikipedia
+Artist: AC/DC
+Release date: February 17, 1975
+Label: Albert Productions
+Genres: Rock music, Rock and roll, Hard rock, Blues rock
+Producers: Harry Vanda, George Young</info>
+</channel>
 <channel>
 <name>1975 - T.N.T.</name>
 <thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
@@ -47,6 +60,7 @@ Producers: Harry Vanda, George Young</info>
 <fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
 <info>AC/DC: Let There Be Rock
 1980 ‧ Music/Concert film ‧ 1h 35m
+8.4/10 · IMDb
 The Australian rock band performs "Highway to Hell," "Whole Lotta Rosie" and other hard-driving hits in a December 1979 concert in Paris.
 Release date: September 7, 1980 (Canada)
 Directors: Eric Dionysius, Eric Mistler
@@ -107,7 +121,7 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
 <channel>
-<name>1981 - For Those About To Rock We Salute You</name>
+<name>1981 - For Those About To Rock</name>
 <thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1981%20-%20For%20those%20About%20to%20Rock.txt</externallink>
 <fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
@@ -181,7 +195,15 @@ Album by AC/DC
 The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
 Release date: September 24, 1990
 Producer: Bruce Fairbairn
-Genres: Hard rock, Heavy metal</info>
+Genres: Hard rock, Heavy metal
+Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
+</channel>
+<channels>
+<name>1991 - Live At Donnington</name>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1991%20-%20Live%20at%20Donnington.txt</externallink>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+<info>Live at Donington is the DVD recording of the AC/DC show at Donington Park on 17 August 1991, and it was the band's third Monsters of Rock festival. The two-hour show was performed before 72,500 spectators and included real cannons, the Hells Bell, an inflatable Rosie and an inflatable Angus. It was filmed in 35 mm Panavision and had 26 cameras that included one situated inside a helicopter. The DVD includes special features such as stereo and 5.1 surround sound, Iso-cam versions of certain songs for different band members, and audio commentary from Angus and Malcolm Young.</info>
 </channel>
 <channel>
 <name>1992 Live</name>
@@ -213,6 +235,13 @@ Genres: Hard rock, Blues rock
 Producers: Rick Rubin, Mike Fraser</info>
 </channel>
 <channel>
+<name>1997 Let there Be Rock, The Movie</name>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1997%20-%20Let%20Ther%20Be%20Rock%2C%20the%20Movie%20.txt</externallink>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+<info>Let There Be Rock: The Movie – Live in Paris is a live double CD by the hard rock band AC/DC, released as "Disc Two" and "Disc Three" of the Bonfire box set in 1997. It is also the soundtrack of the film AC/DC: Let There Be Rock</info>
+</channel>
+<channel>
 <name>1997 - Live From Atlantic studios</name>
 <thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1997%20-%20Live%20from%20Atlantic%20Studios%20.txt</externallink>
@@ -224,5 +253,69 @@ Release date: November 18, 1997
 Producer: George Young
 Label: East West Records
 Genre: Hard rock</info>
+</channel>
+<channel>
+<name>1997 Volts</name>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1997%20-%20Volts.txt</externallink>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+<info>Let There Be Rock: The Movie – Live in Paris is a live double CD by the hard rock band AC/DC, released as "Disc Two" and "Disc Three" of the Bonfire box set in 1997. It is also the soundtrack of the film AC/DC: Let There Be Rock</info>
+</channel>
+<channel>
+<name>2000 - Stiff Upper Lip</name>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2000%20-%20Stiff%20Upper%20Lip.txt</externallink>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+<info>Stiff Upper Lip is an album by Australian hard rock band AC/DC. It was the band's thirteenth internationally released studio album and the fourteenth to be released in Australia. The album was co-produced by George Young, older brother of Malcolm and Angus Young</info>
+</channel>
+<channel>
+<name>2005 - Family Jewels</name>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2005%20-%20Family%20Jewels.txt</externallink>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+<info>Family Jewels
+Family Jewels is a compilation DVD by the hard rock band AC/DC, featuring the group's music videos, live clips and promotional videos from 1975 to 1991. It was released by Albert Productions and Epic Music Video on 28 March 2005. 
+Initial release: March 28, 2005
+Directors: George Young, David Mallet, Eric Dionysius, Eric Mistler, more
+Initial DVD release: March 29, 2005 (Australia)</info>
+</channel>
+<channel>
+<name>2008 - Black Ice</name>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2008%20-%20Black%20Ice.txt</externallink>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+<info>Black Ice
+Album by AC/DC
+Black Ice is an album by Australian hard rock band AC/DC. It was the band's fourteenth internationally released studio album and the fifteenth in Australia. Released internationally on 17 October 2008, it was produced by Brendan O'Brien. 
+Release date: October 17, 2008
+Producer: Brendan O'Brien
+Genres: Hard rock, Heavy metal</info>
+</channel>
+<channel>
+<name>2010 - Iron Man 2</name>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2010%20-%20Iron%20Man%202.txt</externallink>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+<info>Iron Man 2
+Soundtrack album by AC/DC
+Iron Man 2 is a soundtrack album by Australian hard rock band AC/DC, released on April 19, 2010 as the soundtrack to the film of the same name.
+Artist: AC/DC
+Release date: April 19, 2010
+Movie: Iron Man 2
+Label: Columbia Records
+Genres: Hard rock, Rock and roll, Blues rock</info>
+</channel>
+<channel>
+<name>2014 - Rock or Bust</name>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/2014%20-%20Rock%20or%20Bust.txt</externallink>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+<info>Rock or Bust
+Studio album by AC/DC
+Rock or Bust is a studio album by Australian hard rock band AC/DC. It is their fifteenth internationally released studio album and the sixteenth to be released in Australia.
+Artist: AC/DC
+Release date: November 28, 2014
+Producer: Brendan O'Brien
+Label: Columbia Records</info>
 </channel>
 </channels>
