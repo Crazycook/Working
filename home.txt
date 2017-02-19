@@ -1,7 +1,6 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
-
 <channel>
 <name>1975 - T.N.T.</name>
 <thumbnail>http://i.imgur.com/XhDcqrA.jpg</thumbnail>
@@ -15,7 +14,6 @@ Label: Albert Productions
 Genres: Hard rock, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1976 - Dirty Deeds done Dirt Cheap</name>
 <thumbnail>http://i.imgur.com/f90pOQE.jpg</thumbnail>
@@ -29,7 +27,6 @@ Label: Albert Productions
 Genres: Rock music, Hard rock, Heavy metal, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1976 - High Voltage</name>
 <thumbnail>http://i.imgur.com/SaV2Mlt.jpg</thumbnail>
@@ -43,7 +40,6 @@ Label: Atco Records
 Genres: Rock music, Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1977 - Let There be Rock</name>
 <thumbnail>http://i.imgur.com/y1FZWvX.jpg</thumbnail>
@@ -59,7 +55,6 @@ Music composed by: AC/DC
 Initial DVD release: October 14, 2008 (USA)
 Cinematography: Jean-Francis Gondre</info>
 </channel>
-
 <channel>
 <name>1978 - If You Want Blood</name>
 <thumbnail>http://i.imgur.com/UXpHlr9.jpg</thumbnail>
@@ -73,7 +68,6 @@ Label: Atlantic Records
 Genres: Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1978 - Powerage</name>
 <thumbnail>http://i.imgur.com/6FiRnD6.jpg</thumbnail>
@@ -87,7 +81,6 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Rock and roll, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1979 - Highway To Hell</name>
 <thumbnail>http://i.imgur.com/fcWTvo7.jpg</thumbnail>
@@ -101,7 +94,6 @@ Producer: Robert John Lange
 Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Rock and roll, Blues rock</info>
 </channel>
-
 <channel>
 <name>1980 - Back In Black</name>
 <thumbnail>http://i.imgur.com/qcQPxaY.jpg</thumbnail>
@@ -115,7 +107,6 @@ Producer: Robert John Lange
 Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
-
 <channel>
 <name>1981 - For Those About To Rock</name>
 <thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
@@ -129,7 +120,6 @@ Label: Atlantic Records
 Producer: Robert John Lange
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
-
 <channel>
 <name>1984 - 74 Jailbreak</name>
 <thumbnail>http://i.imgur.com/0nLEAIS.jpg</thumbnail>
@@ -143,7 +133,6 @@ Label: Atlantic Records
 Genres: Hard rock, Blues rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1985 - Fly on the Wall</name>
 <thumbnail>http://i.imgur.com/qelBBiz.jpg</thumbnail>
@@ -157,7 +146,6 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal
 Producers: Angus Young, Malcolm Young</info>
 </channel>
-
 <channel>
 <name>1986 - Who Made Who</name>
 <thumbnail>http://i.imgur.com/wSC6BFG.jpg</thumbnail>
@@ -171,7 +159,6 @@ Movie: Maximum Overdrive
 Genre: Hard rock
 Producers: Robert John Lange, Harry Vanda, George Young, Angus Young, Malcolm Young</info>
 </channel>
-
 <channel>
 <name>1988 - Blow Up Your Video</name>
 <thumbnail>http://i.imgur.com/6s0lNAr.jpg</thumbnail>
@@ -185,7 +172,6 @@ Label: Atlantic Records
 Genre: Hard rock
 Producers: Harry Vanda, George Young</info>
 </channel>
-
 <channel>
 <name>1990 The Razor's Edge</name>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
@@ -199,7 +185,6 @@ Producer: Bruce Fairbairn
 Genres: Hard rock, Heavy metal
 Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
 <channel>
-
 <channel>
 <name>1990 The Razor's Edge</name>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
@@ -213,7 +198,6 @@ Producer: Bruce Fairbairn
 Genres: Hard rock, Heavy metal
 Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
 </channel>
-
 <channel>
 <name>1992 Live</name>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
@@ -222,7 +206,6 @@ Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for Interna
 <info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
 The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows.</info>
 </channel>
-
 <channel>
 <name>1992 Live Collectors Edition</name>
 <thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
@@ -231,7 +214,6 @@ The recordings on this live album are taken from several shows from AC/DC's 1991
 <info>AC/DC Live is the second live album by Australian hard rock band AC/DC, released on 27 October 1992.
 The recordings on this live album are taken from several shows from AC/DC's 1991 The Razors Edge tour: Glasgow, Edmonton, Birmingham and the Donington and Moscow "Monsters of Rock" shows. 2 CD's</info>
 </channel>
-
 <channel>
 <name>1995 Ballbreaker</name>
 <thumbnail>http://i.imgur.com/TQwpM7z.jpg</thumbnail>
@@ -245,7 +227,6 @@ Label: Albert Productions
 Genres: Hard rock, Blues rock
 Producers: Rick Rubin, Mike Fraser</info>
 </channel>
-
 <channel>
 <name>1997 - Live From Atlantic studios</name>
 <thumbnail>http://i.imgur.com/xH7RrXq.jpg</thumbnail>
@@ -259,5 +240,4 @@ Producer: George Young
 Label: East West Records
 Genre: Hard rock</info>
 </channel>
-
 </channels>
