@@ -1,0 +1,72 @@
+﻿<item>
+<title>01 ACDC - Stiff Upper Lip</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/01%20ACDC%20-%20Stiff%20Upper%20Lip.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>02 ACDC - Meltdown</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/02%20ACDC%20-%20Meltdown.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>03 ACDC - House Of Jazz</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/03%20ACDC%20-%20House%20Of%20Jazz.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>04 ACDC - Hold Me Back</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/04%20ACDC%20-%20Hold%20Me%20Back.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>05 ACDC - Safe In New York City</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/05%20ACDC%20-%20Safe%20In%20New%20York%20City.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>06 ACDC - Can't Stand Still</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/06%20ACDC%20-%20Can't%20Stand%20Still.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>07 ACDC - Can't Stop Rock 'n' Roll.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/07%20ACDC%20-%20Can't%20Stop%20Rock%20'n'%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>08 ACDC - Satellite Blues.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/08%20ACDC%20-%20Satellite%20Blues.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>09 ACDC - Damned.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/09%20ACDC%20-%20Damned.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>10 ACDC - Come And Get It.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/10%20ACDC%20-%20Come%20And%20Get%20It.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>11 ACDC - All Screwed Up.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/11%20ACDC%20-%20All%20Screwed%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>
+<item>
+<title>12 ACDC - Give It Up.mp3</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2000%20-%20Stiff%20Upper%20Lip%202000%20(2008%20Jap.Remaster)/12%20ACDC%20-%20Give%20It%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/Y7Bu2VV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jd3Zovc.jpg</fanart>
+</item>

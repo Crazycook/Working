@@ -1,0 +1,240 @@
+﻿<item>
+<title>FamilyJewels01 01 Baby, Please Don't_Go</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_01_Baby,_Please_Don't_Go.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 02 Show usiness</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_02_Show_Business.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 03 High Voltage</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_03_High_Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 04 It's A Long Way To The Top (If You Wanna Rock'N'Roll)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_04_It's_A_Long_Way_To_The_Top_(If_You_Wanna_Rock'N'Roll).mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 05 T.N.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_05_T.N.T.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 06 Jailbreak</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_06_Jailbreak.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 07 Dirty Deeds Done Dirt Cheap</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_07_Dirty_Deeds_Done_Dirt_Cheap.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 08 Dog Eat Dog</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_08_Dog_Eat_Dog.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 09 Let There Be Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_09_Let_There_Be_Rock.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 10 Rock'N'Roll Damnation</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_10_Rock'N'Roll_Damnation.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 11 Sin City</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_11_Sin_City.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 12 Riff Raff</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_12_Riff_Raff.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 13 Fling Thing-Rocker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_13_Fling_Thing-Rocker.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 14 Whole Lotta Rosie</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_14_Whole_Lotta_Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 15_Shot Down In Flames</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_15_Shot_Down_In_Flames.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 16 Walk All Over You</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_16_Walk_All_OVer_You.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 17 Touch Too Much</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_17_Touch_Too_Much.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 18 If You Want Blood (You've Got It)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_18_If_You_Want_Blood_(You've_Got_It).mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 19 Girls Got Rhythm</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_19_Girls_Got_Rhythm.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels01 20 Highway To Hell</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels01_20_Highway_To_Hell.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 01 Hells Bells</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_01_Hells_Bells.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 02 Back In Black</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_02_Back_In_Black.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 03 What Do You Do For Money Honey</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_03_What_Do_You_Do_For_Money_Honey.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 04 Rock And Roll Ain't Noise Pollution</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_04_Rock_And_Roll_Ain't_Noise_Pollution.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 05 Let's Get It Up</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_05_Let's_Get_It_Up.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 06 For Those About To Rock (We Salute You)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_06_For_Those_About_To_Rock_(We_Salute_You).mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 07 Flick Of The Switch</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_07_Flick_Of_The_Switch.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 08 Nervous Shakedown</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_08_Nervous_Shakedown.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 09 Fly On The Wall</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_09_Fly_On_The_Wall.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 10 Danger</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_10_Danger.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 11 Sink The Pink</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_11_Sink_The_Pink.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 12 Stand Up</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_12_Stand_Up.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 13 Shake Your Foundations</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_13_Shake_Your_Foundations.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 14 Who Made Who</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_14_Who_Made_Who.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 15 You Shook Me All Night Long</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_15_You_Shook_Me_All_Night_Long.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 16 Heatseeker</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_16_Heatseeker.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 17 That's The Way I Wanna Rock N Roll</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_17_That's_The_Way_I_Wanna_Rock_N_Roll.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 18 Thunderstruck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_18_Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 19 Moneytalks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_19_Moneytalks.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>
+<item>
+<title>FamilyJewels02 20 Are You Ready</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/FamilyJewels02_20_Are_You_Ready.mp3</link>
+<thumbnail>http://i.imgur.com/aGVi11A.jpg</thumbnail>
+<fanart>http://i.imgur.com/6sXPAFm.jpg</fanart>
+</item>

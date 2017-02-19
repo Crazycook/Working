@@ -1,0 +1,90 @@
+﻿<item>
+<title>01 Shoot To Thrill</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/01%20Shoot%20To%20Thrill.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>02 Rock 'N' Roll Damnation</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/02%20Rock%20'N'%20Roll%20Damnation.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>03 Guns For Hire</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/03%20Guns%20For%20Hire.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>04 Cold Hearted Man</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/04%20Cold%20Hearted%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>05 Back In Black</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/05%20Back%20In%20Black.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>06 Thunderstruck</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/06%20Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>07 If You Want Blood (You've Got It)</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/07%20If%20You%20Want%20Blood%20(You've%20Got%20It).mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>08 Evil Walks</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/08%20Evil%20Walks.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>09 T.N.T.</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/09%20T.N.T.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>10 Hell Ain't A Bad Place To Be</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/10%20%20Hell%20Ain't%20A%20Bad%20Place%20To%20Be.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>11 Have A Drink On Me</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/11%20Have%20A%20Drink%20On%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>12 The Razors Edge</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/12%20The%20Razors%20Edge.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>13 Let There Be Rock</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/13%20Let%20There%20Be%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>14 War Machine</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2010%20-%20Iron%20Man%202%20(Deluxe%20Edition%202010)/14%20War%20Machine.mp3</link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>
+<item>
+<title>15 Highway To Hell</title>
+<link></link>
+<thumbnail>http://i.imgur.com/uZe8su9.jpg</thumbnail>
+<fanart>http://i.imgur.com/1xwfdgi.jpg</fanart>
+</item>

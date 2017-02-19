@@ -1,0 +1,60 @@
+﻿<item>
+<title>01 - Dirty Eyes</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/01%20-%20Dirty%20Eyes.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>02 - Touch Too Much</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/02%20-%20Touch%20Too%20Much.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>03 - If You Want Blood You Got It</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/03%20-%20If%20You%20Want%20Blood%20You%20Got%20It.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>04 - Back Seat Confidential</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/04%20-%20Back%20Seat%20Confidential.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>05 - Get It Hot</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/05%20-%20Get%20It%20Hot.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>06 - Sin City</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/06%20-%20Sin%20City.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>07 - She's Got Balls</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/07%20-%20She's%20Got%20Balls.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>08 - School Days</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/08%20-%20School%20Days.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>09 - It's A Long Way To The Top If You Wanna Rock And Roll</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/09%20-%20It's%20A%20Long%20Way%20To%20The%20Top%20If%20You%20Wanna%20Rock%20And%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>
+<item>
+<title>10 - Ride On</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Volts/10%20-%20Ride%20On.mp3</link>
+<thumbnail>http://i.imgur.com/ohNxrVw.jpg</thumbnail>
+<fanart>http://i.imgur.com/ohNxrVw.jpg</fanart>
+</item>

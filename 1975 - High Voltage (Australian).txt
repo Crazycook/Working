@@ -1,0 +1,48 @@
+﻿<item>
+<title>01 - Baby Please Don't Go</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/01%20-%20Baby%20Please%20Don't%20Go.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>02 - She's Got Balls</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/02%20-%20She's%20Got%20Balls.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>03 - Little Lover</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/03%20-%20Little%20Lover.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>04 - Stick Around</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/04%20-%20Stick%20Around.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>05 - Soul Stripper</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/05%20-%20Soul%20Stripper.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>06 - You Ain't Got A Hold On Me</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/06%20-%20You%20Ain't%20Got%20A%20Hold%20On%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>07 - Love Song</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/07%20-%20Love%20Song.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>
+<item>
+<title>08 - Show Business</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1975%20High%20Voltage%20(Australian)/08%20-%20Show%20Business.mp3</link>
+<thumbnail>http://i.imgur.com/8ZFTNtX.jpg</thumbnail>
+<fanart>http://i.imgur.com/NAsAWZx.jpg</fanart>
+</item>

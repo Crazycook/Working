@@ -1,0 +1,90 @@
+<item>
+<title>01. Rock N Roll Train</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/01.%20Rock%20N%20Roll%20Train.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>02. Skies On Fire</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/02.%20Skies%20On%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>03. Big Jack</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/03.%20Big%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>04. Anything Goes</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/04.%20Anything%20Goes.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>05. War Machine</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/05.%20War%20Machine.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>06. Smash N Grab</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/06.%20Smash%20N%20Grab.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>07. Spoilin' For A Fight</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/07.%20Spoilin'%20For%20A%20Fight.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>08. Wheels</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/08.%20Wheels.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>09. Decibel</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/09.%20Decibel.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>10. Stormy May Day</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/10.%20Stormy%20May%20Day.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>11. She Likes Rock N Roll</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/11.%20She%20Likes%20Rock%20N%20Roll.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>12. Money Made</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/12.%20Money%20Made.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>13. Rock N Roll Dream</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/13.%20Rock%20N%20Roll%20Dream.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>14. Rocking All The Way</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/14.%20Rocking%20All%20The%20Way.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>
+<item>
+<title>15. Black Ice</title>
+<link>http://www.darklands-sewer-system.eu:81/outlet/AV/MP3S/ACDC/2008%20-%20Black%20Ice%20(2008%20Jap.%20Remaster)/15.%20Black%20Ice.mp3</link>
+<thumbnail>http://i.imgur.com/jk2D6hQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/XLBVHwt.jpg</fanart>
+</item>

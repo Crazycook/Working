@@ -1,0 +1,138 @@
+﻿<item>
+<title>01 Thunderstruck</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/01%20Thunderstruck.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>02 Shoot to thrill</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/02%20Shoot%20to%20thrill.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>03 Back in black</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/03%20Back%20in%20black.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>04 Sin city</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/04%20Sin%20city.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>05 Who made who</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/05%20Who%20made%20who.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>06 Heatseeker</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/06%20Heatseeker.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>07 Fire your guns</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/07%20Fire%20your%20guns.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>08 Jailbreak.</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/08%20Jailbreak.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>09 The Jack</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/09%20The%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>10 The razor's edge</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/10%20The%20razor's%20edge.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>11 Dirty deeds done dirt cheap</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/11%20Dirty%20deeds%20done%20dirt%20cheap.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>12 Moneytalks</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/12%20Moneytalks.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>13 Hells bells</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/13%20Hells%20bells.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>14 Are you ready</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/14%20Are%20you%20ready.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>15 That's the way I wanna rock'n'roll</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/15%20That's%20the%20way%20I%20wanna%20rock'n'roll.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>16 High voltage</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/16%20High%20voltage.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>17 You shook me all night long</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/17%20You%20shook%20me%20all%20night%20long.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>18 Whole lotta rosie</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/18%20Whole%20lotta%20rosie.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>19 Let there be rock</title>
+<link>19 Let there be rock</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>20 Bonny</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/20%20Bonny.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>21 Highway to hell</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/21%20Highway%20to%20hell.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>22 T.N.T.</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/22%20T.N.T.mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>
+<item>
+<title>23 For those about to rock (We salute you)</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1991%20AC.DC%20-%20Live%20at%20Donington/23%20For%20those%20about%20to%20rock%20(We%20salute%20you).mp3</link>
+<thumbnail>http://i.imgur.com/9nnfjsw.jpg</thumbnail>
+<fanart>http://i.imgur.com/C9CsW9N.jpg</fanart>
+</item>

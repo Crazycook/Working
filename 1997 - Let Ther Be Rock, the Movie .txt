@@ -1,0 +1,84 @@
+﻿<item>
+<title>Pt. 1 01 - Live Wire</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/01%20-%20Live%20Wire.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 1 02 - Shot Down In Flames</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/02%20-%20Shot%20Down%20In%20Flames.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 1 03 - Hell Ain't A Bad Place To Be</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/03%20-%20Hell%20Ain't%20A%20Bad%20Place%20To%20Be.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 1 04 - Sin City</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/04%20-%20Sin%20City.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 1 05 - Walk All Over You</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/05%20-%20Walk%20All%20Over%20You.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 1 06 - Bad Boy Boogie</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20Pt.%201/06%20-%20Bad%20Boy%20Boogie.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 01 - The Jack</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/01%20-%20The%20Jack.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 02 - Highway To Hell</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/02%20-%20Highway%20To%20Hell.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 03 - Girls Got Rhythm</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/03%20-%20Girls%20Got%20Rhythm.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 04 - High Voltage</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/04%20-%20High%20Voltage.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 05 - Whole Lotta Rosie</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/05%20-%20Whole%20Lotta%20Rosie.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 06 - Rocker</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/06%20-%20Rocker.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 07 - T.N.T.</title>
+<link></link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>
+<item>
+<title>Pt. 2 08 - Let There Be Rock</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/1997%20Let%20There%20Be%20Rock,%20The%20Movie%20-%20pt.%202/08%20-%20Let%20There%20Be%20Rock.mp3</link>
+<thumbnail>http://i.imgur.com/MesLzrO.jpg</thumbnail>
+<fanart>http://i.imgur.com/eFx65Z7.jpg</fanart>
+</item>

@@ -1,0 +1,66 @@
+﻿<item>
+<title>01. Rock or Bust</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/01.%20Rock%20or%20Bust.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>02. Play Ball</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/02.%20Play%20Ball.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>03. Rock The Blues Away</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/03.%20Rock%20The%20Blues%20Away.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>04. Miss Adventure</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/04.%20Miss%20Adventure.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>05. Dogs of War</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/05.%20Dogs%20of%20War.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>06. Got Some Rock & Roll Thunder</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/06.%20Got%20Some%20Rock%20&%20Roll%20Thunder.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>07. Hard Times</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/07.%20Hard%20Times.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>08. Baptism By Fire</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/08.%20Baptism%20By%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>09. Rock The House</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/09.%20Rock%20The%20House.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>10. Sweet Candy</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/10.%20Sweet%20Candy.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
+<item>
+<title>11. Emission Control</title>
+<link>http://www.metastase.net/a/rockaz/AC-DC/AC-DC_128/2014%20AC-DC%20-%20Rock%20or%20Bust/11.%20Emission%20Control.mp3</link>
+<thumbnail>http://i.imgur.com/AwEkqmF.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q8PsqsQ.jpg</fanart>
+</item>
