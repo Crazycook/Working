@@ -1,0 +1,744 @@
+<item>
+<title>ABBA - Dancing Queen</title>
+<link>http://timformation.net/music/Disco/ABBA%20-%20Dancing%20Queen.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>ABBA - S.O.S.</title>
+<link>http://timformation.net/music/Disco/ABBA%20-%20S.O.S..mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Alicia Bridges - I Love The Nightlife</title>
+<link>http://timformation.net/music/Disco/Alicia%20Bridges%20-%20I%20Love%20The%20Nightlife.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Amii Stewart - Knock On Wood</title>
+<link>http://timformation.net/music/Disco/Amii%20Stewart%20-%20Knock%20On%20Wood.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Andrea True Connection - More, More, More</title>
+<link>http://timformation.net/music/Disco/Andrea%20True%20Connection%20-%20More,%20More,%20More.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Andy Gibb - I Just Want To Be Your Everything</title>
+<link>http://timformation.net/music/Disco/Andy%20Gibb%20-%20I%20Just%20Want%20To%20Be%20Your%20Everything.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Andy Gibb - Shadow Dancing</title>
+<link>http://timformation.net/music/Disco/Andy%20Gibb%20-%20Shadow%20Dancing.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Anita Ward - Ring My Bell</title>
+<link>http://timformation.net/music/Disco/Anita%20Ward%20-%20Ring%20My%20Bell.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Average White Band - Cut the Cake</title>
+<link>http://timformation.net/music/Disco/Average%20White%20Band%20-%20Cut%20the%20Cake.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Average White Band - Pick Up The Pieces</title>
+<link>http://timformation.net/music/Disco/Average%20White%20Band%20-%20Pick%20Up%20The%20Pieces.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Barry White & Love Unlimited - Love's Theme</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20&%20Love%20Unlimited%20-%20Love's%20Theme.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Barry White - Can't Get Enough Of Your Love Baby</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20-%20Can't%20Get%20Enough%20Of%20Your%20Love%20Baby.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Barry White - Midnight Groove</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20-%20Midnight%20Groove.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Barry White - Shaft</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20-%20Shaft.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Barry White - You Sexy Thing</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20-%20You%20Sexy%20Thing.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Barry White - Youre The First The Last My Everything</title>
+<link>http://timformation.net/music/Disco/Barry%20White%20-%20Youre%20The%20First%20The%20Last%20My%20Everything.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title></title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20Grease.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - Grease</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20How%20Can%20You%20Mend%20A%20Broken%20Heart.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - How Deep Is Your Love</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20How%20Deep%20Is%20Your%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - I Just Want To Be Your Everything</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20I%20Just%20Want%20To%20Be%20Your%20Everything.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>http://timformation.net/music/Disco/Bee%20Gees%20-%20More%20Than%20A%20Woman.mp3</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20Jive%20Talkin'.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - More Than A Woman</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20More%20Than%20A%20Woman.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - Saturday Night Fever</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20Saturday%20Night%20Fever.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - Stayin' Alive</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20Stayin'%20Alive.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - Tragedy</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20Tragedy.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Bee Gees - You Should Be Dancing</title>
+<link>http://timformation.net/music/Disco/Bee%20Gees%20-%20You%20Should%20Be%20Dancing.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Brick - Dazz</title>
+<link>http://timformation.net/music/Disco/Brick%20-%20Dazz.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>C & C Music Factory - Gonna Make You Sweat (Everybody Dance Now)</title>
+<link>http://timformation.net/music/Disco/C%20&%20C%20Music%20Factory%20-%20Gonna%20Make%20You%20Sweat%20(Everybody%20Dance%20Now).mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Cameo - Word Up</title>
+<link>http://timformation.net/music/Disco/Cameo%20-%20Word%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Carl Carlton - Everlasting Love</title>
+<link>http://timformation.net/music/Disco/Carl%20Carlton%20-%20Everlasting%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Carl Carlton - She's a Bad Mama Jama</title>
+<link>http://timformation.net/music/Disco/Carl%20Carlton%20-%20She's%20a%20Bad%20Mama%20Jama.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Carl Douglas - Kung Fu Fighting</title>
+<link>http://timformation.net/music/Disco/Carl%20Douglas%20-%20Kung%20Fu%20Fighting.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Chaka Khan & Rufus - Tell Me Something Good</title>
+<link>http://timformation.net/music/Disco/Chaka%20Khan%20&%20Rufus%20-%20Tell%20Me%20Something%20Good.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Chaka Khan - Feel For You</title>
+<link>http://timformation.net/music/Disco/Chaka%20Khan%20-%20Feel%20For%20You.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Chakachas - Jungle Fever</title>
+<link>http://timformation.net/music/Disco/Chakachas%20-%20Jungle%20Fever.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Cheryl Lynn - Got To Be Real</title>
+<link>http://timformation.net/music/Disco/Cheryl%20Lynn%20-%20Got%20To%20Be%20Real.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Chic - Good Times</title>
+<link>http://timformation.net/music/Disco/Chic%20-%20Good%20Times.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Chic - I Want Your Love</title>
+<link>http://timformation.net/music/Disco/Chic%20-%20I%20Want%20Your%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title> Chic - Le Freak</title>
+<link>http://timformation.net/music/Disco/Chic%20-%20Le%20Freak.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Christina Aguilera, Lil' Kim, Mya & Pink - Lady Marmalade</title>
+<link>http://timformation.net/music/Disco/Christina%20Aguilera,%20Lil'%20Kim,%20Mya%20&%20Pink%20-%20Lady%20Marmalade%20(remake).mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Commodores - Brick House</title>
+<link>http://timformation.net/music/Disco/Commodores%20-%20Brick%20House.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Commodores - Machine Gun</title>
+<link>http://timformation.net/music/Disco/Commodores%20-%20Machine%20Gun.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Commodores - Three Times A Lady</title>
+<link>http://timformation.net/music/Disco/Commodores%20-%20Three%20Times%20A%20Lady.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Curtis Mayfield - Superfly</title>
+<link>http://timformation.net/music/Disco/Curtis%20Mayfield%20-%20Superfly.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Dazz Band - Let It Whip</title>
+<link>http://timformation.net/music/Disco/Dazz%20Band%20-%20Let%20It%20Whip.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Diana Ross - I'm Coming Out</title>
+<link>http://timformation.net/music/Disco/Diana%20Ross%20-%20I'm%20Coming%20Out.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Diana Ross - Upside Down</title>
+<link>http://timformation.net/music/Disco/Diana%20Ross%20-%20Upside%20Down.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Dianna Ross - Love Hangover</title>
+<link>http://timformation.net/music/Disco/Dianna%20Ross%20-%20Love%20Hangover.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Dionne Warwick & The Spinners - Then Came You</title>
+<link>http://timformation.net/music/Disco/Dionne%20Warwick%20&%20The%20Spinners%20-%20Then%20Came%20You.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - Bad Girl</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20Bad%20Girl.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - Dont Leave Me This Way</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20Dont%20Leave%20Me%20This%20Way.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - Hot Stuff</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20Hot%20Stuff.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - I Feel Love</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20I%20Feel%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - Last Dance</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20Last%20Dance.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - Love To Love You Baby</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20Love%20To%20Love%20You%20Baby.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - On The Radio</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20On%20The%20Radio.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Donna Summer - She Works Hard For The Money</title>
+<link>http://timformation.net/music/Disco/Donna%20Summer%20-%20She%20Works%20Hard%20For%20The%20Money.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Earth, Wind & Fire - Boogie Wonderland</title>
+<link>http://timformation.net/music/Disco/Earth,%20Wind%20&%20Fire%20-%20Boogie%20Wonderland.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Earth, Wind & Fire - Let's Groove Tonight</title>
+<link>http://timformation.net/music/Disco/Earth,%20Wind%20&%20Fire%20-%20Let's%20Groove%20Tonight.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Earth, Wind & Fire - September</title>
+<link>http://timformation.net/music/Disco/Earth,%20Wind%20&%20Fire%20-%20September.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Earth, Wind & Fire - Shining Star</title>
+<link>http://timformation.net/music/Disco/Earth,%20Wind%20&%20Fire%20-%20Shining%20Star.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Earth, Wind & Fire - Thats The Way Of The World</title>
+<link>http://timformation.net/music/Disco/Earth,%20Wind%20&%20Fire%20-%20Thats%20The%20Way%20Of%20The%20World.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Emotions - You've Got the Best of My Love</title>
+<link>http://timformation.net/music/Disco/Emotions%20-%20You've%20Got%20the%20Best%20of%20My%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Foxy - Get Off</title>
+<link>http://timformation.net/music/Disco/Foxy%20-%20Get%20Off.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Frankie Valley and the Four Seasons - Oh What A Night (December 1963)</title>
+<link>http://timformation.net/music/Disco/Frankie%20Valley%20and%20the%20Four%20Seasons%20-%20Oh%20What%20A%20Night%20(December%201963).mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Gap Band - You Dropped The Bomb On Me</title>
+<link>http://timformation.net/music/Disco/Gap%20Band%20-%20You%20Dropped%20The%20Bomb%20On%20Me.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Gloria Gaynor - I Will Survive</title>
+<link>http://timformation.net/music/Disco/Gloria%20Gaynor%20-%20I%20Will%20Survive.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Gloria Gaynor - Never Say Goodbye</title>
+<link>http://timformation.net/music/Disco/Gloria%20Gaynor%20-%20Never%20Say%20Goodbye.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Grease - Grease</title>
+<link>http://timformation.net/music/Disco/Grease%20-%20Grease.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Grease - Greased Lightnin'</title>
+<link>http://timformation.net/music/Disco/Grease%20-%20Greased%20Lightnin'.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Grease - Summer Nights</title>
+<link>http://timformation.net/music/Disco/Grease%20-%20Summer%20Nights.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Grease - We Go Together</title>
+<link>http://timformation.net/music/Disco/Grease%20-%20We%20Go%20Together.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Grease - You're The One That I Want</title>
+<link>http://timformation.net/music/Disco/Grease%20-%20You're%20The%20One%20That%20I%20Want.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Heatwave - Boogie Nights</title>
+<link>http://timformation.net/music/Disco/Heatwave%20-%20Boogie%20Nights.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Heatwave - The Groove Line</title>
+<link>http://timformation.net/music/Disco/Heatwave%20-%20The%20Groove%20Line.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Hot Chocolate - Every 1's A Winner</title>
+<link>http://timformation.net/music/Disco/Hot%20Chocolate%20-%20Every%201's%20A%20Winner.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Hot Chocolate - You Sexy Thing</title>
+<link>http://timformation.net/music/Disco/Hot%20Chocolate%20-%20You%20Sexy%20Thing.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Hues Corporation - Rock The Boat</title>
+<link>http://timformation.net/music/Disco/Hues%20Corporation%20-%20Rock%20The%20Boat.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Irene Cara - Flashdance, What A Feeling</title>
+<link>http://timformation.net/music/Disco/Irene%20Cara%20-%20Flashdance,%20What%20A%20Feeling.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Isley Brothers - Who's That Lady</title>
+<link>http://timformation.net/music/Disco/Isley%20Brothers%20-%20Who's%20That%20Lady.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Issac Hayes - Theme From Shaft</title>
+<link>http://timformation.net/music/Disco/Issac%20Hayes%20-%20Theme%20From%20Shaft.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Jean Knight - Mr. Big Stuff</title>
+<link>http://timformation.net/music/Disco/Jean%20Knight%20-%20Mr.%20Big%20Stuff.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - Get Down Tonight</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20Get%20Down%20Tonight.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - I'm Your Boogie Man</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20I'm%20Your%20Boogie%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - Keep It Comin' Love</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20Keep%20It%20Comin'%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - My Boogie Shoes</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20My%20Boogie%20Shoes.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - Please Don't Go</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20Please%20Don't%20Go.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - Shake Your Booty</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20Shake%20Your%20Booty.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>KC & The Sunshine Band - That's The Way I Like It</title>
+<link>http://timformation.net/music/Disco/KC%20&%20The%20Sunshine%20Band%20-%20That's%20The%20Way%20I%20Like%20It.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Kool & The Gang - Celebration</title>
+<link>http://timformation.net/music/Disco/Kool%20&%20The%20Gang%20-%20Celebration.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Kool & The Gang - Cherish</title>
+<link>http://timformation.net/music/Disco/Kool%20&%20The%20Gang%20-%20Cherish.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Kool & The Gang - Get Down On It</title>
+<link>http://timformation.net/music/Disco/Kool%20&%20The%20Gang%20-%20Get%20Down%20On%20It.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Kool & The Gang - Jungle Boogie</title>
+<link>http://timformation.net/music/Disco/Kool%20&%20The%20Gang%20-%20Jungle%20Boogie.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Lakeside - Fantastic Voyage</title>
+<link>http://timformation.net/music/Disco/Lakeside%20-%20Fantastic%20Voyage.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Lipps - Funkytown</title>
+<link>http://timformation.net/music/Disco/Lipps%20-%20Funkytown.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Marcia Griffith - Electric Boogie</title>
+<link>http://timformation.net/music/Disco/Marcia%20Griffith%20-%20Electric%20Boogie.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Marvin Gaye - Got To Give It Up</title>
+<link>http://timformation.net/music/Disco/Marvin%20Gaye%20-%20Got%20To%20Give%20It%20Up.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Miracles - Love Machine</title>
+<link>http://timformation.net/music/Disco/Miracles%20-%20Love%20Machine.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Ohio Players - Fire</title>
+<link>http://timformation.net/music/Disco/Ohio%20Players%20-%20Fire.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Ohio Players - Love Roller Coaster</title>
+<link>http://timformation.net/music/Disco/Ohio%20Players%20-%20Love%20Roller%20Coaster.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Parliament - Tear The Roof Off The Sucker (Give Up The Funk)</title>
+<link>http://timformation.net/music/Disco/Parliament%20-%20Tear%20The%20Roof%20Off%20The%20Sucker%20(Give%20Up%20The%20Funk).mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Patti Labelle - Lady Marmelade</title>
+<link>http://timformation.net/music/Disco/Patti%20Labelle%20-%20Lady%20Marmelade.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Patti Labelle - New Attitude</title>
+<link>http://timformation.net/music/Disco/Patti%20Labelle%20-%20New%20Attitude.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Pointer Sisters - Jump For My Love</title>
+<link>http://timformation.net/music/Disco/Pointer%20Sisters%20-%20Jump%20For%20My%20Love.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Pointer Sisters - Lady Marmelade</title>
+<link>http://timformation.net/music/Disco/Pointer%20Sisters%20-%20Lady%20Marmelade.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Pointer Sisters - Newtron Dance</title>
+<link>http://timformation.net/music/Disco/Pointer%20Sisters%20-%20Newtron%20Dance.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Rick Dees - Disco Duck</title>
+<link>http://timformation.net/music/Disco/Rick%20Dees%20-%20Disco%20Duck.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Rick James - Super Freak</title>
+<link>http://timformation.net/music/Disco/Rick%20James%20-%20Super%20Freak.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Rose Royce - Car Wash</title>
+<link>http://timformation.net/music/Disco/Rose%20Royce%20-%20Car%20Wash.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Silver Convention - Fly, Robin, Fly</title>
+<link>http://timformation.net/music/Disco/Silver%20Convention%20-%20Fly,%20Robin,%20Fly.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Silver Convention - Get up and Boogie</title>
+<link>http://timformation.net/music/Disco/Silver%20Convention%20-%20Get%20up%20and%20Boogie.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Sister Sledge - We Are Family</title>
+<link>http://timformation.net/music/Disco/Sister%20Sledge%20-%20We%20Are%20Family.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Sugar Hill Gang - Apache</title>
+<link>http://timformation.net/music/Disco/Sugar%20Hill%20Gang%20-%20Apache.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Sylvers - Boogie Fever</title>
+<link>http://timformation.net/music/Disco/Sylvers%20-%20Boogie%20Fever.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Thelma Houston - Don't Leave Me This Way</title>
+<link>http://timformation.net/music/Disco/Thelma%20Houston%20-%20Don't%20Leave%20Me%20This%20Way.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Trammps - Disco Inferno</title>
+<link>http://timformation.net/music/Disco/Trammps%20-%20Disco%20Inferno.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Van McCoy - The Hustle</title>
+<link>http://timformation.net/music/Disco/Van%20McCoy%20-%20The%20Hustle.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Vicki Sue Robinson - Turn The Beat Around</title>
+<link>http://timformation.net/music/Disco/Vicki%20Sue%20Robinson%20-%20Turn%20The%20Beat%20Around.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Village People - Macho Man</title>
+<link>http://timformation.net/music/Disco/Village%20People%20-%20Macho%20Man.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Village People - YMCA</title>
+<link>http://timformation.net/music/Disco/Village%20People%20-%20YMCA.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Walter Murphy - A Fifth Of Beethoven</title>
+<link>http://timformation.net/music/Disco/Walter%20Murphy%20-%20A%20Fifth%20Of%20Beethoven.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Whispers - Rock Stead</title>
+<link>http://timformation.net/music/Disco/Whispers%20-%20Rock%20Steady.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Wild Cherry - Play That Funky Music</title>
+<link>http://timformation.net/music/Disco/Wild%20Cherry%20-%20Play%20That%20Funky%20Music.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
+<item>
+<title>Yvonne Elliman - If I Can't Have You</title>
+<link>http://timformation.net/music/Disco/Yvonne%20Elliman%20-%20If%20I%20Can't%20Have%20You.mp3</link>
+<thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
+<fanart>http://i.imgur.com/HIdPpPw.jpg</fanart>
+</item>
