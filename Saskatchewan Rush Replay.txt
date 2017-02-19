@@ -42,3 +42,10 @@
 <thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
 <fanart>http://i.imgur.com/uOKpXCC.jpg</fanart>
 </item>
+<item>
+<title>Game 7 : FEB. 18: COLORADO MAMMOTH @ SASKATCHEWAN RUSH
+</title>
+<link>http://default.media.boxxspring.net/1080p_002b55cad47f6343d95628b4deb08f5a.mp4</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+<fanart>http://i.imgur.com/uOKpXCC.jpg</fanart>
+</item>
