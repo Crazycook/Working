@@ -47,7 +47,6 @@ Producers: Harry Vanda, George Young</info>
 <fanart>http://i.imgur.com/iwvwh2x.jpg</fanart>
 <info>AC/DC: Let There Be Rock
 1980 ‧ Music/Concert film ‧ 1h 35m
-8.4/10 · IMDb
 The Australian rock band performs "Highway to Hell," "Whole Lotta Rosie" and other hard-driving hits in a December 1979 concert in Paris.
 Release date: September 7, 1980 (Canada)
 Directors: Eric Dionysius, Eric Mistler
@@ -108,7 +107,7 @@ Label: Atlantic Records
 Genres: Hard rock, Heavy metal, Blues rock</info>
 </channel>
 <channel>
-<name>1981 - For Those About To Rock</name>
+<name>1981 - For Those About To Rock We Salute You</name>
 <thumbnail>http://i.imgur.com/NX9vvoa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1981%20-%20For%20those%20About%20to%20Rock.txt</externallink>
 <fanart>http://i.imgur.com/ds4NUVh.jpg</fanart>
@@ -182,21 +181,7 @@ Album by AC/DC
 The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
 Release date: September 24, 1990
 Producer: Bruce Fairbairn
-Genres: Hard rock, Heavy metal
-Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
-<channel>
-<channel>
-<name>1990 The Razor's Edge</name>
-<thumbnail>http://i.imgur.com/TEwQUYy.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/AC-DC/1990%20-%20the%20Razor's%20Edge.txt</externallink>
-<fanart>http://i.imgur.com/G4lnHwq.jpg</fanart>
-<info>The Razors Edge
-Album by AC/DC
-The Razors Edge is an album by Australian hard rock band AC/DC. It was the band's eleventh internationally released studio album and the twelfth to be released in Australia.
-Release date: September 24, 1990
-Producer: Bruce Fairbairn
-Genres: Hard rock, Heavy metal
-Nominations: Grammy Award for Best Hard Rock Performance, Juno Award for International Album of the Year</info>
+Genres: Hard rock, Heavy metal</info>
 </channel>
 <channel>
 <name>1992 Live</name>
