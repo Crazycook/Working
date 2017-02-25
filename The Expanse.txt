@@ -77,8 +77,8 @@
 <fanart>http://i.imgur.com/duzAZHh.jpg</fanart>
 </item>
 <item>
-<title>the Expanse</title>
-<link></link>
+<title>the ExpanseS02E05.720p.x265</title>
+<link>http://dl.hastidownload.biz/2/The%20Expanse/The.Expanse.S02E05.720p.mkv</link>
 <thumbnail>http://i.imgur.com/Ckit4DZ.jpg</thumbnail>
 <fanart>http://i.imgur.com/duzAZHh.jpg</fanart>
 </item>

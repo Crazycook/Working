@@ -534,3 +534,8 @@
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
+<title>The Walking Dead Season 7 Episode 10</title>
+<link>http://sirftp.com/Shows_Series/The%20Walking%20Dead/Season%207/The%20Walking%20Dead%20S07E10.mkv</link>
+<thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
+<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
+</item>
