@@ -1194,607 +1194,607 @@
 </item>
 <item>
 <title>200 - Led Zeppelin - Ramble On</title>
-<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/200%20-%20Led%20Zeppelin%20-%20Ramble%20On.mp3</link>
+<link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>201 - Kinks - All Day And All Of The Night</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/201%20-%20Kinks%20-%20All%20Day%20And%20All%20Of%20The%20Night.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>202 - Peter Frampton - Show Me The Way</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/202%20-%20Peter%20Frampton%20-%20Show%20Me%20The%20Way.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>203 - Doobie Brothers - Long Train Running</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/203%20-%20Doobie%20Brothers%20-%20Long%20Train%20Running.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>204 - The Beatles - Ticket To Ride</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/204%20-%20The%20Beatles%20-%20Ticket%20To%20Ride.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>205 - The Beach Boys - Good Vibrations</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/205%20-%20The%20Beach%20Boys%20-%20Good%20Vibrations.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>206 - Lynyrd Skynyrd - Gimme Three Steps</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/206%20-%20Lynyrd%20Skynyrd%20-%20Gimme%20Three%20Steps.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>207 - Tom Petty & the Heartbreakers - Breakdown</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/207%20-%20Tom%20Petty%20&%20the%20Heartbreakers%20-%20Breakdown.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>208 - ZZ Top - Tush</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/208%20-%20ZZ%20Top%20-%20Tush.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>209 - Heart - Crazy On You</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/209%20-%20Heart%20-%20Crazy%20On%20You.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>210 - George Harrison - Got My Mind Set On You</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/210%20-%20George%20Harrison%20-%20Got%20My%20Mind%20Set%20On%20You.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>211 - The Rolling Stones - Angie</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/211%20-%20The%20Rolling%20Stones%20-%20Angie.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>212 - Pink Floyd - Us and Them</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/212%20-%20Pink%20Floyd%20-%20Us%20and%20Them.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>213 - Eric Clapton - After Midnight</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/213%20-%20Eric%20Clapton%20-%20After%20Midnight.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>214 - Kiss - I Wanna Rock and Roll All Night</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/214%20-%20Kiss%20-%20I%20Wanna%20Rock%20and%20Roll%20All%20Night.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>215 - The Guess Who - These Eyes</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/215%20-%20The%20Guess%20Who%20-%20These%20Eyes.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>216 - ACDC - You Shook Me All Night Long</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/216%20-%20ACDC%20-%20You%20Shook%20Me%20All%20Night%20Long.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>217 - The Beatles - Get Back</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/217%20-%20The%20Beatles%20-%20Get%20Back.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>218 - Kinks - Well Respected Man</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/218%20-%20Kinks%20-%20Well%20Respected%20Man.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>219 - The Who - I Can't Explain</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>220 - The Beatles - Golden Slumbers Melody</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/220%20-%20The%20Beatles%20-%20Golden%20Slumbers%20Melody.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>221 - Chicago - Colour My World</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/221%20-%20Chicago%20-%20Colour%20My%20World.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>222 - Byrds - Mr. Tambourine Man</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/222%20-%20Byrds%20-%20Mr.%20Tambourine%20Man.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>223 - Bruce Springsteen - Tunnel Of Love</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/223%20-%20Bruce%20Springsteen%20-%20Tunnel%20Of%20Love.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>224 - Animals - We've Gotta Get Out Of This Place</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>225 - Steely Dan - Do It Again</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/225%20-%20Steely%20Dan%20-%20Do%20It%20Again.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>226 - Elton John - Honkey Cat</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/226%20-%20Elton%20John%20-%20Honkey%20Cat.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>227 - Fleetwood Mac - The Chain</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/227%20-%20Fleetwood%20Mac%20-%20The%20Chain.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>228 - Cheap Trick - Surrender</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/228%20-%20Cheap%20Trick%20-%20Surrender.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>229 - Creedence Clearwater Revival - Bad Moon Rising</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/229%20-%20Creedence%20Clearwater%20Revival%20-%20Bad%20Moon%20Rising.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>230 - Ted Nugent - Stranglehold</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/230%20-%20Ted%20Nugent%20-%20Stranglehold.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>231 - The Who - 5 15</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/231%20-%20The%20Who%20-%205%2015.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>232 - The Beatles - Sun King Melody</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/232%20-%20The%20Beatles%20-%20Sun%20King%20Melody.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>233 - Blue Oyster Cult - Godzilla</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/233%20-%20Blue%20Oyster%20Cult%20-%20Godzilla.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>234 - Moody Blues - Question</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/234%20-%20Moody%20Blues%20-%20Question.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>235 - Blind Faith - Can't Find My Way Home</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>236 - The Rolling Stones - Street Fighting Man</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/236%20-%20The%20Rolling%20Stones%20-%20Street%20Fighting%20Man.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>237 - Eric Clapton - Lay Down Sally</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/237%20-%20Eric%20Clapton%20-%20Lay%20Down%20Sally.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>238 - Alice Cooper - No More Mr. Nice Guy</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/238%20-%20Alice%20Cooper%20-%20No%20More%20Mr.%20Nice%20Guy.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>239 - David Bowie - Space Oddity</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/239%20-%20David%20Bowie%20-%20Space%20Oddity.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>240 - Buffalo Springfield - For What It's Worth</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>241 - The Doors - Riders On The Storm</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/241%20-%20The%20Doors%20-%20Riders%20On%20The%20Storm.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>242 - Allman Brothers Band - Whipping Post</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/242%20-%20Allman%20Brothers%20Band%20-%20Whipping%20Post.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>243 - The Band - The Weight</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/243%20-%20The%20Band%20-%20The%20Weight.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>244 - The Beatles - Twist And Shout</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/244%20-%20The%20Beatles%20-%20Twist%20And%20Shout.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>245 - Strawberry Alarm Clock - Incense and Peppermints</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/245%20-%20Strawberry%20Alarm%20Clock%20-%20Incense%20and%20Peppermints.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>246 - Rascals - People Got To Be Free</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/246%20-%20Rascals%20-%20People%20Got%20To%20Be%20Free.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>247 - Steely Dan - Reeling In The Years</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/247%20-%20Steely%20Dan%20-%20Reeling%20In%20The%20Years.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>248 - Seals & Croft - Summer Breeze</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/248%20-%20Seals%20&%20Croft%20-%20Summer%20Breeze.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>249 - Bob Dylan - Shelter From The Storm</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/249%20-%20Bob%20Dylan%20-%20Shelter%20From%20The%20Storm.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>250 - Creedence Clearwater Revival - I Heard It Through The Grapevine</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/250%20-%20Creedence%20Clearwater%20Revival%20-%20I%20Heard%20It%20Through%20The%20Grapevine.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>251 - Led Zeppelin - Trampled Under Foot</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/251%20-%20Led%20Zeppelin%20-%20Trampled%20Under%20Foot.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>252 - Troggs - Wild Thing</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/252%20-%20Troggs%20-%20Wild%20Thing.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>253 - Electric Light Orchestra - Turn To Stone</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/253%20-%20Electric%20Light%20Orchestra%20-%20Turn%20To%20Stone.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>254 - Mountain - Mississippi Queen</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/254%20-%20Mountain%20-%20Mississippi%20Queen.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>255 - Cat Stevens - Peace Train</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/255%20-%20Cat%20Stevens%20-%20Peace%20Train.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>256 - McDonald, Country Joe and the Fish - Fixin' to Die Rag</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>257 - Bad Company - Feel Like Making Love</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/257%20-%20Bad%20Company%20-%20Feel%20Like%20Making%20Love.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>258 - Heart - Magic Man</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/258%20-%20Heart%20-%20Magic%20Man.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>259 - The Beatles - Here Comes The Sun</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/259%20-%20The%20Beatles%20-%20Here%20Comes%20The%20Sun.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>260 - Yes - Long Distance Runaround</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/260%20-%20Yes%20-%20Long%20Distance%20Runaround.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>261 - Elton John - Your Song</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/261%20-%20Elton%20John%20-%20Your%20Song.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>262 - Fleetwood Mac - Say You Love Me</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/262%20-%20Fleetwood%20Mac%20-%20Say%20You%20Love%20Me.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>263 - The Doors - People Are Strange</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/263%20-%20The%20Doors%20-%20People%20Are%20Strange.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>264 - Dire Straits - Sultans Of Swing</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/264%20-%20Dire%20Straits%20-%20Sultans%20Of%20Swing.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>265 - Bruce Springsteen - Hungry Heart</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/265%20-%20Bruce%20Springsteen%20-%20Hungry%20Heart.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>266 - The Beatles - Stawberry Fields Forever</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/266%20-%20The%20Beatles%20-%20Stawberry%20Fields%20Forever.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>267 - Steve Miller Band - Jet Airliner</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/267%20-%20Steve%20Miller%20Band%20-%20Jet%20Airliner.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>268 - David Bowie - Young Americans</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/268%20-%20David%20Bowie%20-%20Young%20Americans.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>269 - George Harrison - All Those Years Ago</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/269%20-%20George%20Harrison%20-%20All%20Those%20Years%20Ago.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>270 - The Who - Eminence Front</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/270%20-%20The%20Who%20-%20Eminence%20Front.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>271 - Creedence Clearwater Revival - Have You Ever Seen The Rain</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/271%20-%20Creedence%20Clearwater%20Revival%20-%20Have%20You%20Ever%20Seen%20The%20Rain.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>272 - The Beatles - She Loves You</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/272%20-%20The%20Beatles%20-%20She%20Loves%20You.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>273 - Eric Clapton - Tears In Heaven</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/273%20-%20Eric%20Clapton%20-%20Tears%20In%20Heaven.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>274 - The Eagles - Already Gone</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/274%20-%20The%20Eagles%20-%20Already%20Gone.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>275 - Byrds - Eight Miles High</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/275%20-%20Byrds%20-%20Eight%20Miles%20High.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>276 - Doobie Brothers - Black Water</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/276%20-%20Doobie%20Brothers%20-%20Black%20Water.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>277 - Todd Rundgren - I Saw The Light</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/277%20-%20Todd%20Rundgren%20-%20I%20Saw%20The%20Light.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>278 - Badfinger - Come And Get It</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/278%20-%20Badfinger%20-%20Come%20And%20Get%20It.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>279 - Young Rascals - Good Lovin</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/279%20-%20Young%20Rascals%20-%20Good%20Lovin.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>280 - Moody Blues - Tuesday Afternoon</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/280%20-%20Moody%20Blues%20-%20Tuesday%20Afternoon.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>281 - The Rolling Stones - Heartbreaker</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/281%20-%20The%20Rolling%20Stones%20-%20Heartbreaker.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>282 - Steppenwolf - Magic Carpet Ride</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/282%20-%20Steppenwolf%20-%20Magic%20Carpet%20Ride.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>283 - Led Zeppelin - Over The Hills And Far Away</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/283%20-%20Led%20Zeppelin%20-%20Over%20The%20Hills%20And%20Far%20Away.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>284 - Lynyrd Skynyrd - Sweet Home Alabama</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/284%20-%20Lynyrd%20Skynyrd%20-%20Sweet%20Home%20Alabama.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>285 - Chicago - 25 Or 6 To 4</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/285%20-%20Chicago%20-%2025%20Or%206%20To%204.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>286 - Steely Dan - Rikki Don't Lose That Numbe</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>287 - The Guess Who - Laughing</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/287%20-%20The%20Guess%20Who%20-%20Laughing.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>288 - The Rolling Stones - Paint It Black</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/288%20-%20The%20Rolling%20Stones%20-%20Paint%20It%20Black.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>289 - The Who - I Can See For Miles</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/289%20-%20The%20Who%20-%20I%20Can%20See%20For%20Miles.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>290 - The Beatles - I Want To Hold Your Hand</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/290%20-%20The%20Beatles%20-%20I%20Want%20To%20Hold%20Your%20Hand.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>291 - Alice Cooper - I'm Eighteen</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>292 - Byrds - So You Want To Be A Rock 'n' Roll Star</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>293 - Nazareth - Love Hurts</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/293%20-%20Nazareth%20-%20Love%20Hurts.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>294 - Foghat - Fool for the City</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/294%20-%20Foghat%20-%20Fool%20for%20the%20City.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
+<title>295 - Bob Dylan - Blowin' In The Wind</title>
 <link></link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>296 - Styx - Renegade</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/296%20-%20Styx%20-%20Renegade.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>297 - Rush - New World Man</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/297%20-%20Rush%20-%20New%20World%20Man.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>298 - The Who - The Kids Are Alright</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/298%20-%20The%20Who%20-%20The%20Kids%20Are%20Alright.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>299 - Kinks - Tired Of Waiting For You</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/299%20-%20Kinks%20-%20Tired%20Of%20Waiting%20For%20You.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
 <item>
-<title></title>
-<link></link>
+<title>300 - The Beatles - Paperback Writer</title>
+<link>http://86.252.168.64/Musique/Top%20500%20Rock%20And%20Roll%20Songs/300%20-%20The%20Beatles%20-%20Paperback%20Writer.mp3</link>
 <thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
 <fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
 </item>
