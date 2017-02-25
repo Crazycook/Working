@@ -49,6 +49,14 @@ Slayer's musical style involves fast tremolo picking, double bass drumming, riff
 </channel>
 
 <channel>
+<name>rock Top 500</name>
+<thumbnail>http://i.imgur.com/oQTvykr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/CD's/rock%20Top%20500.txt</externallink>
+<fanart>http://i.imgur.com/r5JKngq.jpg</fanart>
+<info>Top 500 Classic Rock Songs of All Time</info>
+</channel>
+
+<channel>
 <name>Disco</name>
 <thumbnail>http://i.imgur.com/KrY99tR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/CD's/Disco.txt</externallink>
