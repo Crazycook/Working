@@ -43,9 +43,14 @@
 <fanart>http://i.imgur.com/uOKpXCC.jpg</fanart>
 </item>
 <item>
-<title>Game 7 : FEB. 18: COLORADO MAMMOTH @ SASKATCHEWAN RUSH
-</title>
+<title>Game 7 : FEB. 18: COLORADO MAMMOTH @ SASKATCHEWAN RUSH</title>
 <link>http://default.media.boxxspring.net/1080p_002b55cad47f6343d95628b4deb08f5a.mp4</link>
+<thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
+<fanart>http://i.imgur.com/uOKpXCC.jpg</fanart>
+</item>
+<item>
+<title>Game 8 : FEB. 25: CALGARY ROUGHNECKS @ SASKATCHEWAN RUSH</title>
+<link>http://default.media.boxxspring.net/1080p_4ede0fd5f0d8521150fe66cc907a9294.mp4</link>
 <thumbnail>https://i.imgur.com/YQ0YTLo.png</thumbnail>
 <fanart>http://i.imgur.com/uOKpXCC.jpg</fanart>
 </item>
