@@ -1,0 +1,561 @@
+﻿<item>
+<title>Road to Avonlea S01E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S01E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S01E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s1/Avonlea%20S01E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S02E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S02E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s2/Avonlea%20S02E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S03E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S03E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s3/Avonlea%20S03E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S04E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S04E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s4/Avonlea%20S04E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S05E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S05E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s5/Avonlea%20S05E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S06E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S06E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s6/Avonlea%20S06E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E01</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E01%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E02</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E02%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E03</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E03%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E04</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E04%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E05</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E05%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E06</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E06%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E07</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E07%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E08</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E08%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E09</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E09%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E10</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E10%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E11</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E11%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<item>
+<title>Road to Avonlea S07E12</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E12%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Road to Avonlea S07E13</title>
+<link>http://s1.bia2m.biz/Series/Avonlea/s7/Avonlea%20S07E13%20(Bia2Movies).mkv</link>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+</item>
+<item>
+<title>Happy Christmas Miss King</title>
+<utube>siu_rimdDiA</utube>
+<thumbnail>http://i.imgur.com/6ZtCf78.jpg</thumbnail>
+<fanart>http://i.imgur.com/RVYjHA9.jpg</fanart>
+<info>to be found yet</info>
+</item>
+<item>
