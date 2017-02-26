@@ -294,7 +294,7 @@ First episode date: October 11, 1979
 Theme song: Maybe Tomorrow
 Number of seasons: 6
 Number of episodes: 114
-Networks: CTV Television Network,</info>
+Networks: CTV Television Network</info>
 </channel>
 
 <channel>
