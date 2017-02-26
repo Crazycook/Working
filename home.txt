@@ -235,10 +235,22 @@ Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Preacher.txt</externallink>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 <info>Preacher
-
 Preacher is an American television series developed by Evan Goldberg, Seth Rogen and Sam Catlin for AMC starring Dominic Cooper.
 First episode date : May 22, 2016
 Network : AMC</info>
+</channel>
+
+<channel>
+<name>Road to Avonlea</name>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Road%20to%20Avonlea.txt</externallink>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+<info>Road to Avonlea
+Television Series
+Sara Stanley is sent to live with her late mother's family.
+Writers: Lucy Maud Montgomery, Heather Conkie, Hart Hanson, more
+Awards: Primetime Emmy Award for Outstanding Lead Actor in a Drama Series, more
+Networks: Canadian Broadcasting Corporation, Disney Channel, CBC Television</info>
 </channel>
 
 <channel>
