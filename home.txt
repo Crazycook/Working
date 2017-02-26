@@ -206,6 +206,19 @@ Network: USA Network</info>
 </channel>
 
 <channel>
+<name>North of 60</name>
+<thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/North%20of%2060.txt</externallink>
+<fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
+<info>North of 60
+Canadian television series
+A Mountie polices a town in Northwest Territories.
+First episode date: December 3, 1992
+Final episode date: December 18, 1997
+Networks: Canadian Broadcasting Corporation, CBC Television</info>
+</channel>
+
+<channel>
 <name>Orange is the New Black</name>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Orange%20is%20the%20New%20Black.txt</externallink>
