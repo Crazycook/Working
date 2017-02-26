@@ -281,6 +281,21 @@ Hundreds of years in the future, things are different than what we are used to a
 First episode date: November 23, 2015
 Network: Syfy</info> 
 </channel>
+https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Littlest%20Hobo.txt
+<channel>
+<name>The Littlest Hobo</name>
+<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead.txt</externallink>
+<fanart>http://i.imgur.com/CURhVhy.png</fanart>
+<info>The Littlest Hobo
+Television Series
+A homeless dog helps solve tough problems.
+First episode date: October 11, 1979
+Theme song: Maybe Tomorrow
+Number of seasons: 6
+Number of episodes: 114
+Networks: CTV Television Network,</info>
+</channel>
 
 <channel>
 <name>The Walking Dead</name>
