@@ -286,7 +286,7 @@
 </item>
 <item>
 <title>North of 60 S04E01</title>
-<utube>yNGPfy2BdVg</utube>
+<utube>yNGPfy2BdVg&t=688s</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
