@@ -184,6 +184,17 @@ Stars: Lee Pace, Scoot McNairy, Mackenzie Davis </info>
 </channel>
 
 <channel>
+<name>Incorporated</name>
+<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Incorporated.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>Incorporated  Sci-Fi, Thriller | TV Series (2016– )
+A man attempts to thwart a giant corporation that seems to have unlimited power.
+Creators: David Pastor, Àlex Pastor
+Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
+</channel>
+
+<channel>
 <name>Mr Bean</name>
 <thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Bean.txt</externallink>
@@ -254,6 +265,19 @@ Networks: Canadian Broadcasting Corporation, Disney Channel, CBC Television</inf
 </channel>
 
 <channel>
+<name>SeaQuest</name>
+<thumbnail>http://i.imgur.com/KtneTqT.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Seaquest.txt</externallink>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+<info>seaQuest DSV
+American television series
+SeaQuest DSV is an American science fiction television series created by Rockne S. O'Bannon. It originally aired on NBC between 1993 and 1996. In its final season, it was renamed seaQuest 2032.
+First episode date: September 12, 1993
+Network: NBC 
+In the early 21st century, mankind has colonized the oceans. The United Earth Oceans Organization enlists Captain Nathan Bridger and the submarine seaQuest DSV to keep the peace and explore the last frontier on Earth.</info>
+</channel>
+
+<channel>
 <name>Shooter</name>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Shooter.txt</externallink>
@@ -294,7 +318,7 @@ First episode date: October 11, 1979
 Theme song: Maybe Tomorrow
 Number of seasons: 6
 Number of episodes: 114
-Networks: CTV Television Network</info>
+Networks: CTV Television Network,</info>
 </channel>
 
 <channel>
@@ -420,22 +444,4 @@ Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
  Comedy, Crime, Drama | TV Series (2001–2016)</info>
 </channel>
 
-<channel>
-<name>Incorporated</name>
-<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Incorporated.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>Incorporated  Sci-Fi, Thriller | TV Series (2016– )
-A man attempts to thwart a giant corporation that seems to have unlimited power.
-Creators: David Pastor, Àlex Pastor
-Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
-</channel>
 
-<channel>
-<name>trial</name>
-<thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/trial.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info></info>
-</channel>
-</channels>
