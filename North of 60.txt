@@ -532,30 +532,30 @@
 </item>
 <item>
 <title>	North of 60 Mystery - 1999 - In the Blue Ground</title>
-<link>3gxCMTqUlNk</link>
+<utube>3gxCMTqUlNk</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
 <item>
 <title>North of 60 Mystery - 2000 - Trial by Fire</title>
-<link>vi2y6TnQeBw</link>
+<utube>vi2y6TnQeBw</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
 <title>	North of 60 Mystery - 2001 - Dream Storm</title>
-<link>nDxFnRiziOI</link>
+<utube>nDxFnRiziOI</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
 <item>
 <title>North of 60 Mystery - 2003 - Another Country</title>
-<link>5zbpq_KeGMg</link>
+<utube>5zbpq_KeGMg</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
 <item>
 <title>North of 60 Mystery - 2005 - Distant Drumming</title>
-<link>2a73facCqdQ</link>
+<utube>2a73facCqdQ</utube>
 <thumbnail>http://i.imgur.com/LD8kxgw.jpg</thumbnail>
 <fanart>http://i.imgur.com/VDu3c2M.jpg</fanart>
 </item>
