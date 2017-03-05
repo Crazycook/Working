@@ -49,7 +49,7 @@ Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
 <channel>
 <name>Battlestar Galactica 2005</name>
 <thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
 <fanart>http://i.imgur.com/rbunHn3.png</fanart>
 <info>Caprica - Drama series
 Set nearly 60 years before the popular "Battlestar Galactica" series, this prequel traces the progress of two prominent families, the Greystones and the Adamas, in the peaceful world of the 12 Colonies. An act of terrorism has tragic consequences for both families, which shapes the future of the battle for humanity.
@@ -61,7 +61,7 @@ Network: Syfy</info>
 <channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
 <fanart>http://i.imgur.com/4EyzFTR.jpg</fanart>
 <info>Battlestar Galactica
 This update of the late-1970s series takes a decidedly darker tone as what's left of humankind struggles for survival against the robot Cylons, who have killed millions. The Galactica, led by William Adama, protects a patched-together fleet of civilians -- led by de facto president Laura Roslin -- in search of a mythical planet called Earth.
