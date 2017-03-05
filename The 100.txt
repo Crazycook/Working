@@ -271,3 +271,15 @@
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
 </item>
+<item>
+<title>The 100֠S04E04</title>
+<link>http://s1.bia2m.biz/Series/The%20100/s4/The%20100%20S04E04%20720p%20x265%20(Bia2Movies).mkv</link>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
+</item>
+<item>
+<title>The 100֠S04E05</title>
+<link>http://s1.bia2m.biz/Series/The%20100/s4/The%20100%20S04E05%20720p%20x265%20(Bia2Movies).mkv</link>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
+</item>
