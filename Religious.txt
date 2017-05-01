@@ -28,7 +28,7 @@
 
 <item>
 <title>Daystar</title>
-<link>http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8</link>
+<link>https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_720p.m3u8</link>
 <thumbnail>http://i.imgur.com/ZRfo17Z.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -55,13 +55,6 @@
 </item>
 
 <item>
-<title>Juce TV</title>
-<link>ttp://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8</link>
-<thumbnail>http://i.imgur.com/dSiCyVE.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>Newsmax TV</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/kdzkXVN.jpg</thumbnail>
@@ -72,13 +65,6 @@
 <title>Trinity Broadcasting Network</title>
 <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/o4ddXGH.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>The Word Network</title>
-<link>http://thewordlive-lh.akamaihd.net/thewordlive_univ_2000@141816?v=3.3.0&p=aasp-3.3.0.99.43&fp=WIN%2017,0,0,134&r=MSTHT&g=DOQEVJMKBLQJ</link>
-<thumbnail>http://i.imgur.com/NyoHLDu.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -104,44 +90,9 @@
 </item>
 
 <item>
-<title>KAZQ TV32 - 17 DT - Albuquerque - NM</title>
-<link>http://156.obj.netromedia.net/KAZQH264/KAZQH264/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/HZXKMqx.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>KDTN Daystar 2 - 43 DT - Dallas - TX</title>
-<link>http://brightcove03-f.akamaihd.net/daystar_HD_720@112478</link>
-<thumbnail>http://i.imgur.com/Z5ja4St.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>WLFG 68 LFTv - 49 DT - Abingdon - VA</title>
-<link>http://johndash.videocdn.scaleengine.net:1935/johndash-iphone/play/livingfaith/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/9l0qpis.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>CBN TV - NTV - Virginia Beach - VA</title>
-<link>http://brightcove03-f.akamaihd.net/iptv1_1_900@50919</link>
-<thumbnail>http://i.imgur.com/1b7KGqL.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>CBN TV News - NTV - Virginia Beach - VA</title>
 <link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8</link>
 <thumbnail>http://i.imgur.com/tLbd95T.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>MTMT TV JAMAICA</title>
-<link>rtmp://media.btbn.tv/mtmtv/live</link>
-<thumbnail>http://i.imgur.com/obJWw8m.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -181,23 +132,9 @@
 </item>
 
 <item>
-<title>Amazing Facts Tv</title>
-<link>http://bglive-w.bitgravity.com/amazingfacts/live/feed01</link>
-<thumbnail>http://i.imgur.com/MJj4LCs.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>Amazing Discoveries</title>
 <link>rtmp://amazingdrtmp.tulix.tv/amazingdiscoveries//mystream2</link>
 <thumbnail>http://i.imgur.com/jJ0R7yj.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>KDOV theDove 43 - 44 LP - Medford - OR</title>
-<link>rtmp://s1.thedove.us/theDoveTV/2theDoveTV.sdp</link>
-<thumbnail>http://i.imgur.com/PFG7A2E.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -212,34 +149,6 @@
 <title>CANAL SHOW DA FÉ</title>
 <link>http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_600_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/4HY2LbO.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>)</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>)</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>)</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>ancao Nova</title>
-<link>http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8</link>
-<thumbnail>http://i.imgur.com/VZMSAAC.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
