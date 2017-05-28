@@ -5,3 +5,15 @@
 <thumbnail>http://imgur.com/ReigzJl</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+<item>
+<title>JNN</title>
+<link>http://54.152.138.11:1935/live/switching1/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/03_logo/Jamaican_News_Network_Jamaica.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>MTM TV</title>
+<link>http://media.btbn.tv/mtmtv/live/playlist.m3u8</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
