@@ -13,6 +13,13 @@
 </item>
 
 <item>
+<title>CBN News</title>
+<link>http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>WHBR CTN 33 - 34 DT - Pensacola - FL</title>
 <link>http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/kmAaJZ9.pngg</thumbnail>
@@ -55,9 +62,23 @@
 </item>
 
 <item>
+<title>Hillsong Channel</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8</link>
+<thumbnail>https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Newsmax TV</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/kdzkXVN.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NRB Network</title>
+<link>http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8</link>
+<thumbnail>http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -121,6 +142,13 @@
 <title>SBN GLOBAL</title>
 <link>http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8</link>
 <thumbnail>http://i.imgur.com/K3DMh6V.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TBN</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8</link>
+<thumbnail>http://logonoid.com/images/tbn-logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
