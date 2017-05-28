@@ -83,9 +83,9 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>TG4</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8</link>
+<thumbnail>http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 <item>
