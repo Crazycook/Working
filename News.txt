@@ -229,6 +229,34 @@
 </item>
 
 <item>
+<title>BBC News</title>
+<link>http://79.172.241.74:8081/hls/bbcnews.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://86.166.86.159:9981/stream/channelid/73068048/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC Parliament</title>
+<link>http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=</link>
+<thumbnail>http://channelpear.com/images/media/12344.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>LifeNews HD Russia</title>
 <link>http://tv.life.ru/lifetv/720p/index.m3u8</link>
 <thumbnail>https://i.imgur.com/LGtakIq.jpg</thumbnail>
