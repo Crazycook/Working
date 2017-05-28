@@ -67,6 +67,13 @@
 </item>
 
 <item>
+<title>ESPN</title>
+<link>http://stream.i4atv.info/ggwpl/live2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Kuwait 3 Sport</title>
 <link>http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8</link>
 <thumbnail>https://i.imgur.com/ATzIAFH.jpg</thumbnail>
@@ -76,6 +83,27 @@
 <title>MOTORSPORT USA</title>
 <link>http://motorsport.hopto.org:8080/</link>
 <thumbnail>https://i.imgur.com/2Sy9aLY.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NFL Now</title>
+<link>http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8/</link>
+<thumbnail>http://channelpear.com/images/media/9095.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MLB Network</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5249.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Olympic Channel HD</title>
+<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8/</link>
+<thumbnail>http://i.imgur.com/9LtjkGW.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
