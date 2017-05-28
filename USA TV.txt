@@ -9,6 +9,13 @@
 <item>
 <title>Animal Planet Live</title>
 <link>http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -212,6 +219,12 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Yes TV</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8</link>
+<thumbnail>https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>HD Media 3D</title>
