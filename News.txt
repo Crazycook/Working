@@ -89,6 +89,13 @@
 </item>
 
 <item>
+<title>Weather Channel</title>
+<link>http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8</link>
+<thumbnail>http://i.imgur.com/H00wiqw.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>ABC News 1</title>
 <link>http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-b.m3u8</link>
 <thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
@@ -117,6 +124,13 @@
 </item>
 
 <item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TjHh4PW.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>CBSN HD (1080p)</title>
 <link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
 <thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
@@ -138,9 +152,30 @@
 </item>
 
 <item>
+<title>Fox News</title>
+<link>http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Fox News Radio</title>
 <link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
 <thumbnail>http://i.imgur.com/Bvaoiu7.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8</link>
+<thumbnail>http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Newsmax TV</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8</link>
+<thumbnail>http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -182,6 +217,13 @@
 <item>
 <title>Bloomberg</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
 <thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
