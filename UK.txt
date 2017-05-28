@@ -5,3 +5,99 @@
 <thumbnail>http://imgur.com/wdExVDw</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>ITV</title>
+<link>http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=</link>
+<thumbnail>http://channelpear.com/images/media/129.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC One</title>
+<link>http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=</link>
+<thumbnail>http://channelpear.com/images/media/211.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC One</title>
+<link>http://79.172.241.74:8081/hls/bbcone.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/211.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC Two</title>
+<link>http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=</link>
+<thumbnail>http://channelpear.com/images/media/1680.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>BBC Two</title>
+<link>http://79.172.241.74:8081/hls/bbctwo.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/1680.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC Four</title>
+<link>http://79.172.241.74:8081/hls/bbcfour.m3u8</link>
+<thumbnail>https://ichef.bbci.co.uk/images/ic/480x270/p02lrp06.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://79.172.241.74:8081/hls/bbcnews.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC News </title>
+<link>http://86.166.86.159:9981/stream/channelid/73068048/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BBC Parliament</title>
+<link>http://86.166.86.159:9981/stream/channelid/1713867818/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/12344.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky News</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Insight</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
