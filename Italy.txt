@@ -210,6 +210,13 @@
 </item>
 
 <item>
+<title>TV Luna</title>
+<link>http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Tg Norba24</title>
 <link>http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/z9s2CXv</thumbnail>
