@@ -49,9 +49,15 @@
 
 <item>
 <title>Atomic TV</title>
-<link>rtmp://5.154.185.153/live/live.flv
-</link>
+<link>rtmp://5.154.185.153/live/live.flv</link>
 <thumbnail>http://i.imgur.com/ffe6uzw.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Beatz TV</title>
+<link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
+<thumbnail>http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -74,6 +80,13 @@
 <title>C Music World TV</title>
 <link>mmsh://streaming.cmusic.tv/cmusicworld-tv</link>
 <thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>California Music Channel</title>
+<linkhttp://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/cmc_tv.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -345,8 +358,7 @@
 
 <item>
 <title>Heart TV</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-</link>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
