@@ -1,63 +1,23 @@
 <item>
-<item>
-<title>Tele Vesdre </title>
-<link>http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8</link>
-<thumbnail>http://imgur.com/zZ28RsX</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Assemblée Nationale</title>
-<link>http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
-<thumbnail>http://imgur.com/R09gTr6</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>Canal Alpha</title>
-<link>http://rtmp.infomaniak.ch/livecast/canalalpha/playlist.m3u8</link>
-<thumbnail>http://imgur.com/LJrwnc7</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Grand Lille TV</title>
-<link>rtsp://str81.creacast.com/grandlilletv/high</link>
-<thumbnail>http://imgur.com/jxowXBJ</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Itele</title>
-<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
-<thumbnail>http://imgur.com/Lqbsgxu</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Link Antenne Réunion</title>
-<link>http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8</link>
-<thumbnail>http://imgur.com/OPIvZuE</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>La Tele X</title>
-<link>http://rtmp.infomaniak.ch/livecast/latele/chunklist_w1497174121.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>La Télé 2</title>
-<link>rtsp://rtmp.infomaniak.ch/livecast/latele</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
 <title>1 Tele</title>
 <link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_I-T%C3%A9l%C3%A9_2013.png/150px-Logo_I-T%C3%A9l%C3%A9_2013.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Alsace 20</title>
+<link>http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>AssemblÃ©e Nationale</title>
+<link>http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/R09gTr6</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -69,6 +29,33 @@
 </item>
 
 <item>
+<title>BFM TV</title>
+<link>http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BFM Business</title>
+<link>http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8</link>
+<thumbnail>http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BFM Sport</title>
+<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8</link>
+<thumbnail>http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Canal Alpha</title>
+<link>http://rtmp.infomaniak.ch/livecast/canalalpha/playlist.m3u8</link>
+<thumbnail>http://imgur.com/LJrwnc7</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Enorme TV</title>
 <link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
 <thumbnail>http://imgur.com/YJEa7HD</thumbnail>
@@ -76,8 +63,92 @@
 </item>
 
 <item>
-<title>Wéo</title>
+<title>Francophonie 24</title>
+<link>http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8</link>
+<thumbnail>http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Grand Lille TV</title>
+<link>rtsp://str81.creacast.com/grandlilletv/high</link>
+<thumbnail>http://imgur.com/jxowXBJ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Indies Live (WN)</title>
+<link>http://ec.playmedia.fr/indies-live/live/playlist.m3u8</link>
+<thumbnail>https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Itele</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8</link>
+<thumbnail>http://imgur.com/Lqbsgxu</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Link Antenne RÃ©union</title>
+<link>http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8</link>
+<thumbnail>http://imgur.com/OPIvZuE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>La Chaine Normande</title>
+<link>http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>La Tele X</title>
+<link>http://rtmp.infomaniak.ch/livecast/latele/chunklist_w1497174121.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>La TÃ©lÃ© 2</title>
+<link>rtsp://rtmp.infomaniak.ch/livecast/latele</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele Vesdre </title>
+<link>http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8</link>
+<thumbnail>http://imgur.com/zZ28RsX</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV5 Monde/title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8</link>
+<thumbnail>http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVPI</title>
+<link>http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WÃ©o</title>
 <link>rtmp://str81.creacast.com:80/weo/high</link>
+<thumbnail>http://imgur.com/nLrBSnE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WÃ©o</title>
+<link>http://str81.creacast.com/weo/high/live.m3u8</link>
 <thumbnail>http://imgur.com/nLrBSnE</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
