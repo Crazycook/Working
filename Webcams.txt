@@ -9,6 +9,98 @@
 <thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
 </item>
 <item>
+<title>Ft. Lauderdale Marina</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8</link>
+<thumbnail>https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Midtown Skyline</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8</link>
+<thumbnail>http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg</thumbnail>
+</item>
+</item>
+<item>
+<title>NYC 5th Avenue</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8</link>
+<thumbnail>ttp://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Brooklyn Bridge</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8</link>
+<thumbnail>http://www.mylivestreams.com/images/camera/large_10724.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Charging Bull</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Columbus Circle</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8</link>
+<thumbnail>http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg</thumbnail>
+</item>
+</item>
+<item>
+<title>NYC High Line</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8</link>
+<thumbnail>https://media.timeout.com/images/103264714/630/472/image.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Times Square</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8</link>
+<thumbnail>http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Times Square (47th & Broadway)</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8</link>
+<thumbnail>https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Times Square (Street Cam)</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8</link>
+<thumbnail>http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Times Square (Crossroads)</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8</link>
+<thumbnail>https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Times Square (South View)</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8</link>
+<thumbnail>http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg</thumbnail>
+</item>
+<item>
+<title>NYC Harbor</title>
+<link>http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8</link>
+<thumbnail>http://imageupper.com/s08/1/6/K14767538582167330_1.jpg</thumbnail>
+</item>
+<item>
+<title>Seattle Downtown</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8</link>
+<thumbnail>http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg</thumbnail>
+</item>
+<item>
+<title>Seattle Space Needle</title>
+<link>http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8</link>
+<thumbnail>http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg</thumbnail>
+</item>
+<item>
+<title>Toronto CN Tower 1</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8</link>
+<thumbnail>http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg</thumbnail>
+</item>
+<item>
+<title>Toronto CN Tower 2</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8</link>
+<thumbnail>http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg</thumbnail>
+</item>
+<item>
+<title>Washington Monument</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8</link>
+<thumbnail>http://wtop.com/wp-content/uploads/2015/08/540809551.jpg</thumbnail>
+</item>
+<item>
 <title>Irish Kevins Key West Florida</title>
 <link>http://52.2.51.240:1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8</link>
 <thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
