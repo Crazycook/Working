@@ -1,4 +1,33 @@
 <item>
+
+<item>
+<title>7 TV</title>
+<link>http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-X1-eDHscNTU/VK0JclMSwGI/AAAAAAAAcVw/XQ82s7WUxg4/s1600/7hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>8 TV</title>
+<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
+<thumbnail>http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>13 TV</title>
+<link>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</link>
+<thumbnail>http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>324</title>
+<linkhttp://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</link>
+<thumbnail>http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>40 HD</title>
 <link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8</link>
@@ -10,6 +39,13 @@
 <title>Alfa TV</title>
 <link></link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Antena 3</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8</link>
+<thumbnail>http://imgur.com/DSSzpSI</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -28,7 +64,7 @@
 </item>
 
 <item>
-<title>Atreseries Español</title>
+<title>Atreseries EspaÃ±ol</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>http://imgur.com/PEyp8bp</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -38,6 +74,13 @@
 <title>Andalucia Television</title>
 <link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
 <thumbnail>http://imgur.com/bq994U5</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Betis TV</title>
+<link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -56,9 +99,23 @@
 </item>
 
 <item>
+<title>CYLTV</title>
+<link>http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8</link>
+<thumbnail>http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>ElCorreio TV Redifusion</title>
 <link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/i8QZSsl</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ETB Sat</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -91,6 +148,20 @@
 </item>
 
 <item>
+<title>laOtra</title>
+<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/laotra-455x250.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Levante TV</title>
+<link>http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8</link>
+<thumbnail>http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Mega</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
 <thumbnail>http://imgur.com/0nWxjFo</thumbnail>
@@ -105,6 +176,41 @@
 </item>
 
 <item>
+<title>Neox</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail>http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nova</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Real Madrid TV</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8</link>
+<thumbnail>http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Real Madrid TV (English)</title>
+<link>http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8</link>
+<thumbnail>http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTPA</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8</link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>RTV Marbella</title>
 <link>http://cls.provideo.es/marbellatv/livestream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/TkyEoVf</thumbnail>
@@ -112,16 +218,59 @@
 </item>
 
 <item>
+<title>Sevilla FC TV</title>
+<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/sfc_tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SupereNe</title>
+<link>http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE/playlist.m3u8</link>
+<thumbnail>http://forounivers.com/uploads/monthly_2016_11/large.582cb27562d2d_Superee.png.762649faffad1d0df1ebf4fccedb7e66.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Telemadrid</title>
-<link>http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8</link>
+<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+</link>
 <thumbnail>http://imgur.com/P7c4SlM</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
+<title>TV3</title>
 <link></link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV3</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Mediterraneo</title>
+<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8</link>
+<thumbnail>http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Lancelot TV</title>
+<link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
+<thumbnail>http://www.lancelot.tv/lancelot.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTVida</title>
+<link>http://178.32.53.254/radiovida/livestream/playlist.m3u8</link>
+<thumbnail>http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
