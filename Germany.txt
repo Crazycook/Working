@@ -1,4 +1,12 @@
 <item>
+
+<item>
+<title>1-2-3 TV</title>
+<link>http://123tv.cdn.ses-ps.com/index.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/austria_24_tv_at.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg</fanart>
+</item>
+
 <item>
 <title>Austria 24 TV</title>
 <link>rtmp://streaming.austria24.tv/live/stream_360p</link>
@@ -224,20 +232,20 @@
 
 <item>
 <title>TV Oberfranken</title>
-<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8</link>
+<link>http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8</link>
 <thumbnail>http://imgur.com/48ksKyM</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>TV Touring Schweinfurt</title>
-<link>http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8</link>
+<link>http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u88</link>
 <thumbnail>http://imgur.com/eoOAeCx</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>TV Touring Würzburg</title>
+<title>TV Touring WÃ¼rzburg</title>
 <link>http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8</link>
 <thumbnail>http://imgur.com/k8uGgPR</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -254,5 +262,12 @@
 <title>WDR Hd</title>
 <link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8</link>
 <thumbnail>http://imgur.com/3RvxS02</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WDR Fernsehen</title>
+<link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200pxWdr_fernsehen_logo_2016.svg.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
