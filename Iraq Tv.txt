@@ -1,4 +1,40 @@
 <item>
+
+<item>
+<title>Al Forat</title>
+<link>http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8</link>
+<thumbnail>http://i68.tinypic.com/25sbybc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Hurra</title>
+<link>rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095</link>
+<thumbnail>http://i.imgur.com/G4vqefQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Rasheed</title>
+<link>http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u85</link>
+<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al sharqiya News</title>
+<link>http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/7jeVa0g.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Houna Bagdad TV</title>
+<link>http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/5kbOFfT.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>Kurdmax tv</title>
 <link>http://live.kurdstream.net:1935/liveTrans//myStream_360p/playlist.m3u8</link>
@@ -20,23 +56,5 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title>Al Hurra</title>
-<link>rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095</link>
-<thumbnail>http://i.imgur.com/G4vqefQ.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
-<item>
-<title>Al sharqiya News</title>
-<link>http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7jeVa0g.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
-<item>
-<title>Houna Bagdad TV</title>
-<link>http://livestreaming.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/5kbOFfT.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
