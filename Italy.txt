@@ -1,8 +1,51 @@
 <item>
+
+<item>
+<title>Canale 10</title>
+<link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
+<thumbnail>http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Carina TV</title>
+<link>http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8</link>
+<thumbnail>http://www.altrostudio.tv/images/portfolio/carinatv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>Canale 46</title>
 <link>rtmp://vs2.streamcaster.net/test_live/canale46</link>
 <thumbnail>http://imgur.com/WqLnBE7</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Class TV Moda</title>
+<link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
+<thumbnail>https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>eTV Marche</title>
+<link>http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8</link>
+<thumbnail>http://cislmarche.it/files/2013/01/etv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fano TV</title>
+<link>http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/819159962291212288/Fk4VdIFM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>History Lab</title>
+<link>http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8</link>
+<thumbnail>http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -22,6 +65,13 @@
 <item>
 <title>Napoli Canale 21</title>
 <link>http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8</link>
+<thumbnail>http://imgur.com/cC8AqPP</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Napoli Canale 21</title>
+<link>http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8</link>
 <thumbnail>http://imgur.com/cC8AqPP</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -55,8 +105,22 @@
 </item>
 
 <item>
+<title>Rai Premium</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8</link>
+<thumbnail>http://imgur.com/Q971xTz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Rai News 24</title>
 <link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8</link>
+<thumbnail>http://imgur.com/pkkIgol</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai News 24</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8</link>
 <thumbnail>http://imgur.com/pkkIgol</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -83,6 +147,13 @@
 </item>
 
 <item>
+<title>Rai Yoyo</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8</link>
+<thumbnail>http://imgur.com/0wjZChh</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Rai Gulp</title>
 <link>http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8</link>
 <thumbnail>http://imgur.com/hfVj2Td</thumbnail>
@@ -97,9 +168,30 @@
 </item>
 
 <item>
-<title>RETE SPORT 8 </title>
+<title>Rete 55</title>
+<link>http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RETE SPORT 8</title>
 <link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
 <thumbnail>http://imgur.com/0LGy9Al</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Retesole</title>
+<link>http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8</link>
+<thumbnail>http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com//images/tv7/retesole.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Saronno TV</title>
+<link>http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8</link>
+<thumbnail>http://saronno.tv/wp-content/uploads/2014/11/Saronno_FB_Share.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -111,6 +203,13 @@
 </item>
 
 <item>
+<title>SuperTV</title>
+<link>http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-ZyKgPwkQPmQ/V53UU0Cm1rI/AAAAAAAAAxY/Dnh6rCMIFMwaIYJpjIhqh1WPK47OARrFQCLcB/s1600/supertv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Tg Norba24</title>
 <link>http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/z9s2CXv</thumbnail>
@@ -118,23 +217,37 @@
 </item>
 
 <item>
-<title>Telemilano</title>
-<link>http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8</link>
+<title>TeleMilano</title>
+<link>http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8</link>
 <thumbnail>http://imgur.com/xBX8uBR</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Telepavia</title>
+<title>TelePavia</title>
 <link>http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8</link>
 <thumbnail>http://imgur.com/H2kKOZK</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Telearena</title>
+<title>TeleArena</title>
 <link>http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8</link>
 <thumbnail>Telearena</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TeleStudio Modena</title>
+<link>http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1449306216.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele 8</title>
+<link>http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8</link>
+<thumbnail>http://video2.kronopress.com/openlogic1/tele8.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -146,8 +259,36 @@
 </item>
 
 <item>
+<title>TSN</title>
+<link>http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1456428050.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Luna</title>
+<link>http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8</link>
+<thumbnailhttps://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Videolina</title>
+<link>http://178.33.229.111:1935/live/Videolina/livestream.m3u8</link>
+<thumbnail>http://www.dinamobasket.com/sites/default/files/styles/news_740_440/public/news/videolina.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Video Brescia</title>
 <link>http://wms.shared.streamshow.it/videobrescia/videobrescia/sansar.m3u8</link>
 <thumbnail>http://imgur.com/LsUVJ1y</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Video Calabria</title>
+<link>http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/579290315338608640/fGSNs2SZ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
