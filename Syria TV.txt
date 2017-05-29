@@ -1,4 +1,26 @@
 <item>
+
+<item>
+<title>ANN</title>
+<link>http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/01_logo/arab_news_network.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nabd Syria</title>
+<link>http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria</link>
+<thumbnail>http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sama TV</title>
+<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
+<thumbnail>http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>Syria Nour</title>
 <link>http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8</link>
@@ -6,24 +28,35 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Syria Al Oula</title>
 <link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/CTaBYhs.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Syria Drama</title>
-<link>ttp://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/B82YC8H.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Syrian Education TV</title>
+<link>http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8</link>
+<thumbnail>http://tvtvtv.ru/icons/syrian_education_tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Syrian News</title>
 <link>rtmp://82.137.248.16/Snews/SnewsLive2</link>
 <thumbnail>https://i.imgur.com/tvrBK6v.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Syrian Satelit</title>
 <link>rtmp://82.137.248.16:1935/Sat/SatLive3</link>
 <thumbnail>https://i.imgur.com/tvrBK6v.jpg</thumbnail>
