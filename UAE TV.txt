@@ -1,21 +1,50 @@
 <item>
+
 <item>
-<title>Noor Dubai</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
+<title>CNBC Arabiya</title>
+<link>http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Dubai TV</title>
-<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8</link>
-<thumbnail>https://i.imgur.com/Usg0SfD.jpg</thumbnail>
+<title>Al Arabiya</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</link>
+<thumbnail>https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Arabiya</title>
+<link>http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa</link>
+<thumbnail>https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpgg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>Al Aan</title>
 <link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</link>
+<thumbnail>https://i.imgur.com/5SxQgAT.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi Sports</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1</link>
+<thumbnail>https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 2</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2</link>
+<thumbnail>https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Aan</title>
+<link>http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8</link>
 <thumbnail>https://i.imgur.com/5SxQgAT.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -28,8 +57,143 @@
 </item>
 
 <item>
+<title>Abu Dhabi TV</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula</link>
+<thumbnail>https://i.imgur.com/2Ir9dFA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi TV</title>
+<link>http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8</link>
+<thumbnail>https://i.imgur.com/2Ir9dFA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi Drama</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama</link>
+<thumbnail>http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 1</title>
+<link>http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8</link>
+<thumbnail>http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 2</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8</link>
+<thumbnail>http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai TV</title>
+<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Usg0SfD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai TV</title>
+<linkhttp://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv</link>
+<thumbnail>https://i.imgur.com/Usg0SfD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai TV</title>
+<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8</link>
+<thumbnail>https://i.imgur.com/Usg0SfD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai One</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione</link>
+<thumbnail>http://www.arabe-media.com/tv/img315.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Zaman</title>
+<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Zaman</title>
+<linkhttp://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman</link>
+<thumbnail>https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Emarat TV</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat</link>
+<thumbnail>http://www.emarattv.ae/public/img/branding/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>National Geographic</title>
+<link>http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8</link>
+<thumbnail>http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Noor Dubai</title>
 <link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Noor Dubai</title>
+<link>http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Noor Dubai</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv8</link>
+<thumbnail>https://i.imgur.com/MIU6HZa.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Sama Dubai</title>
+<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8</link>
+<thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sama Dubai</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai</link>
+<thumbnail>http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Quest</title>
+<link>http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8</link>
+<thumbnail>http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Quest</title>
+<link>http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=quest_arabiya&t=ar</link>
+<thumbnail>http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
