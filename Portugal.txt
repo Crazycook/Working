@@ -7,8 +7,43 @@
 </item>
 
 <item>
+<title>Porto Canal</title>
+<link>http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8</link>
+<thumbnail>http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Tvi</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
 <thumbnail>http://imgur.com/WBjD3lN</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tvi</title>
+<link>http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8</link>
+<thumbnail>http://imgur.com/WBjD3lN</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVI 24</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<thumbnail>http://cdn.iol.pt/img/logostvi/preto/tvi24.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTC (CV)</title>
+<link>http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8</link>
+<thumbnail>http://www.rtc.cv/tcv/images/logo_tcv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Santuario de Fatima</title>
+<link>http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link>
+<thumbnail>http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
