@@ -1,8 +1,44 @@
 <item>
 <item>
+<title>TV Folketinget</title>
+<link>http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8</link>
+<thumbnail>http://www.ft.dk/images/sharing_folketinget_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>TV2 Bornholm</title>
+<link>http://live.tv2bornholm.dk/stream/live/chunklist.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/15dde0981662cb04b81e739fc77fe5fe.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>Omroep Zeeland TV</title>
 <link>rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp</link>
 <thumbnail>http://imgur.com/tRSexka</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-
+<item>
+<title>TV2 Fyn</title>
+<link>http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8</link>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/6/6e/TV_2_Fyn.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>TV2 Lorry</title>
+<link>http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6e/TV_2_Fyn.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>KKR TV</title>
+<link>http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-bPiRzkkb1ks/AAAAAAAAAAI/AAAAAAAAAAA/hlb_vvmfzHo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>KVF </title>
+<link>http://217.172.83.187/uttanlands/video/chunklist_w517503328.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-gneV5YOUXSQ/AAAAAAAAAAI/AAAAAAAAAAA/nlKAoT3RPro/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+</item>
