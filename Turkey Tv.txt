@@ -1,8 +1,15 @@
 <item>
 <item>
-<title>BENGÜ TÜRK</title>
+<title>BENGÃœ TÃœRK</title>
 <link>http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/E1M6078.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bursapor TV</title>
+<link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8</link>
+<thumbnail>http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg"</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -45,6 +52,27 @@
 <title>Flash TV</title>
 <link>http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8</link>
 <thumbnail>http://i.imgur.com/qSv7VSi.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fox</title>
+<link>http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kanal D</title>
+<link>http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kanal 24</title>
+<link>http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8</link>
+<thumbnail>http://www.sentezyapi.com/Files/referanskanal242794433.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -105,6 +133,14 @@
 </item>
 
 <item>
+<title>SportsTV</title>
+<link>http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/HR7VFGa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>TBMM TV</title>
 <link>http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8</link>
 <thumbnail></thumbnail>
@@ -155,7 +191,7 @@
 
 <item>
 <title>TRT Haber</title>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8</link>
 <thumbnail>http://i.imgur.com/uzzcLzM.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -168,9 +204,16 @@
 </item>
 
 <item>
-<title>TRT TÜRK</title>
+<title>TRT TÃœRK</title>
 <link>http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/OwoAsAg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TRT Muzik</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8</link>
+<thumbnail>http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png</thumbnail>
 <fanart></fanart>
 </item>
 
