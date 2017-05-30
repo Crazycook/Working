@@ -1,7 +1,30 @@
 <item>
 <item>
-<title>TU TV Canal</title>
+<title>Megavision Canal 21</title>
+<link>http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVO Canal 23</title>
+<link>http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TU TV Canal 11</title>
 <link>http://198.24.135.42/canal11/canal11/chunklist_w1054514793.m3u8</link>
 <thumbnail>http://imgur.com/A1wW6GL</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Wow TV</title>
+<link>http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
