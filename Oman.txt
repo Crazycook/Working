@@ -1,0 +1,28 @@
+<item>
+<item>
+<title>Oman TV</title>
+<link>http://38.96.148.30:1935/live/omantv1//playlist.m3u8</link>
+<thumbnail>http://part.gov.om/part/english/images/omantv_general.png</thumbnail>
+<fanart>http://www.crwflags.com/fotw/images/o/om_state.gifg</fanart>
+</item>
+
+<item>
+<title>Oman Mubasher</title>
+<link>http://38.96.148.30:1935/live/omantv3/playlist.m3u8</link>
+<thumbnail>http://part.gov.om/part/english/images/oman_live.png</thumbnail>
+<fanart>http://www.crwflags.com/fotw/images/o/om_state.gifg</fanart>
+</item>
+
+<item>
+<title>Oman Documentary</title>
+<link>http://38.96.148.30:1935/live/omantv4/playlist.m3u8</link>
+<thumbnail>http://part.gov.om/part/english/images/cultural.png</thumbnail>
+<fanart>http://www.crwflags.com/fotw/images/o/om_state.gifg</fanart>
+</item>
+
+<item>
+<title>Oman Sports</title>
+<link>http://38.96.148.30:1935/live/omantv2//playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png</thumbnail>
+<fanart>http://www.crwflags.com/fotw/images/o/om_state.gifg</fanart>
+</item>
