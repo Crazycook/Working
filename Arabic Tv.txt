@@ -1,7 +1,14 @@
 <item>
 <item>
-<title>Alhurra Tv</title>
+<title>Al Hurra Tv</title>
 <link>rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15</link>
+<thumbnail>https://i.imgur.com/etVl04R.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Hurra Tv</title>
+<linkhttp://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
 <thumbnail>https://i.imgur.com/etVl04R.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -77,9 +84,38 @@
 </item>
 
 <item>
+<title>Euronews</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_ar.m3u8</link>
+<thumbnail>http://www.novaguide.gr/files/1/Channels/euronews_new_logo_06_2016/EURONEWS-682x467.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>DW Arabia</title>
-<link>http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10</link>
+<link>http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+</link>
 <thumbnail>https://i.imgur.com/Y5LHtwv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NRT</title>
+<link>http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8</link>
+<thumbnail>http://www.image-share.com/upload/3127/124.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8</link>
+<thumbnail>http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky News Arabia</title>
+<link>hhttp://selevision9890-i.akamaihd.net/hls/live/219323/98906/1.m3u8</link>
+<thumbnail>https://i.imgur.com/J2GDPjG.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -91,30 +127,16 @@
 </item>
 
 <item>
+<title>TRT</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8</link>
+<thumbnail>http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Wesal Haq TV</title>
 <link>rtmp://live.noorlive.com:1935/wesal/wesal1</link>
 <thumbnail>https://i.imgur.com/T0r1HJo.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
