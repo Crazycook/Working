@@ -13,16 +13,38 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>Color Visión</title>
+<title>Color VisiÃ³n</title>
 <link>http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8</link>
 <thumbnail>http://imgur.com/HCJGfPQ</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Señales TV</title>
+<title>Color Vision</title>
+<link>http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8</link>
+<thumbnail>http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Noticias 16</title>
+<link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SeÃ±ales TV</title>
 <link>http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/FwIz9mC</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+
+<title>Super Canal</title>
+<link>http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8</link>
+<thumbnail>http://cristoreypuntocom.blogia.com/upload/20100228171452-logo-supercanal.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -30,5 +52,26 @@
 <title>Teleuniverso</title>
 <link>http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele Radio America</title>
+<link>http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8</link>
+<thumbnail>http://www.teleradioamerica.com/wp-content/uploads/2015/02/download.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telefuturo</title>
+<link>http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8</link>
+<thumbnail>http://emisoradominicana.net/television/wp-content/uploads/2015/06/telefuturo-23.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Xtremo Channel</title>
+<link>http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8</link>
+<thumbnail>http://xtremotv.com/images/xtremo_logo2_.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
