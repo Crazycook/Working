@@ -19,3 +19,24 @@
 <thumbnail>https://i.imgur.com/3nvbSGZ.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<titleEl Sharq></title>
+<link>http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ERTU 1</title>
+<link>http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8</link>
+<thumbnail>https://static.livetvhd.net/thumbs/al_masriya.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mekameleen</title>
+<link>http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8</link>
+<thumbnail>http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
