@@ -46,6 +46,14 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channels>
+<channel>
+<name>Oman</name>
+<thumbnail>http://globalvillage.world/wp-content/uploads/2015/03/Flag_Oman-260x130.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Middle-East-TV/Oman.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
 
 <channels>
 <channel>
@@ -78,6 +86,15 @@
 <channel>
 <name>United Arab Emirates</name>
 <thumbnail>https://i.imgur.com/cUTlauR.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Middle-East-TV/UAE%20TV.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channels>
+<channel>
+<name>Yemen</name>
+<thumbnail>http://www.timeturk.com/resim/detay/65/k_651214.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Middle-East-TV/UAE%20TV.txt</externallink>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 <info>DiRTYBURGER Streams</info>
