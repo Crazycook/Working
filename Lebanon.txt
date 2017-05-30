@@ -1,0 +1,42 @@
+﻿<item>
+<item>
+<title>LBC Europe</title>
+<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
+<thumbnail>http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
+
+<item>
+<title>Future TV</title>
+<link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
+
+<item>
+<title>Arabica TV</title>
+<link>https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8</link>
+<thumbnail>https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
+
+<item>
+<title>Al Mayadeen</title>
+<link>http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920</link>
+<thumbnail>https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
+
+<item>
+<title>Al Manar</title>
+<link>http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8</link>
+<thumbnail>http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
+
+<item>
+<title>Al Maaref</title>
+<link>http://almaareftv.com:1935/live/12/playlist.m3u8</link>
+<thumbnail>http://i66.tinypic.com/2w2h8gw.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png</fanart>
+</item>
