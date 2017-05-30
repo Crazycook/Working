@@ -1,8 +1,16 @@
 <item>
+
 <item>
-<title>HKS(Mandarin/Cantonese)</title>
-<link>http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>CCTV 13</title>
+<link>http://61.155.167.11/live/cctv13.m3u8</link>
+<thumbnail>http://i.imgur.com/LU9WYBf.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>China History Channel</title>
+<link>http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -13,8 +21,19 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>China History Channel</title>
-<link>http://fluvod1.giniko.com/all-china-history/all-china-history/tracks-1,6/index.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<item>
+<title>HKS(Mandarin/Cantonese)</title>
+<link>http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>SinoVision (US)</title>
+<link>http://ec.sinovision.net/video/ts/lv.m3u8</link>
+<thumbnail>https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+
