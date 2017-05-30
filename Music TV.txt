@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>1Music</title>
+<link>http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://live.moldova9.com/wp-content/uploads/1-music-channel1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>4 Music</title>
 <link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8</link>
 <thumbnail>http://i.imgur.com/w22MZwa.png</thumbnail>
@@ -569,11 +576,26 @@
 </item>
 
 <item>
+<title>OttoFM TV</title>
+<link>http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8</link>
+<thumbnail>http://www.ottofmtv.com/img/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Play HD</title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+<thumbnail>http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Promo DJ TV</title>
 <link>http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8</link>
 <thumbnail>http://i.imgur.com/dlq6k92.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
 <item>
 <title>radioutv</title>
 <link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
@@ -624,6 +646,13 @@
 </item>
 
 <item>
+<title>RADIO 105 TV</title>
+<link>http://wow01.105.net:1935/live/105Test1/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/gcVw4Ty.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Radio Italia Tv</title>
 <link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
 <thumbnail>https://i.imgur.com/CiHWIRw.png</thumbnail>
@@ -648,6 +677,13 @@
 <title>Radio Javan</title>
 <link>http://63.237.48.3/ios/PNG/PNG.m3u8</link>
 <thumbnail>https://i.imgur.com/4b5eZPc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Radio Taormina</title>
+<link>http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8</link>
+<thumbnail>https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -726,6 +762,13 @@
 <title>Telemusica HD</title>
 <link>http://186.155.200.118:1935/live/telemusica/playlist.m3u8</link>
 <thumbnail>http://telemusica.tv/images/logotelemusicahit.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Edge (NZ)</title>
+<link>http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Kfj2J1z.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
