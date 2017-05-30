@@ -1,5 +1,11 @@
 <item>
 <item>
+<title>Oromar TV</title>
+<link>http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>UCSG</title>
 <link>http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/jXx7o9x.jpg</thumbnail>
