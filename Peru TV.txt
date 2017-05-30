@@ -1,8 +1,72 @@
 <item>
+
+<item>
+<title>Antares TV</title>
+<link>http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/Lda3xv_LpuM/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BHtv</title>
+<link>http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Capital TV</title>
+<link>http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.rsmas.pe/wp-content/uploads/2015/06/1z2murt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Latina TV</title>
+<link>http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-nF9dYlaQFj8/Vty14YpJPBI/AAAAAAAAAYo/69scp8b09w8/s1600/latina-tv-peru.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>Monterrico TV</title>
 <link>http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/sDuqZ2g</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ovacion</title>
+<link>http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8</link>
+<thumbnail>http://www.fulltelevisionhd.net/wp-content/uploads/2013/02/ovacion.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RBC TV</title>
+<link>http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RPP TV</title>
+<link>http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8</link>
+<thumbnail>http://s.rpp-noticias.io/images/imgshare.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sol TV</title>
+<link>http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Peru</title>
+<link>http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8</link>
+<thumbnail>http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
