@@ -1,8 +1,56 @@
 <item>
 <item>
-<title>Ping�ino TV HD</title>
+<title>CNN</title>
+<link>http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Carnaval 38</title>
+<link>http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8</link>
+<thumbnail>http://canalcarnaval.cl/wp-content/uploads/2016/04/logo38sombra-slide.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mega</title>
+<link>http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nuevo Tiempo</title>
+<link>http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8</link>
+<thumbnail>http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Niu TV</title>
+<link>http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/BITLZHE.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Pingüino TV HD</title>
 <link>rtmp://streaming.elpinguino.com:1935/live/pinguinotv</link>
 <thumbnail>http://imgur.com/6VkyHij</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>Pingüino TV HD</title>
+<link>http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8</link>
+<thumbnail>http://elpinguino.com/web2012/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VTV</title>
+<link>http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8</link>
+<thumbnail>http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
