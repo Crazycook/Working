@@ -8,6 +8,13 @@ whatever said here might appear on the info sie</info>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>4E TV</title>
+<link>http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/14792.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <title>Achaia Channel</title>
 <link>http://78.129.184.15:23319/streaming/stream/playlist.m3u8</link>
 <thumbnail>http://imgur.com/uVWb01U</thumbnail>
@@ -17,6 +24,13 @@ whatever said here might appear on the info sie</info>
 <title>Acheloos TV</title>
 <link>http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8</link>
 <thumbnail>http://imgur.com/MbJ2hY0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aigaio TV</title>
+<link>http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -41,6 +55,13 @@ whatever said here might appear on the info sie</info>
 <title>Cannali</title>
 <link>rtmp://live.streams.ovh/cannali/cannali</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Crete TV</title>
+<link>http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8</link>
+<thumbnail>http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -122,9 +143,30 @@ whatever said here might appear on the info sie</info>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>??a TV</title>
+<item>
+<title>Montreal Greek TV</title>
+<link>http://138.197.136.102:8081/live/greektv/playlist.m3u8</link>
+<thumbnail>http://www.greekradio.net/graphics/chwb.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Nea TV</title>
 <link>http://srv.viiideo.gr:1935/neatv/live/chunklist_w359085084.m3u8</link>
 <thumbnail>http://imgur.com/A3WrI64</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nea TV</title>
+<link>http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8</link>
+<thumbnail>http://www.zarpanews.gr/wp-content/uploads/2013/06/nea-tv-e1372269765679.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NETV Toronto</title>
+<link>http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-BvwqZSJKLAY/Vr1DZnpLEeI/AAAAAAAASAk/SbNAKTnyhgs/s1600/3.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -173,6 +215,14 @@ whatever said here might appear on the info sie</info>
 <title>Tilesport</title>
 <link>http://tv1.streampulse.eu:1935/tilesport/movie1/chunklist_w104411760.m3u8</link>
 <thumbnail>http://imgur.com/2ttrxSQ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+
+<title>Tilesport TV</title>
+<link>http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/02f9ff0c940d52c67dc7a5aac7e9c235.jpeg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
