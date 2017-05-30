@@ -1,21 +1,9 @@
 <item>
-<item>
-<title>Teleuno TV San Ramon</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://imgur.com/mL1fgGz</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
-<title>TV5 Monde Latino</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://imgur.com/h45dS7J</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>SMO TV</title>
-<link>http://199.217.118.90:1935/smotv/stream/playlist.m3u8</link>
-<thumbnail>http://www.tvgratis.tv/logos/smo-tv-costa-rica.png</thumbnail>
+<title>Canal 4</title>
+<link>http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8</link>
+<thumbnail>http://video.lajornadanet.com/wp-content/uploads/2016/11/canal4.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -34,9 +22,66 @@
 </item>
 
 <item>
+<title>Enlace Juvenil</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8</link>
+<thumbnail>http://images.mi.tv/channels/co_enlace-juvenil_m.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Enlace TV</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8</link>
+<thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Esperanza TV</title>
 <link>http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8</link>
 <thumbnail>http://imgur.com/RCmoFPd</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>HBTV Ticavision</title>
+<link>http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Teleuno TV San Ramon</title>
+<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
+<thumbnail>http://imgur.com/mL1fgGz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TeleUno TV</title>
+<link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+<thumbnail>https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491520376303.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV5 Monde Latino</title>
+<link>rtsp://72.13.93.186/campcartoon</link>
+<thumbnail>http://imgur.com/h45dS7J</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Sur Canal 14</title>
+<link>http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8</link>
+<thumbnail>http://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>SMO TV</title>
+<link>http://199.217.118.90:1935/smotv/stream/playlist.m3u8</link>
+<thumbnail>http://www.tvgratis.tv/logos/smo-tv-costa-rica.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
 
