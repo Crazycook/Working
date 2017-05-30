@@ -20,7 +20,7 @@
 <channel>
 <name>Cyprus TV</name>
 <thumbnail>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Cyprus.txt</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/USA%20Local%20News.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Europe-TV/Cyprus.txt/externallink>
 <fanart>http://i.imgur.com/xSicatN.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
