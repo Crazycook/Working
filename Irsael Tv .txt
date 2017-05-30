@@ -1,41 +1,41 @@
 <item>
 <item>
-<title>Bruce Lee</title>
-<link>http://198.179.31.181:1935/vodlast/1855.m4v/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/7ZQ3i3J.png</thumbnail>
+<title>Channel 2</title>
+<link>http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8</link>
+<thumbnail>http://img.mako.co.il/2014/05/18/B-news_.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Camp Cartoon (classics)</title>
-<link>rtsp://72.13.93.186/campcartoon</link>
-<thumbnail>http://i.imgur.com/BNGnFQH.png</thumbnail>
+<title>Channel 10</title>
+<link>http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8</link>
+<thumbnail>http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ADULT SWIM Fish Center</title>
-<link>http://adultswim-lh.akamaihd.net/i/fishcenter_1@318512/master.m3u8?b?b*t$</link>
-<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Toonami Aftermath</title>
-<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
+<title>Channel 20</title>
+<link>http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8</link>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Smile of a Child</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Reshet</title>
+<link>http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8</link>
+<thumbnail>http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Keshet </title>
+<link>http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8</link>
+<thumbnail>http://images.globes.co.il/Images/NewGlobes/big_image/2013/keshet-575.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music 24</title>
+<link>http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1448546266.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
