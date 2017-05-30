@@ -1,8 +1,30 @@
 <item>
+
+<item>
+<title>Agro Canal</title>
+<link>http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>All Sports</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8</link>
+<thumbnail>http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>TV Aparecida</title>
 <link>rtmp://69.46.0.170:1935/tvaparecida/tvaparecida.stream</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Amazon Sat</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -14,9 +36,30 @@
 </item>
 
 <item>
+<title>Band</title>
+<link>http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8</link>
+<thumbnail>http://www.otvfoco.com.br/wp-content/uploads/2014/09/Band-Logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BH News TV</title>
+<link>http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8</link>
+<thumbnail>http://bhnews.tv.br/images/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Cancao Nova</title>
 <link>http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/master.m3u8</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Cancao Nova</title>
+<link>http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -35,9 +78,23 @@
 </item>
 
 <item>
+<title>Canal do Boi</title>
+<link>http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/canaldoboib.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canal TV Rio</title>
 <link>http://104.156.60.74:1935/canaltvrio/canaltvrio/live.m3u8</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Rural</title>
+<link>http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -49,7 +106,15 @@
 </item>
 
 <item>
-<title>CONEXﾃO</title>
+<title>Cartoon Network</title>
+<link>http://95.211.149.215:8081/look/cartoon/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/x27jhejrh/Cartoon_Network.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
+</item>
+
+<item>
+<title>CONEXﾃグ</title>
 <link>http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -63,6 +128,41 @@
 </item>
 
 <item>
+<title>Classique TV</title>
+<link>http://45.43.208.2:1935/classique/classique/live.m3u8</link>
+<thumbnail>http://i.imgur.com/6FepRzn.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CN Agitos</title>
+<link>http://wsemedia.com:1935/cn01/cn01/playlist.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/QdcfCnSdv2M/hqdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Combate</title>
+<link>http://95.211.149.215:8081/look/combate/playlist.m3u8</link>
+<thumbnail>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/02/combate.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jacarei</title>
+<link>http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8</link>
+<thumbnail>http://www.jacarei.sp.leg.br/wp-content/uploads/2015/04/btn-tv.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Livre TV</title>
+<link>http://172.93.110.130:1935/livretv/livretv/playlist.m3u8</link>
+<thumbnail>http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Multi TV Cidades</title>
 <link>http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8</link>
 <thumbnail></thumbnail>
@@ -70,9 +170,86 @@
 </item>
 
 <item>
+<title>NBR</title>
+<link>http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/nbr.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede Atividade</title>
+<link>http://tv01.hstbr.net:1935/redeatividade/redeatividade/live.m3u8</link>
+<thumbnail>https://i.imgur.com/uJaCIBM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rﾃ．IO</title>
+<link>http://srv6.zoeweb.tv:1935/z609-live/stream/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rﾃ．IO</title>
+<link>ttp://srv6.zoeweb.tv:1935/z633-live/stream/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rﾃ．IO 104.9 FM</title>
+<link>http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rﾃ．IO CBN RJ</title>
+<link>http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rﾃ．IO GLOBO 1100 AM SP</title>
+<link>http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Radio Menina TV</title>
+<link>http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8</link>
+<thumbnail>http://radiomeninabc.portalmenina.com.br/images/logo-radio-bc.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Rede TV</title>
 <link>http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/chunklist.m3u8</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RedeTV</title>
+<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede Brasil</title>
+<link>http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8</link>
+<thumbnail>https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede Meio Norte</title>
+<link>http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/AF64Zzsa_ks/maxresdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -112,9 +289,22 @@
 </item>
 
 <item>
-<title>TVE Bahai</title>
-<link>http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8</link>
-<thumbnail></thumbnail>
+<title>SBT</title>
+<link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
+<thumbnail>http://imgur.com/73YWmT0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>SBT Sao Paulo</title>
+<link>http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8</link>
+<thumbnail>http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Assembleia</title>
+<link>http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8</link>
+<thumbnail>http://www3.al.sp.gov.br/repositorio/noticia/N-06-2015/fg172134.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -133,16 +323,44 @@
 </item>
 
 <item>
-<title>Rede Atividade</title>
-<link>http://tv01.hstbr.net:1935/redeatividade/redeatividade/live.m3u8</link>
-<thumbnail>https://i.imgur.com/uJaCIBM.png</thumbnail>
+<title>TVE Bahai</title>
+<link>http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>TV Brasil</title>
+<link>http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8</link>
+<thumbnail>http://www.ismaelcarvalho.com.br/wp-content/uploads/2016/06/tv-brasil.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Brusque</title>
+<link>http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8</link>
+<thumbnail>http://www.tvbrusque.com.br/img/social.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 
 <item>
 <title>TV Camara</title>
 <link>http://stream2.camara.leg.br:80/tv2/manifest.m3u8</link>
 <thumbnail>http://i.imgur.com/qmTaflk.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>TV Cidade (Pelotas</title>
+<link>http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8</link>
+<thumbnail>http://www.coletiva.net/wp-content/uploads/2016/02/TV-Cidade-Pelotas_fev16-1200x674.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Correio</title>
+<link>http://flash1.crossdigital.com.br/491/491/playlist.m3u8</link>
+<thumbnail>http://recordtv.r7.com/emissoras-record/files/2015/01/PB-TV-CORREIO.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -161,6 +379,34 @@
 </item>
 
 <item>
+<title>TV Digital</title>
+<link>http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/playlist.m3u8</link>
+<thumbnail>http://tvdigitalbirigui.com/images/ffb3f74d034d557c83fdedd9ae2fe0ec.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Escola</title>
+<link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
+<thumbnail>http://roquettepinto.org.br/wp-content/uploads/2014/12/tvescola-home-alt2-300x227.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Escola</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8</link>
+<thumbnail>http://imgur.com/cTuv7a0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Faap</title>
+<link>http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/03_logo/TV_Faap_Brazil.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TV Floripa</title>
 <link>http://10.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8</link>
 <thumbnail>http://i.imgur.com/SBLqdpt.gif</thumbnail>
@@ -168,9 +414,59 @@
 </item>
 
 <item>
+<title>TV Gazeta</title>
+<link>http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TV Geral</title>
 <link>http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8</link>
 <thumbnail>http://i.imgur.com/6yU5p8r.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Guara</title>
+<link>http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guarﾃ｡.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Jornal</title>
+<link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8</link>
+<thumbnail>http://www.bastidoresdatv.com.br/wp-content/uploads/2015/07/Jornal.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Jornal Recife</title>
+<link>http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8</link>
+<thumbnail>http://musikcity.mus.br/TV/figuras/tvjornal.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+
+<title>TV Marajoara</title>
+<link>http://104.156.60.74:1935/canal50/canal50/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-tDFM-FmSBEk/AAAAAAAAAAI/AAAAAAAAAAA/xalBBXt7iRY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Metropole</title>
+<link>http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrﾃｳpole.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Ponta Negra</title>
+<link>http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8</link>
+<thumbnail>http://www.tvpontanegra.com.br/assets/app/tvpontanegra_logo-facebok-f10a54d732ddce5fad5cbe213e2af5b8db3e34b806d3b256941842e28c21cda1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -189,6 +485,13 @@
 </item>
 
 <item>
+<title>TV Urbana</title>
+<link>http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/TV_Urbana.png/400px-TV_Urbana.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TV Vitoria</title>
 <link>http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8</link>
 <thumbnail>http://imgur.com/Z9CXPNJ</thumbnail>
@@ -196,50 +499,56 @@
 </item>
 
 <item>
-<title>SBT</title>
-<link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
-<thumbnail>http://imgur.com/73YWmT0</thumbnail>
+<title>TVE Bahia</title>
+<link>http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Logotipo_da_TVE_Bahia.PNG/400px-Logotipo_da_TVE_Bahia.PNG</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>TV Escola</title>
-<link>http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8</link>
-<thumbnail>http://imgur.com/cTuv7a0</thumbnail>
+
+<title>TVE RS</title>
+
+<link>http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8</link>
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png</thumbnail>
+
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
 </item>
 
 <item>
-<title>RﾁDIO</title>
-<link>http://srv6.zoeweb.tv:1935/z609-live/stream/livestream.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+
+<title>TVT</title>
+
+<link>http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream2/playlist.m3u8</link>
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png</thumbnail>
+
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
 </item>
 
 <item>
-<title>RﾁDIO</title>
-<link>ttp://srv6.zoeweb.tv:1935/z633-live/stream/livestream.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+
+<title>UCSTV</title>
+
+<link>http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8</link>
+
+<thumbnail>http://ucstv.com.br/wp-content/uploads/2015/02/logo_siteucstv.png</thumbnail>
+
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
 </item>
 
 <item>
-<title>RﾁDIO 104.9 FM</title>
-<link>http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
-<item>
-<title>RﾁDIO CBN RJ</title>
-<link>http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
+<title>Via Morena</title>
 
-<item>
-<title>RﾁDIO GLOBO 1100 AM SP</title>
-<link>http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8</link>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<link>http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8</link>
+
+<thumbnail>https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg</thumbnail>
+
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
 </item>
