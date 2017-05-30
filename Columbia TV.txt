@@ -9,8 +9,50 @@
 <item>
 <title>Cable Noticias</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link>
+<thumbnail>http://tatacabello.com/wp-content/uploads/2016/04/cablenoticias.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Cable Noticias</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link>
 <thumbnail>http://imgur.com/hMdmmXL</thumbnail>
 <fanart></fanart>
+</item>
+
+<item>
+<title>Cali TV</title>
+<link>http://video.cehis.net/live-calitv/calitv1/playlist.m3u8</link>
+<thumbnail>http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 4</title>
+<link>http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/03/Watch-Canal-4-Live-TV-from-Colombia.jpg" </thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 13</title>
+<link>http://streaming-ca.enetres.net/184784E1D210401F8041E3E1266822CC021/smil:live.smil/chunklist_w1637072900_b1200000.m3u8?idLive=026</link>
+<thumbnail>https://pasaelchismedotcom.files.wordpress.com/2017/03/logo-canal-trece-naranja.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Antiestres</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8</link>
+<thumbnail>http://www.maxmediasa.co/images/distribucion/logo_canal_antiestres.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Tro</title>
+<link>http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8</link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/colombia/209-Canal-Tro[2].jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
@@ -28,6 +70,13 @@
 </item>
 
 <item>
+<title>Canal Uno</title>
+<link>http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_p1500000.m3u8</link>
+<thumbnail>http://www.emrtallercreativo.com/img/medios/television/canal_uno.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canal Zoom</title>
 <link>http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://imgur.com/QZbN8mS</thumbnail>
@@ -38,6 +87,13 @@
 <title>Cantinazo</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8</link>
 <thumbnail>http://imgur.com/oCsx0n5</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Caracol TV</title>
+<link>https://hls.ssh101.com/live/ccolchatytvgratis/index.m3u8</link>
+<thumbnail>http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -59,6 +115,34 @@
 <title>Life design</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8</link>
 <thumbnail>http://imgur.com/r1wlr2T</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mi Gente TV</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8</link>
+<thumbnail>https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_72391.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MiMusica</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+<thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RCN</title>
+<link>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Senal Colombia</title>
+<link>http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8</link>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -103,3 +187,74 @@
 <thumbnail>http://imgur.com/o4m6acZ</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Telecafe</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telecaribe</title>
+<link>http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8</link>
+<thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/08/Telecaribe-Logo-300x300.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telemedellin</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8</link>
+<thumbnail>https://samdom.telemedellin.tv/minutaje/images/Logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Televentas Mio</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele VID</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-mzwjLHZUt5g/AAAAAAAAAAI/AAAAAAAAAAA/xGWdrZXNJW0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tigo Music</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
+<thumbnail>http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Trendy Channel</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Agro</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8</link>
+<thumbnail>http://sintonizarmedios.com/wp-content/uploads/2015/03/logo_tvagro.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Universidad de Antioquia TV</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8</link>
+<thumbnail>http://educacion.udea.edu.co/doctorado/sites/default/files/styles/flexslider_full/public/field/image/Dibujo.PNG</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Vmas</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8</link>
+<thumbnail>http://i.imgur.com/3PANr.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
