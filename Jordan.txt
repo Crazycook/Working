@@ -1,0 +1,36 @@
+<item>
+
+<item>
+<title>Al Taghier</title>
+<link>http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8</link>
+<thumbnail>http://i65.tinypic.com/2uer4go.jpg</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/jolarge.gif</fanart>
+</item>
+
+<item>
+<title>Amen FM 89.5</title>
+<link>http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8</link>
+<thumbnail>http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/jolarge.gif</fanart>
+</item>
+
+<item>
+<title>Semsem</title>
+<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
+<thumbnail>http://www.semsem.tv/images/logo2.png</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/jolarge.gif</fanart>
+</item>
+
+<item>
+<title>Semsem</title>
+<link>http://199.167.151.237:1935/live/sp15_46.stream/gmswf.m3u8</link>
+<thumbnail>http://www.semsem.tv/images/logo2.png</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/jolarge.gif</fanart>
+</item>
+
+<item>
+<title>Toyor Al Jannah TV</title>
+<link>http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8</link>
+<thumbnail>http://toyoraljannah.tv/img/logo-1x.png</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/jolarge.gif</fanart>
+</item>
