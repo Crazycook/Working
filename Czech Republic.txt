@@ -1,5 +1,31 @@
 <item>
 <item>
+<title>Elektrika TV</title>
+<link>http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8</link>
+<thumbnail>http://elektrika.tv/elektrika-tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ocko</title>
+<link>http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<title>Ocko Express</title>
+<link>http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/cbb9f661fc8f64b874acca0aa4d21a02.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ocko Gold</title>
+<link>http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>Prima Family</title>
 <link>http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8</link>
 <thumbnail>http://imgur.com/gpVniAb</thumbnail>
@@ -23,5 +49,19 @@
 <title>Prima Zoom</title>
 <link>http://prima-ott-live-sec.service.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8</link>
 <thumbnail>http://imgur.com/HxyCYkz</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Regionalni Televize</title>
+<link>http://88.212.46.127:9000/rtp/232.232.64.21:50048</link>
+<thumbnail>http://www.r1jih.cz/userFiles/rt-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Retro</title>
+<link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
