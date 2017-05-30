@@ -1,0 +1,84 @@
+﻿<item>
+<item>
+<title>Saudi 1</title>
+<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv</link>
+<thumbnail>http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Saudi 2 (English)</title>
+<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Saudi Documentary</title>
+<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya</link>
+<thumbnail>http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Masdar TV</title>
+<link>http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8</link>
+<thumbnail>http://i65.tinypic.com/14uum1v.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Ajyal TV</title>
+<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv</link>
+<thumbnail>http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Ajyal TV</title>
+<link>http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Rotana Classic</title>
+<link>http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920</link>
+<thumbnail>http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Wanasah</title>
+<link>http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Al Sunnah Al Nabawiyah</title>
+<link>http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv</link>
+<thumbnail>http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Iqraa</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic</link>
+<thumbnail>http://iqraa.com/MediaStorage/images/news451.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Iqraa International</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america</link>
+<thumbnail>http://www.ariase.com/media/television/logo-132x99/iqraa-international.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
+
+<item>
+<title>Wesal TV</title>
+<link>http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8</link>
+<thumbnail>http://www.qassimy.com/channel-tv-live/files/image/wesal_tv_islamic_channel_tv_live.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</fanart>
+</item>
