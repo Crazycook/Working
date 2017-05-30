@@ -5,3 +5,23 @@
 <thumbnail>http://imgur.com/RCy7c9M</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+<item>
+<title>Atomic TV</title>
+<link>http://5.154.185.153/hls/live.m3u8</link>
+<thumbnail>http://mywebtv.info/img/tvicons/560870.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>Digi 24</title>
+<link>http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/_oZDHDGTCY8/maxresdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>Realitatea TV</title>
+<link>http://realitatea.m247.ro/hls/live.m3u8p</link>
+<thumbnail>http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
