@@ -41,10 +41,39 @@
 </item>
 
 <item>
+<title>Abu Dhabi Sports</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1</link>
+<thumbnail>https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 2</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2</link>
+<thumbnail>https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Bursport TV</title>
 <link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8</link>
 <thumbnail>https://i.imgur.com/jzF77n9.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 1</title>
+<link>http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8</link>
+<thumbnail>http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Racing 2</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8</link>
+<thumbnail>http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>DXTV</title>
