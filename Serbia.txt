@@ -1,5 +1,11 @@
 <item>
 <item>
+<title>As Sabac</title>
+<link>http://as.multimediaiptv.net:8080/as/assabac/index.m3u8</link>
+<thumbnail>http://www.rtvas.rs/images/logo-as.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>ATV+1</title>
 <link>rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
@@ -19,9 +25,22 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<title>Kladovo</title>
+<link>http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8</link>
+<thumbnail>http://www.hotelkladovo.rs/images/TV%20Kladovo%20logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>Novi Sad 1</title>
 <link>rtsp://212.200.255.151/rtv1</link>
+<thumbnail>http://imgur.com/bhbypNH</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NoviSad Trg Slobode</title>
+<link>rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream</link>
 <thumbnail>http://imgur.com/bhbypNH</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -34,8 +53,22 @@
 </item>
 
 <item>
-<title>NoviSad Trg Slobode</title>
-<link>rtmp://cam.nsprozor.com/kamere/live//TrgSlobode.stream</link>
-<thumbnail>http://imgur.com/bhbypNH</thumbnail>
+<title>SOS Kanal</title>
+<link>http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8</link>
+<thumbnail>http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telegraf</title>
+<link>http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8</link>
+<thumbnail>http://logo.exyu.xyz/telegraf.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Duga</title>
+<link>http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8</link>
+<thumbnail>http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/TVDugaSATlogo_1675-150x120.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
