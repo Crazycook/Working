@@ -1,8 +1,36 @@
 <item>
 <item>
+<title>Canal 11</title>
+<link>http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8</link>
+<thumbnail>http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Promar TV</title>
+<link>http://edge.wms28.lorini.net/promar/promar/live.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sun Channel</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8</link>
+<thumbnail>https://www.fun88goal.com/wp-content/uploads/2015/05/sun-channel-tourism-tv-logo-primary.jpg"</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TeleSUR 31</title>
 <link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8</link>
 <thumbnail>http://imgur.com/cWu2RV0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TLT</title>
+<link>http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/708080483704377344/FLWBhNnC.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
