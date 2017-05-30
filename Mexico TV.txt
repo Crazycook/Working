@@ -28,9 +28,23 @@
 </item>
 
 <item>
+<title>A+</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8</link>
+<thumbnail>http://www.amastv.com/img/logo_amas_slogan.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Azteca trece 13</title>
 <link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
 <thumbnail>Azteca trece 13</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Azteca 13</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8</link>
+<thumbnail>http://elpoderdelespiritu.com/channels/aztecatrece.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -42,7 +56,7 @@
 </item>
 
 <item>
-<title>Aliento VisiÛn</title>
+<title>Aliento Visi√≥n</title>
 <link>http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8</link>
 <thumbnail>http://imgur.com/k2oJ9Qa</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -56,7 +70,14 @@
 </item>
 
 <item>
-<title>BYU TelevisiÛn Latino</title>
+<title>Banda Ancha TV (JA)</title>
+<link>https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8</link>
+<thumbnail>https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BYU Televisi√≥n Latino</title>
 <link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
 <thumbnail>http://imgur.com/T5GeJaa</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -98,6 +119,13 @@
 </item>
 
 <item>
+<title>Las Estrellas (-2 hrs)</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
+<thumbnail>http://imgur.com/K5cfvwZ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canal De Las Estrelas HD</title>
 <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-b.m3u8</link>
 <thumbnail>http://imgur.com/K5cfvwZ</thumbnail>
@@ -126,7 +154,14 @@
 </item>
 
 <item>
-<title>Canal de las Estrellas LatinoamÈrica</title>
+<title>Canal del Congreso</title>
+<link>http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8</link>
+<thumbnail>http://elpoderdelespiritu.com/channels/canalcongresomexico.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal de las Estrellas Latinoam√©rica</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8</link>
 <thumbnail>http://imgur.com/NLFp5A3</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -140,6 +175,27 @@
 </item>
 
 <item>
+<title>Canal 10 (QR)</title>
+<link>http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 22</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8</link>
+<thumbnail>http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 26 (AG)</title>
+<link>http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canal 5 Salina Cruz</title>
 <link>http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
@@ -147,9 +203,23 @@
 </item>
 
 <item>
+<title>Canal 44 (CH)</title>
+<link>http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canal 53 Del Conocimiento</title>
 <link>http://imgur.com/oM8eZOa</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal 66 (BN)</title>
+<link>http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -168,7 +238,14 @@
 </item>
 
 <item>
-<title>CBN EspaÒol</title>
+<title>Capital 21</title>
+<link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8</link>
+<thumbnail>http://imryt.org/sites/default/files/noticias/capital21.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBN Espa√±ol</title>
 <link>http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8</link>
 <thumbnail>http://imgur.com/xHFJsvl</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -196,7 +273,7 @@
 </item>
 
 <item>
-<title>DW LatinoamÈrica</title>
+<title>DW Latinoam√©rica</title>
 <link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
 <thumbnail>http://imgur.com/zgYeDVz</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -213,6 +290,13 @@
 <title>Azteca El Trece</title>
 <link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8</link>
 <thumbnail>http://imgur.com/Bkqpmsx</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Efekto TV</title>
+<link>http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8</link>
+<thumbnail>http://elpoderdelespiritu.com/channels/efektotv.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -252,9 +336,66 @@
 </item>
 
 <item>
-<title>NaciÛn TV</title>
+
+<title>Gala TV (QR)</title>
+<link>http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/3t5Cz1e.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>GreenTV </title>
+<link>http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8</link>
+<thumbnail>http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mexiquense TV</title>
+<link>http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mexiquense TV</title>
+<link>http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Milenio TV</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8</link>
+<thumbnail>http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MVS Noticias</title>
+<link>http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8</link>
+<thumbnail>http://i.blogs.es/7abda0/mvs-noticias3-1-/original.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Naci√≥n TV</title>
 <link>http://205.164.56.130:1935/nacioninternacional/nacioninternacional/playlist.m3u8</link>
 <thumbnail>http://imgur.com/Vf2Aq7Y</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ocho TV (JA)</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Once TV</title>
+<link>http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -273,6 +414,27 @@
 </item>
 
 <item>
+<title>RCG 1 TV (CA)</title>
+<link>http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8</link>
+<thumbnail>http://elpoderdelespiritu.com/channels/rcgtv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RCG 2 TV (CA)</title>
+<link>http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1401363587/logo_400x400.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RCG 3 TV (CA)</title>
+<link>http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8</link>
+<thumbnail>https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Red Avenir</title>
 <link>http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8</link>
 <thumbnail></thumbnail>
@@ -287,9 +449,23 @@
 </item>
 
 <item>
+<title>RTQ (QE)</title>
+<link>http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8</link>
+<thumbnail>http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Sun Channel HD</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8</link>
 <thumbnail>http://imgur.com/T76UNSA</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TeleFormula</title>
+<link>http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8</link>
+<thumbnail>http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -336,6 +512,13 @@
 </item>
 
 <item>
+<title>TVP (SI)</title>
+<link>http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1521299175_b1428000_sleng.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/785523100502806529/2XMMyhdS.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TV Radio Y Television Mexiquense</title>
 <link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
 <thumbnail>http://imgur.com/Mb77dLI</thumbnail>
@@ -343,7 +526,28 @@
 </item>
 
 <item>
-<title>Tabern·culo Bautista</title>
+<title>TDT </title>
+<link>http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVT (TB)</title>
+<link>http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-JrfUo7hu1AM/AAAAAAAAAAI/AAAAAAAAAAA/Xd1mW5rm2bA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVMas (VE)</title>
+<link>http://50.7.98.234:1935/rtv/videortv/playlist.m3u</link>
+<thumbnail>http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tabern√°culo Bautista</title>
 <link>http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8</link>
 <thumbnail>http://imgur.com/mByHWMv</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -357,32 +561,26 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>UV TV</title>
+<link>http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bd/UVTV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
+<item>
+<title>Mexico Travel Channel</title>
+<link>http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8</link>
+<thumbnail>http://www.expodestinos.mx/images/expositores/mexico-travel-channel.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>Teleritmo</title>
+<link>http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793</link>
+<thumbnail>https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
 <title></title>
