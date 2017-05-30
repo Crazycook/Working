@@ -5,3 +5,15 @@
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+<item>
+<title>BRT tv2</title>
+<link>http://wms.brtk.net:1935/live/brt2/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>Sigma TV</title>
+<link>http://81.21.47.74/hls/live.m3u8</link>
+<thumbnail>http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
