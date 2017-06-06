@@ -1,14 +1,28 @@
 <item>
+<title>24 Vesti</title>
+<link>mms://62.162.58.55/24vesti</link>
+<thumbnail>http://imgur.com/a3kxV2F</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>As Sabac</title>
 <link>http://as.multimediaiptv.net:8080/as/assabac/index.m3u8</link>
 <thumbnail>http://www.rtvas.rs/images/logo-as.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
 <item>
 <title>ATV+1</title>
 <link>rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Hram TV</title>
+<link>http://178.253.194.75:1935/live/hram.stream/.m3u8</link>
+<thumbnail>http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -19,16 +33,29 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>24 Vesti</title>
-<link>mms://62.162.58.55/24vesti</link>
-<thumbnail>http://imgur.com/a3kxV2F</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
+<item>
 <title>Kladovo</title>
 <link>http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8</link>
 <thumbnail>http://www.hotelkladovo.rs/images/TV%20Kladovo%20logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SOS Kanal</title>
+<link>http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8</link>
+<thumbnail>http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Telegraf</title>
+<link>http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8</link>
+<thumbnailhttp://logo.exyu.xyz/telegraf.png/thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+
 </item>
 
 <item>
