@@ -12,3 +12,24 @@
 <thumbnail>http://imgur.com/V6FPTqq</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Hugo TV</title>
+<link>http://h1.servemp3.com:1935/live/h1/hugo1.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-YuVp5w9swnI/Ve1_NZe7StI/AAAAAAAAAMw/-LxxTHguJg8/s1600/h1.jpg</thumbnail>
+<fanart>http://i.imgur.com/WBmNux9.png</fanart>
+</item>
+
+<item>
+<title>Plus TV</title>
+<link>http://141.136.14.18/kanal1/kanal1_1500/index.m3u8</link>
+<thumbnail>http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png</thumbnail>
+<fanart>http://i.imgur.com/WBmNux9.png</fanart>
+</item>
+
+<item>
+<title>Sky Folk TV</title>
+<link>http://skyfolk.mk/live.m3u8</link>
+<thumbnail>http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg</thumbnail>
+<fanart>http://i.imgur.com/WBmNux9.png</fanart>
+</item>
