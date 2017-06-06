@@ -1,0 +1,20 @@
+<item>
+<title>Dorf TV</title>
+</link>http://dorf.openplayout.org/hls/dorf_high/index.m3u8</link>
+<thumbnail>http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg</thumbnail>
+<fanart>http://i.imgur.com/WGoa08s.png</fanart>
+</item>
+
+<item>
+<title>Okto TV</title>
+</link>http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8</link>
+<thumbnail>http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png</thumbnail>
+<fanart>http://i.imgur.com/WGoa08s.png</fanart>
+</item>
+
+<item>
+<title>Tirol TV</title>
+</link>http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/WGoa08s.png</fanart>
+</item>
