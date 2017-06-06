@@ -14,7 +14,7 @@
 </item>
 
 <item>
-<title>Man·-Maputo</title>
+<title>Man√°-Maputo</title>
 <link>http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/cmJqemK.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -41,3 +41,85 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Nessma TUNISIA</title>
+<link>http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nessma TUNISIA</title>
+<link>http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma</link>
+<thumbnail>http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Zitouna TV TUNISIA</title>
+<link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8?cid=18648453&id=gmswf</link>
+<thumbnail>http://i63.tinypic.com/x6rl0.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Hadath LIBYA</title>
+<link>http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8</link>
+<thumbnail>http://i.imgur.com/mqEK6nU.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Libya TV LIBYA</title>
+<link>http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8</link>
+<thumbnail>http://i.imgur.com/wKJikLm.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Algerie ALGERIA</title>
+<link>http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie</link>
+<thumbnail>http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dzair TV ALGERIA </title>
+<link>http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8</link>
+<thumbnail>http://www12.0zz0.com/2013/05/19/19/779272851.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Al Aoula MOROCCO</title>
+<link>http://95.81.155.40/5958/index.m3u8</link>
+<thumbnail>http://www.fraja-maroc.net/TV/img/img13.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tayba TV SUDAN</title>
+<link>http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8</link>
+<thumbnail>http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tayba TV SUDAN</title>
+<link>http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8</link>
+<thumbnail>http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kana TV ETHIOPIA</title>
+<link>http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8</link>
+<thumbnail>https://www.diretube.com/uploads/articles/a8b4536f.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTV RWANDA</title>
+<link>http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8</link>
+<thumbnail>http://www.rba.co.rw/IMG/rtv_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
