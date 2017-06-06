@@ -1,0 +1,27 @@
+<item>
+<title>24 Riga TV</title>
+<link>http://player.tvnet.lv/live/amlst:11/playlist.m3u8</link>
+<thumbnail>http://www.operetesfonds.lv/uploads/1/8/1/4/18144541/9661549.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Chau TV</title>
+<link>http://video.chaula.tv/hls/live/high/playlist_high.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RETV</title>
+<link>http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8</link>
+<thumbnail>https://cdn.firstonetv.eu/images/logos/lv/RETV.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV Net</title>
+<link>http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8</link>
+<thumbnail>http://www.userlogos.org/files/logos/spaljeni/tvnet.png</thumbnail>
+<fanart></fanart>
+</item>
