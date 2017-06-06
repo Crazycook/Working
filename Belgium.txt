@@ -1,0 +1,35 @@
+<item>
+<title>ATV (Dutch)</title>
+<link>http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg</thumbnail>
+<fanart>http://i.imgur.com/THlBWOl.jpg</fanart>
+</item>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BELGIUM",
+
+<item>
+<title>NRJ Hits TV (French)</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8</link>
+<thumbnail>http://i.imgur.com/tRonseR.png</thumbnail>
+<fanart>http://i.imgur.com/THlBWOl.jpg</fanart>
+</item>
+
+<item>
+<title>NRJ Hits TV *(French)</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/tRonseR.png</thumbnail>
+<fanart>http://i.imgur.com/THlBWOl.jpg</fanart>
+</item>
+
+<item>
+<title>Telesambre (French)</title>
+<link>http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8</link>
+<thumbnail>http://en.keywall.be/wp-content/themes/devdmbootstrap3-sasschild/img/partners/telesambre-512x512.png</thumbnail>
+<fanart>http://i.imgur.com/THlBWOl.jpg</fanart>
+</item>
+
+<item>
+<title>TVL (Dutch)</title>
+<link>http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8</link>
+<thumbnail>https://cache.tvl.be/tvlbe/meta/tvl.25ce1cf6.png</thumbnail>
+<fanart>http://i.imgur.com/THlBWOl.jpg</fanart>
+</item>
