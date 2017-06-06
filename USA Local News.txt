@@ -251,6 +251,13 @@
 </item>
 
 <item>
+<titleNBC 4 News (New York)</title>
+<link>http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8</link>
+<thumbnail>http://i.imgur.com/N2mDQbE.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>WEWS NewsChannel 5 - 15 DT - Cleveland - OH</title>
 <link>http://spswews-i.akamaihd.net/hls/live/203382/anvato/master.m3u8</link>
 <thumbnail>http://i.imgur.com/Y70HmtM.jpg</thumbnail>
@@ -394,5 +401,131 @@
 <title>WTAP News 15 - 49 DT - Parkersburg - WV</title>
 <link>http://play-prod1.live.anvato.net/server/play/gray-wtap-dfp/master.m3u8</link>
 <thumbnail>http://i.imgur.com/XeD2EGt.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NBC 11 News (Bay Area)</title>
+<link>http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/14551.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTVU 2 News (Bay Area)</title>
+<link>http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/4059.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 4 News (Boston)</title>
+<link>http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/70/WBZ-TV_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>News 12 (Brooklyn)</title>
+<link>http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN</link>
+<thumbnail>http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 5 News (Colorado)</title>
+<link>http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 47 News (Jacksonville)</title>
+<link>http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8</link>
+<thumbnail>http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC 3 News (Louisiana)</title>
+<link>http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/KTBS_1996.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FOX 13 News (Memphis)</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8</link>
+<thumbnail>http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 3 News (Michigan)</title>
+<link>http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NBC News (Nebraska)</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-ksnb-dfp/master.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/14523.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS News (Nebraska)</title>
+<link>http://play-prod1.live.anvato.net/server/play/gray-koln-dfp/master.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/14522.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>FOX 25 News (New England)</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8</link>
+<thumbnail>http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NBC 10 News (Philadelphia)</title>
+<link>http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 2 (Salt Lake City)</title>
+<link>http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8</link>
+<thumbnail>http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBS 13 News (Stockton)</title>
+<link>http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/14552.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fox 23 (Tulsa)</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail>http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ATXN (Austin)</title>
+<link>http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8</link>
+<thumbnail>http://www.bestbrandlogo.com/logos/48742.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WTPC 16 (Virginia)</title>
+<link>http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8</link>
+<thumbnail>http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
