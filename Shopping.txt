@@ -27,6 +27,20 @@
 </item>
 
 <item>
+<title>QVC Germany</title>
+<link>http://ios-stream.qvc.de/qvc.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>QVC</title>
+<link>http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8</link>
+<thumbnail>http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>HSN</title>
 <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
 <thumbnail>https://i.imgur.com/1S98zQm.png</thumbnail>
