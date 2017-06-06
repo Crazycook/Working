@@ -1,0 +1,20 @@
+<item>
+<title>aMazing TV</title>
+<link>http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
+<thumbnail>https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Stars TV</title>
+<link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8</link>
+<thumbnail>http://i.wp.pl/a/f/png/32041/stars-tv-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Telewizja Republika</title>
+<link>http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8</link>
+<thumbnail>http://static.wirtualnemedia.pl/media/top/tvrepublika2015.jpg</thumbnail>
+<fanart></fanart>
+</item>
