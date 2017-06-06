@@ -1,0 +1,13 @@
+<item>
+<title>AABC TV</title>
+<link>http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8</link>
+<thumbnail>https://izitv.tv/modules/homecontent/images/chans/trans/aabc.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MTV AM</title>
+<link>https://raw.githubusercontent.com/fluxustv/Channels/master/MTVArmenia.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/6515.jpg</thumbnail>
+<fanart></fanart>
+</item>
