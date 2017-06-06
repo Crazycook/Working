@@ -1,7 +1,6 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
-
 <channel>
 <name>13 Reasons Why</name>
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
