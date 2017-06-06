@@ -2,8 +2,6 @@
 
 <channels>
 
-https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/13.Reasons.Why.txt
-
 <channel>
 <name13 Reasons Why</name>
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
