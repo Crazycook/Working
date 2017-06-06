@@ -1,6 +1,13 @@
 ﻿<item>
 
 <item>
+<title>Christmas Fireplace</title>
+<link>http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8</link>
+<thumbnail>http://i.imgur.com/DSBjpDP.jpg</thumbnail>
+<fanart>http://i.imgur.com/tQjbbuw.jpg</fanart>
+</item>
+
+<item>
 <title>Aquarium Live</title>
 <link>http://wse.planeta-online.tv:1935/live/channel_3/chunks.m3u8</link>
 <thumbnail>http://i.imgur.com/adtXawg.png</thumbnail>
@@ -45,6 +52,13 @@
 <item>
 <title>ADULT SWIM Live Action Marathon</title>
 <link>http://adultswimhls-i.akamaihd.net/hls/live/242141/adultswim_3/liveaction/1/master_Layer4.m3u8</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ADULT SWIM Live Action Marathon</title>
+<link>http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8</link>
 <thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
