@@ -1,5 +1,19 @@
 <item>
 <item>
+<title>ABP News</title>
+<link>http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8</link>
+<thumbnail>http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpgN</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>DD News</title>
+<link>http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8</link>
+<thumbnail>ttp://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>ETV Madhya Pradesh</title>
 <link>http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8</link>
 <thumbnail>http://imgur.com/kHxnBtN</thumbnail>
@@ -30,5 +44,91 @@
 <title>India News TV</title>
 <link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
 <thumbnail>http://imgur.com/0rT7JJ1</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>India TV</title>
+<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
+<thumbnail>http://jadootv.com/wp-content/uploads/2015/05/ai1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+
+</item>
+
+<item>
+<title>JK 24x7 News</title>
+<link>http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8<link>
+<thumbnail>http://uploads.tapatalk-cdn.com/20161102/a108a219f47ca81b4ecf33525429ffd4.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+
+<title>Life OK</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Life_OK_HD_hs.smil/chunklist.m3u8<link>
+<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/7/71/Life_OK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Movies OK</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Movies_OK_hs.smil/chunklist.m3u8<link>
+<thumbnail>http://www.newtvworld.com/Images/Movies-OK-logo-300x212.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NDTV Prime</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8<link>
+<thumbnail>https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>News 18</title>
+<link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8<link>
+<thumbnail>http://static.bestmediainfo.com/wp-content/uploads/2016/11/New18-India-logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>News Nation</title>
+<link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8<link>
+<thumbnail>http://i65.tinypic.com/ot3jhj.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Paras TV</title>
+<link>http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8<link>
+<thumbnail>https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Star GOLD</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist.m3u8<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Star Plus</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Plus_HD_hs.smil/chunklist.m3u8<link>
+<thumbnail>http://www.frocus.net/images/logotv/original/Star--Plus.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Star Utsav</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Utsav_hs.smil/chunklist.m3u8<link>
+<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/utsav.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Vijay</title>
+<link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8<link>
+<thumbnail>https://www.lycatv.tv/lyca-cms/img/07102524star%20vijay.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
