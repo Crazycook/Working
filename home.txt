@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name13 Reasons Why</name>
+<name>13 Reasons Why</name>
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/13.Reasons.Why.txt</externallink>
 <fanart>http://i.imgur.com/MpCpcEv.jpg</fanart>
@@ -13,6 +13,7 @@ First episode date: March 31, 2017
 Network: Netflix
 Adapted from: Thirteen Reasons Why</info>
 </channel>
+
 <channel>
 <name>2 Broke Girls</name>
 <thumbnail>http://www.tv4u.top/pics/w185/580f134738403.jpg</thumbnail>
