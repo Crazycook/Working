@@ -1,7 +1,29 @@
 <item>
 <item>
-<title>empty</title>
-<utube>5NNOrp_83RU</utube>
-<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<title>City TV</title>
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8</link>
+<thumbnail>http://logos.kodibg.org/citytv.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Heavy Metal Television</title>
+<link>http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/2788.jpeg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Stoichev</title>
+<link>http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8</link>
+<thumbnail>http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Vibee </title>
+<link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
+<thumbnail>http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BULGARIA",TV
