@@ -10,7 +10,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Egypt</name>
 <thumbnail>https://i.imgur.com/dfpUfwQ.jpg</thumbnail>
@@ -19,7 +18,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Iran</name>
 <thumbnail>https://i.imgur.com/7gEfLqo.png</thumbnail>
@@ -28,7 +26,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Iraq</name>
 <thumbnail>https://i.imgur.com/UYPkJy2.jpg</thumbnail>
@@ -37,7 +34,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Israel</name>
 <thumbnail>http://www.theyeshivaworld.com/wp-content/uploads/2016/09/1131.jpg</thumbnail>
@@ -46,7 +42,14 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
+<channel>
+<name>Kurdish</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/320px-Flag_of_Kurdistan.svg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Middle-East-TV/Kurish%20Tv</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
 <channel>
 <name>Oman</name>
 <thumbnail>http://globalvillage.world/wp-content/uploads/2015/03/Flag_Oman-260x130.png</thumbnail>
@@ -55,7 +58,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Saudi Arabia</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/218px-Flag_of_Saudi_Arabia.svg.png</thumbnail>
@@ -64,7 +66,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Syria</name>
 <thumbnail>https://i.imgur.com/i6lC9Gs.png</thumbnail>
@@ -73,7 +74,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Turkey</name>
 <thumbnail>https://i.imgur.com/8EM4H1n.png</thumbnail>
@@ -82,7 +82,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>United Arab Emirates</name>
 <thumbnail>https://i.imgur.com/cUTlauR.gif</thumbnail>
@@ -91,7 +90,6 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
-<channels>
 <channel>
 <name>Yemen</name>
 <thumbnail>http://www.timeturk.com/resim/detay/65/k_651214.jpg</thumbnail>
