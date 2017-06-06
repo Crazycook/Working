@@ -77,10 +77,3 @@ http://dl2.downloado.site/dl2/TV%20Show/13Reasons%20Why/S01/13.Reasons.Why.S01E1
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
 <fanart>http://i.imgur.com/MpCpcEv.jpg</fanart>
 </item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
-<fanart>http://i.imgur.com/MpCpcEv.jpg</fanart>
-</item>
