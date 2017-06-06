@@ -1,0 +1,34 @@
+<item>
+<title>Acasa TV</title>
+<link>http://hls.protv.md/acasatv/acasatv.m3u8</link>
+<thumbnail>http://acasatv.perfecte.md/design/acasatv_md/images/acasa_in_moldova_logo5.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/220px-Flag_of_Moldova.svg.png</fanart>
+</item>
+
+<item>
+<title>Publika TV</title>
+<link>http://livebeta.publika.md/LIVE/P/6810.m3u8</link>
+<thumbnail>http://media-azi.md/sites/default/files/logo%20publika.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/220px-Flag_of_Moldova.svg.png</fanart>
+</item>
+
+<item>
+<title>Tele M</title>
+<link>http://webmobile.xdev.ro:81/tv16/playlist.m3u8</link>
+<thumbnail>http://www.manutv.net/wp-content/uploads/893793546.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/220px-Flag_of_Moldova.svg.png</fanart>
+</item>
+
+<item>
+<title>TV Buzau</title>
+<link>http://95.77.16.72:81/tv20/playlist.m3u8</link>
+<thumbnail>http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/220px-Flag_of_Moldova.svg.png</fanart>
+</item>
+
+<item>
+<title>TV Elita</title>
+<link>http://46.55.111.242:8080/Rezina.m3u8</link>
+<thumbnail>http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/220px-Flag_of_Moldova.svg.png</fanart>
+</item>
