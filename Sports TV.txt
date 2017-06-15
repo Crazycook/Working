@@ -34,9 +34,30 @@
 </item>
 
 <item>
+<title>Abu Dhabi Sports</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyJwsil70do4nlAr8FqxaIZ_N1sdAf73UnqqGuuod4c-TfpycNZ3E8DOs</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Abu Dhabi Sports 2</title>
+<link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2</link>
+<thumbnail>www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>105.7 The Fan Baltimore</title>
 <link>http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8</link>
 <thumbnail>https://i.imgur.com/5YBqV39.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>BFM Sports</title>
+bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8</link>
+<thumbnail>https://i.imgur.com/M16YAmx.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -50,6 +71,20 @@
 <title>DXTV</title>
 <link>http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
 <thumbnail>http://i.imgur.com/kpJJHfa.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Esporte Interativo - Portuguese</title>
+<link>http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8?</link>
+<thumbnail>https://i.imgur.com/TvWHTQo.png/thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ESPN USA</title>
+<link>http://stream.i4atv.info/ggwpl/live2.m3u8</link>
+<thumbnail>https://i.imgur.com/7RlXZ8C.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -76,6 +111,27 @@
 <title>MOTORSPORT USA</title>
 <link>http://motorsport.hopto.org:8080/</link>
 <thumbnail>https://i.imgur.com/2Sy9aLY.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NFL Now</title>
+<link>https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_4500k.m3u8/</link>
+<thumbnail>http://i.imgur.com/1P8H31K.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nova Sport HD - Czech</title>
+<link>http://174.36.220.217:5000/live/173/173.m3u8</link>
+<thumbnail>http://i.imgur.com/gYOyueR.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Olympic Channel</title>
+<linkhttp://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
+<thumbnail>http://i.imgur.com/MzaONes.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -169,7 +225,7 @@
 </item>
 
 <item>
-<title>Rev´N Television</title>
+<title>RevÂ´N Television</title>
 <link>http://pub2.mpl.miisolutions.net/pub2-live-54/REVN_all.smil/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/OE4jjum.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
