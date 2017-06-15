@@ -19,4 +19,47 @@
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://1572ed1497b670f9c1f4d4dd5a1df6775963aecb</link>
 <thumbnail></thumbnail>
 </item>
-1572ed1497b670f9c1f4d4dd5a1df6775963aecb
+<item>
+<title>SkySportsF1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Arena Sport 1 HD</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://4bfba5f4059e58d80dc56b37cec9e9db6b70a10c</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport 2</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://04b38c71065be18d799edf8c37d63e738030b84d</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>BT Sport ESPN</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://f4e2ade22f407fe567728923cbbe1ccb5b43a9df</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Real Madrid TV</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://677b613d289b71812cbee35c6948a27161a50b7f</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sky Sports 1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://aa7c6b5f1fd8fbae6c4b1e4e2df6659e7179aca1</link>
+<thumbnail></thumbnail>
+</item>
+<title>TSN 1</title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<titleTSN 1 HD></title>
+<link>plugin://program.plexus/?mode=1&amp;url=acestream://54947b5f71969432e9f9ada50c7b34b7a20104b2</link>
+<thumbnail></thumbnail>
+</item>
