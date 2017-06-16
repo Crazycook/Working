@@ -2,7 +2,14 @@
 <item>
 <title>ABP News</title>
 <link>http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8</link>
-<thumbnail>http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpgN</thumbnail>
+<thumbnail>http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deepam TV</title>
+<link>http://185.59.222.46:1935/cdn/deepamtvuk/chunklist_w1372990760.m3u8</link>
+<thumbnail>http://i.imgur.com/IsXPVJx.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -16,20 +23,21 @@
 <item>
 <title>ETV Madhya Pradesh</title>
 <link>http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_1_av-b.m3u8</link>
-<thumbnail>http://imgur.com/kHxnBtN</thumbnail>
+<thumbnail>http://imgur.com/kHxnBtN.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>ETV Bihar</title>
 <link>http://etv_bihar_jharkh-lh.akamaihd.net/i/etv_bihar_hls_1@175736/index_1_av-b.m3u8</link>
-<thumbnail>http://imgur.com/EhN88tS</thumbnail>
+<thumbnail>http://imgur.com/EhN88tS.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<title>ETV Uttar Pradesh</title>
-<link>http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-b.m3u8</link>
-<thumbnail>http://imgur.com/8Sg86pn</thumbnail>
+<item>
+<title>HUM TV</title>
+<link>https://live.tune.tv/humtv/hum-tv/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/DwKZt99.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -52,7 +60,13 @@
 <link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
 <thumbnail>http://jadootv.com/wp-content/uploads/2015/05/ai1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
+<item>
+<title>Isaiyaruvi TV</title>
+<link>http://367449830.r.cdnsun.net/367449830/_definst_/isaiaruvi/index.m3u8</link>
+<thumbnail>https://www.lycatv.tv/lyca-cms/img/07104727isaiaruvi-tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
@@ -63,7 +77,20 @@
 </item>
 
 <item>
+<title>Kairali People</title>
+<link>http://cdn.asianetmobiletvplus.com/content/peopletv_jofrudeyhdhwxotkxhuy_hls/peopletv_jofrudeyhdhwxotkxhuy_profile3.m3u8<link>
+<thumbnail>http://i.imgur.com/MU186cj.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
+<item>
+<title>Lahore News HD</title>
+<link>http://cdn.asianetmobiletvplus.com/content/peopletv_jofrudeyhdhwxotkxhuy_hls/peopletv_jofrudeyhdhwxotkxhuy_profile3.m3u8<link>
+<thumbnail>http://i.imgur.com/inVwsn2.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Life OK</title>
 <link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Life_OK_HD_hs.smil/chunklist.m3u8<link>
 <thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/7/71/Life_OK.png</thumbnail>
@@ -78,9 +105,23 @@
 </item>
 
 <item>
+<title>Mediacorp Vastharam HD</title>
+<link>http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on<link>
+<thumbnail>http://i.imgur.com/JJETUma.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Murasu TV</title>
+<link>http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on<link>
+<thumbnail>http://45.79.203.234:1935/murasutv/myStream/playlist.m3u8</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>NDTV Prime</title>
 <link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8<link>
-<thumbnail>https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://www.lycatv.tv/lyca-cms/img/07103623murasu.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -123,6 +164,48 @@
 <title>Star Utsav</title>
 <link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Utsav_hs.smil/chunklist.m3u8<link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/utsav.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Uydu Meydani Sinema 2</title>
+<link><link>mmsh://yayin7.canliyayin.org/sinema2</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Uydu Meydani Sinema 4</title>
+<link>mmsh://yayin7.canliyayin.org/sinema4</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Uydu Meydani Sinema 6</title>
+<link>mmsh://yayin7.canliyayin.org/sinema6<link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link><link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link><link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title></title>
+<link><link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
