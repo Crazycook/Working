@@ -159,6 +159,14 @@
 </item>
 
 <item>
+<title>CBSN HD (1080p)</title>
+<link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
 <title>CBSN HD (720p)</title>
 <link>http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_2200_av-p.m3u8</link>
 <thumbnail>https://i.imgur.com/D16Qfpt.jpg</thumbnail>
@@ -166,8 +174,15 @@
 </item>
 
 <item>
-<title>NBC News</title>
+<title>MSNBC</title>
 <link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?</link>
 <thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -264,6 +279,13 @@
 </item>
 
 <item>
+<title>BBC News</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5998.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>BBC Parliament</title>
 <link>http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=</link>
 <thumbnail>http://channelpear.com/images/media/12344.gif</thumbnail>
@@ -343,6 +365,13 @@
 <item>
 <title>Channel News Asia</title>
 <link>http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Channel News Asia</title>
+<link>http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_3_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -469,6 +498,13 @@
 <item>
 <title>Aljazeera English</title>
 <link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8</link>
 <thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
