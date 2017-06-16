@@ -8,6 +8,25 @@
 <link>http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8</link>
 <thumbnail>https://irishkevins.com/wp-content/uploads/2015/07/logo-irk.png</thumbnail>
 </item>
+<title>Sloppy Joe's Bar</title>
+<link>http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sloppy Joe's Stage</title>
+<link>http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Beach Cam</title>
+<link>http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Beauties Espanha</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8</link>
+<thumbnail>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8</thumbnail>
+</item>
 <item>
 <title>Ft. Lauderdale Marina</title>
 <link>http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8</link>
