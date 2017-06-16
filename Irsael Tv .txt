@@ -69,9 +69,17 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Channel 20</title>
 <link>http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8</link>
 <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Gold HD<title>
+<link>http://195.154.151.142:8080/Gold/index.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
