@@ -442,6 +442,13 @@
 </item>
 
 <item>
+<title>MC Play</title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8</link>
+<thumbnail>http://imgur.com/y1YCl0M.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Melody Channel</title>
 <link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/Y05EFlx.jpg</thumbnail>
@@ -471,8 +478,36 @@
 
 <item>
 <title>Music Box TV</title>
-<link>rtmp://212.26.132.86/live/mb_ua</link>
-<thumbnail>http://i.imgur.com/wRIykw2.png</thumbnail>
+<link>http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8</link>
+<thumbnail</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music Channel</title>
+<link>http://stream.1music.hu/stream/1music.m3u8</link>
+<thumbnail</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music Choice </title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+<thumbnail</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music TV </title>
+<link>http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8</link>
+<thumbnail</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music TV</title>
+<link>http://38.96.175.122:1961/live/livestream/playlist.m3u8</link>
+<thumbnail</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -488,6 +523,13 @@
 <title>Muzz One</title>
 <link>http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/pddDcQs.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MTV</title>
+<link>http://45.116.168.103:1935/live/cs31.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -525,6 +567,14 @@
 <thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>NRJ HITS 720p</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique_360p/plylist.m3u8</link>
+<thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 
 <item>
 <title>Ocko Gold</title>
@@ -571,6 +621,13 @@
 <item>
 <title>ONE BY UHD</title>
 <link>http://rtmp.one.by:1400</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>1 UHD </title>
+<link>http://alturl.com/j5xf8</link>
 <thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -703,6 +760,14 @@
 </item>
 
 <item>
+<title>Retro TV</title>
+<link>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+</link>
+<thumbnail>https://i.imgur.com/bFBUWfJ.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Radionarbo TV RTV38</title>
 <link>http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8</link>
 <thumbnail>https://i.imgur.com/Deht1qf.png</thumbnail>
@@ -713,6 +778,13 @@
 <title>Radio Deejay</title>
 <link>http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rock TV</title>
+<link>mmsh://mediatv2.topix.it/24RockOne66</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
