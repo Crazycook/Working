@@ -1,9 +1,31 @@
 <item>
 
 <item>
+<title>Class TV Moda</title>
+<link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
+<thumbnail>https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Canale 10</title>
 <link>http://37.187.142.147:1935/ch10live/high.stream/live.m3u8</link>
 <thumbnail>http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canale 21</title>
+<link>http://live.streamcaster.net:1935/canale21_live/canale21/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Canale 46</title>
+<link>rtmp://vs2.streamcaster.net/test_live/canale46</link>
+<thumbnail>http://imgur.com/WqLnBE7</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -15,16 +37,9 @@
 </item>
 
 <item>
-<title>Canale 46</title>
-<link>rtmp://vs2.streamcaster.net/test_live/canale46</link>
-<thumbnail>http://imgur.com/WqLnBE7</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Class TV Moda</title>
-<link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
-<thumbnail>https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg</thumbnail>
+<title>Casa Mia TV</title>
+<link>rtmp://adv-video.distinct.ro:443/live_playlist/_definst_/casamia</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -84,6 +99,20 @@
 </item>
 
 <item>
+<title>Rai 2</title>
+<link>http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&dem=3/link>
+<thumbnail>http://imgur.com/4SsKGGm</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai 5</title>
+<link>http://stream12.rai.it/live/rai5.smil/master.m3u8</link>
+<thumbnail>http://imgur.com/4SsKGGm</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Rai 5</title>
 <link>http://stream12.rai.it/live/rai5.smil/master.m3u8</link>
 <thumbnail>http://imgur.com/4SsKGGm</thumbnail>
@@ -117,6 +146,13 @@
 <thumbnail>http://imgur.com/pkkIgol</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Rai News 24</title>
+<link>http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_750_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://imgur.com/pkkIgol</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item
 
 <item>
 <title>Rai News 24</title>
@@ -161,6 +197,20 @@
 </item>
 
 <item>
+<title>Rai Sport</title>
+<link>http://originstream12.rai.it/italy/raisport1_1800/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rai Sport+ HD</title>
+<link>http://originstream12.rai.it/italy/raisport1_1800/chunklist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>RTL 102.5</title>
 <link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8</link>
 <thumbnail>http://imgur.com/Ooo5xO0</thumbnail>
@@ -196,8 +246,22 @@
 </item>
 
 <item>
+<title>Sky News HD</title>
+<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Sky Tg24</title>
 <link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
+<thumbnail>http://imgur.com/6oUJFnh</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sky Tg24 Sports</title>
+<link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</link>
 <thumbnail>http://imgur.com/6oUJFnh</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -273,9 +337,23 @@
 </item>
 
 <item>
+<title>TV Galicia</title>
+<link>http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TV Luna</title>
 <link>http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8</link>
-<thumbnailhttps://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVi 24</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w1334360894_b314000.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
