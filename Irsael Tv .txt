@@ -1,5 +1,61 @@
 <item>
 <item>
+<title>שבוערוץ 2 - רשרת (רביעי,חמישתי</title>
+<link>http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8</link>
+<thumbnail>http://www.interload.co.il/upload/1081300.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ערוץ 2 קשת (ראשון,שני,ושלישי</title>
+<link>http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w243918798</link>
+<thumbnail>http://www.interload.co.il/upload/8896475.png</thumbnail>_b1200000.m3u8
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ערוץ 2 (כל השבוע)</title>
+<link>http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w1693938847_b1200000.m3u8?token=a1a66cd7-4949-49a0-97da-6bc8d808f4df</link>
+<thumbnail>http://www.interload.co.il/upload/2560388.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>)ערוץ 10 (כל השבוע</title>
+<link>http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/playlist.m3u8</link>
+<thumbnail>http://www.interload.co.il/upload/1081300.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>nהשבוע
+ערוץ 20 (כ</title>
+<link>http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8</link>
+<thumbnail>http://www.interload.co.il/upload/7281022.p/thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item> 
+<item>
+<title>ערוץ כאן (כל השבוע</title>
+<link>http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8</link>
+<thumbnail>http://www.interload.co.il/upload/2458267.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ערוץ הידברות</title>
+<link>https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8</link>
+<thumbnail>http://www.acheinu.co.il/_Uploads/dbsArticles/16(6).jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>בדיקה</title>
+<link>https://stream-06.dc3.dailymotion.com/36/dm/1/x26eox4/live.isml/events(live-1496539845)/live-audio=128000-video=1260000.m3u8</link>
+<thumbnail>http://www.acheinu.co.il/_Uploads/dbsArticles/16(6).jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Channel 2</title>
 <link>http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8</link>
 <thumbnail>http://img.mako.co.il/2014/05/18/B-news_.jpg</thumbnail>
