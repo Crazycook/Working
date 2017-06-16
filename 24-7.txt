@@ -64,6 +64,18 @@
 </item>
 
 <item>
+<title>ADULT SWIM Anime TV</title>
+<link>http://adultswimhls-i.akamaihd.net/hls/live/249295-b/adultswim_6/main/1/stream_Layer5.m3u8</link>
+<thumbnail>http://i.imgur.com/HuI5oXS.png</thumbnail>
+<fanart>http://i.imgur.com/tQjbbuw.jpg</fanart>
+</item>
+</link>
+<thumbnail>http://i.imgur.com/adtXawg.png</thumbnail>
+<fanart>http://i.imgur.com/tQjbbuw.jpg</fanart>
+</item>
+
+
+<item>
 <title>Toonami Aftermath</title>
 <link>http://sjc-ucdn01.ustream.tv/sjc/sjc-uhs35/live/23010615/1493656578629/plain/uhs/1/chunk_1493661375_5f8cc2a691.flv</link>
 <thumbnail>http://i.imgur.com/KrCJEGa.png</thumbnail>
