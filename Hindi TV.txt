@@ -7,6 +7,13 @@
 </item>
 
 <item>
+<title>Auro HD</title>
+<link>http://87.98.150.108:1935/live/aurohd_fr.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Deepam TV</title>
 <link>http://185.59.222.46:1935/cdn/deepamtvuk/chunklist_w1372990760.m3u8</link>
 <thumbnail>http://i.imgur.com/IsXPVJx.png</thumbnail>
@@ -84,6 +91,13 @@
 </item>
 
 <item>
+<title>Kerala Express TV</title>
+<link>http://62.210.149.2:1935/7480/7480/playlist.m3u8?default<link>
+<thumbnail>http://i.imgur.com/Vmy7tWV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Lahore News HD</title>
 <link>http://cdn.asianetmobiletvplus.com/content/peopletv_jofrudeyhdhwxotkxhuy_hls/peopletv_jofrudeyhdhwxotkxhuy_profile3.m3u8<link>
 <thumbnail>http://i.imgur.com/inVwsn2.jpg</thumbnail>
@@ -101,13 +115,6 @@
 <title>Movies OK</title>
 <link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Movies_OK_hs.smil/chunklist.m3u8<link>
 <thumbnail>http://www.newtvworld.com/Images/Movies-OK-logo-300x212.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Mediacorp Vastharam HD</title>
-<link>http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on<link>
-<thumbnail>http://i.imgur.com/JJETUma.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -147,6 +154,13 @@
 </item>
 
 <item>
+<title>Rumeli TV</title>
+<link>http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8<link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Star GOLD</title>
 <link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/chunklist.m3u8<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg</thumbnail>
@@ -164,6 +178,13 @@
 <title>Star Utsav</title>
 <link>http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Utsav_hs.smil/chunklist.m3u8<link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/utsav.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sunrya Movies</title>
+<link>http://my2.videodb.in:8081/malayalam/suryamovies-b9/playlist.m3u8?default<link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
