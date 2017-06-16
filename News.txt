@@ -337,6 +337,13 @@
 </item>
 
 <item>
+<title>NHK World</title>
+<link>http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8</link>
+<thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>India TV</title>
 <link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8</link>
 <thumbnail>https://i.imgur.com/YWJi2IB.png</thumbnail>
@@ -347,6 +354,13 @@
 <title>PAX TV HD korea</title>
 <link>rtmp://124.139.232.61:1935/live/livestream</link>
 <thumbnail>https://i.imgur.com/lNk6oKA.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Press TV</title>
+<link>http://178.32.255.199:1935/live/ptven/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
