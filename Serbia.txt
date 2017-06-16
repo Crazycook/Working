@@ -20,6 +20,13 @@
 </item>
 
 <item>
+<title>Duda Plus</title>
+<link>http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Hram TV</title>
 <link>http://178.253.194.75:1935/live/hram.stream/.m3u8</link>
 <thumbnail>http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg</thumbnail>
@@ -34,6 +41,13 @@
 </item>
 
 <item>
+<title>JOJ</title>
+<link>http://174.36.220.217:5000/live/141/141.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Kladovo</title>
 <link>http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8</link>
 <thumbnail>http://www.hotelkladovo.rs/images/TV%20Kladovo%20logo.png</thumbnail>
@@ -41,21 +55,17 @@
 </item>
 
 <item>
-<title>SOS Kanal</title>
-<link>http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8</link>
-<thumbnail>http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png</thumbnail>
+<title>MarTV</title>
+<link>rtmp://yayin3.canliyayin.org/marmaratv/marmaratv</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Telegraf</title>
-<link>http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8</link>
-<thumbnailhttp://logo.exyu.xyz/telegraf.png/thumbnail>
+<title>MarTV</title>
+<link>http://yayin3.canliyayin.org:1935/marmaratv/marmaratv/HasBahCa.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-
-
 </item>
 
 <item>
@@ -80,6 +90,34 @@
 </item>
 
 <item>
+<title>Polar TV</title>
+<link>rtmp://stream.polar.cz/polar/polarlive-1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Praha TV</title>
+<link>rtmp://stream.polar.cz/prahatv/prahatvlive-1</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Show TV</title>
+<link>http://178.162.205.71:8081/live_sd/showtv/live_sd/showtv_hi/chunks.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Star</title>
+<link>http://178.162.205.71:8081/live_sd/startv/live_sd/star_hi/chunks.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>SOS Kanal</title>
 <link>http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8</link>
 <thumbnail>http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png</thumbnail>
@@ -90,6 +128,13 @@
 <title>Telegraf</title>
 <link>http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8</link>
 <thumbnail>http://logo.exyu.xyz/telegraf.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TGRT Haber</title>
+<link>http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/playlist.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
