@@ -103,6 +103,14 @@
 </item>
 
 <item>
+<title>Earth TV</title>
+<link>http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8?5842ba6cbbf0479c3de0a48f</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
 <title>Arirang</title>
 <link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
 <thumbnail>http://www.isv.net/logos/arirangtv.png</thumbnail>
@@ -143,6 +151,7 @@
 <thumbnail>http://channelpear.com/images/media/3130.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
 
 <item>
 <title>Channel NewsAsia</title>
@@ -391,6 +400,13 @@
 </item>
 
 <item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/bZsResP.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Deutsche Welle</title>
 <link>http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8</link>
 <thumbnail>http://www.pumamedia.com.au/DW_English.jpg</thumbnail>
@@ -519,6 +535,13 @@
 <item>
 <title>Aljazeera English</title>
 <link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8</link>
 <thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
