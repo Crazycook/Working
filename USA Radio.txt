@@ -1,12 +1,22 @@
 <item>
 <item>
-<title>1520 WWKB Buffalo ESPN Radio</title>
-<link>BANDWIDTH=48000</link>
+<title>WITL-FM - 100.7 FM</title>
+<link>http://15113.live.streamtheworld.com/WITLFMAAC</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>1520 WWKB Buffalo ESPN Radio</title>
-<link>BANDWIDTH=48000</link>
+<title>WMAL - AM 630</title>
+<link>http://15113.live.streamtheworld.com/WMALFMAAC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Hot 100 fm</title>
+<link>http://15113.live.streamtheworld.com:3690/WWOT_SC</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>WSSR - Star 96.7 FM</title>
+<link>http://15113.live.streamtheworld.com:3690/WSSRFMAAC_SC</link>
 <thumbnail></thumbnail>
 </item>
 <item>
