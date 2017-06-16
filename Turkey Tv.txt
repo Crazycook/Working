@@ -1,5 +1,12 @@
 <item>
 <item>
+<title>Baby TV</title>
+<link>http://www.arkumedia.com:1935/redsinema/redsinema/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>BENGÜ TÜRK</title>
 <link>http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/E1M6078.jpg</thumbnail>
@@ -9,7 +16,14 @@
 <item>
 <title>Bursapor TV</title>
 <link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8</link>
-<thumbnail>http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg"</thumbnail>
+<thumbnail>http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canli</title>
+<link>rtmp://yayin8.canliyayin.org/benguturk//benguturk</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -56,6 +70,13 @@
 </item>
 
 <item>
+<title>Halk TV</title>
+<link>http://178.162.205.71:8081/live_sd/halktv/playlist.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Fox</title>
 <link>http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png</thumbnail>
@@ -91,9 +112,23 @@
 </item>
 
 <item>
-<title>NR1</title>
-<link>http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/zsaFQB7.png</thumbnail>
+<title>MSNBC </title>
+<link>http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MSNBC </title>
+<link>http://stream.taksimbilisim.com:1935/tv52/bant1/TV52.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>News Nation</title>
+<link>rtmp://54.255.176.172/live/newsnation_720p8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -115,6 +150,13 @@
 <title>Rehber TV</title>
 <link>rtmp://yayin5.canliyayin.org:1935/live/rehbertv</link>
 <thumbnail>http://i.imgur.com/uxHouGW.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Reklam</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -248,7 +290,21 @@
 <item>
 <title>24 TV</title>
 <link>http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8</link>
-<thumbnail>24 TV</thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV 41</title>
+<link>http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TV1</title>
+<link>http://stream.taksimbilisim.com:1935/tv1/bant1/TV1.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
