@@ -15,9 +15,23 @@
 </item>
 
 <item>
-<title>Assemblée Nationale</title>
-<link>http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
-<thumbnail>http://imgur.com/R09gTr6</thumbnail>
+<title>AB1 TV</title>
+<link>http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/chunklist_b1096000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Action</title>
+<link>http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1096000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Action</title>
+<link>http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1796000.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -25,6 +39,20 @@
 <title>Antenne Centre TV</title>
 <link>http://vm109.imust.org:1935/live/livestream/chunklist_w1650441944.m3u8</link>
 <thumbnail>http://imgur.com/msRU6GU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Animaux</title>
+<link>http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8</link>
+<thumbnail>http://imgur.com/msRU6GU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Assemblée Nationale</title>
+<link>http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
+<thumbnail>http://imgur.com/R09gTr6</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -49,9 +77,17 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>Canal Alpha</title>
 <link>http://rtmp.infomaniak.ch/livecast/canalalpha/playlist.m3u8</link>
 <thumbnail>http://imgur.com/LJrwnc7</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Crime District TV</title>
+<link>http://live-s102.abweb.com/liveabs102/ngrp:crimedistrict.stream_bis/chunklist_wf1tv_b1096000.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -70,9 +106,30 @@
 </item>
 
 <item>
+<title>FRM TV</title>
+<link>http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Grand Lille TV</title>
 <link>rtsp://str81.creacast.com/grandlilletv/high</link>
 <thumbnail>http://imgur.com/jxowXBJ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>GTV 1</title>
+<link>rtmp://108.61.145.115:1935/gtvlive/guineetvlive</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>i24</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -119,6 +176,13 @@
 </item>
 
 <item>
+<title>Mangas</title>
+<link>http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Tele Vesdre </title>
 <link>http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8</link>
 <thumbnail>http://imgur.com/zZ28RsX</thumbnail>
@@ -149,6 +213,13 @@
 <item>
 <title>Wéo</title>
 <link>http://str81.creacast.com/weo/high/live.m3u8</link>
+<thumbnail>http://imgur.com/nLrBSnE</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Wéo</title>
+<link>http://213.152.6.234/weo/high/playlist.m3u8</link>
 <thumbnail>http://imgur.com/nLrBSnE</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
