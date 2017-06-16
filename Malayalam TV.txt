@@ -1,5 +1,11 @@
 <item>
 <item>
+<title>Janam</title>
+<link>http://v2aq92ywdpng.hls.live.wmncdn.net/janamtv1/live.stream/tracks-v1a1/index.m3u8?default</link>
+<thumbnail>http://malayalamiptv.tv/assets/images/channels/full/janam-tv-.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
 <title>Safari TV</title>
 <link>rtmp://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp</link>
 <thumbnail>http://imgur.com/gxfm3ia</thumbnail>
