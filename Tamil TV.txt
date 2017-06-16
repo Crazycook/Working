@@ -1,8 +1,29 @@
 <item>
+<title>EET TV</title>
+<link>http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8?default</link>
+<thumbnail>http://tamiltab.com/video/wp-content/uploads/sites/3/2015/12/eettv-logo-390x205-196x126.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>EET TV</title>
+<link>http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8</link>
+<thumbnail>http://tamiltab.com/video/wp-content/uploads/sites/3/2015/12/eettv-logo-390x205-196x126.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>GTV</title>
 <link>http://live-04.viewer.dacast.com/i/dclive_1@104142/master.m3u8</link>
 <thumbnail>http://imgur.com/y7qTlJN</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Mediacorp Vastharam HD</title>
+<link>http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on<link>
+<thumbnail>http://i.imgur.com/JJETUma.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -16,6 +37,27 @@
 <title>Tamilan Tv</title>
 <link>rtmp://38.96.175.192:1943/live/tamilantelevision1</link>
 <thumbnail>http://imgur.com/in0t58L</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sun TV</title>
+<link>http://stream2.taksimbilisim.com:1935/mersinsuntv/bant1/SUNTV.m3u8<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/160px-Sun_TV_logo.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TentKotta</title>
+<link>http://tentkotta-thunderstorm.amagi.com/amagi_hls_data_Tentkotta-Primary/CDN/640x360_1604000/index.m3u8<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/615-kgvXxUL._AC_US200_.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sun TV</title>
+<link>http://tentkotta-thunderstorm.amagi.com/amagi_hls_data_Tentkotta-Primary/CDN/1280x720_3556000/index.m3u8<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/615-kgvXxUL._AC_US200_.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
