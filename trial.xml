@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 1[/COLOR][/B]</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>                        
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>       
+<info>A RTP 1 e um canal generalista que privilegia a ficcao nacional, informacao, desporto e entretenimento, com o objetivo de proporcionar uma escolha variada.</info>                 
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 1[/COLOR][/B]</title>                          
+<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>                        
+<referer>http://www.rtp.pt/</referer>        
+<info>A RTP 1 e um canal generalista que privilegia a ficcao nacional, informacao, desporto e entretenimento, com o objetivo de proporcionar uma escolha variada.</info>                
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<fanart></fanart>                      
+</item>
+               
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 2[/COLOR][/B]</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>                        
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>          
+<info>A RTP 2 apresenta uma programacao tematica, com programas proximos da sociedade civil, series, desporto e informacao.</info>              
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 2[/COLOR][/B]</title>  
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<info>A RTP 2 apresenta uma programacao tematica, com programas proximos da sociedade civil, series, desporto e informacao.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC  [/COLOR][/B]</title>                    
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>                  
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sic</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/sic77888/1/600/450</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/sic93/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                        
+<name>pk</name>                        
+<expres>ea=(.*)'</expres>                        
+<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>                        
+<referer>http://www.liveflashplayer.net</referer>    
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>                    
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+<fanart></fanart>                      
+</regex>                        
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/live playpath=sic90?id=85765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10                       conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.pubucaster.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                        
+<name>get-pk</name>                      
+<expres>pk=(.*?)'</expres>                        
+<page>http://www.embeducaster.com/embedplayer/sic90/1/599/399</page>                        
+<referer>http://www.embeducaster.com/</referer>                        
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+<fanart></fanart>                      
+</regex>                        
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>                   
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>                
+<sportsdevil>http://www.europeu2016.net/index.php?canal=tvi</sportsdevil>
+<referer>http://www.europeu2016.com/</referer>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex><name>ip</name><expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/TVI2783737/1/565/442</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>  
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/stream playpath=TVI2783737?id=24177$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                        
+<name>pk</name>                        
+<expres>ea=(.*)'</expres>                        
+<page>http://www.liveflashplayer.net/embedplayer/TVI2783737/1/565/440</page>                        
+<referer>http://www.liveflashplayer.net</referer>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>                        
+</regex>      
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>                  
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 3[/COLOR][/B]</title>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+<info>RTP 3 apresenta noticias atuais e programas proximos da sociedade civil, series, desporto e informacao.</info>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP 3[/COLOR][/B]</title>  
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
+<info>RTP 3 apresenta noticias atuais e programas proximos da sociedade civil, series, desporto e informacao.</info>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC NOTICIAS[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
+<link>http://213.13.26.11:1935/live/sicnoticias/PSYCHOTEAM.m3u8</link>
+<info>A SIC Noticias e um canal dedicado exclusivamente a informacao. Com tres grandes blocos de informacao diarios moderados pelos jornalistas mais conhecidos da estacao, a SIC Noticias pretende responder ao publico exigente que procura estar sempre informado.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC NOTICIAS[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<info>A SIC Noticias e um canal dedicado exclusivamente a informacao. Com tres grandes blocos de informacao diarios moderados pelos jornalistas mais conhecidos da estacao, a SIC Noticias pretende responder ao publico exigente que procura estar sempre informado.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC NOTICIAS[/COLOR][/B]</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex><name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embedrouter.php?file=sicnoti4&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
+<referer>http://www.meocanaltv.com/embed/SICNOTICIAS.php?width=640&height=470</referer>
+<cookieJar></cookieJar><agent>iPad</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
+<info>A SIC Noticias e um canal dedicado exclusivamente a informacao. Com tres grandes blocos de informacao diarios moderados pelos jornalistas mais conhecidos da estacao, a SIC Noticias pretende responder ao publico exigente que procura estar sempre informado.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC NOTICIAS[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<info>A SIC Noticias e um canal dedicado exclusivamente a informacao. Com tres grandes blocos de informacao diarios moderados pelos jornalistas mais conhecidos da estacao, a SIC Noticias pretende responder ao publico exigente que procura estar sempre informado.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI 24[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<info>Canal dedicado a informacao, onde podera encontrar as noticias mais atuais 24 horas por dia, 7 dias por semana.</info>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV  [/COLOR][/B]</title>                      
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>                    
+<sportsdevil>http://www.europeu2016.net/index.php?canal=cmtv</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+<info>As últimas notícias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV [/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<info>As últimas notícias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV[/COLOR][/B]</title>
+<link>$doregex[getLink]|User-Agent=iPad</link>
+<regex>
+<name>getLink</name>
+<expres>file: '(.*?)',</expres>
+<page>http://pxstream.tv/embedrouter.php?file=cmcm2&amp;width=640&amp;height=450&amp;jwplayer=flash</page>
+<referer>http://www.meocanaltv.com/canais.php?stream=CMTV</referer>
+<cookieJar></cookieJar>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV [/COLOR][/B]</title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<info>As últimas notícias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] CMTV[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/599/399</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<info>As últimas notícias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]CASA DOS SEGREDOS [/COLOR][/B]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=secretstory</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvir.png</thumbnail>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] PORTO CANAL [/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>                
+<sportsdevil>http://www.europeu2016.net/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+<info>Porto Canal e um canal de televisao portugues dedicado a todo o territorio nacional, com uma programacao diversificada em diversas areas: informacao, deporto e entretenimento. </info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] PORTO CANAL[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link><link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link></link>
+<info>Porto Canal e um canal de televisao portugues dedicado a todo o territorio nacional, com uma programacao diversificada em diversas areas: informacao, deporto e entretenimento. </info>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] A BOLA TV[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>                  
+<sportsdevil>http://www.europeu2016.net/index.php?canal=abolatv</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+<info>A TV Bola e um canal de televisao por satelite e fibra de Portugal . E um canal de noticias desportivas de propriedade da mesma empresa que possui o Jornal A Bola , lido em Portugal, a diaspora portuguesa e na Africa de lingua Portuguesa . O seu conteudo e principalmente sobre futebol.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] A BOLA TV[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex><name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/yameu/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
+</regex>
+<info>A TV Bola e um canal de televisao por satelite e fibra de Portugal . E um canal de noticias desportivas de propriedade da mesma empresa que possui o Jornal A Bola , lido em Portugal, a diaspora portuguesa e na Africa de lingua Portuguesa . O seu conteudo e principalmente sobre futebol.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] A BOLA TV[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
+</regex>
+<info>A TV Bola e um canal de televisao por satelite e fibra de Portugal . E um canal de noticias desportivas de propriedade da mesma empresa que possui o Jornal A Bola , lido em Portugal, a diaspora portuguesa e na Africa de lingua Portuguesa . O seu conteudo e principalmente sobre futebol.</info>
+</item>
+
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] EURONEWS[/COLOR][/B]</title>                      
+<fanart></fanart>                      
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/euronews.png</thumbnail>                        
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>                        
+<info>Euronews e um midia de noticias multilingue com sede em Lyon , França ... representado pela SOCEMIE ( Societe Editrice de la Chaine Europeenne Multilingue d'Information EuroNews ) consorcio. </info>
+</item>
+
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] ECONOMICO TV [/COLOR][/B]</title>                      
+<fanart></fanart>                      
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/economico.png</thumbnail>                        
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>                        
+<info>O canal que oferece informacao economica e financeira, observando todos os acontecimentos a volta dos mercados mundiais.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC MULHER[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name><expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/sicm02/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+<info>Valores femininos, debates saudaveis, tematicas universais e humanistas caracterizam a SIC Mulher, um canal que ajuda a mulher a aprender mais sobre si mesma e a desenvolver o seu potencial.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC MULHER[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10                       conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</regex>
+<info>Valores femininos, debates saudaveis, tematicas universais e humanistas caracterizam a SIC Mulher, um canal que ajuda a mulher a aprender mais sobre si mesma e a desenvolver o seu potencial.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] SIC MULHER(tst) [/COLOR][/B]</title>
+<link>http://www.televisaofutebol.com/iframe.php?chname=sicmulher&height=399&width=599&stretching=exactfit&autostart=true</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+<info>Valores femininos, debates saudaveis, tematicas universais e humanistas caracterizam a SIC Mulher, um canal que ajuda a mulher a aprender mais sobre si mesma e a desenvolver o seu potencial.</info>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI FICÇÃO[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name><expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres><page>http://www.embedezcast.com/membedplayer/tvicrl/1/599/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://github.com/marcojoao/IPTV_Logos/blob/master/tvif.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TVI FICÇÃO[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/tvicrl/1/650/500</page>
+<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115</agent>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://github.com/marcojoao/IPTV_Logos/blob/master/tvif.png</thumbnail>
+</regex>
+<info>TVI Ficcao e um canal de televisao portugues da TVI. A programacao e dedicada as telenovelas, series, telefilmes, sitcoms e minisseries produzidas para a TVI. Inclui ainda programas originais como entrevistas a atores e biografias</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]RTP AFRICA[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP MADEIRA[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://cld.pt/dl/download/ca717de7-7c2e-45aa-b621-0f3234a24036/rtp%20madeira.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP AÇORES[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP MEMÓRIA[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] RTP INTERNACIONAL[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+</item>
+
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]TV MOÇAMBIQUE [/COLOR][/B]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1814628488_b714000_slpor.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-01QH3ZRc_zY/Uny-fzAOXtI/AAAAAAABh-o/Ujwzzdq4I_k/s320/logo-tim.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]TV MOÇAMBIQUE 2[/COLOR][/B]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w478241971_b714000_slpor.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-01QH3ZRc_zY/Uny-fzAOXtI/AAAAAAABh-o/Ujwzzdq4I_k/s320/logo-tim.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV SUCESSO MOÇAMBIQUE[/COLOR][/B]</title>
+<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link>
+<regex>
+<name>get-Clean-token</name>
+<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://services.dacast.com/token/i/b/65271/c/141570</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex><regex>
+<name>get-Clean-M3U8</name>
+<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-M3U8</name>
+<expres>"hls":"(.*?)"</expres>
+<page>http://json.dacast.com/b/65271/c/141570</page>
+</regex>
+<thumbnail>http://www.tvsucesso.co.mz/images/tv-sucesso-oficial%20logo.png</thumbnail>
+</item>
+
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TV CABO VERDE[/COLOR][/B]</title>                      
+<fanart></fanart>                      
+<thumbnail>http://4.bp.blogspot.com/-PVTUAuA8zY0/UYV9xmXC9WI/AAAAAAAAEEY/imbfKwlzi1Y/s1600/TCV+Internacional+logo+1.png</thumbnail>                        
+<link>rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1 timeout=10</link>
+<item> 
+ 
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] TPA AFRICA  [/COLOR][/B]</title>
+<link>$doregex[get=URL]|User-Agent=iPhone</link>
+<regex>
+<name>get=URL</name>
+<expres><![CDATA[#$pyFunction
+import requests, re
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://livestream.com/accounts/1181452/events/5141181'):
+ headers = {'User-Agent': 'iPhone','Referer': 'http://livestream.com/'}
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('smil[",\']\W[",\']m3u8_url.+?([^\"]+)[",\']\W', source.text)[0]   
+ return m3u8 + '|headers']]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.madmousestudio.com/wp-content/uploads/6-TPA.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]AMC  r[/COLOR][/B]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B]AMC [/COLOR][/B]</title>
+<sportsdevil>http://www.liveonlinetv247.info/embed/amc.php?width=650&height=480</sportsdevil>
+<referer>http://www.liveonlinetv247.info/embed/amc.php?width=650&height=480</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
+</item>
+
+<item>                  
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] HISTORIA[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>http://4.bp.blogspot.com/-wjCsk9ABEnU/VBQSesarpGI/AAAAAAAAIX4/XnQcO3YXX9w/s1600/canal%2Bde%2Bhistoria.png</thumbnail>                  
+<sportsdevil>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] HISTORIA[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] HISTORIA[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+</regex>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] DISCOVERY [/COLOR][/B]</title>  
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>                      
+</regex>                        
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] DISCOVERY[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.pubucaster.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                        
+<name>get-pk</name>                        
+<expres>pk=(.*?)'</expres>                        
+<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>                        
+<referer>http://www.embeducaster.com/</referer>                        <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/49/Discovery_Channel_2009.png/revision/latest?cb=20091118171916</thumbnail>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</regex>                        
+</item>
+
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Odisseia[/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>                  
+<sportsdevil>http://www.europeu2016.net/index.php?canal=odisseia</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Odisseia[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] Odisseia[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10    conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/odisseiax/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] AXN[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/axn1x/1/650/450</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] AXN[/COLOR][/B]</title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=axn</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] AXN WHITE[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] AXN WHITE[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] AXN WHITE[/COLOR][/B]</title>  
+<sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/foxcrl/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX[/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embedezcast.com/embedplayer/foxcrl/1/650/500</page>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX[/COLOR][/B]</title>  
+<sportsdevil>http://www.desportonline.com/index.php?canal=fox</sportsdevil>
+<referer>http://www.desportonline.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX MOVIES[/COLOR][/B]</title>  
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
+</regex>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX MOVIES[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/live/ playpath=sical?id=24913$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>                      
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>                        
+</regex>                      
+<regex>                        
+<name>pk</name>                        
+<expres>ea=(.*)'</expres>                        
+<page>http://www.embedezcast.com/embedplayer/sical/1/599/399</page>                        
+<referer>http://www.embedezcast.com</referer>                      
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>                        
+</regex>                        
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX MOVIES[/COLOR][/B]</title>  
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX CRIME[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/foxcrimex/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX CRIME[/COLOR][/B]</title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=foxcrime</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX CRIME[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/live playpath=foxcrimex?id=84766&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.pubucaster.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                      
+<name>get-pk</name>                        
+<expres>pk=(.*?)'</expres>                        
+<page>http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500</page>                        
+<referer>http://www.embeducaster.com/</referer>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>                        
+</regex>                        
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX CRIME[/COLOR][/B]</title>  
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX LIFE[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/foxlifea/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>                        
+</regex>                        
+</item>
+<item>                        
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX LIFE[/COLOR][/B]</title>                        
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK                 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>                        
+<regex>                        
+<name>get-ip</name>                        
+<expres>redirect=(.*)</expres>                        
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>                        
+</regex>                        
+<regex>                        
+<name>pk</name>                      
+<expres>ea=(.*)'</expres>                      
+<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>                      
+<referer>http://www.liveflashplayer.net</referer>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>                        
+</regex>                        
+</item>
+<item>
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] FOX LIFE[/COLOR][/B]</title>  
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxlife</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
+</item>
