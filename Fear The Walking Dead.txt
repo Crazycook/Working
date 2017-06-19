@@ -133,13 +133,13 @@
 </item>
 <item>
 <title>Fear.the.Walking.Dead.S03E02</title>
-<link>http://walk4help.com/dl1/F/Fear%20the%20Walking%20Dead/S03/1080p/Fear%20the%20Walking%20Dead%20S03E02%201080p%20%28LiLMeDiA%29.mkvv</link>
+<link>http://walk4help.com/dl1/F/Fear%20the%20Walking%20Dead/S03/1080p/Fear%20the%20Walking%20Dead%20S03E02%201080p%20%28LiLMeDiA%29.mkv</link>
 <thumbnail>https://yvrshoots.com/wp-content/uploads/2015/03/Screenshot-632.jpg</thumbnail>
 <Fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
 </item>
 <item>
 <title>Fear.the.Walking.Dead.S03E03</title>
-<link>http://walk4help.com/dl1/F/Fear%20the%20Walking%20Dead/S02/1080p/Fear%20the%20Walking%20Dead%20S03E03%201080p%20%28lilmedia%29.mkv</link>
+<link>http://walk4help.com/dl1/F/Fear%20the%20Walking%20Dead/S03/1080p/Fear%20the%20Walking%20Dead%20S03E03%201080p%20%28LiLMeDiA%29.mkv</link>
 <thumbnail>https://yvrshoots.com/wp-content/uploads/2015/03/Screenshot-632.jpg</thumbnail>
 <Fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
 </item>
