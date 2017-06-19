@@ -239,6 +239,13 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
 
 <item>
+<title>SportBG HD</title>
+<link>http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8</link>
+<thumbnail>https://pg-vb.cdn.viber.com/icons/35deb633452f5bde61a044c55bd8470eb5b3252c7b5512fc27863d3c6cc02ded.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>BETIS TV</title>
 <link>http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8</link>
 <thumbnail>http://i.imgur.com/VyplynV.jpg</thumbnail>
