@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>3ABN Latino/title>
+<link>http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f5/3ABN_Network_Logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Catholic TV - 268CTV - Watertown - MA</title>
 <link>http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8</link>
 <thumbnail>http://i.imgur.com/vkp2eGg.png</thumbnail>
@@ -90,9 +97,23 @@
 </item>
 
 <item>
+<title>Rhema Vision</title>
+<link>http://va1.ministeriotv.com:1936/64/stream/chunklist_w738075461.m3u8</link>
+<thumbnail>https://static-s.aa-cdn.net/img/gp/20600005050912/yRjWrcKCaTuDR0yFvkLO25ogsSDBoobqAQWq7fZqlhRmiAHymO1aDDLS50x4mOir4A=w300?v=1</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Trinity Broadcasting Network</title>
 <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://i.imgur.com/o4ddXGH.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tv Cret</title>
+<link>http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8</link>
+<thumbnail>http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.pn</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
