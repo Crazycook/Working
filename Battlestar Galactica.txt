@@ -4,6 +4,20 @@
 <thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
 <fanart>http://i.imgur.com/rbunHn3.png</fanart>
 </item>
+
+<item>
+<title>Battlestar.Galactica.Pilot.2003 Part 1</title>
+<link>http://walk4help.com/dl1/B/Battlestar%20Galactica/S01/1080p/Battlestar%20Galactica%20S01E01%201080p%20%28LiLMeDiA%29.mkv</link>
+<thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
+<fanart>http://i.imgur.com/rbunHn3.png</fanart>
+</item>
+<item>
+<title>Battlestar.Galactica.Pilot.2003 Part 2</title>
+<link>http://walk4help.com/dl1/B/Battlestar%20Galactica/S01/1080p/Battlestar%20Galactica%20S01E02%201080p%20%28LiLMeDiA%29.mkv</link>
+<thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
+<fanart>http://i.imgur.com/rbunHn3.png</fanart>
+</item>
+
 <item>
 <title>Battlestar Galactica S01E01</title>
 <link>http://dl.vahidfilm.com/Serial/Battlestar%20Galactica/S01/BttlstrGlctc-S01E01.480p.mkv</link>
