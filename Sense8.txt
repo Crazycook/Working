@@ -69,7 +69,7 @@
 <thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
 <fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
 </item>
-﻿<item>
+<item>
 <title>Sense8 S02E01 720p</title>
 <link>http://walk4help.com/dl3/S/Sence8/S02/720p/Sence8%20S02E01%20720p%20%28LiLMeDiA%29.mkv</link>
 <thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
