@@ -307,6 +307,19 @@ Network: Syfy</info>
 </channel>
 
 <channel>
+<name>The Handmaid's Tale</name>
+<thumbnail>http://i.imgur.com/2w4wZ7f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Handmaids%20Tale.txt</externallink>
+<fanart>http://i.imgur.com/4AHvudZ.png</fanart>
+<info>The Handmaid's Tale
+American television series
+
+Based on the best-selling novel by Margaret Atwood, this series is set in Gilead, a totalitarian society in what used to be part of the United States. Gilead is ruled by a fundamentalist regime that treats women as property of the state, and is faced with environmental disasters and a plummeting bir… More
+First episode date: April 26, 2017
+Network: Hulu</info> 
+</channel>
+
+<channel>
 <name>The Littlest Hobo</name>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Littles%20Hobo.txt</externallink>
