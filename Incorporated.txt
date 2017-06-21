@@ -1,54 +1,54 @@
 <item>
 <title>Incorporated S01E01</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E01.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E01.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E02</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E02.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E02.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E03</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E03.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E03.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E04</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E04.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E04.PROPER.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E05</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E05.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E05.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E06</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E06.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E06.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E07</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E07.720p.HDTV.2CH.x265.HEVC-[My-Film].mkvVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E07.PROPER.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E08</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E08.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E08.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
 <item>
 <title>Incorporated S01E09-10</title>
-<link>http://dl.my-film.org/serial/Incorporated/Season%201%20-%20720p%20x265/Incorporated.S01E09-E10.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Incorporated/S01/Incorporated.S01E09-E10.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</thumbnail>
 <fanart>https://mellecupoftea.files.wordpress.com/2016/12/incorporated-hero-image1_1.png</fanart>
 </item>
