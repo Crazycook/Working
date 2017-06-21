@@ -252,6 +252,20 @@ Network : AMC</info>
 </channel>
 
 <channel>
+<name>Rick and Morty</name>
+<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Rick%20and%20Morty</externallink>
+<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
+<info>Rick and Morty
+American sitcom
+
+After having been missing for nearly 20 years, Rick Sanchez suddenly arrives at daughter Beth's doorstep to move in with her and her family. Although Beth welcomes Rick into her home, her husband, Jerry, isn't as happy about the family reunion. Jerry is concerned about Rick, a sociopathic scientist, using the garage as his personal laboratory. In the lab, Rick works on a number of sci-fi gadgets, some of which could be considered dangerous. But that's not all Rick does that concerns Jerry. He also goes on adventures across the universe that often involve his grandchildren, Morty and Summer.
+Program creators: Justin Roiland, Dan Harmon
+Networks: Cartoon Network, Adult Swim
+Writers: Ryan Ridley</info>
+</channel>
+
+<channel>
 <name>Road to Avonlea</name>
 <thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Road%20to%20Avonlea.txt</externallink>
