@@ -1,60 +1,60 @@
 ﻿<item>
-<title>Shooter.S01E01.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E01.720p.x265.mkv</link>
+<title>Shooter.S01E01.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E01.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E02.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E02.720p.x265.mkv</link>
+<title>Shooter S01E02.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E02.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E03.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E03.720p.x265.mkv</link>
+<title>Shooter S01E03.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E03.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E04.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E04.720p.x265.mkv</link>
+<title>Shooter S01E04.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E04.720p-%5BDownloado.site%5D.mkvv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E05.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E05.720p.x265.mkv</link>
+<title>Shooter S01E05.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E05.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E06.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E06.720p.x265.mkv</link>
+<title>Shooter S01E06.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E06.720p-%5BDownloado.site%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E07.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E07.720p.x265.mkv</link>
+<title>Shooter S01E07.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E07.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E08.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E08.720p.x265.mkv</link>
+<title>Shooter S01E08.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E08.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E09.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E09.720p.x265.mkvam%20(Bia2Movies).mkv</link>
+<title>Shooter S01E09.720p</title>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E09.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
 <title>Shooter S01E10.720p.x265</title>
-<link>http://dl.dlfile.pro/2/Shooter/Shooter.S01E10.720p.x265.mkvam%20(Bia2Movies).mkv</link>
+<link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E10.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
