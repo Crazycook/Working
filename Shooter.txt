@@ -53,7 +53,7 @@
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
 <item>
-<title>Shooter S01E10.720p.x265</title>
+<title>Shooter S01E10.720p</title>
 <link>http://dl2.downloado.site/dl2/TV%20Show/Shooter/S01/Shooter.S01E10.720p-%5BDownloado1.info%5D.mkv</link>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
