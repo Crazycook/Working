@@ -1,8 +1,8 @@
 <item>
 <title>ALF.S01E01.</title>
 <link>http://mc1.dl3enter.in/files/d3/serial1/ALF/s01/ALF.S01E01.DL.mkv</link>
-<thumbnail>https://imgur.com/DmvToJ7</thumbnail>
-<fanart>https://imgur.com/PDoj1zo</fanart>
+<thumbnail>http://imgur.com/DmvToJ7</thumbnail>
+<fanart>http://imgur.com/PDoj1zo</fanart>
 </item>
 <item>
 <title>ALF.S01E02</title>
