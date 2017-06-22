@@ -209,6 +209,20 @@ Stars: Sean Teale, Allison Miller, Eddie Ramos </info>
 </channel>
 
 <channel>
+<name>Jericho</name>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Jericho.txt</externallink>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+<info>Jericho
+American drama series
+
+A nuclear mushroom cloud appears on the horizon -- and for the residents of Jericho, a small Kansas town, it could mean they're the only Americans left alive. Fear of the unknown propels Jericho into mayhem, causing the town to come apart at the seams. Secrets are revealed, personal agendas take ove… More
+First episode date: September 20, 2006
+Final episode date: March 25, 2008
+Network: CBS</info>
+</channel>
+
+<channel>
 <name>Mr Bean</name>
 <thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Bean.txt</externallink>
