@@ -37,9 +37,9 @@ Stars: James Tupper, Anne Heche, Levi Meaden</info>
 
 <channel>
 <name>ALF</name>
-<thumbnail>http://imgur.com/DmvToJ7</thumbnail>
+<thumbnail>http://i.imgur.com/DmvToJ7.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/ALF.txt</externallink>
-<fanart>http://imgur.com/PDoj1zo</fanart>
+<fanart>http://imgur.com/PDoj1zo.jpg</fanart>
 <info>ALF
 American sitcom
 
@@ -267,9 +267,9 @@ Network : AMC</info>
 
 <channel>
 <name>Rick and Morty</name>
-<thumbnail>https://imgur.com/rYoLlQC</thumbnail>
+<thumbnail>https://imgur.com/rYoLlQC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Rick%20and%20Morty</externallink>
-<fanart>https://imgur.com/b1pTUbL</fanart>
+<fanart>https://imgur.com/b1pTUbL.jpg</fanart>
 <info>Rick and Morty
 American sitcom
 
