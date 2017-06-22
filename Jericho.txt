@@ -1,0 +1,174 @@
+﻿<item>
+<title>Jericho S01E01 Pilot</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x01%20%28HDTV-PROPER-XOR%29%20Pilot.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E02 Fallout</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x02%20%28HDTV-XOR%29%20Fallout.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E03 Four Horsemen</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x03%20%28HDTV-XOR%29%20Four%20Horsemen.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E04 Walls of Jericho</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x04%20%28HDTV-LOL%29%20Walls%20of%20Jericho.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E05 Federal Response</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x05%20%28HDTV-LOL%29%20Federal%20Response.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E06 LOL</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x06%20%28HDTV-LOL%29%209.02.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E07Long Live the Mayor </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x07%20%28HDTV%20PROPER-XOR%29%20Long%20Live%20The%20Mayor.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E08 Rogue River</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x08%20%28HDTV-XOR%29%20Rogue%20River.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E09 Crossroads</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x09%20%28HDTV-XOR%29%20Crossroads.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+<item>
+<title>Jericho S01E10 Red Flag</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x10%20%28HDTV-NoTV%29%20Red%20Flag.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E11 Populi</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x11%20%28HDTV-DIMENSION%29%20Vox%20Populi.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E12 The Day Before</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x12%20%28HDTV-LOL%29%20The%20Day%20Before.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E13 Black Jack</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x13%20%28HDTV-LOL%29%20Black%20Jack.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E14 Heart of Winter</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x14%20%28HDTV-NoTV%29%20Heart%20Of%20Winter.av</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E15 Semper Fidelis</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x15%20%28HDTV-NoTV%29%20Semper%20Fidelis.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E16 Winters End</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x16%20%28HDTV-LOL%29%20Winter%27s%20End.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E17 One Mans Trrrorist</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x17%20%28HDTV-LOL%29%20One%20Man%27s%20Terrorist.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E18 Unverified A.K.A.</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x18%20-%20%28Unverified%29%20A.K.A.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E19 Casus Belli </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x19%20%28HDTV-LOL%29%20Casus%20Belli.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E20 One if by Land</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x20%20%28HDTV-LOL%29%20One%20If%20By%20Land.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E21 Coalition Of The Willing</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x21%20%28HDTV-LOL%29%20Coalition%20Of%20The%20Willing.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S01E22 why Fight</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x22%20%28HDTV-LOL%29%20Why%20We%20Fight.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>>Jericho S02E01Reconstruction </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x01%20%28HDTV-NoTV%29%20Reconstruction.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S02E02 Condor</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x02%20%28HDTV-LOL%29%20Condor.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S02E03Jennings </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x03%20%28HDTV-XOR%29%20Jennings%20Rall.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S02E04 Oversight </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x04%20%28HDTV-LOL%29%20.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+</item>
+<item>
+<title>Jericho S02E05 Termination for Cause</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x05%20%28HDTV-LOL%29%20Termination%20for%20Cause.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S02E06Sedition </title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x06%20%28HDTV-LOL%29%20Sedition.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
+<item>
+<title>Jericho S02E07 Patriots and Tyrants</title>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s02/Jericho%20-%2002x07%20%28HDTV-LOL%29%20Patriots%20and%20Tyrants.avi</link>
+<thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</item>
