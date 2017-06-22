@@ -308,6 +308,19 @@ Executive producer: Ryan Phillippe</info>
 </channel>
 
 <channel>
+<name>Tera Nova</name>
+<thumbnail>https://imgur.com/jpavUxc</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Terra%20Nova.txt</externallink>
+<fanart>https://imgur.com/CaJ3XrM</fanart>
+<info>Terra Nova
+
+In 2149, overdeveloped and polluted Earth is dying. With no way to reverse the damage done to the planet, a group of scientists finds a way to open a fracture in the space-time continuum. This creates a portal to prehistoric Earth, leading to a last-ditch effort to save the human race by correcting mistakes of the past. The Shannon family participates in the 10th pilgrimage to Terra Nova, facing such prehistoric dangers as dinosaurs. The Shannons are also challenged within Terra Nova, as not everyone on the mission has the same intentions to save mankind. Prolific filmmaker Steven Spielberg serves as an executive producer of the series.
+First episode date: September 26, 2011
+Production location: Queensland
+Network: FOX</info> 
+</channel>
+
+<channel>
 <name>The Expanse</name>
 <thumbnail>http://i.imgur.com/Ckit4DZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Expanse.txt</externallink>
