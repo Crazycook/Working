@@ -36,6 +36,20 @@ Stars: James Tupper, Anne Heche, Levi Meaden</info>
 </channel>
 
 <channel>
+<name>ALF</name>
+<thumbnail>https://imgur.com/DmvToJ7</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/ALF.txt</externallink>
+<fanart>https://imgur.com/PDoj1zo</fanart>
+<info>ALF
+American sitcom
+
+A smart-mouthed creature, ALF (aka Alien Life Form), crash-lands in a suburban garage. His spaceship is beyond repair, he's ugly, he's short, he's got a bad attitude. What's a family to do? Why, take in the furry creature, of course, and watch as he comments on humankind and tries to eat the cat -- a delicacy on his home planet of Melmac.
+First episode date: September 22, 1986
+Final episode date: March 24, 1990
+Program creators: Paul Fusco, Tom Patchett</info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
