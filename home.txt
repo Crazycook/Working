@@ -37,9 +37,9 @@ Stars: James Tupper, Anne Heche, Levi Meaden</info>
 
 <channel>
 <name>ALF</name>
-<thumbnail>https://imgur.com/DmvToJ7</thumbnail>
+<thumbnail>http://imgur.com/DmvToJ7</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/ALF.txt</externallink>
-<fanart>https://imgur.com/PDoj1zo</fanart>
+<fanart>http://imgur.com/PDoj1zo</fanart>
 <info>ALF
 American sitcom
 
