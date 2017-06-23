@@ -2,6 +2,14 @@
 
 <channels>
 <channel>
+<name>html index for a site</name>
+<thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
+<info>fucking trial for html file</info>
+</channel>
+
+<channel>
 <name>ror xml trial vikings</name>
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/ror.xml</externallink>
