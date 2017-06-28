@@ -5,72 +5,9 @@
 <channel>
 <name>3</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/3.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/alberto.m3u</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
-<channel>
-<name>4</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/4.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>149.202.69.192:8000/get.php?username=leon&password=leon1&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/149%20202%2069%20192.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>176.31.231.205:8000/get.php?username=habib&password=habib&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/176.31.231.205%208000.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>http://195.154.154.185:5890/get.php?username=hamada&password=hamada&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/195%20154%20154%20185%205890%20hamada.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>http://195.154.154.185:5890/get.php?username=jay&password=jay&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/195%20154%20154%20185%205890.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>37.187.175.177:8000/get.php?username=chaaben151&password=chaaben151&type=m3u
-</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/37.187.175.177%208000.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>http://51.254.196.199:8080/get.php?username=felice&password=15122016&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/51.254.196.199%208080.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>http://62.210.112.172/get.php?username=panel2&password=panel2&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/62%20210%20112%20172.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
-<channel>
-<name>http://81.230.200.187:1967/get.php?username=mMdwpJIagX&password=WagOqNXDDX&type=m3u</name>
-<thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/81%20230%20200%20187%201967.m3u</externallink>
-<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
-<info>F4mTester Required for this section</info>
-</channel>
+
 </channels>
