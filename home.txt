@@ -516,10 +516,13 @@ Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
 <thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/voyager.txt</externallink>
 <fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
-<info>Vikings TV Series (2013– )
-The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
-Creator: Michael Hirst
-Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
+<info>Star Trek: Voyager
+American television series
+
+Kathryn Janeway is the captain of a starship that is lost in space and must travel across an unexplored region of the galaxy to find its way back home. On its way, the crew encounters different species they must deal with, but find that all their adventures only make them long for home.
+First episode date: January 16, 1995
+Final episode date: May 23, 2001
+Theme song: Theme from Star Trek</info>
 </channel>
 
 <channel>
