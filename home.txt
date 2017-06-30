@@ -512,6 +512,17 @@ Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
 </channel>
 
 <channel>
+<name>Voyager</name>
+<thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/voyager.txt</externallink>
+<fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
+<info>Vikings TV Series (2013– )
+The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
+Creator: Michael Hirst
+Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
+</channel>
+
+<channel>
 <name>The 100</name>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20100.txt</externallink>
