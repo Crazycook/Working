@@ -77,7 +77,7 @@
 </item>
 <item>
 <title>Jericho S01E14 Heart of Winter</title>
-<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x14%20%28HDTV-NoTV%29%20Heart%20Of%20Winter.av</link>
+<link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x14%20%28HDTV-NoTV%29%20Heart%20Of%20Winter.avi</link>
 <thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
 <fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
 </item>
