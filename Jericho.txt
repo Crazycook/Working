@@ -3,6 +3,7 @@
 <link>http://mc2.dl3enter.in/files/serial/Jericho/s01/Jericho%20-%2001x01%20%28HDTV-PROPER-XOR%29%20Pilot.avi</link>
 <thumbnail>https://i.imgur.com/pBcQI9Y.jpg</thumbnail>
 <fanart>https://i.imgur.com/Ajm8QFO.jpg</fanart>
+</info>http://www.omdbapi.com/?i=tt0805663&r=xml<info>
 </item>
 <item>
 <title>Jericho S01E02 Fallout</title>
