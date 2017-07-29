@@ -1,60 +1,60 @@
 ﻿<item>
 <title>Preacher S01E01</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E01.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E01.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E02</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E02.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E02.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E03</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E03.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E03.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E04</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E04.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E04.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E05</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E05.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E05.INTERNAL.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E06</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E06.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E06.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E07</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E07.720p.HDTV.x265.ShAaNiG.mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E07.480p.mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E08</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E08.720p.HDTV.x265-[My-Film].mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E08.480p.HDTV.x264-[My-Film].mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E09</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E09.720p.HDTV.x265-[My-Film].mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E09.480p.HDTV.x264-[My-Film].mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
 <item>
 <title>Preacher S01E10</title>
-<link>http://dl.my-film.org/hasan/serial/Preacher/Season%201%20-%20720p%20HDTV.x265/Preacher.S01E10.720p.HDTV.x265-[My-Film].mkv</link>
+<link>http://dl.my-film.in/hasan/serial/Preacher/Season%201%20-%20480p%20HDTV/Preacher.S01E10.480p.HDTV.x264-[My-Film].mkv</link>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
