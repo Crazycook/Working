@@ -301,7 +301,7 @@ Network : AMC</info>
 <channel>
 <name>Rick and Morty</name>
 <thumbnail>https://imgur.com/rYoLlQC.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Rick%20and%20Morty</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Rick%20and%20Morty.txt</externallink>
 <fanart>https://imgur.com/b1pTUbL.jpg</fanart>
 <info>Rick and Morty
 American sitcom
