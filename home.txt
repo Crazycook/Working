@@ -80,6 +80,20 @@ Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
 </channel>
 
 <channel>
+<name>Archer</name>
+<thumbnail>https://imgur.com/rYoLlQC</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Archer.txt</externallink>
+<fanart>http://cdn-static.sidereel.com/cms/posts/140164/large/archer-title-THUMB-430x241.jpeg</fanart>
+<info>Archer
+American sitcom
+
+Super-spy Sterling Archer, aided by an inept entourage, takes on espionage and domestic crime.
+Theme song: Archer Theme Song
+Network: FX
+Program creator: Adam Reed</info>
+</channel>
+
+<channel>
 <name>Battlestar Galactica 2005</name>
 <thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
