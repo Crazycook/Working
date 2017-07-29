@@ -2,17 +2,6 @@
 
 <channels>
 <channel>
-<name>ror xml trial vikings</name>
-<thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/ror.xml</externallink>
-<fanart>http://media.moddb.com/images/groups/1/20/19566/fear-the-walking-dead-logo.1.jpg</fanart>
-<info>Vikings TV Series (2013– )
-The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.
-Creator: Michael Hirst
-Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
-</channel>
-
-<channel>
 <name>13 Reasons Why</name>
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/13.Reasons.Why.txt</externallink>
