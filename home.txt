@@ -75,6 +75,14 @@ Program creator: Adam Reed</info>
 </channel>
 
 <channel>
+<name>Bang Bang</name>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Bang%20Bang.txt</externallink>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+<info>Bang Bang is a soap opera Brazilian produced by Rede Globo and displayed in time of 19 hours between 3 of October of 2005 and 21 of April of 2006.West of the United States; Time of American territorial expansion to the west ; c . 1880; Ben Silver had his family killed at age eight by Paul Bullock's henchmen. Thus, Ben grew up with the desire for revenge for the one who had his parents murdered. They go up twenty and he returns to Albuquerque to accomplish the mission, but on the way falls for the bela Diana, a bold and seductive woman, the mistress of a very strong personality, tough, and have been trained since childhood, highly skilled in Handling of arms and in physical struggle. Until he discovers that she is the daughter of the man he wants to kill. From then on, Ben stands between love and revenge. Many other stories animated the drama:</info>
+</channel>
+
+<channel>
 <name>Battlestar Galactica 2005</name>
 <thumbnail>http://i.imgur.com/J7Y53ck.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Battlestar%20Galactica.txt</externallink>
