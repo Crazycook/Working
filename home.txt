@@ -50,6 +50,17 @@ Program creators: Paul Fusco, Tom Patchett</info>
 </channel>
 
 <channel>
+<name>Anne</name>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Anne.txt</externallink>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+<info>Ascension TV Mini-Series (2014– )
+A young woman's murder causes the subjects of a century-long mission to populate a new world to question the true nature of the project as they approach the point of no return.
+Creators: Adrian Cruz, Philip Levens
+Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
