@@ -184,6 +184,7 @@ First episode date: August 23, 2015
 Network: AMC
 </info>
 </channel>
+
 <channel>
 <name>Firefly</name>
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
@@ -432,28 +433,6 @@ Networks: CTV Television Network,</info>
 Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is overrun by the undead, and must lead a group of survivors to stay alive.
 Creator: Frank Darabont
 Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
-</channel>
-
-<channel>
-<name>The Walking Dead (1080p X265)</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead%201080p%20X265.txt</externallink>
-<fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
-<info>The Walking Dead TV Series (2010– )
-Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is overrun by the undead, and must lead a group of survivors to stay alive.
-Creator: Frank Darabont
-Stars: Andrew Lincoln, Norman Reedus, Melissa McBride </info>
-</channel>
-
-<channel>
-<name>Fear The Walking Dead</name>
-<thumbnail>https://yvrshoots.com/wp-content/uploads/2015/03/Screenshot-632.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
-<fanart>http://i.imgur.com/Vm2Dmo3.jpg</fanart>
-<info>Set initially in Los Angeles, California and then later in Mexico,[8] the series follows a dysfunctional, blended family composed of high school guidance counselor Madison Clark, her English teacher boyfriend Travis Manawa, her daughter Alicia, her drug-addicted son Nick, Travis' son from a previous marriage, Chris, Chris' mother, Liza Ortiz, and others who join their group at the onset of the zombie apocalypse.[9][10] They must revamp themselves, skills- and attitude-wise, to survive, as they come to terms with the impending collapse of civilization
-First episode date: August 23, 2015
-Network: AMC
-Predecessor: The Walking Dead</info>
 </channel>
 
 <channel>
