@@ -173,6 +173,18 @@ Paul McGann Eighth Doctor 27 May 1996
 </channel>
 
 <channel>
+<name>Fear the Walking Dead</name>
+<thumbnail>https://i.imgur.com/SsvYIaG.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
+<fanart>https://i.imgur.com/6sWQyUt.jpg</fanart>
+<info>Fear the Walking Dead
+Drama series
+There's a sign of the apocalypse in Los Angeles, where reports of a strange flu and the disappearance of people underscore this gritty drama, a prequel to AMC's uber-popular "Walking Dead."
+First episode date: August 23, 2015
+Network: AMC
+</info>
+</channel>
+<channel>
 <name>Firefly</name>
 <thumbnail>https://i.imgur.com/tfxsUkP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Firefly.txt</externallink>
