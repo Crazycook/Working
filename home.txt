@@ -245,6 +245,20 @@ Stars: Emilia Clarke, Peter Dinklage, Kit Harington </info>
 </channel>
 
 <channel>
+<name>Heartland</name>
+<thumbnail>https://i.imgur.com/kxjPbKY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Heartland.txt</externallink>
+<fanart>https://i.imgur.com/plByK5X.jpg</fanart>
+<info>Heartland
+Canadian drama series
+
+This sprawling family saga takes place right on the range where an unfortunate tragedy has glued a family together to pull them through life's thick and thin moments. Follow young Amy Fleming as she slowly discovers she possesses her now-deceased mother's ability to aid injured horses, and her relationships with those who are trying to get by one day at a time.
+Theme song: Dreamer
+No. of episodes: 175 (+1 film) (list of episodes)
+Networks: CBC Television, The CW, Up, More4</info>
+</channel>
+
+<channel>
 <name>Halt and Catch Fire</name>
 <thumbnail>http://i.imgur.com/muYDFJ5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Halt%20and%20Catch%20Fire.txt</externallink>
