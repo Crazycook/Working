@@ -1,6 +1,21 @@
 ﻿<layouttype>thumbnail</layouttype>
 
 <channels>
+
+<channel>
+<name>12 Monkeys</name>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/12%20Monkeys.txt</externallink>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+<info>12 Monkeys
+American television series
+
+A man from the post-apocalyptic future, Cole uses a dangerous, untested method of time travel to get from 2043 to the present day. He is on a mission to locate and rid the world of the source of the plague that will eventually annihilate the human race. Assisting him is Dr. Cassandra Railly, a virologist who must decide whether to do harm in order to save the world -- regardless of the fact that she has taken the Hippocratic oath. The sci-fi series is based on Terry Gilliam's 1995 film, which starred Bruce Willis as Cole.
+First episode date: January 16, 2015
+Network: Syfy
+Production locations: Toronto, Detroit, Budapest, Praguey</info>
+</channel>
+
 <channel>
 <name>13 Reasons Why</name>
 <thumbnail>http://i.imgur.com/nebA3bf.jpg</thumbnail>
