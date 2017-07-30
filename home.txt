@@ -54,10 +54,7 @@ Program creators: Paul Fusco, Tom Patchett</info>
 <thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Anne.txt</externallink>
 <fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
-<info>Ascension TV Mini-Series (2014– )
-A young woman's murder causes the subjects of a century-long mission to populate a new world to question the true nature of the project as they approach the point of no return.
-Creators: Adrian Cruz, Philip Levens
-Stars: Tricia Helfer, Gil Bellows, Brian Van Holt</info>
+<info>Anne (titled Anne with an E on Netflix) is a Canadian television series based on the 1908 novel Anne of Green Gables by Lucy Maud Montgomery, and adapted by Emmy Award-winning writer and producer Moira Walley-Beckett.It airs on CBC in Canada, and elsewhere in the world it is available for streaming on Netflix.The first season consists of seven episodes, with Niki Caro directing the 90-minute season premiere. The series premiered on March 19, 2017 on CBC and concluded on April 30, 2017.[4]</info>
 </channel>
 
 <channel>
