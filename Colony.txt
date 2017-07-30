@@ -1,30 +1,30 @@
 ﻿<item>
 <title>Colony S01 E01</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E01%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E01.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E02</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E02%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E02.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E03</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E03%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E03.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E04</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E04%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E04.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E05</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E05%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E05.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
@@ -36,73 +36,103 @@
 </item>
 <item>
 <title>Colony S01 E07</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E07%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E07.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E08</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E08%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E08.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E09</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E09%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E09.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S01 E10</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S01%20E10%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s01/720/Colony.S01E10.720p.DL.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E01 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E01%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E01.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E02 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E02%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E02.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E03 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E03%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E03.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E04 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E04%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E04.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E05 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E05%20720p%20(MovIran).mp4</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E05.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E06 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E06%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E06.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E07 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E07%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E07.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
 <item>
 <title>Colony S02 E08 720p</title>
-<link>http://dl.sv-mov.in/series/colony/Colony%20S02%20E08%20720p%20(MovIran).mkv</link>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E08.720p.mkv</link>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
+</item>
+<item>
+<title>Colony S02 E09 720p</title>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E09.720p.mkv</link>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
+</item>
+<item>
+<title>Colony S02 E10 720p</title>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E10.720p.mkv</link>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
+</item>
+<item>
+<title>Colony S02 E11 720p</title>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E11.720p.mkv</link>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
+</item>
+<item>
+<title>Colony S02 E12 720p</title>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E12.720p.mkv</link>
+<thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
+</item>
+<item>
+<title>Colony S02 E13 720p</title>
+<link>http://mc1.dl3enter.in/files/d3/serial1/Colony/s02/720/Colony.S02E13.720p.mkv</link>
 <thumbnail>http://i.imgur.com/F3pHTu2.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Colony_TV_Series-663829545-large.jpg</fanart>
 </item>
