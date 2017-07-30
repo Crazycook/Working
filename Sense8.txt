@@ -1,4 +1,11 @@
 ﻿<item>
+<title>Sense8 S01E00 720p</title>
+<link>http://dl.wikiseda.net/series/Sense8/S01.WEBRip%20720p/Sense8_S01E02_720p_WEBRip.mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+ 
+<item>
 <title>Sense8 S01E01 720p</title>
 <link>http://dl.wikiseda.net/series/Sense8/S01.WEBRip%20720p/Sense8_S01E01_720p_WEBRip.mkv</link>
 <thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
@@ -66,6 +73,12 @@
 <item>
 <title>Sense8 S01E012 720</title>
 <link>http://dl.wikiseda.net/series/Sense8/S01.WEBRip%20720p/Sense8_S01E12_720p_WEBRip.mkv</link>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+</item>
+<item>
+<title>Sense8.S02.A.Christmas.Special.480p.WEBrip</title>
+<link>http://dl.wikiseda.net/series/Sense8/Christmas.Special/Sense8.S02.A.Christmas.Special.480p.WEBrip.mkv</link>
 <thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
 <fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
 </item>
