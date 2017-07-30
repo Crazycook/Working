@@ -1,0 +1,42 @@
+﻿<item>
+<title>Anne S01E01 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E01%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>Anne S01E02 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E02%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>Anne S01E03 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E03%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>Anne S01E04 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E04%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>Anne S01E05 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E05%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>Anne S01E06 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E06%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
+<item>
+<title>>Anne S01E07 720p</title>
+<link>http://dl.wikiseda.net/series/Anne/S01.720p.x265/Anne%20S01%20E07%20%5b720p%20x265%5d.mkv</link>
+<thumbnail>https://i.imgur.com/bae1EQk.jpg</thumbnail>
+<fanart>https://i.imgur.com/eSYn1wU.jpg</fanart>
+</item>
