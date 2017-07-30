@@ -58,3 +58,51 @@
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
 </item>
+<item>
+<title>Preacher S02E01</title>
+<link>http://dl.wikiseda.net/series/Preacher/S02.720p.x265/Preacher.S02E01.720p.HDTV.x265.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E02</title>
+<link>http://dl.wikiseda.net/series/Preacher/S02.720p.x265/Preacher.S02E02.720p.HDTV.x265.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E03</title>
+<link></link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E04</title>
+<link>http://dl.wikiseda.net/series/Preacher/S02.720p.x265/Preacher.S02E04.720p.HDTV.x265.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E05</title>
+<link></link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E06</title>
+<link></link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E07</title>
+<link></link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
+<item>
+<title>Preacher S02E08</title>
+<link></link>
+<thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Zdfd4Wa.jpg</fanart>
+</item>
