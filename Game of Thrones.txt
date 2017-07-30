@@ -1,358 +1,358 @@
 ﻿<item>
 <title>Game of Thrones Season 1 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E01.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E02.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E03.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E04.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E06.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E07.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E08.x265.720p.BluRay.PSA.mkv</link>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E09.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 1 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones1e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S01.720p.x265/Game.of.Thrones.S01E10.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E01.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E02.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E03.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E04.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E06.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E07.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E08.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E09.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 2 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones2e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S02.720p.x265/Game.of.Thrones.S02E10.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E01.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E02.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E04.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e6.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
-<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
-</item>
-<item>
-<title>Game of Thrones Season 3 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E06.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E07.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 3 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e9.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
-</item>
-<item>
-<title>Game of Thrones Season 3 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones3e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E08.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
-<title>Game of Thrones gameofthroneicefire</title>
+<title>Game of Thrones Season 3 Episode 9</title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E09.x265.720p.BluRay.PSA.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+</item>
+<item>
+<title>Game of Thrones Season 3 Episode 10</title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S03.720p.x265/Game.of.Thrones.S03E10.x265.720p.BluRay.PSA.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones ice fire</title>
 <link>http://www.deadlyblogger.com/NewRelease/gameofthroneicefire.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E01.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E02.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E03.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E04.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E06.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E07.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E08.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E09.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 4 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones4e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S04.720p.x265/Game.of.Thrones.S04E10.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E01.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E02.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E03.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E04.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E05.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E06.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E07.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E08.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E09.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 5 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones5e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S05.720p.x265/Game.of.Thrones.S05E10.x265.720p.BluRay.PSA.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
-<title>Game of Thrones Season 5 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e1.mp4</link>
+<title>Game of Thrones Season 6 Episode 1</title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E01.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E02.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E03.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpghttps://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E04.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E05.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E06.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E07.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E08.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E09.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
 <item>
 <title>Game of Thrones Season 6 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/thrones6e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E10.720p.HDTV.x265.ShAaNiG.mkv</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
