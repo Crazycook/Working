@@ -1,0 +1,66 @@
+<item>
+<title>Bang Bang EP01</title>
+<link>http://proxy-06.nyc.dailymotion.com/sec(ead302f958a6275315d4512c364a9657)/video/308/233/188332803_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP02</title>
+<link>http://proxy-036.dc3.dailymotion.com/sec(0769417979f95d885f30e8e0b3d9efc4)/video/429/236/188632924_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP03</title>
+<link>http://proxy-054.dc3.dailymotion.com/sec(7e3ec8c51fa505b8ad2edc54046057e9)/video/605/379/189973506_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP04</title>
+<link>http://proxy-002.dc3.dailymotion.com/sec(3d6a44ea27560420d806960019b85be6)/video/357/579/189975753_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP05</title>
+<link>http://proxy-047.dc3.dailymotion.com/sec(4e287be3bdc0cbec66bad611c718b16c)/video/012/348/226843210_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP06</title>
+<link>http://proxy-036.dc3.dailymotion.com/sec(52b72125b51cbf95561d3f25c394c678)/video/155/699/227996551_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP07</title>
+<link>http://proxy-13.nyc.dailymotion.com/sec(74661a038f158492d2087e3d623eaeb2)/video/354/556/229655453_mp4_h264_aac.ts</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP08</title>
+<link>http://proxy-028.dc3.dailymotion.com/sec(bded4afdca60b73f796ccf6ded1a97eb)/video/344/996/311699443_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP09</title>
+<link>http://proxy-024.dc3.dailymotion.com/sec(edd36fb5a2ca3e6eb3f42611b41ef21c)/video/178/996/311699871_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP010</title>
+<link>http://proxy-044.dc3.dailymotion.com/sec(79c6dd205844ef59ea1dd1e2227000fe)/video/798/996/311699897_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
+<item>
+<title>Bang Bang EP011</title>
+<link>http://proxy-027.dc3.dailymotion.com/sec(32659edde946800d8d30313b6cca26f1)/video/843/650/332056348_mp4_h264_aac_l2.m3u8</link>
+<thumbnail>https://i.imgur.com/HfWhB7H.jpg</thumbnail>
+<fanart>https://i.imgur.com/07nOOCh.jpg</fanart>
+</item>
