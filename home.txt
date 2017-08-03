@@ -198,7 +198,7 @@ https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fawlty%20Towers.tx
 <channel>
 <name>Fawlty Towers</name>
 <thumbnail>https://i.imgur.com/RB4lqtE.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fawlty%20Towers.txt</externallink>
 <fanart>https://i.imgur.com/4q5hxce.jpg</fanart>
 <info>Fawlty Towers
 Sitcom
