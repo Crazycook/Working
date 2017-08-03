@@ -3,7 +3,7 @@
 <link>http://dl2.mihanpix.com/Film/2000-09/Windtalkers.2002.720p.Ganool.mkv</link>
 <thumbnail>http://www.ipwatchdog.com/wp-content/uploads/2015/03/laptop-video-concept.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>https://api.themoviedb.org/3/movie/12100-windtalkers?api_key=b1dda760e08cb76015a8e070ef581f66</info>
+<info>https://api.themoviedb.org/movie/12100-windtalkers?api_key=b1dda760e08cb76015a8e070ef581f66</info>
 </item>
 <item>
 <title>DogVille.720p.mkv </title>
