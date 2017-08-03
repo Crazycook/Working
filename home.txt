@@ -437,6 +437,44 @@ Executive producer: Ryan Phillippe</info>
 </channel>
 
 <channel>
+<name>Sense8</name>
+<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sense8.txt</externallink>
+<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
+<info>That '70s Show
+
+Set in the mood ring and polyester era of the 1970s, the series is a retro-hip situation comedy about an eclectic group of friends on the verge of adulthood. They live in the suburbs of Wisconsin, where they yearn for independence amid the growing pains of becoming adults.
+First episode date: August 23, 1998
+Final episode date: May 18, 2006
+Theme song: In the Street</info>
+</channel>
+
+<channel>
+<name>Sons of Anarchy</name>
+<thumbnail>https://new.static.tv.nu/16685983?width=320&height=480</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sons%20of%20Anarchy.txt</externallink>
+<fanart>http://www.gstatic.com/tv/thumb/tvbanners/10941485/p10941485_b_v8_aa.jpg</fanart>
+<info>A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.
+Creator: Kurt Sutter
+Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
+</channel>
+
+<channel>
+<nameStar Trek :>Voyager</name>
+<thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star Trk : Voyager.txt</externallink>
+<fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
+<info>Star Trek: Voyager
+American television series
+
+Kathryn Janeway is the captain of a starship that is lost in space and must travel across an unexplored region of the galaxy to find its way back home. On its way, the crew encounters different species they must deal with, but find that all their adventures only make them long for home.
+First episode date: January 16, 1995
+Final episode date: May 23, 2001
+Theme song: Theme from Star Trek</info>
+</channel>
+
+
+<channel>
 <name>Tera Nova</name>
 <thumbnail>https://imgur.com/jpavUxc</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Terra%20Nova.txt</externallink>
@@ -511,43 +549,6 @@ Set in the mood ring and polyester era of the 1970s, the series is a retro-hip s
 First episode date: August 23, 1998
 Final episode date: May 18, 2006
 Theme song: In the Street</info>
-</channel>
-
-<channel>
-<name>Sense8</name>
-<thumbnail>http://i.imgur.com/KQ6BXtA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sense8.txt</externallink>
-<fanart>http://i.imgur.com/yKkvyvC.jpg</fanart>
-<info>That '70s Show
-
-Set in the mood ring and polyester era of the 1970s, the series is a retro-hip situation comedy about an eclectic group of friends on the verge of adulthood. They live in the suburbs of Wisconsin, where they yearn for independence amid the growing pains of becoming adults.
-First episode date: August 23, 1998
-Final episode date: May 18, 2006
-Theme song: In the Street</info>
-</channel>
-
-<channel>
-<name>Sons of Anarchy</name>
-<thumbnail>https://new.static.tv.nu/16685983?width=320&height=480</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Sons%20of%20Anarchy.txt</externallink>
-<fanart>http://www.gstatic.com/tv/thumb/tvbanners/10941485/p10941485_b_v8_aa.jpg</fanart>
-<info>A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.
-Creator: Kurt Sutter
-Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
-</channel>
-
-<channel>
-<nameStar Trek :>Voyager</name>
-<thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/voyager.txt</externallink>
-<fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
-<info>Star Trek: Voyager
-American television series
-
-Kathryn Janeway is the captain of a starship that is lost in space and must travel across an unexplored region of the galaxy to find its way back home. On its way, the crew encounters different species they must deal with, but find that all their adventures only make them long for home.
-First episode date: January 16, 1995
-Final episode date: May 23, 2001
-Theme song: Theme from Star Trek</info>
 </channel>
 
 <channel>
