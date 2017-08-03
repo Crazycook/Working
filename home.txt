@@ -462,7 +462,7 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 <channel>
 <nameStar Trek :>Voyager</name>
 <thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star Trk : Voyager.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20Voyager.txt</externallink>
 <fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
 <info>Star Trek: Voyager
 American television series
