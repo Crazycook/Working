@@ -295,6 +295,21 @@ Network: CBS</info>
 </channel>
 
 <channel>
+<name>Kim Possible</name>
+<thumbnail>https://i.imgur.com/Dk2tYih.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Kim%20Possible.txt</externallink>
+<fanart>https://i.imgur.com/6aJG4rR.jpg</fanart>
+<info>Kim Possible
+American animated series
+Kim Possible looks like an average high-school cheerleader, but in her spare time, she saves the world from supervillains. Her buddy, Ron Stoppable, his pet Rufus, and a resourceful webmaster named Wade collabotrate on secret missions and can do anything. When she's not defeating the bad guys, Kim still has to cope with typical pressures of school, family and social life.
+First episode date: June 7, 2002
+Final episode date: September 7, 2007
+Theme song: Call Me, Beep Me
+Program creators: Bob Schooley, Mark McCor</info>
+</channel>
+
+
+<channel>
 <name>Mr Bean</name>
 <thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Bean.txt</externallink>
