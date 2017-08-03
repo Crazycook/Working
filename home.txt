@@ -322,7 +322,6 @@ Theme song: Call Me, Beep Me
 Program creators: Bob Schooley, Mark McCor</info>
 </channel>
 
-
 <channel>
 <name>Mr Bean</name>
 <thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
@@ -460,7 +459,7 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 
 <channel>
-<nameStar Trek :>Voyager</name>
+<name>Star Trek :Voyager</name>
 <thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20Voyager.txt</externallink>
 <fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
