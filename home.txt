@@ -194,7 +194,21 @@ Sylvester McCoy	Seventh Doctor 7 September 1987 - 6 December 1989
 Paul McGann Eighth Doctor 27 May 1996
 </info>
 </channel>
+https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fawlty%20Towers.txt
+<channel>
+<name>Fawlty Towers</name>
+<thumbnail>https://i.imgur.com/RB4lqtE.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fear%20The%20Walking%20Dead.txt</externallink>
+<fanart>https://i.imgur.com/4q5hxce.jpg</fanart>
+<info>Fawlty Towers
+Sitcom
 
+Basil Fawlty is an inept and slightly out-of-his-head English hotel manager, who is tortured by "that annoying section of the general public who insist on staying at hotels." Fawlty is constantly berated by his wife, and his efforts are continually hampered by their Spanish waiter, Manuel.
+First episode date: September 19, 1975
+Original network: BBC2
+Writers: John Cleese, Connie Booth
+</info>
+</channel>
 <channel>
 <name>Fear the Walking Dead</name>
 <thumbnail>https://i.imgur.com/SsvYIaG.jpg</thumbnail>
