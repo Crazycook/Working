@@ -14,9 +14,9 @@
 </item>
 
 <item>
-<title>Animal Planet</title>
-<link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</link>
-<thumbnail>http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png</thumbnail>
+<title>Anchorage School District6</title>
+<link>http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8</link>
+<thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -31,6 +31,13 @@
 <title>Atlanta TV HD</title>
 <link>rtmp://media4.tripsmarter.com/LiveTV/ATLHD</link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ATXN</title>
+<link>http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8</link>
+<thumbnail>http://www.bestbrandlogo.com/logos/48742.jpg/thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -75,19 +82,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title>NASA TV HD</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
-<thumbnail>http://i.imgur.com/PWiwQLJ.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>NASA HD Media</title>
-<link>http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8</link>
-<thumbnail>http://i.imgur.com/PWiwQLJ.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
 <titleNASA TV Public</title>
@@ -167,9 +161,72 @@
 </item>
 
 <item>
+<title>City of Miami TV</title>
+<link>http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8</link>
+<thumbnail>http://www.aero-news.net/images/content/general/2016/miami-seal-0616a.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>District of Columbia Network</title>
+<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
+<thumbnail>https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>EBCTV Community - 9CTV - East Bridgewater - MA Massachusetts</title>
 <link>rtmp://cp45648.live.edgefcs.net/live/T01812@50342</link>
 <thumbnail>http://i.imgur.com/rJ3txeg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Grassroots Community Network</title>
+<link>http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8</link>
+<thumbnail>http://i1.wp.com/aspenroaringforkwellness.com/wp-content/uploads/2016/06/grassroots.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Key TV</title>
+<link>https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg</link>
+<thumbnail>https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Naples TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8</link>
+<thumbnail>http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Nevada County TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8</link>
+<thumbnail>http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Orange TV</title>
+<link>http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8</link>
+<thumbnail>http://www.wrcftv.com/index_htm_files/1747.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Seminole TV</title>
+<link>http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8</link>
+<thumbnail>http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>St. Petersburg TV</title>
+<link>http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8</link>
+<thumbnail>http://www.stpete.org/logo/images/city_logo_color.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -203,9 +260,15 @@
 
 <item>
 <title>Songwriters Series</title>
-<link>http://streams.tvknob.com/tvloops/CH3/ch3.wsx
-</link>
+<link>http://streams.tvknob.com/tvloops/CH3/ch3.wsx</link>
 <thumbnail>http://i.imgur.com/fgWwFdX.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PG's County Public Schools</title>
+<link>http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8</link>
+<thumbnail></thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
