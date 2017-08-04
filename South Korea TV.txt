@@ -15,6 +15,27 @@
 </item>
 
 <item>
+<title>CBS TV</title>
+<link>http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCTV</title>
+<link>http://122.202.129.136:1935/live/ch5/playlist.m3u8</link>
+<thumbnail>http://payload497.cargocollective.com/1/19/633459/12251667/KCTV_011_1280.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KCTV-N</title>
+<link>http://122.202.129.136:1935/live/ch4/hasbahca.m3u8</link>
+<thumbnail>http://livesport.im/wp-content/uploads/2015/11/KCTV-N.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>KBS 2</title>
 <link>http://123.108.164.71/etv2/phd847/playlist.m3u8</link>
 <thumbnail>https://www.pshafc.com/wp-content/uploads/2016/07/kbs2.png</thumbnail>
@@ -32,6 +53,27 @@
 <title>KTV</title>
 <link>http://111.118.21.79/etv1/phd393/playlist.m3u8</link>
 <thumbnail>http://i68.tinypic.com/28v99if.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kids TV</title>
+<link>http://edge2.everyon.tv/etv2/phd1043/HasBahCa.m3u8</link>
+<thumbnail>https://static.tumblr.com/b93be2a5558dc60336f00e0c50bdddc4/ff8iytb/qrYoky9iv/tumblr_static_3gybfn8nbji8sgs80c4ow0kk0_640_v2.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTV</title>
+<link>http://111.118.21.79/etv1/phd393/playlist.m3u8</link>
+<thumbnail>http://i68.tinypic.com/28v99if.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Chosun</title>
+<link>http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8</link>
+<thumbnail>http://www.freeetv.com/images/tv8/tvchosum.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
