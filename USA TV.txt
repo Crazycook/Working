@@ -14,6 +14,13 @@
 </item>
 
 <item>
+<title>Animal Planet</title>
+<link>http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>ATL 26</title>
 <link>rtmp://64.22.99.223/AtlantaGALIVE/AtlantaGALIVE.stream</link>
 <thumbnail>http://i.imgur.com/U8kTXx3.png</thumbnail>
@@ -48,6 +55,13 @@
 </item>
 
 <item>
+<title>Classic Arts Showcase</title>
+<link>http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>The Florida Channel</title>
 <link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
 <thumbnail>http://i.imgur.com/DRHjFt5.png</thumbnail>
@@ -76,6 +90,20 @@
 </item>
 
 <item>
+<titleNASA TV Public</title>
+<link>http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NASA TV Media</title>
+<link>https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8</link>
+<thumbnail>http://i.imgur.com/PWiwQLJ.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>E/I</title>
 <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8</link>
 <thumbnail>http://i.imgur.com/uHfkOFl.png</thumbnail>
@@ -83,8 +111,22 @@
 </item>
 
 <item>
+<title>Free Speech TV</title>
+<link>https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png</link>
+<thumbnail>http://i.imgur.com/uHfkOFl.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>UCTV</title>
 <link>http://ucsdtv-wowza.ucsd.edu:1935/live/live_1200/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Y2rKE0p.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>UCTV</title>
+<link>http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/Y2rKE0p.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -132,6 +174,13 @@
 </item>
 
 <item>
+<title>InfoWars</title>
+<link>http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/771129571143917568/ALsCCg-v.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>WCCA TV13 - 13CTV - Worcester - MA Massachusetts</title>
 <link>rtmp://cp80255.live.edgefcs.net/live/T01011@15322</link>
 <thumbnail>http://i.imgur.com/APZautc.jpg</thumbnail>
@@ -146,8 +195,14 @@
 </item>
 
 <item>
-<title>Songwriters Series
-</title>
+<title>SafeTV</title>
+<link>http://live.ipointcable.com/safetv/myStream.sdp/playlist.m3u8</link>
+<thumbnail>https://image.roku.com/channels/images/742438d2db584d6b93a617eacf0ad1f8-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Songwriters Series</title>
 <link>http://streams.tvknob.com/tvloops/CH3/ch3.wsx
 </link>
 <thumbnail>http://i.imgur.com/fgWwFdX.jpg</thumbnail>
@@ -239,8 +294,15 @@
 </item>
 
 <item>
-<title>VTV Channel 6 - 6CTV - Vernal - UT Utah</title>
-<link>http://hls.ksl.com/t/strata/playlist.m3u8</link>
+<title>WCTV Washoe County - 217CTV - Reno - NV Nevada</title>
+<link>rtmp://granicus.mpl.miisolutions.net/granicus-livepull-us-6/washoe-nv/G0511_001</link>
+<thumbnail>http://i.imgur.com/fA0G0NZ.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>VoA</title>
+<link>https://www.bbgdirect.com/Content/images/VOA-logo.png</link>
 <thumbnail>http://i.imgur.com/ZH75apu.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
