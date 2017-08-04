@@ -15,9 +15,44 @@
 </item>
 
 <item>
+<title>CGTN</title>
+<link>http://live.cgtn.com/500/prog_index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CGTN America</title>
+<link>http://live.cgtn.com/cctv-d.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png8</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>China Business Network</title>
+<link>http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>EBS</title>
 <link>http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Fujian Culture</title>
+<link>http://27.148.240.207/PLTV/88888888/224/3221226040/index.m3u8</link>
+<thumbnail>http://www.guojitv.com/tv/upfile/69af6586-de97-40a8-840c-f9831840f736.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Guangdong TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fc/Gdtv.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -29,11 +64,65 @@
 </item>
 
 <item>
+<title>Hunan TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8</link>
+<thumbnail>https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jilin TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8</link>
+<thumbnail>https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
+<title>Lifestyle</title>
+<link>http://27.148.240.138/PLTV/88888888/224/3221226091/index.m3u8</link>
+<thumbnail>http://www.xtseo.com/uploads/allimg/160510/5-160510153950352.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Sichuan TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8</link>
+<thumbnailhttps://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Shandong TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8</link>
+<thumbnail>http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Shaanxi TV</title>
+<link>http://27.148.240.208/PLTV/88888888/224/3221226062/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/26/Shaanxi_TV_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>SinoVision (US)</title>
 <link>http://ec.sinovision.net/video/ts/lv.m3u8</link>
 <thumbnail>https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>Tianjin TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
-
+<item>
+<title>Zhejiang TV</title>
+<link>http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8</link>
+<thumbnail>http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
