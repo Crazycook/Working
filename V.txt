@@ -130,9 +130,3 @@
 <thumbnail>https://i.imgur.com/40Kp6vx.jpg</thumbnail>
 <fanart>https://i.imgur.com/cgkFXYo.jpg</fanart>
 </item>
-<item>
-<title>V.S02E11.480p</title>
-<link>http://dl2.mihanpix.com/Serial/V/S02/V.S02E11.480p.mkv.mkv</link>
-<thumbnail>https://i.imgur.com/40Kp6vx.jpg</thumbnail>
-<fanart>https://i.imgur.com/cgkFXYo.jpg</fanart>
-</item>
