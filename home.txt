@@ -589,6 +589,17 @@ Executive producers: Steven Spielberg, Stephen King</info>
 </channel>
 
 <channel>
+<name>V</name>
+<thumbnail>https://i.imgur.com/40Kp6vx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/V.txt</externallink>
+<fanart>https://i.imgur.com/cgkFXYo.jpg</fanart>
+<info>V
+An extraterrestrial race arrives on Earth with seemingly good intentions, only to slowly reveal their true machinations the more ingrained into society they become.
+Creators: Kenneth Johnson, Scott Peters
+Stars: Elizabeth Mitchell, Morris Chestnut, Joel Gretsch </info>
+</channel>
+
+<channel>
 <name>Vikings</name>
 <thumbnail>https://img.bolumsonucanavari.com/images/news/82692_550x250.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Vikings.txt</externallink>
