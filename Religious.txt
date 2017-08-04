@@ -13,6 +13,34 @@
 </item>
 
 <item>
+<title>Amazing Discoveries</title>
+<link>rtmp://amazingdrtmp.tulix.tv/amazingdiscoveries//mystream2</link>
+<thumbnail>http://i.imgur.com/jJ0R7yj.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Amazing Facts TV (USA)</title>
+<link>http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aparecida (Brazil)</title>
+<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Logo_rede_aparecida_comunicacao.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CANAL SHOW DA FÉ</title>
+<link>http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_600_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i.imgur.com/4HY2LbO.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Catholic TV - 268CTV - Watertown - MA</title>
 <link>http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8</link>
 <thumbnail>http://i.imgur.com/vkp2eGg.png</thumbnail>
@@ -20,9 +48,23 @@
 </item>
 
 <item>
+<title>CBN TV News - NTV - Virginia Beach - VA</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8</link>
+<thumbnail>http://i.imgur.com/tLbd95T.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>CBN News</title>
 <link>http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Cornerstone TV (USA)</title>
+<link>http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8</link>
+<thumbnail>https://89rrj5puz31fk9l54floftjs-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/cornerstone.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -37,6 +79,13 @@
 <title>CTN KNLJ CTN25 - 20 DT - Jefferson City - MO</title>
 <link>rtmp://rtmp.ottdemo.rrsat.com:1935/ctntv/ctntv1</link>
 <thumbnail>http://i.imgur.com/kmAaJZ9.pngg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Cristiana TV</title>
+<link>rtmp://188.165.135.22/malaga/livestream</link>
+<thumbnail>http://i.imgur.com/OpxE6SZ.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -83,9 +132,93 @@
 </item>
 
 <item>
+<title>GOD TV (USA)</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8</link>
+<thumbnail>https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Gospel TV</title>
+<link>rtmp://188.165.135.22/gospeltv/livestream</link>
+<thumbnail>http://i.imgur.com/jJQiIAK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jesus Cristo - A Palavra (Brazil)</title>
+<link>http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8</link>
+<thumbnail>http://jesuscristoapalavra.com/website/template/img/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jewish Life TV (USA)</title>
+<link>http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8</link>
+<thumbnail>http://www.jltv.tv/images/jltvLogoHor.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>JUCE TV (USA)</title>
+<link>http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8</link>
+<thumbnail>http://www.iptvcristiano.com/uploads/channels/56/logo_thumb.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kabbalah for the People (Israel)</title>
+<link>http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8</link>
+<thumbnail>http://shemeshnet.co.il/uploads/w-480/1494574673.7257.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kingdom tv</title>
+<link>http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>KTO (France)</title>
+<link>http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8</link>
+<thumbnail>https://www.don-bosco.net/images/stories/articles/actualites2/2015/01-janvier/petites/KTOTV_Salesiens_Bosco.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>K-TV (Austria)</title>
+<link>http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Musayof (Israel)</title>
+<link>http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8</link>
+<thumbnail>http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MTM TV (Jamaica)</title>
+<link>http://media.btbn.tv/mtmtv/live/playlist.m3u8</link>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Newsmax TV</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/kdzkXVN.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Novo Tempo (Brazil)</title>
+<link>http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -97,9 +230,93 @@
 </item>
 
 <item>
+<title>Omega (Iceland)</title>
+<link>http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8</link>
+<thumbnail>http://old.omega.is/Broadcast_files/image002.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rap Resurrection (USA)</title>
+<link>http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/616609783274164224/waq5RhQO_400x400.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>REede FAMÍLIA</title>
+<link>http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8</link>
+<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede Gospel (Brazil)</title>
+<link>http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8</link>
+<thumbnail>http://i67.tinypic.com/2d7vy4n.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede Seculo 21 (Brazil)</title>
+<link>http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8</link>
+<thumbnail>http://tvclaret.com/upload/claretianocms/22/programa/68.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rede VIida</title>
+<link>http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8</link>
+<thumbnail>http://i.imgur.com/RydXcsv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Rhema Vision</title>
 <link>http://va1.ministeriotv.com:1936/64/stream/chunklist_w738075461.m3u8</link>
 <thumbnail>https://static-s.aa-cdn.net/img/gp/20600005050912/yRjWrcKCaTuDR0yFvkLO25ogsSDBoobqAQWq7fZqlhRmiAHymO1aDDLS50x4mOir4A=w300?v=1</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Santuario de Fatima</title>
+<link>http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link>
+<thumbnail>http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SBN GLOBAL</title>
+<link>http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8</link>
+<thumbnail>http://i.imgur.com/K3DMh6V.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Swamiji TV (Austria)</title>
+<link>http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8</link>
+<thumbnail>https://www.vishwaguruji.org/images/our-projects/swamiji-tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>The Dove (USA)</title>
+<link>http://1.bp.blogspot.com/-VPghX48O-hU/Ug_1A4i06VI/AAAAAAAAAto/SSkrT3mljh8/s1600/The+Dove+TV+%2526+Radio+Channel+Icon.jpg</link>
+<thumbnail>https://www.vishwaguruji.org/images/our-projects/swamiji-tv.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TBN</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8</link>
+<thumbnail>http://logonoid.com/images/tbn-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TBN Salsa</title>
+<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN11a_delivery@332897/master.m3u8</link>
+<thumbnail>http://i.imgur.com/hL8xuBr.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -111,16 +328,65 @@
 </item>
 
 <item>
-<title>Tv Cret</title>
-<link>http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8</link>
-<thumbnail>http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.pn</thumbnail>
+<title>TV Arca da Alianca (Brazil)</title>
+<link>http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8</link>
+<thumbnail>http://aainfo.com.br/wp/wp-content/uploads/2015/05/tv-aovivo.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
-<title>Santuario de Fatima</title>
-<link>http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8</link>
-<thumbnail>http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg</thumbnail>
+<title>TV A Caminho da Luz (Brazil)</title>
+<link>http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8</link>
+<thumbnail>http://files.cejn4.webnode.com/200003588-a2e9ba4dbe/Links_TVs_TV%20ACaminhodaLuz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV 2000 (Italy)</title>
+<link>http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8</link>
+<thumbnail>http://www.i-italy.tv/wp/wp-content/uploads/2016/09/TESTATATV20001.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Aparecida</title>
+<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link>
+<thumbnail>http://i.imgur.com/OyUbRWe.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tv Cret</title>
+<link>http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8</link>
+<thumbnail>http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Cristo Vive (Brazil)</title>
+<link>http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8</link>
+<thumbnail>http://2ki75z26cxs83vw1ja1h5j8n.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Jesus Cristo</title>
+<link>http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?wowzasessionid=2034189416</link>
+<thumbnail>http://i.imgur.com/lEuG6lV.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Novo Tempo</title>
+<link>http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8</link>
+<thumbnail>http://i.imgur.com/oUwjn5s.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Verdade (Brazil)</title>
+<link>http://ocatv.mcgi.me:1935/public/247_es/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -146,106 +412,8 @@
 </item>
 
 <item>
-<title>CBN TV News - NTV - Virginia Beach - VA</title>
-<link>http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8</link>
-<thumbnail>http://i.imgur.com/tLbd95T.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Cristiana TV</title>
-<link>rtmp://188.165.135.22/malaga/livestream</link>
-<thumbnail>http://i.imgur.com/OpxE6SZ.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Gospel TV</title>
-<link>rtmp://188.165.135.22/gospeltv/livestream</link>
-<thumbnail>http://i.imgur.com/jJQiIAK.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Kingdom tv</title>
-<link>http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8</link>
-<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>SBN GLOBAL</title>
-<link>http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8</link>
-<thumbnail>http://i.imgur.com/K3DMh6V.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>TBN</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8</link>
-<thumbnail>http://logonoid.com/images/tbn-logo.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>TBN Salsa</title>
-<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN11a_delivery@332897/master.m3u8</link>
-<thumbnail>http://i.imgur.com/hL8xuBr.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Amazing Discoveries</title>
-<link>rtmp://amazingdrtmp.tulix.tv/amazingdiscoveries//mystream2</link>
-<thumbnail>http://i.imgur.com/jJ0R7yj.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>KSCE Life 38 - 39 DT - El Paso - TX</title>
 <link>http://fss28.streamhoster.com/lv_rod_tvf1/broadcast16/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/7ZqVvlY.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>CANAL SHOW DA FÉ</title>
-<link>http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/index_600_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://i.imgur.com/4HY2LbO.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>REede FAMÍLIA</title>
-<link>http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8</link>
-<thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Rede VIida</title>
-<link>http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8</link>
-<thumbnail>http://i.imgur.com/RydXcsv.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>TV Aparecida</title>
-<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8</link>
-<thumbnail>http://i.imgur.com/OyUbRWe.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>TV Jesus Cristo</title>
-<link>http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?wowzasessionid=2034189416</link>
-<thumbnail>http://i.imgur.com/lEuG6lV.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>TV Novo Tempo</title>
-<link>http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8</link>
-<thumbnail>http://i.imgur.com/oUwjn5s.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
