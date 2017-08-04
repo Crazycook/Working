@@ -1,4 +1,38 @@
 <item>
+<title>Create and Craft</title>
+<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
+<thumbnail>http://www.createandcraft.com/img/create-and-craft-logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EVINE Live </title>
+<link>http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8</link>
+<thumbnail>https://i.imgur.com/7Tsxbmt.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>HSN</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
+<thumbnail>https://i.imgur.com/1S98zQm.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Ideal World</title>
+<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/mGJFh4K.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jewellery Maker</title>
+<link>http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8</link>
+<thumbnail>https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>QVC 1</title>
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
@@ -13,6 +47,17 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+mgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>QVC 4</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
+<thumbnail>https://i.imgur.com/Dmkf3Z8.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>QVC 3</title>
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
 <thumbnail>https://i.imgur.com/Dmkf3Z8.jpg</thumbnail>
@@ -25,6 +70,12 @@
 <thumbnail>https://i.imgur.com/Dmkf3Z8.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>QVC Style</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png</thumbnail>
+<fanart>http://i.i
 
 <item>
 <title>QVC Germany</title>
@@ -40,30 +91,3 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-<item>
-<title>HSN</title>
-<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
-<thumbnail>https://i.imgur.com/1S98zQm.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>EVINE Live </title>
-<link>http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/layer1.m3u8</link>
-<thumbnail>https://i.imgur.com/7Tsxbmt.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Create and Craft</title>
-<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
-<thumbnail>http://www.createandcraft.com/img/create-and-craft-logo.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Ideal World </title>
-<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/mGJFh4K.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
