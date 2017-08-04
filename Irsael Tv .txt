@@ -63,9 +63,23 @@
 </item>
 
 <item>
+<title>Channel 2</title>
+<link>http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8</link>
+<thumbnail>http://img.mako.co.il/2014/05/18/B-news_.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Channel 10</title>
 <link>http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8</link>
 <thumbnail>http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Channel 20</title>
+<link>http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8</link>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -84,6 +98,13 @@
 </item>
 
 <item>
+<title>Hidabroot TV<title>
+<link>https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8</link>
+<thumbnail>http://www.tvland.co.il/Pics/hidabrutbig.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Reshet</title>
 <link>http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8</link>
 <thumbnail>http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg</thumbnail>
@@ -91,9 +112,23 @@
 </item>
 
 <item>
+<title>KAN 11</title>
+<link>http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Keshet </title>
 <link>http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8</link>
 <thumbnail>http://images.globes.co.il/Images/NewGlobes/big_image/2013/keshet-575.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ILand TV (Russian)</title>
+<link>http://146.185.61.140:1935/live/myStream/playlist.m3u8</link>
+<thumbnail>https://soombo.com/assets/images/200_1457920745.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
