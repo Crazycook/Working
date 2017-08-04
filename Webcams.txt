@@ -46,6 +46,35 @@
 <link>http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8</link>
 <thumbnail>http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg</thumbnail>
 </item>
+<item>
+<title>TLC Cupcake Cam</title>
+<link><http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8/link>
+<thumbnail>http://r.ddmcdn.com/s_f/o_1/TLC/uploads/2017/02/Untitled-design-2.jpg</thumbnail>
+</item>
+<item>
+<title>DC Eagle Cam</title>
+<link>http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8</link>
+<thumbnail>http://www.dceaglecam.org/img/american_eagle_foundation_logo.png</thumbnail>
+</item>
+<item>
+<title>Int'l Space Station 1</title>
+<link>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg</thumbnail>
+</item>
+<item>
+<title>Int'l Space Station 2</title>
+<link>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</link>
+<thumbnail>http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg</thumbnail>
+</item>
+<item>
+<title>Washington DC - White House</title>
+<link>http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8</link>
+<thumbnail>http://cdn.history.com/sites/2/2015/07/hith-white-house-attacks-E.jpeg</thumbnail>
+</item>
+<item>
+<title>Washington DC -Washington Monument</title>
+<link>http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8</link>
+<thumbnail>http://wtop.com/wp-content/uploads/2015/08/540809551.jpg</thumbnail>
 </item>
 <item>
 <title>NYC 5th Avenue</title>
@@ -104,6 +133,11 @@
 <thumbnail>http://imageupper.com/s08/1/6/K14767538582167330_1.jpg</thumbnail>
 </item>
 <item>
+<title>KIRO Cam</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8</link>
+<thumbnail>http://images.mentalfloss.com/sites/default/files/istock_000008381799_small.jpg</thumbnail>
+</item>
+<item>
 <title>Seattle Downtown</title>
 <link>http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8</link>
 <thumbnail>http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg</thumbnail>
@@ -112,6 +146,11 @@
 <title>Seattle Space Needle</title>
 <link>http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8</link>
 <thumbnail>http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg</thumbnail>
+</item>
+<item>
+<title>KNTV Cam</title>
+<link>http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8</link>
+<thumbnail>http://www.america2day.com/media/1110/conversions/full.jpg</thumbnail>
 </item>
 <item>
 <title>Toronto CN Tower 1</title>
