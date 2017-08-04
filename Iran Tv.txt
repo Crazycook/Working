@@ -61,3 +61,11 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+
+<item>
+<title>Radio Farda</title>
+<link>http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8</link>
+<thumbnail>http://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
