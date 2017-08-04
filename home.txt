@@ -459,7 +459,21 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 
 <channel>
-<name>Star Trek :Voyager</name>
+<name>Star Trek : The Next Generation</name>
+<thumbnail>https://i.imgur.com/8ewtEoS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20TNG</externallink>
+<fanart>https://i.imgur.com/vvNgilU.jpg</fanart>
+<info>Star Trek: The Next Generation
+American television series
+
+Featuring a bigger and better USS Enterprise, this series is set 78 years after the original series -- in the 24th century. Instead of Capt. James Kirk, a less volatile and more mature Capt. Jean-Luc Picard heads the crew of various humans and alien creatures in their adventures in space -- the final frontier.
+First episode date: September 28, 1987
+Final episode date: May 23, 1994
+Theme song: Star Trek - The Next Generation Theme</info>
+</channel>
+
+<channel>
+<name>Star Trek : Voyager</name>
 <thumbnail>https://i.imgur.com/fPRJRzB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20Voyager.txt</externallink>
 <fanart>https://i.imgur.com/3PNZN4T.jpg</fanart>
