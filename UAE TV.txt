@@ -78,6 +78,20 @@
 </item>
 
 <item>
+<title>Al Dafrah TV</title>
+<link>http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8</link>
+<thumbnail>http://i68.tinypic.com/29n9sg4.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CNBC Arabiya</title>
+<link>http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Dubai Racing 1</title>
 <link>http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8</link>
 <thumbnail>http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg</thumbnail>
@@ -120,8 +134,36 @@
 </item>
 
 <item>
+<title>Dubai One</title>
+<link>http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8</link>
+<thumbnail>http://www.arabe-media.com/tv/img315.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai One</title>
+<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8</link>
+<thumbnail>http://www.arabe-media.com/tv/img315.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Sports</title>
+<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Dubai Zaman</title>
 <link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Dubai Zaman</title>
+<link>http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman</link>
 <thumbnail>https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -137,6 +179,27 @@
 <title>Emarat TV</title>
 <link>http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat</link>
 <thumbnail>http://www.emarattv.ae/public/img/branding/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MBC 2</title>
+<link>http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MBC Action</title>
+<link>http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8</link>
+<thumbnail>http://www.creativeworldtrade.com/Watch%20&%20Listen%20CWT%27s%20Main%20Middle%20Eastern%20TVs%20Live%20Online%2024%20Hours%20Main%20Page/CWT%27s%20MBC%20Action%20Movies%20TV%20Channel%20Logos/CWT%27s%20MBC%20Action%20Movies%20TV%20Channel%20Logo1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MBC Max</title>
+<link>http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8</link>
+<thumbnail>http://www.creativeworldtrade.com/Watch%20&%20Listen%20CWT%27s%20Main%20Middle%20Eastern%20TVs%20Live%20Online%2024%20Hours%20Main%20Page/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logos/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logo2.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -168,7 +231,6 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
-
 <item>
 <title>Sama Dubai</title>
 <link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8</link>
@@ -197,3 +259,16 @@
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
+<title>YAS Sports</title>
+<link>http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8</link>
+<thumbnail>http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Zee Aflam (Hindi)</title>
+<link>http://hls.alwhdat.net/ios/zee_aflam_t.m3u8</link>
+<thumbnail>http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/Dittotv-new-logos/ZeeAflam300x248.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
