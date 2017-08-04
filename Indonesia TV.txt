@@ -1,28 +1,9 @@
 <item>
-<item>
-<title>RCTI</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
-<thumbnail>http://imgur.com/TmVzJsd</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
-<title>INEWS</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8u8</link>
-<thumbnail>http://imgur.com/RO3Qi9G</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<title>Rajawali TV</title>
-<link>rtmp://203.153.97.35/live/livestream</link>
-<thumbnail>http://imgur.com/Qq79lSJ</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>MNC TV</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8</link>
-<thumbnail>http://imgur.com/6PLYXtq</thumbnail>
+<title>ANTV</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_antv_big1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -34,8 +15,127 @@
 </item>
 
 <item>
-<title>Fail Army TV</title>
-<link>http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8</link>
-<thumbnail>http://i.imgur.com/WdUIh6W.jpg</thumbnail>
+<title>Indosiar</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8</link>
+<thumbnail>http://s28.postimg.org/lpinb43pp/indosiar.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Insan TV</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>INEWS</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8u8</link>
+<thumbnail>http://imgur.com/RO3Qi9G</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jakarta Globe (English)</title>
+<link>http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2121000.m3u8</link>
+<thumbnail>http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Kompas TV</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8</link>
+<thumbnail>https://s27.postimg.org/t56iq66ib/insan_id_tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MetroTV</title>
+<link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
+<thumbnail>http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg/thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MNC TV</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8</link>
+<thumbnail>http://imgur.com/6PLYXtq</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RTV</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_rtv_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rajawali TV</title>
+<link>rtmp://203.153.97.35/live/livestream</link>
+<thumbnail>http://imgur.com/Qq79lSJ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>RCTI</title>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
+<thumbnail>http://imgur.com/TmVzJsd</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SCTV</title>
+<link><https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8/link>
+<thumbnail>http://s24.postimg.org/6ld67eod1/sctv_id.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Trans 7</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_trans7_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Trans TV</title>
+<linkhttps://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8></link>
+<thumbnail>http://images2.useetv.com/logo_transtv_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Edukasi</title>
+<link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
+<thumbnail>https://www.etere.com/DocImageArchive/636029732513782479.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV One</title>
+<link>https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvone_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVRI</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVRI</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvri_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVRI 4</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvri_big1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
