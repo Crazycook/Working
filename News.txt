@@ -103,14 +103,6 @@
 </item>
 
 <item>
-<title>Earth TV</title>
-<link>http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8?5842ba6cbbf0479c3de0a48f</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-
-<item>
 <title>Arirang</title>
 <link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
 <thumbnail>http://www.isv.net/logos/arirangtv.png</thumbnail>
@@ -135,6 +127,13 @@
 <title>ABC News 3 </title>
 <link>http://abclive.abcnews.com/i/abc_live3@136329/index_2500_av-b.m3u8</link>
 <thumbnail>https://i.imgur.com/9EO0Ycz.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ABC News 4</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://i.imgur.com/Bn5H9LA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -204,6 +203,13 @@
 </item>
 
 <item>
+<title>NBC News Live</title>
+<link>http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-xiyVh-oNzJE/AAAAAAAAAAI/AAAAAAAAAAA/5FaR9rGW-F4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>MSNBC</title>
 <link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_796_av-b.m3u8?</link>
 <thumbnail>http://i.imgur.com/nFoxlNY.png</thumbnail>
@@ -219,7 +225,7 @@
 
 <item>
 <title>Fox News Radio</title>
-<link>http://msnbc2prod-lh.akamaihd.net:80/i/msnbc2_live01@9615/index_1200_av-b.m3u8</link>
+<link>http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8</link>
 <thumbnail>http://i.imgur.com/Bvaoiu7.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -276,6 +282,13 @@
 <item>
 <title>Bloomberg</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8</link>
 <thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -393,9 +406,23 @@
 </item>
 
 <item>
+<title>Russia Today</title>
+<link>http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8</link>
+<thumbnail>https://i.imgur.com/q9kAq5F.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>RT Documentary</title>
 <link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/NuqR2K6.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg TV Europe</title>
+<link>http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8</link>
+<thumbnail>https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -459,6 +486,13 @@
 <title>Deutsche Welle Latinoamérica</title>
 <link></link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>earthTV</title>
+<link>http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-7Xjq8QzxxS0/WTEG5Ex_DII/AAAAAAAAAws/htyaTT4c7JcaDLXUFVrpOulxk2dyym46QCLcB/s1600/earthtv.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -556,6 +590,13 @@
 <item>
 <title>Aljazeera English</title>
 <link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8</link>
+<thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Aljazeera English</title>
+<link>http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8</link>
 <thumbnail>https://i.imgur.com/ouE9IkA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
