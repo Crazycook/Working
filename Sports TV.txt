@@ -137,8 +137,8 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>MOTORSPORT USA</title>
-<link>http://motorsport.hopto.org:8080/</link>
-<thumbnail>https://i.imgur.com/2Sy9aLY.jpg</thumbnail>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8/</link>
+<thumbnail>http://channelpear.com/images/media/5249.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -146,6 +146,20 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <title>NBC Golf</title>
 <link>http://185.142.239.164:3135/NBC/Golf/index.m3u8?token=MzhiMzJhMTM2OTI5NTc2Yzc0ZTA1NjIzMzI2ZWRlYzA6MTQ5MzgzNjExNA==</link>
 <thumbnail>8H31K.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MLB Network</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/5249.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NFL Now</title>
+<link>http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8</link>
+<thumbnail>http://channelpear.com/images/media/9095.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -159,6 +173,13 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <item>
 <title>Olympic Channel</title>
 <linkhttp://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
+<thumbnail>http://i.imgur.com/MzaONes.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Olympic Channel</title>
+<link>http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8</link>
 <thumbnail>http://i.imgur.com/MzaONes.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -178,14 +199,29 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 </item>
 
 <item>
+<title>PAC-12 Net. (Arizona)</title>
+<link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+<thumbnail>https://i.imgur.com/xNHDDG1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>PAC-12 Net. (Bay Area)</title>
 <link>http://xrxs.net/video/live-p12baya-4728.m3u8?</link>
 <thumbnail>https://i.imgur.com/0nZVP7Y.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+<item>
 <title>PAC-12 Net. (Los Angeles)</title>
 <link>http://xrxs.net/video/live-p12losa-4728.m3u8?</link> 
+<thumbnail>https://i.imgur.com/5iPdi3A.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PAC-12 Net. (Los Angeles)</title>
+<link>http://xrxs.net/video/live-p12losa-2328.m3u8</link> 
 <thumbnail>https://i.imgur.com/5iPdi3A.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -194,6 +230,20 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <title>PAC-12 Net. (Moutain)</title>
 <link>http://xrxs.net/video/live-p12moun-4728.m3u8?</link>
 <thumbnail>https://i.imgur.com/96oPVY7.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PAC-12 Net. (Moutain)</title>
+<link>http://xrxs.net/video/live-p12moun-2328.m3u8</link>
+<thumbnail>https://i.imgur.com/96oPVY7.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PAC-12 Net. (Oregon)</title>
+<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<thumbnail>https://i.imgur.com/wAGi4NP.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -207,6 +257,13 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 <item>
 <title>PAC-12 Net. (Washington)</title>
 <link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
+<thumbnail>https://i.imgur.com/WIBvu9n.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>PAC-12 Net. (Washington)</title>
+<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
 <thumbnail>https://i.imgur.com/WIBvu9n.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
