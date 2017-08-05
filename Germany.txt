@@ -8,6 +8,13 @@
 </item>
 
 <item>
+<title>Allgau TV</title>
+<link>http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8</link>
+<thumbnail>http://www.radioszene.de/wp-content/uploads/2016/12/allgaeu-tv-logo-fb-min.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg</fanart>
+</item>
+
+<item>
 <title>Austria 24 TV</title>
 <link>rtmp://streaming.austria24.tv/live/stream_360p</link>
 <thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/austria_24_tv_at.jpg</thumbnail>
@@ -42,6 +49,20 @@
 </item>
 
 <item>
+<title>Baden TV</title>
+<link>http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8</link>
+<thumbnail>http://imgur.com/1WmPT0X</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Blizz TV</title>
+<link>http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>BLK Regional TV Burgenlandkreis</title>
 <link>rtmp://62.113.210.250/medienasa-live//BLKonline_high</link>
 <thumbnail>http://imgur.com/65iApfL</thumbnail>
@@ -52,6 +73,13 @@
 <title>Das Erste</title>
 <link>http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8</link>
 <thumbnail>http://imgur.com/AbEDAaQ</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Deluxe Music</title>
+<link>http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -70,9 +98,23 @@
 </item>
 
 <item>
+<title>Elbekanal</title>
+<link>http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8</link>
+<thumbnail>http://cdn-radiotime-logos.tunein.com/s100563q.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Elbe Kanal</title>
 <link>rtmp://62.113.210.250/medienasa-live/elbe_high</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EOTVl</title>
+<link>http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -101,6 +143,13 @@
 <title>Medienasa Live</title>
 <link>rtmp://62.113.210.250/medienasa-live/tvhalle_high</link>
 <thumbnail>http://imgur.com/qld7Chj</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Muenchen TV</title>
+<link>http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8</link>
+<thumbnail>http://imgur.com/hYt90Va</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -182,6 +231,13 @@
 </item>
 
 <item>
+<title>QVC</title>
+<link>http://ios-stream.qvc.de/qvc.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>RBW</title>
 <link>rtmp://62.113.210.250/medienasa-live/rbw_high</link>
 <thumbnail>http://imgur.com/S8ubn4l</thumbnail>
@@ -192,6 +248,13 @@
 <title>RFH</title>
 <link>rtmp://62.113.210.250/medienasa-live/RFH_high</link>
 <thumbnail>http://imgur.com/fvwKuVG</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Rheinmain TV</title>
+<link>http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -218,6 +281,13 @@
 
 <item>
 <title>Tele Basel</title>
+<link>http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8</link>
+<thumbnail>http://imgur.com/aXCrEZS</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Tele Basel</title>
 <link>http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8</link>
 <thumbnail>http://imgur.com/aXCrEZS</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -239,8 +309,15 @@
 
 <item>
 <title>TV Touring Schweinfurt</title>
-<link>http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u88</link>
+<link>http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8</link>
 <thumbnail>http://imgur.com/eoOAeCx</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV Touring Würzburg</title>
+<link>http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8</link>
+<thumbnail>http://imgur.com/k8uGgPR</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -269,5 +346,19 @@
 <title>WDR Fernsehen</title>
 <link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200pxWdr_fernsehen_logo_2016.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>WDR Fernsehen</title>
+<link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200pxWdr_fernsehen_logo_2016.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Welt der Wunder</title>
+<link>http://live.vidoo.de/live/weltderwunder/f1tv.m3u8</link>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
