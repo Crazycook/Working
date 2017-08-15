@@ -138,13 +138,80 @@
 </item>
 <item>
 <title>12 Monkeys S02E11 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%202/12%20Monkeys%20S02E11%20480p%20HDTV<link>%20%5bFilmia%5d.mkv</link></link>
+<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%202/12%20Monkeys%20S02E11%20480p%20HDTV<link>%20%5bFilmia%5d.mkv</link>
 <thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
 <fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
 </item>
 <item>
 <title>12 Monkeys S02E13 480p HDTV</title>
 <link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%202/12%20Monkeys%20S02E13%20480p%20HDTV%20%5bFilmia%5d.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E01 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E01.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E02 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E02.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E03 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E03.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E04 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E04.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E05 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E05.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E06 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E06.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E07 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E07.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E08 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E08.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E09 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E09.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys S03E10 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E10.x265.720p.HDTV.RMTeam.mkv</link>
+<thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
+<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
+</item>
+<item>
+<title>12 Monkeys whaa 720p x265</title>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E10.x265.720p.HDTV.RMTeam.mkv</link>
+<link>http://dl.wikiseda.net/series/12%20Monkeys/S03.720p.x265/12.Monkeys.S03E10.x265.720p.HDTV.RMTeam.mkv</link>
 <thumbnail>http://i.imgur.com/FhtFXC0.png</thumbnail>
 <fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
 </item>
