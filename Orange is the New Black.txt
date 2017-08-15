@@ -156,193 +156,195 @@
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E01.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E02.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e3.mp4</link>
+<link>
+http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E03.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E04.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E05.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E06.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E07.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e8.mp4</link>
+<link>
+http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E08.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E09.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E10.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 11</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e11.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E11.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 12</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e12.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E12.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 3 Episode 13</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges1e13.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S03%20720p/Orange.Is.the.New.Black.S03E13.720p.BluRay.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E01.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E02.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E03.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E04.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E05.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E06.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 7</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e7.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E07.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E08.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E09.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 2 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E10.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 11</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e11.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E11.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 12</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e12.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E12.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 13</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e13.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S04.720p.BRRiP.ShAaNiG/Orange.Is.the.New.Black.S04E13.720p.BRRiP.ShAaNiG.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 1</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e1.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E01.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 2</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e2.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E02.720p.MkvCage.mkv4</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 3</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e3.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E03.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 4</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e4.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E04.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 5</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e5.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E05.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 6</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e6.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E06.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
@@ -354,37 +356,37 @@
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 8</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e8.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E08.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 9</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e9.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E09.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 10</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e10.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E10.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 11</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e11.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E11.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 5 Episode 12</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e12.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.Is.the.New.Black.S05E12.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
 <item>
 <title>Orange is the New Black – Season 4 Episode 13</title>
-<link>http://www.deadlyblogger.com/NewRelease/oranges2e13.mp4</link>
+<link>http://dl.wikiseda.net/series/Orange%20Is%20the%20New%20Black/S05.720p.MkvCage/Orange.is.the.New.Black.S05E13.720p.MkvCage.mkv</link>
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
