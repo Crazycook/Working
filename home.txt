@@ -391,6 +391,19 @@ Network : AMC</info>
 </channel>
 
 <channel>
+<name>Revolution</name>
+<thumbnail>https://i.imgur.com/plWqGHe.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Revolution.txt</externallink>
+<fanart>https://i.imgur.com/GHPjXtV.jpg</fanart>
+<info>Revolution
+American television series
+
+Fifteen years after an unknown event has caused all electricity to stop working, plunging the world into another dark age, people have adjusted to life without planes, high-tech communication, and electricity. In small farming communities, life seems sweeter at this slower pace, but danger and mystery lurk in the shadows. After the militia kills a man who -- supposedly -- had something to do with the blackout, his daughter teams with unlikely allies to determine the truth about the cataclysm in order to reclaim the future.
+Final episode date: May 21, 2014
+Network: NBC</info>
+</channel>
+
+<channel>
 <name>Rick and Morty</name>
 <thumbnail>https://imgur.com/rYoLlQC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Rick%20and%20Morty.txt</externallink>
