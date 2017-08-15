@@ -205,7 +205,7 @@ Sylvester McCoy	Seventh Doctor 7 September 1987 - 6 December 1989
 Paul McGann Eighth Doctor 27 May 1996
 </info>
 </channel>
-https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fawlty%20Towers.txt
+
 <channel>
 <name>Fawlty Towers</name>
 <thumbnail>https://i.imgur.com/RB4lqtE.jpg</thumbnail>
@@ -317,6 +317,20 @@ A nuclear mushroom cloud appears on the horizon -- and for the residents of Jeri
 First episode date: September 20, 2006
 Final episode date: March 25, 2008
 Network: CBS</info>
+</channel>
+
+<channel>
+<name>Kids in the Hall</name>
+<thumbnail>https://i.imgur.com/0Eg2Ue9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Kids%20in%20the%20Hall</externallink>
+<fanart>https://i.imgur.com/PyHlYGc.jpg</fanart>
+<info>The Kids in the Hall
+Canadian television show
+
+This series is a hilarious sketch comedy featuring five male actors who portray almost every character themselves, playing both male and female roles. Much of the dark humor focuses on wild characters, including the Chicken Lady, Idiot Boy and the Axe Murderer.
+Language: English
+Writers: Dave Foley, Kevin McDonald, Scott Thompson, MORE
+Networks: HBO, CBC Television</info>
 </channel>
 
 <channel>
