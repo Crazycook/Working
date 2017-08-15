@@ -118,6 +118,17 @@ Network: Syfy</info>
 </channel>
 
 <channel>
+<name>Being Erica</name>
+<thumbnail>https://i.imgur.com/wIWPdPs.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Being%20Erica.txt</externallink>
+<fanart>http://i.imgur.com/rbunHn3.png</fanart>
+<info>Being Erica
+Canadian comedy series
+
+Who hasn't wished, at least once, for the ability to go back in time and do something over? The under-achieving heroine in this show actually gets that chance. Erica Strange has tons of regrets in her young life - so many she's started a list. But when she shares her list with her therapist, he undertakes an unusual course of treatment: She is transported back in time and given the chance to make different decisions at pivotal moments in her life, based on her knowledge of the here and now. From first kisses to job interviews, Erica has the chance to completely remake her life or leave things as they are.</info>
+</channel>
+
+<channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
