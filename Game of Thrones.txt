@@ -356,3 +356,51 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
 <fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
 </item>
+<item>
+<title>Game of Thrones Season 7 Episode 1 Dragonstone</title>
+<link>http://dheval.eieidoh.net:8880/DataHoarder/GoT/Game.of.Thrones.S07E01.Dragonstone.1080p.AMZN.WEB-DL.DD%2b5.1.H.264-GoT.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 2 Stormborn </title>
+<link>http://dheval.eieidoh.net:8880/DataHoarder/GoT/Game.of.Thrones.S07E02.Stormborn.1080p.AMZN.WEB-DL.DD%2b5.1.H.264-GoT.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 3 The.Queens.Justice </title>
+<link>http://dheval.eieidoh.net:8880/DataHoarder/GoT/Game.of.Thrones.S07E03.The.Queens.Justice.1080p.AMZN.WEB-DL.DD%2b5.1.H.264-GoT.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 3 The.Spoils.of.War </title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E10.720p.HDTV.x265.ShAaNiG.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 4 Eastwatch </title>
+<link>http://dheval.eieidoh.net:8880/DataHoarder/GoT/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 5</title>
+<link>http://dheval.eieidoh.net:8880/DataHoarder/GoT/Game.of.Thrones.S07E05.Eastwatch.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 6</title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E10.720p.HDTV.x265.ShAaNiG.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
+<item>
+<title>Game of Thrones Season 7 Episode 7</title>
+<link>http://dl.wikiseda.net/series/Game%20of%20Thrones/S06.720p.x265/Game.of.Thrones.S06E10.720p.HDTV.x265.ShAaNiG.mkv</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Game_of_Thrones_title_card.jpg/250px-Game_of_Thrones_title_card.jpg</thumbnail>
+<fanart>http://images.techtimes.com/data/images/full/251811/games-of-thrones.png</fanart>
+</item>
