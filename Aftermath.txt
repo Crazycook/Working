@@ -1,78 +1,79 @@
 ﻿<item>
 <title>Aftermath S01E01</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E01.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E01.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E02</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E02.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E02.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E03</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E03.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E03.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
-<title>Aftermath ?S01E04</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E04.720p.HDTV.x264-[My-Film].mkv</link>
+<title>Aftermath S01E04</title>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E04.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E05</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E05.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E05.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E06</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E06.720p.HDTV.x264-[My-Film].mkv</link>
+<link>
+http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E07.720p.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E07</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E07.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E07.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E08</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E08.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E08.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E09</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E09.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E09.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E10</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E10.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E10.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E11</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E11.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E11.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E12</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E12.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/Aftermath.S01E12.720p.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
 <item>
 <title>Aftermath S01E13</title>
-<link>http://dl.my-film.org/serial/Aftermath/Season%201%20-%20720p%20HDTV/Aftermath.S01E13.720p.HDTV.x264-[My-Film].mkv</link>
+<link>http://dl.dlfile.pro/2/Aftermath/aftermath.s01e13.720p.hdtv.hevc.x265.mkv</link>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <fanart>http://i.imgur.com/xN7tOoF.jpg</fanart>
 </item>
