@@ -154,3 +154,237 @@
 <thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
 <fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
 </item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 1</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e1.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 2</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e2.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 3</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e3.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 4</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e4.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 5</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e5.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 6</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e6.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 7</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e7.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 8</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e8.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 9</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e9.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 10</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e10.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 11</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e11.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 12</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e12.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 3 Episode 13</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges1e13.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 1</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e1.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 2</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e2.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 3</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e3.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 4</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e4.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 5</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e5.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 6</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e6.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 7</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e7.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 8</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e8.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 9</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e9.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 2 Episode 10</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e10.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 11</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e11.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 12</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e12.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 13</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e13.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 1</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e1.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 2</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e2.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 3</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e3.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 4</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e4.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 5</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e5.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 6</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e6.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 7</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e7.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 8</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e8.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 9</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e9.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 10</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e10.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 11</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e11.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 5 Episode 12</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e12.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
+<item>
+<title>Orange is the New Black – Season 4 Episode 13</title>
+<link>http://www.deadlyblogger.com/NewRelease/oranges2e13.mp4</link>
+<thumbnail>http://i.imgur.com/ogA7zob.png</thumbnail>
+<fanart>http://i.imgur.com/tOuIE7o.jpg</fanart>
+</item>
