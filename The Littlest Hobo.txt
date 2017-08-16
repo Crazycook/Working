@@ -1,5 +1,11 @@
 ﻿<item>
 <title>The Littlest Hobo Season 1 Episode 1 Smoke</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=tnCyMpl4dhk</link>
+<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
+<fanart>http://i.imgur.com/CURhVhy.png</fanart>
+</item>
+<item>
+<title>The Littlest Hobo Season 1 Episode 1 Smoke</title>
 <utube>tnCyMpl4dhk</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
