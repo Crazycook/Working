@@ -590,7 +590,7 @@ Network: Hulu</info>
 <channel>
 <name>The Littlest Hobo</name>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Littles%20Hobo.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Littlest%20Hobo.txt</externallink>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 <info>The Littlest Hobo
 Television Series
