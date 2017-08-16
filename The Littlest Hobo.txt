@@ -1,6 +1,6 @@
 ﻿<item>
-<title>The Littlest Hobo Season 1 Episode 1 Smoke</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=tnCyMpl4dhk</link>
+<title>The Littlest Hobo theme</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=0p8oeiVDcx4</link>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
