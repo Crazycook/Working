@@ -77,7 +77,7 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<utube>The Littlest Hobo Season 1 Episode 13 Big Al And Sam Strawberry</utube>
+<title>>The Littlest Hobo Se1E13 Big Al And Sam Strawberry</title>
 <utube>JlT1yS7kgDQ</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
@@ -101,13 +101,13 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<utube>The Littlest Hobo Season 1 Episode 17 Million Dollar Fur Heist</utube>
+<title>TheThe Littlest Hobo S01E17 Million Dollar Fur Heist</title>
 <link>jXxzB-ytCL8</link>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<utube>The Littlest Hobo Season 1 Episode 18 Diamonds Are A Dog's Best Friend</utube>
+<title>The Littlest Hobo S01Ep18 Diamonds Are A Dog's Best Friend</title>
 <link>t7IInW067Nc</link>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
@@ -119,8 +119,8 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<utube>The Littlest Hobo Season 1 Episode 20 Escape</utube>
-<link>xvKFKu7uhPU</link>
+<title>The Littlest Hobo S01E20 Escape</title>
+<utube><link>xvKFKu7uhPU</link>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
@@ -323,7 +323,7 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<titleThe Littlest Hobo Season 3 Episode 12 Music Box></title>
+<title>The Littlest Hobo Season 3 Episode 12 Music Box</title>
 <utube>SjQIl2rODGw</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
@@ -335,7 +335,7 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<titleThe Littlest Hobo Season 3 Episode 14 The Clown></title>
+<title>The Littlest Hobo Season 3 Episode 14 The Clown</title>
 <utube>6tBGJ-0DAoI</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
@@ -359,7 +359,7 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<titleThe Littlest Hobo Season 3 Episode 18 Rex Badger P.I.></title>
+<title>The Littlest Hobo Season 3 Episode 18 Rex Badger P.I.</title>
 <utube>5coLxYbCQTw</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
@@ -485,12 +485,6 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<title></title>
-<utube></utube>
-<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
-<fanart>http://i.imgur.com/CURhVhy.png</fanart>
-</item>
-<item>
 <title>The Littlest Hobo Season 5 Episode 3 Scavenger Hunt Part 2</title>
 <utube>c1tZZAKwSFI</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
@@ -515,18 +509,6 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<title></title>
-<utube></utube>
-<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
-<fanart>http://i.imgur.com/CURhVhy.png</fanart>
-</item>
-<item>
-<title></title>
-<utube></utube>
-<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
-<fanart>http://i.imgur.com/CURhVhy.png</fanart>
-</item>
-<item>
 <title>The Littlest Hobo Season 5 Episode 7 Tempest Probe</title>
 <utube>K6YILFqHfDA</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
@@ -535,12 +517,6 @@
 <item>
 <title>The Littlest Hobo Season 5 Episode 8 Lumberjacks</title>
 <utube>-Gns_XK6Ais</utube>
-<thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
-<fanart>http://i.imgur.com/CURhVhy.png</fanart>
-</item>
-<item>
-<title></title>
-<utube></utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
@@ -563,7 +539,7 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<title><The Littlest Hobo Season 5 Episode 12 Dragonslayer/title>
+<title><The Littlest Hobo Season 5 Episode 12 Dragonslayer</title>
 <utube>jvwsZGfygb4</utube>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
