@@ -319,7 +319,7 @@ http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S02/3rd%20Rock%20
 <fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
 </item>
 <item>
-<title3rd Rock from the Sun S03E08></title>
+<title3rd Rock from the Sun S03E08</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S03/3rd%20Rock%20from%20The%20Sun%20S03%20E08%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
@@ -397,7 +397,7 @@ http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S02/3rd%20Rock%20
 <fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
 </item>
 <item>
-<title3rd Rock from the Sun S03E21></title>
+<title3rd Rock from the Sun S03E21</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S03/3rd%20Rock%20from%20The%20Sun%20S03%20E21%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
@@ -791,7 +791,7 @@ http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S02/3rd%20Rock%20
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E14</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E14%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
@@ -803,31 +803,31 @@ http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S02/3rd%20Rock%20
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E16</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E16%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E17</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E17%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E18</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E18%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E19</title>
 <link>http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E19%20%20[Nightsdl.Com].mkv</link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
 <fanart>https://i.imgur
 </item>
-</item>
+<item>
 <title>3rd Rock from the Sun S06E20</title>
 <link><http://dl5.downloadoo.ir/TV.Show/3rd%20Rock%20from%20the%20Sun/S06/3rd%20Rock%20from%20The%20Sun%20S06%20E20%20%20[Nightsdl.Com].mkv/link>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
