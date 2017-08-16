@@ -524,7 +524,6 @@ Final episode date: May 23, 2001
 Theme song: Theme from Star Trek</info>
 </channel>
 
-
 <channel>
 <name>Tera Nova</name>
 <thumbnail>https://imgur.com/jpavUxc</thumbnail>
@@ -536,6 +535,17 @@ In 2149, overdeveloped and polluted Earth is dying. With no way to reverse the d
 First episode date: September 26, 2011
 Production location: Queensland
 Network: FOX</info> 
+</channel>
+
+<channel>
+<name>The 100</name>
+<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20100.txt</externallink>
+<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
+<info>The 100  Drama, Mystery, Sci-Fi TV Series (2014– )
+Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet.
+Creator: Jason Rothenberg
+Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
 </channel>
 
 <channel>
@@ -649,14 +659,15 @@ Stars: Gustaf Skarsgård, Katheryn Winnick, Alexander Ludwig </info>
 </channel>
 
 <channel>
-<name>The 100</name>
-<thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20100.txt</externallink>
-<fanart>http://i.imgur.com/7GRJfjM.jpg</fanart>
-<info>The 100  Drama, Mystery, Sci-Fi TV Series (2014– )
-Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet.
-Creator: Jason Rothenberg
-Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
+<name>Westworld</name>
+<thumbnail>https://i.imgur.com/g4QjTvM.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Westworld.txt</externallink>
+<fanart>https://i.imgur.com/LuHm7mY.jpg</fanart>
+<info>Westworld
+American thriller series
+
+Westworld isn't your typical amusement park. Intended for rich vacationers, the futuristic park -- which is looked after by robotic "hosts" -- allows its visitors to live out their fantasies through artificial consciousness. No matter how illicit the fantasy may be, there are no consequences for the park's guests, allowing for any wish to be indulged. "Westworld" -- which is based on the 1973 Michael Crichton movie of the same name -- features an all-star cast that includes Oscar winner Anthony Hopkins and Golden Globe winner Ed Harris.
+Network: HBO</info>
 </channel>
 
 <channel>
@@ -667,5 +678,3 @@ Stars: Eliza Taylor, Eli Goree, Thomas McDonell</info>
 <info>Trailer Park Boys
  Comedy, Crime, Drama | TV Series (2001–2016)</info>
 </channel>
-
-
