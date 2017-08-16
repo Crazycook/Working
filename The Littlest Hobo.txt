@@ -149,7 +149,8 @@
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
 </item>
 <item>
-<utube></utube>
+<title>Season 2</title>
+<utube>PLyMIVzy133V2wBR3XbHfcZqmkk1uQ5IA7</utube>
 <link></link>
 <thumbnail>http://i.imgur.com/i0BijE9.jpg</thumbnail>
 <fanart>http://i.imgur.com/CURhVhy.png</fanart>
