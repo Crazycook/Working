@@ -1,0 +1,120 @@
+<item>
+<title>Letterkenny s01e01 </title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs01e01.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s01e02</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs01e02.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny 01e03</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs01e03.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s01e04</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKshttp://hosting.paintballtek.com/Vid/LK/LKs01e05.mkv.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s01e05</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs01e05.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s01e06</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs01e06.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e01</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e01.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e02</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e02.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e03 </title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e03.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e04</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e04.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny</title>
+<link></link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e05</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e05.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e06</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e06.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s02e07</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs02e07-MidSeason.mkv</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e01</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e01.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e02</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e02.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e03</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e03.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e04</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e04.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e05</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e05.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
+<item>
+<title>Letterkenny s03e06</title>
+<link>http://hosting.paintballtek.com/Vid/LK/LKs03e06.mp4</link>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+</item>
