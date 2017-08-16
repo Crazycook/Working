@@ -432,6 +432,19 @@ Writers: Ryan Ridley</info>
 </channel>
 
 <channel>
+<name>Riverdale</name>
+<thumbnail>https://i.imgur.com/11eRc1D.jpg</thumbnail>
+<externallink>https://github.com/Crazycook/Working/blob/Tv-Series/Riverdale.txt</externallink>
+<fanart>https://i.imgur.com/divLycc.jpg</fanart>
+<info>Riverdale
+American drama series
+
+Archie Andrews starts the school year with the world weighing on his shoulders. He's decided he wants to pursue a future in the music business, but his recently ended clandestine relationship with the music teacher has left him without a mentor, and his friendship with Jughead Jones is in a bad place. Things look like they might be turning around when Veronica Lodge, a new girl, arrives. Despite the instant chemistry, Veronica is hesitant to risk a friendship with Betty -- who has a crush on Archie -- to pursue anything. Amidst all the small-town banality lurks a mystery: the recent tragic death of Jason Blossom, the twin brother of beautiful and popular troublemaker, Cheryl.
+First episode date: January 26, 2017
+Network: The CW</info>
+</channel>
+
+<channel>
 <name>Road to Avonlea</name>
 <thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Road%20to%20Avonlea.txt</externallink>
