@@ -1,36 +1,36 @@
 <item>
 <title>Letterkenny s01e01 </title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKs01e01.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E01.Aint.No.Reason.To.Get.Excited.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
 <item>
 <title>Letterkenny s01e02</title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKs01e02.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E02.Daryls.Super.Soft.Birthday.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
 <item>
 <title>Letterkenny 01e03</title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKs01e03.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E03.Fartbook.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
 <item>
 <title>Letterkenny s01e04</title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKshttp://hosting.paintballtek.com/Vid/LK/LKs01e05.mkv.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E04.Wing.Man.Wayne.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
 <item>
 <title>Letterkenny s01e05</title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKs01e05.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E05.Rave.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
 <item>
 <title>Letterkenny s01e06</title>
-<link>http://hosting.paintballtek.com/Vid/LK/LKs01e06.mkv</link>
+<link>http://tofusaur.us/tpt/Letterkenny.S01.720p.CVTV.WEBRip.AAC2.0.H.264-BTW/Letterkenny.S01E06.A.Fuss.In.The.Back.Bush.720p.CVTV.WEBRip.AAC2.0.H.264-BTW.mkv</link>
 <thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
 <fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
 </item>
