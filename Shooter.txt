@@ -58,3 +58,27 @@
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
 </item>
+<item>
+<title>Shooter.S02E01.720p</title>
+<link>http://mc1.dl3enter.in/files/d4/serial1/Shooter/s02/720/Shooter.S02E01.720p.mkv</link>
+<thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
+<fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
+</item>
+<item>
+<title>Shooter S02E02.720p</title>
+<link>http://mc1.dl3enter.in/files/d4/serial1/Shooter/s02/720/Shooter.S02E02.720p.mkv</link>
+<thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
+<fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
+</item>
+<item>
+<title>Shooter S02E03.720p</title>
+<link>http://mc1.dl3enter.in/files/d4/serial1/Shooter/s02/720/Shooter.S02E03.720p.mkv</link>
+<thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
+<fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
+</item>
+<item>
+<title>Shooter S02E04.720p</title>
+<link>http://mc1.dl3enter.in/files/d4/serial1/Shooter/s02/720/Shooter.S02E04.720p.mkv</link>
+<thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
+<fanart>http://i.imgur.com/fmMx57d.jpg</fanart>
+</item>
