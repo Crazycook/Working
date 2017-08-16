@@ -360,6 +360,22 @@ Program creators: Bob Schooley, Mark McCor</info>
 </channel>
 
 <channel>
+<name>Letterkenny</name>
+<thumbnail>https://i.imgur.com/vMtA2WI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Letterkenny.txt</externallink>
+<fanart>https://i.imgur.com/R8wwPjP.jpg</fanart>
+<info>Letterkenny
+Canadian sitcom
+8.5/10 · IMDb
+96% liked this TV show
+Google users
+Wayne and his buddies get into scuffles with their small-town Ontario rivals.
+Production location: Greater Sudbury
+Original network: CraveTV; The Comedy Network
+Network: The Comedy Network</info>
+</channel>
+
+<channel>
 <name>Mr Bean</name>
 <thumbnail>http://i.imgur.com/pko6qkC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Mr.%20Bean.txt</externallink>
