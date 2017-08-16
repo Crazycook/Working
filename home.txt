@@ -85,6 +85,20 @@ Program creators: Paul Fusco, Tom Patchett</info>
 </channel>
 
 <channel>
+<name>Arctic Air</name>
+<thumbnail>https://i.imgur.com/Mt033dw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Arctic%20air.txt</externallink>
+<fanart>https://i.imgur.com/E6V9miR.jpg</fanart>
+<info>Arctic Air
+Canadian drama series
+
+Set in the Canadian North, "Arctic Air" follows an extended, unconventional family through the ups and downs of owning an airline. Mel handles the pilots and Bobby keeps the business going, while the pilots themselves take on an interesting mix of missions in their little bush planes and huge World War II prop planes -- from sightseeing tours to rescue missions. The group must battle the extremes of the north, competing airlines, and each other as they struggle to succeed in the town of Yellowknife.
+Final episode date: April 8, 2014
+Network: CBC Television
+Program creator: Ian Weirt</info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
