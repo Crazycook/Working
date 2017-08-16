@@ -141,6 +141,20 @@ Who hasn't wished, at least once, for the ability to go back in time and do some
 </channel>
 
 <channel>
+<name>Bomb Girls</name>
+<thumbnail>https://i.imgur.com/1r8opwk.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Bomb%20Girls.txt</externallink>
+<fanart>https://i.imgur.com/nCzUb38.jpg</fanart>
+<info>Bomb Girls
+Canadian television series
+
+With men fighting overseas during World War II, many women held factory jobs to fill the labor shortage. This period drama follows those who work at a Canadian munitions factory, risking their lives in support of the European front. They embrace their newfound freedom, liberated from social and cultural restrictions previously in place. Lorna Corbett, a 40-something wife who relishes her job as a way to escape from an oppressive home, is jealous of younger colleagues' expanding horizons and happiness. Privileged Gladys Witham, 22, is a wild child drawn to the most dangerous job at the factory, which helps her feel alive and connect with the others. Other featured women include Kate Andrews, who is on the run from her abusive, street-preaching father, and naive Betty McRae, the factory's on-floor trainer who struggles to connect with her new sisterhood.
+First episode date: January 4, 2012
+Location(s): Toronto, Ontario, Canada
+Network: Global Television Network.</info>
+</channel>
+
+<channel>
 <name>Caprica</name>
 <thumbnail>http://i.imgur.com/Bo7nKb3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Caprica.txt</externallink>
