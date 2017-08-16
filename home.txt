@@ -522,6 +522,20 @@ Stars: Charlie Hunnam, Katey Sagal, Mark Boone Junior </info>
 </channel>
 
 <channel>
+<name>Star Trek : The Original Series</name>
+<thumbnail>https://i.imgur.com/cDK94YB.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20TOS.txt</externallink>
+<fanart>https://i.imgur.com/uywwwuu.jpg</fanart>
+<info>Star Trek: The Original Series
+American television series
+
+The iconic series "Star Trek" follows the crew of the starship USS Enterprise as it completes its missions in space in the 23rd century. Captain James T. Kirk -- along with half- human/half-Vulcan science officer Spock, ship Dr. "Bones" McCoy, Ensign Pavel Chekov, communications officer Lt. Nyota Uhura, helmsman Lt. Hikaru Sulu and chief engineer Lt. Cmdr. Montgomery "Scotty" Scott -- confront strange alien races, friendly and hostile alike, as they explore unknown worlds.
+First episode date: September 8, 1966
+Theme song: Theme from Star Trek
+Program creator: Gene Roddenberry</info>
+</channel>
+
+<channel>
 <name>Star Trek : The Next Generation</name>
 <thumbnail>https://i.imgur.com/8ewtEoS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Star%20Trek%20%3A%20TNG</externallink>
