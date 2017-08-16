@@ -42,7 +42,7 @@ Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
 <channel>
 <name>3rd Rock from the sun</name>
 <thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/3rd%20Rock%20from%20the%20Sun.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/3rd%20Rock%20from%20the%20Sun.xml</externallink>
 <fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
 <info>3rd Rock from the Sun
 American sitcom
