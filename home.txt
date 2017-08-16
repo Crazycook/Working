@@ -40,6 +40,18 @@ Stars: Kat Dennings, Beth Behrs, Garrett Morris </info>
 </channel>
 
 <channel>
+<name>3rd Rock from the sun</name>
+<thumbnail>https://i.imgur.com/8y3BxER.jpgg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/3rd%20Rock%20from%20the%20Sun.txt</externallink>
+<fanart>https://i.imgur.com/0x8nP2s.jpg</fanart>
+<info>3rd Rock from the Sun
+American sitcom
+
+The high commander of an alien expedition lands on Earth -- what he considers to be the least-important planet -- in human form as Dick Solomon. Along for the ride are his alien compatriots Harry, Sally and Tommy -- who is the eldest of the group but is now angrily trapped in a teen's body.
+First episode date: January 9, 1996
+Final episode date: May 22, 2001</info>
+</channel>
+<channel>
 <name>Aftermath</name>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Aftermath.txt</externallink>
