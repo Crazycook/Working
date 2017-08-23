@@ -335,6 +335,19 @@ Stars: Lee Pace, Scoot McNairy, Mackenzie Davis </info>
 </channel>
 
 <channel>
+<name>Humans</name>
+<thumbnail>https://i.imgur.com/rmGqQZW.jpg</thumbnail>>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Humans.txt</externallink>
+<fanart>https://i.imgur.com/0lkru6A.jpg</fanart>
+<info>Humans
+
+This sci-fi drama series written by Sam Vincent and Jonathan Brackley is based on the Swedish award-winning drama "Real Humans." The story is set in a parallel universe where technology is highly advanced and lifelike humanoids called Synths are the must-have machines for any household. Joe Hawkins decides to buy a Synth to help out at home, but his wife, Laura, feels uncomfortable around the humanoid. Elsewhere a widower tries to fix his malfunctioning Synth, Odi, who holds some precious memories of his late wife. The all-star cast includes William Hurt, Katherine Parkinson, Colin Morgan, Rebecca Front and Gemma Chan.
+First episode date: June 14, 2015
+Location(s): London, England, UK
+Networks: AMC, Channel 4</info>
+</channel>
+
+<channel>
 <name>Incorporated</name>
 <thumbnail>https://www.lostfilm.tv/Static/news/upload/77624.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Incorporated.txt</externallink>
