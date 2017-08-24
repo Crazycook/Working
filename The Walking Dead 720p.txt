@@ -433,13 +433,11 @@
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
 <item>
 <title>The Walking Dead Season 6 Episode 10</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%206/The.Walking.Dead.S06E10.720p.x265.SaberFun.org.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
-</item>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 11</title>
@@ -459,20 +457,17 @@
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
 <item>
 <title>The Walking Dead Season 6 Episode 14</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%206/The.Walking.Dead.S06E14.720p.x264_01.SaberFun.org.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
 <item>
 <title>The Walking Dead Season 6 Episode 15</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%206/The.Walking.Dead.S06E15.720p.x264_01.SaberFun.org.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
-</item>
 </item>
 <item>
 <title>The Walking Dead Season 6 Episode 16</title>
@@ -536,6 +531,7 @@ http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
+<item>
 <title>The Walking Dead Season 7 Episode 10</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E10.720p.HDTV.2CH.x265.HEVC_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
