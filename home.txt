@@ -641,7 +641,7 @@ Networks: CTV Television Network,</info>
 </channel>
 
 <channel>
-<name>The Walking Dead</name>
+<name>The Walking Dead 720p</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead%20720p.txt</externallink>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
