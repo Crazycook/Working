@@ -537,37 +537,37 @@ http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 11</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E11.720p.HDTV.2CH.x265_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 12</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E12.720p.HDTV.x265_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 13</title>
 <link>http://s1.bia2m.biz/Series/The%20Walking%20Dead/s7/The%20Walking%20Dead%20S07E11%20720p%20x265%20(Bia2Movies).mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 14</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E13.720p.HDTV.x265_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 15</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E15.480p.HDTV.x264-RMTeam_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 </item>
-</item>
+<item>
 <title>The Walking Dead Season 7 Episode 16</title>
 <link>http://dl.melimedia.net/mersad/serial/The%20Walking%20Dead/season%207/The.Walking.Dead.S07E16.PROPER.720p.HDTV.2CH.x265_MeliMedia.INFO.mkv</link>
 <thumbnail>http://i.imgur.com/BsZtDM6.jpg</thumbnail>
