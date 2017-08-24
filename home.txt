@@ -227,26 +227,6 @@ Stars: Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll </info>
 </channel>
 
 <channel>
-<name>Doctor Who Classic</name>
-<thumbnail>http://i.imgur.com/UO2pioa.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Doctor%20Who%20Classic.txt</externallink>
-<fanart>http://i.imgur.com/tFbrX0H.jpg</fanart>
-<info>Doctor Who 
-TV Series (1963–1989) 695 episodes
-Time and Space traveling adventures of a Gallifreyan Time Lord only known as the Doctor and his companions, traveling through time and space.
-Creator: Sydney Newman
-William Hartnell First Doctor Nov 63-Oct 1966
-Patrick Troughton Second Doctor 29 October 1966 - 21 June 1969
-Jon Pertwee Third Doctor 3 January 1970 -June 1974
-Tom Baker Fourth Doctor 8 June 1974 - March 1981
-Peter Davison Fifth Doctor 21 March 1981- 16 March 1984
-Colin Baker Sixth Doctor 16 March 1984 - December 1986
-Sylvester McCoy	Seventh Doctor 7 September 1987 - 6 December 1989
-Paul McGann Eighth Doctor 27 May 1996
-</info>
-</channel>
-
-<channel>
 <name>Fawlty Towers</name>
 <thumbnail>https://i.imgur.com/RB4lqtE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Fawlty%20Towers.txt</externallink>
@@ -260,6 +240,7 @@ Original network: BBC2
 Writers: John Cleese, Connie Booth
 </info>
 </channel>
+
 <channel>
 <name>Fear the Walking Dead</name>
 <thumbnail>https://i.imgur.com/SsvYIaG.jpg</thumbnail>
@@ -514,32 +495,6 @@ Network: The CW</info>
 </channel>
 
 <channel>
-<name>Road to Avonlea</name>
-<thumbnail>http://i.imgur.com/Jst49Jz.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Road%20to%20Avonlea.txt</externallink>
-<fanart>http://i.imgur.com/CMPyF0s.jpg</fanart>
-<info>Road to Avonlea
-Television Series
-Sara Stanley is sent to live with her late mother's family.
-Writers: Lucy Maud Montgomery, Heather Conkie, Hart Hanson, more
-Awards: Primetime Emmy Award for Outstanding Lead Actor in a Drama Series, more
-Networks: Canadian Broadcasting Corporation, Disney Channel, CBC Television</info>
-</channel>
-
-<channel>
-<name>SeaQuest</name>
-<thumbnail>http://i.imgur.com/KtneTqT.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Seaquest.txt</externallink>
-<fanart>http://i.imgur.com/KJX0gAG.jpg</fanart>
-<info>seaQuest DSV
-American television series
-SeaQuest DSV is an American science fiction television series created by Rockne S. O'Bannon. It originally aired on NBC between 1993 and 1996. In its final season, it was renamed seaQuest 2032.
-First episode date: September 12, 1993
-Network: NBC 
-In the early 21st century, mankind has colonized the oceans. The United Earth Oceans Organization enlists Captain Nathan Bridger and the submarine seaQuest DSV to keep the peace and explore the last frontier on Earth.</info>
-</channel>
-
-<channel>
 <name>Shooter</name>
 <thumbnail>http://i.imgur.com/zR0qeJH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Shooter.txt</externallink>
@@ -688,7 +643,7 @@ Networks: CTV Television Network,</info>
 <channel>
 <name>The Walking Dead</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/17/The_Walking_Dead_title_card.jpg/250px-The_Walking_Dead_title_card.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/The%20Walking%20Dead%20720p.txt</externallink>
 <fanart>http://i.imgur.com/2evIPtV.jpg</fanart>
 <info>The Walking Dead TV Series (2010– )
 Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is overrun by the undead, and must lead a group of survivors to stay alive.
