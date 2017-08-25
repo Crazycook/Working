@@ -119,7 +119,7 @@
 <fanart>https://i.imgur.com/cF6j9g8.jpg</fanart>
 </item>
 <item>
-<titleAre You Afraid of the Dark.S02E08></title>
+<title>Are You Afraid of the Dark.S02E08></title>
 <link>http://mc1.dl3enter.in/files/d3/serial1/Are%20You%20Afraid%20of%20the%20Dark/s02/Are%20You%20Afraid%20of%20the%20Dark.S02E08.DL.mkv</link>
 <thumbnail>https://i.imgur.com/6hcGYMn.jpg</thumbnail>
 <fanart>https://i.imgur.com/cF6j9g8.jpg</fanart>
