@@ -458,6 +458,19 @@ Stars: Taylor Schilling, Danielle Brooks, Taryn Manning</info>
 </channel>
 
 <channel>
+<name>Peaky Blinders</name>
+<thumbnail>https://i.imgur.com/CSO2RKj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Peaky%20Blinders.txt</externallink>
+<fanart>https://i.imgur.com/jHr3ufb.png</fanart>
+<info>Peaky Blinders
+ British Television series
+
+A gangster drama located in the streets of post-war Birmingham on the verge of the 1920s.
+Network: BBC Two
+Production location: Birmingham</info>
+</channel>
+
+<channel>
 <name>Preacher</name>
 <thumbnail>http://i.imgur.com/eAQv3QM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Preacher.txt</externallink>
