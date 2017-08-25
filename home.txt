@@ -99,6 +99,20 @@ Program creator: Ian Weirt</info>
 </channel>
 
 <channel>
+<name>Are You Afraid of the Dark</name>
+<thumbnail>https://i.imgur.com/6hcGYMn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Are%20You%20Afraid%20of%20the%20Dark.txt</externallink>
+<fanart>https://i.imgur.com/cF6j9g8.jpg</fanart>
+<info>Are You Afraid of the Dark?
+American-Canadian television series
+
+This spooky anthology series for kids recounts ghost stories told by the young members of the Midnight Society as they gather around a campfire. Each episode opens with members of the Midnight Society at their secret spot in the woods, where they prepare their fire and the night's storyteller announces the title of the his or her offering. However, the cameras soon leave the storyteller and switch to the tale being told.
+First episode date: October 31, 1990
+Theme song: Are You Afraid of the Dark? Theme Song
+Networks: Nickelodeon, YTV, France 2, NHK, ITV, France 3, RecordTV, TV Tokyo, Rai 1, Italia 1, RTÉ2</info>
+</channel>
+
+<channel>
 <name>Ascension</name>
 <thumbnail>http://i.imgur.com/kOwQIs9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Ascension.txt</externallink>
