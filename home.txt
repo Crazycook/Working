@@ -51,6 +51,7 @@ The high commander of an alien expedition lands on Earth -- what he considers to
 First episode date: January 9, 1996
 Final episode date: May 22, 2001</info>
 </channel>
+
 <channel>
 <name>Aftermath</name>
 <thumbnail>http://126mj.com/pic/uploadimg/2016-11/2016112810412483840.jpg</thumbnail>
@@ -180,6 +181,20 @@ With men fighting overseas during World War II, many women held factory jobs to 
 First episode date: January 4, 2012
 Location(s): Toronto, Ontario, Canada
 Network: Global Television Network.</info>
+</channel>
+
+<channel>
+<name>Broadchurch</name>
+<thumbnail>https://i.imgur.com/IzOeaV2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Broadchurch.txt</externallink>
+<fanart>https://i.imgur.com/c3L9MAP.jpg</fanart>
+<info>Broadchurch
+British Television film
+
+When the corpse of an 11-year-old British boy, Danny Latimer, is found bloodied and dirty on an idyllic beach, a small Dorset community becomes the focus of a police investigation and media madness. Out-of-town Detective Inspector Alec Hardy gets the point position over Detective Sgt. Ellie Miller -- who feels the job should have been hers. Now she must engage in an efficient working relationship with taciturn Hardy. Slowly, more members of the community of Broadchurch are drawn into the investigation, with a telephone engineer drawing great attention when he admits to a special connection to the case. While dealing with so much unwelcome attention, Danny's family tries to cope with its grief. When a suspect is named and charged, the ensuing trial sees the defendant promising to expose more of the townspeople's secrets.
+First episode date: March 4, 2013
+Final episode date: April 17, 2017
+Networks: ITV, BBC America, STV, UTV</info>
 </channel>
 
 <channel>
