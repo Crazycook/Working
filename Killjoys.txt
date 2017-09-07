@@ -77,7 +77,7 @@
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
 <item>
-<titleKilljoys.S02E04></title>
+<title>Killjoys.S02E04></title>
 <link>http://dl6.downloadoo.ir/TV.Show/K/Killjoys/S02/Killjoys.S02E04.720p-%5BNightsdl.com%5D.mkv</link>
 <thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
