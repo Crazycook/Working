@@ -410,6 +410,19 @@ Networks: HBO, CBC Television</info>
 </channel>
 
 <channel>
+<name>Killjoys</name>
+<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Killjoys.txt</externallink>
+<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
+<info>Killjoys
+Canadian drama series
+
+A trio of bounty hunters, known as Killjoys, chases deadly warrants through the Quad, a distant area that is near the start of a violent class war among multiple planets. Gorgeous but deadly Dutch is a top-level Killjoy who has a unique gift for earning people's trust, regardless of their class. The… MORE
+First episode date: June 19, 2015
+Original network: Space</info>
+</channel>
+
+<channel>
 <name>Kim Possible</name>
 <thumbnail>https://i.imgur.com/Dk2tYih.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Kim%20Possible.txt</externallink>
