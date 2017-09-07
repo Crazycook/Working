@@ -223,6 +223,19 @@ Genres: Drama, Science Fiction</info>
 </channel>
 
 <channel>
+<name>Dark Matter</name>
+<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Dark%20Matter.txt</externallink>
+<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
+<info>Dark Matter
+
+When crew members working on a derelict spaceship awaken from stasis, they have no memory of who they are or how they got onto the vessel. The only clues to their identities are weaponry and a destination -- a remote mining colony soon to become a war zone. They must band together to fight off the threats they face on a voyage filled with vengeance, betrayal and secrets that make survival a question mark for all on board the ship. In the wake of a betrayal, the crew is split up. Some are imprisoned, while others are sent away to start a new life. The sci-fi series is based on the graphic novel of the same name.
+First episode date: June 12, 2015
+Production location: Toronto
+Networks: Syfy, Space, Bell Media</info>
+</channel>
+
+<channel>
 <name>Defiance</name>
 <thumbnail>http://i.imgur.com/Ppd6xS1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Defiance.txt</externallink>
