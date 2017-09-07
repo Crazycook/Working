@@ -23,12 +23,6 @@
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
 <item>
-<title> </title>
-<link> </link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
 <title>Killjoys.S01E05</title>
 <link>http://dl.film2movie.biz/serial/Killjoys/S01/Killjoys.S01E05.720p.x265.HEVC.Film2Movie_ORG.mkv</link>
 <thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
@@ -41,32 +35,8 @@
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
 <item>
-<title> </title>
-<link> </link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
-<title> </title>
-<link> </link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
 <title>Killjoys.S01E07</title>
 <link>http://dl.film2movie.biz/serial/Killjoys/S01/Killjoys.S01E07.720p.x265.HEVC.Film2Movie_ORG.mkv</link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
-<title> </title>
-<link> </link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
-<title> </title>
-<link> </link>
 <thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
@@ -76,7 +46,6 @@
 <thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
-
 <item>
 <title>Killjoys.S01E09</title>
 <link>http://dl.film2movie.biz/serial/Killjoys/S01/Killjoys.S01E09.720p.x265.HEVC.Film2Movie_ORG.mkv</link>
@@ -98,12 +67,6 @@
 <item>
 <title>Killjoys.S02E02</title>
 <link>http://dl6.downloadoo.ir/TV.Show/K/Killjoys/S02/Killjoys.S02E02.720p-%5BNightsdl.com%5D.mkv</link>
-<thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
-<fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
-</item>
-<item>
-<title> </title>
-<link>http://dl6.downloadoo.ir/TV.Show/K/Killjoys/S02/Killjoys.S02E01.720p-%5BNightsdl.com%5D.mkv</link>
 <thumbnail>https://i.imgur.com/oQ0dspw.jpg</thumbnail>
 <fanart>https://i.imgur.com/fa5Fku2.jpg</fanart>
 </item>
