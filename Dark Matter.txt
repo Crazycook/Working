@@ -35,12 +35,6 @@
 <fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
 </item>
 <item>
-<title>12 Monkeys S01E01 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%201/12%20Monkeys%20S01E01%20480p%20HDTV%20%5b98Music%5d.mkv</link>
-<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
-<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
-</item>
-<item>
 <title>Dark.Matter.S01E07</title>
 <link>http://dl.film2movie.biz/serial/Dark%20Matter/S01/Dark.Matter.S01E07.720p.Film2Movie_ORG.mkv</link>
 <thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
@@ -53,26 +47,8 @@
 <fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
 </item>
 <item>
-<title>12 Monkeys S01E01 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%201/12%20Monkeys%20S01E01%20480p%20HDTV%20%5b98Music%5d.mkv</link>
-<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
-<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
-</item>
-<item>
-<title>12 Monkeys S01E01 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%201/12%20Monkeys%20S01E01%20480p%20HDTV%20%5b98Music%5d.mkv</link>
-<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
-<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
-</item>
-<item>
 <title>Dark.Matter.S01E09</title>
 <link>http://dl.film2movie.biz/serial/Dark%20Matter/S01/Dark.Matter.S01E09.720p.Film2Movie_ORG.mkv</link>
-<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
-<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
-</item>
-<item>
-<title>12 Monkeys S01E01 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%201/12%20Monkeys%20S01E01%20480p%20HDTV%20%5b98Music%5d.mkv</link>
 <thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
 <fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
 </item>
@@ -145,12 +121,6 @@
 <item>
 <title>Dark.Matter.S02E08</title>
 <link>http://dl3.film2movie.biz/serial/Dark%20Matter/S02/Dark.Matter.S02E08.720p.x265.HEVC.Film2Movie_BiZ.mkv</link>
-<thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
-<fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
-</item>
-<item>
-<title>12 Monkeys S01E01 480p HDTV</title>
-<link>http://dl2.my98music.com/Data/Serial/12%20Monkeys/Season%201/12%20Monkeys%20S01E01%20480p%20HDTV%20%5b98Music%5d.mkv</link>
 <thumbnail>https://i.imgur.com/9skqU84.jpg</thumbnail>
 <fanart>https://i.imgur.com/3p3AtrH.jpg</fanart>
 </item>
