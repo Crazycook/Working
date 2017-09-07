@@ -398,7 +398,7 @@ Network: CBS</info>
 <channel>
 <name>Kids in the Hall</name>
 <thumbnail>https://i.imgur.com/0Eg2Ue9.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Kids%20in%20the%20Hall</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/Kids%20in%20the%20Hall.txt</externallink>
 <fanart>https://i.imgur.com/PyHlYGc.jpg</fanart>
 <info>The Kids in the Hall
 Canadian television show
