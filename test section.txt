@@ -66,6 +66,6 @@
 
 <item>
 <title>fluxus radio</title>
-<link>https://dl.dropboxusercontent.com/s/a4ugvxpl47zap3z/radio.m3u</link>
+<m3u>https://dl.dropboxusercontent.com/s/a4ugvxpl47zap3z/radio.m3u</m3u>
 <thumbnail></thumbnail>
 </item>
