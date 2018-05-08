@@ -65,6 +65,30 @@
 </item>
 
 <item>
+<title>Christianity Streams</title>
+<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/christianity/all.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Entertainment Streams</title>
+<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/all.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>News Streams</title>
+<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/all.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sports Streams</title>
+<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/sports/all.m3u8</link>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
 <title>fluxus radio</title>
 <m3u>https://dl.dropboxusercontent.com/s/a4ugvxpl47zap3z/radio.m3u</m3u>
 <thumbnail></thumbnail>
