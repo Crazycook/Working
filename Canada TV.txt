@@ -1,4 +1,13 @@
 ﻿<item>
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8 
+<item>
+<title>BBC Toronto</title>
+<link>http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8 </link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>TVA Nouvelles Abitibi-Témiscamingue en direct</title>
 <link>rtmp://67.212.85.90/media/cfem.tva</link>
