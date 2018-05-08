@@ -8,9 +8,44 @@
 </item>
 
 <item>
+<title>ANTV</title>
+<link>https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Berita Satu</title>
+<link>http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8</link>
+<thumbnail>http://www.beritasatu.tv/images/logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CNN Indonesia</title>
+<link>https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>EDUKASI TV</title>
+<link>http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8</link>
+<thumbnail>https://www.etere.com/DocImageArchive/636029732513782479.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Global TV</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8</link>
 <thumbnail>http://imgur.com/ErhvGHU</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>GLOBAL TV</title>
+<link>https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8</link>
+<thumbnail>https://devanyahya.web.id/logo_globaltv_big1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -22,6 +57,13 @@
 </item>
 
 <item>
+<title>INDOSIAR</title>
+<link>https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Insan TV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8</link>
 <thumbnail></thumbnail>
@@ -29,9 +71,37 @@
 </item>
 
 <item>
+<title>INSAN TV</title>
+<link>http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8</link>
+<thumbnail>https://s27.postimg.org/t56iq66ib/insan_id_tv.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>INEWS</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8u8</link>
 <thumbnail>http://imgur.com/RO3Qi9G</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>iNews TV</title>
+<link>https://cdn-livetv1.metube.id/hls/inewstv.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Jak TV</title>
+<link>https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>JKT GLOBE ENG</title>
+<link>http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8</link>
+<thumbnail>http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -50,6 +120,13 @@
 </item>
 
 <item>
+<title>Kompas TV</title>
+<link>https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>MetroTV</title>
 <link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
 <thumbnail>http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg/thumbnail>
@@ -60,6 +137,34 @@
 <title>MNC TV</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8</link>
 <thumbnail>http://imgur.com/6PLYXtq</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MNC TV</title>
+<link>https://cdn-livetv1.metube.id/hls/mnctv.m3u8</link>
+<thumbnail>https://devanyahya.web.id/mnclogo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>MNC MUSLIM</title>
+<link>https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/id/c/c5/MNCMuslim_baru.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>NET TV</title>
+<link>https://www.youtube.com/embed/cgHLDHbbV6k?autoplay=1&rel=0&controls=1&showinfo=0</link>
+<thumbnail>http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>O CHANNEL</title>
+<link>https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8</link>
+<thumbnail>http://s29.postimg.org/s2lo7kz7b/o_channel_id.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -78,6 +183,13 @@
 </item>
 
 <item>
+<title>RAJAWALI TV</title>
+<link>https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>RCTI</title>
 <link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8</link>
 <thumbnail>http://imgur.com/TmVzJsd</thumbnail>
@@ -85,9 +197,30 @@
 </item>
 
 <item>
+<title>RCTI</title>
+<link>https://cdn-livetv2.metube.id/hls/rcti.m3u8</link>
+<thumbnail>https://devanyahya.web.id/rctilogo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SCTV</title>
+<link>https://cdn-livetv1.metube.id/hls/sctv.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>SCTV</title>
 <link><https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8/link>
 <thumbnail>http://s24.postimg.org/6ld67eod1/sctv_id.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>SPACETOON</title>
+<link>https://devanyahya.web.id/iptv/spacetoon.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_spacetoonplus_big1.png?v=1.0.0.0</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -120,6 +253,20 @@
 </item>
 
 <item>
+<title>TVRI DKI</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVRI NASIONAL</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>TVRI</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png</thumbnail>
@@ -137,5 +284,33 @@
 <title>TVRI 4</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8</link>
 <thumbnail>http://images2.useetv.com/logo_tvri_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TVRI 4</title>
+<link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvri_big1.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRANS TV</title>
+<link>https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TRANS 7</title>
+<link>https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>TV ONE</title>
+<link>https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8</link>
+<thumbnail>http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
