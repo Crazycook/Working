@@ -59,8 +59,8 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>TSN 1 HD</title>
-<link>plugin://program.plexus/?mode=1&amp;url=acestream://54947b5f71969432e9f9ada50c7b34b7a20104b2</link>
+<title>fluxus</title>
+<m3u>https://dl.dropboxusercontent.com/s/a4ugvxpl47zap3z/radio.m3u</m3u>
 <thumbnail></thumbnail>
 </item>
 
