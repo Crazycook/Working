@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>Fluxus Faith</name>
+<thumbnail>https://i.imgur.com/cgH6xgG.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus-TV/faith.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
+<channel>
 <name>Fluxus Lust</name>
 <thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s320/FluxusLustH.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus-tv/xxx.m3u</externallink>
