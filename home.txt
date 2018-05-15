@@ -2,6 +2,7 @@
 
 
 <channels>
+
 <channel>
 <name>Fluxus IPTV</name>
 <thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s320/FluxusIPTVBlue.png</thumbnail>
