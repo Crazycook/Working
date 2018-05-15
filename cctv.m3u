@@ -1,0 +1,764 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hCBbSwn.png" group-title="INFO",* Fluxus CCTV
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="INFO",+ Free CCTV Feeds
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= Dec.13.2017
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",> Like Us!
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Santa Cam
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/50305.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Santa Countdown
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/50306.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Santa Tracker
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/50307.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Rudolph Cam
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/50304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Humane Rescue Alliance [M3U8]
+http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Int'l Space Station 1 [M3U8]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Int'l Space Station 2 [M3U8]
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Smithsonian Panda Cam 1 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Smithsonian Panda Cam 2 [M3U8]
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",TLC Cupcake Cam [M3U8]
+http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",DC Eagle Cam [M3U8]
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Washington - District of Columbia - White House [M3U8]
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Washington - District of Columbia - Washington Monument [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Statue of Liberty [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Midtown Skyline [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - 5th Avenue [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Brooklyn Bridge [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Charging Bull [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Columbus Circle [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - High Line [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (47th + Broadway) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Street Cam) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (Crossroads) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",NYC - New York - Times Square (South View) [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Jamestown - New York
+http://143.67.94.18:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Staten Island - New York
+http://100.42.129.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",West Seneca - New York - Stadium
+http://168.169.99.115:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Hamilton - New York
+http://149.43.156.105:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Henrietta - New York
+http://128.151.54.230:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Middletown - New York - KPC Webcam
+http://107.167.193.194:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - KIRO Cam [M3U8]
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - Downtown [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington
+http://162.246.92.34:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wyoming - Devil's Tower
+http://72.36.32.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",New Orleans - Louisiana - Bourbon St.
+http://video3.earthcam.com/fecnetwork/4280.flv/chunklist_w1556439119.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Myrtle Beach - S. Carolina - Sea Crest Resort (Beach Cam)
+https://video3.earthcam.com/fecnetwork/9391.flv/chunklist_w587967098.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Palestine - Texas - CSBF (NASA)
+http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Galveston - Texas - SeaLife TAMUG
+http://184.174.194.3:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",San Francisco - California - KNTV Cam [M3U8]
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Concord - California
+http://24.23.150.166:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Lauderdale - Florida - Marina [M3U8]
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Sloppy Joe's (Duval St.) [M3U8]
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Sloppy Joe's (Stage) [M3U8]
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Sloppy Joe's (Bar) [M3U8]
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Hog's Breath Saloon (Bar Cam 01) [M3U8]
+http://wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Hog's Breath Saloon (Bar Cam 02) [M3U8]
+http://wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Irish Kevin's Bar (Bar Cam) [M3U8]
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Irish Kevin's Bar (Street Cam) [M3U8]
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Bar Cam) [M3U8]
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Sun Cam) [M3U8]
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Beach Cam) [M3U8]
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Myers - Florida - Town Hall
+http://74.11.145.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Miami - Florida
+http://173.162.100.238:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Lake Mary - Florida
+http://216.239.164.3:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Allendale - Michigan - Grand Valley State University
+http://148.61.63.226:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Coldwater - Michigan
+http://66.231.56.22:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Allendale - Michigan
+http://148.61.161.219:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ontonagon - Michigan
+http://204.38.53.141:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia - Midway Home Service
+http://71.41.73.146:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 01
+http://108.34.179.15:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 02
+http://71.184.107.52:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Richmond - Virginia - Science Museum of Virginia
+http://184.80.5.148:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Newport News - Virginia
+http://216.54.25.122:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa - Sioux Center
+http://67.55.224.10:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Iowa - J. Raymond Chadwick Library
+http://69.18.18.83:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ames - Iowa - Iowa State University - Bessey Hall
+http://129.186.46.11:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Vermont - Middlebury College
+http://140.233.86.204:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Vermont - Middlebury College Library
+http://140.233.86.205:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minneapolis - Minnesota - Itasca Station
+http://160.94.34.250:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 01 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 02 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 03 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Cincinnati - Ohio
+http://74.83.42.184:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",West Lafayette - Indiana - Purdue University (State St.)
+http://128.210.129.12:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minot - North Dakota - Herb Parker Stadium
+http://165.234.216.241:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Bloomsburg - Pennsylvania - Bloomsburg University
+http://148.137.190.230:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Philadelphia - Pennsylvania
+http://204.109.14.199:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Doylestown - Pennsylvania - I-39 NB + Mile Post
+http://166.142.50.33:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Reno - Nevada
+http://134.197.79.252:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana
+http://69.165.113.197:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Montana
+http://76.75.8.116:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wichita - Kansas
+http://75.41.39.22:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Martin - Tennessee - Elam Center
+http://208.87.72.176:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Birmingham - Alabama
+http://138.26.105.144:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missouri - COB Building
+http://134.124.72.76:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Mount Pleasant - Indiana - IWC Chapel
+http://69.18.18.80:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Clear Lake - South Dakota
+http://75.102.185.50:8888/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Chicago - Illinois
+http://71.57.23.135:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Madison - Wisconsin 01
+http://198.150.52.75:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Madison - Wisconsin 02
+http://198.27.60.44:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Boston - Massachusetts
+http://129.10.161.241:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Atlanta - Georgia
+http://72.215.139.121:8001/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Toronto - Ontario - CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Toronto - Ontario - CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Sudbury - Ontario - Science North - Northern Ecosystem
+http://216.223.107.138/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",West Lethbridge - Alberta
+http://184.70.212.198:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",The Blue Mountains - Ontario - Craigleith Ski Club
+http://72.143.50.74:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Montreal - Quebec
+http://69.70.89.58:8001/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VKolfAl.png" group-title="IRELAND",Kinsale
+http://62.77.164.197:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Saudarkrokur
+http://93.95.74.169:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Reykjavik - Kopaskershofn
+http://157.157.90.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DKko4X9.png" group-title="FINLAND",Pieksamaki - Pieksanjarvi Lake
+http://79.141.146.78:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Halmstad
+http://192.165.96.36:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Sjoberg - Vasterbottens Lan
+http://81.8.239.195:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Vindeln - Vasterbottens Lan - Fagelstigen
+http://81.8.143.35:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Omlidstranda Camping
+http://193.213.5.46:8083/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Kristiansund - More Og Romsdal
+http://85.93.226.222:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Gjora - SuCom AS
+http://88.84.54.2:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Sveio - Hordaland
+http://83.243.203.103:8090/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/cCliBTl.png" group-title="NETHERLANDS",Den Haag - Zuid-Holland
+http://145.131.207.18:82/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/cCliBTl.png" group-title="NETHERLANDS",Makkum - Zuiderzee State
+http://217.100.101.138:3000/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/cCliBTl.png" group-title="NETHERLANDS",Vlissingen - Zeeland 01
+http://213.34.234.165:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/cCliBTl.png" group-title="NETHERLANDS",Vlissingen - Zeeland 02
+http://213.34.234.165:8082/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",FSC Webcam
+http://62.214.4.38:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Stockte - Niedersachsen
+http://80.147.60.72:88/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Friedrichshafen - Baden-Wurttemberg - Zeppelinflug
+http://212.62.204.231:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Freiburg - Baden-Wurttemberg - Wohnpark Eden
+http://46.237.197.245:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Bremen - Gemeinde Rednitzhembach Rathausplatz
+http://217.91.208.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Muenster - Nordrhein-Westfalen
+http://87.139.175.75:1024/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Velbert - Nordrhein-Westfalen
+http://217.5.197.4:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Dusseldorf - Nordrhein-Westfalen 01
+http://109.90.193.75:83/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Dusseldorf - Nordrhein-Westfalen 02
+http://109.90.193.75:87/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Dusseldorf - Nordrhein-Westfalen 03
+http://109.90.193.75:88/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Koeln - Nordrhein-Westfalen
+http://87.193.204.83:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Frankfurt - Stadt Frankfurt am Main [M3U8]
+http://stream.livespotting.tv/windit-edge/vv100_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Erfurt - KoWo [M3U8]
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Essen - Ruhrturm [M3U8]
+http://stream.livespotting.tv/windit-edge/vv60_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Flensburg - Fjord Tourismus [M3U8]
+http://stream.livespotting.tv/windit-edge/vv17_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Freiburg - Volksbank [M3U8]
+http://stream.livespotting.tv/windit-edge/vv112_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Fulda - Schlossstrasse [M3U8]
+http://stream.livespotting.tv/windit-edge/vv62_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Gaienhofen - Hotel Gasthaus Hirschen [M3U8]
+http://stream.livespotting.tv/windit-edge/vv105_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Garmisch-Partenkirchen - Hotel Vier [M3U8] Jahreszeiten
+http://stream.livespotting.tv/windit-edge/vv111_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Gehlberg - Michael Gebser [M3U8]
+http://stream.livespotting.tv/windit-edge/vv123_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Wuppertal - Barmenia [M3U8]
+http://stream.livespotting.tv/windit-edge/vv117_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Neuharlingersiel - Hafen West [M3U8]
+http://stream.livespotting.tv/windit-edge/vv13_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Monchengladbach - Best Western Crown [M3U8]
+http://stream.livespotting.tv/windit-edge/vv118_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Munchen - Deutsche Eiche [M3U8]
+http://stream.livespotting.tv/windit-edge/vv72_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Munchen - Redaktion [M3U8]
+http://stream.livespotting.tv/windit-edge/vv55_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Munster - Raphaelsklinik [M3U8]
+http://stream.livespotting.tv/windit-edge/vv116_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Munster - Stadthaus [M3U8]
+http://stream.livespotting.tv/windit-edge/vv63_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Neuharlingersiel - Hafen Ost [M3U8]
+http://stream.livespotting.tv/windit-edge/vv12_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Neuharlingersiel - Panorama [M3U8]
+http://stream.livespotting.tv/windit-edge/vv14_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Niendorf - Meerwasserhallenbad [M3U8]
+http://stream.livespotting.tv/windit-edge/vv81_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Norderney - Zimmerservice - Norderney [M3U8]
+http://stream.livespotting.tv/windit-edge/vv147_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Oberstdorf - Hotel Exquisit [M3U8]
+http://stream.livespotting.tv/windit-edge/vv137_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Oberwiesenthal - Hotel Fichtelberghaus [M3U8]
+http://stream.livespotting.tv/windit-edge/vv30_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Oldenburg - Nordwest-Zeitung [M3U8]
+http://stream.livespotting.tv/windit-edge/vv91_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Passau - Hotel Konig [M3U8]
+http://stream.livespotting.tv/windit-edge/vv98_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Pelzerhaken - Lubecker Bucht [M3U8]
+http://stream.livespotting.tv/windit-edge/vv8_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Pertisau am Achensee - Bergstation [M3U8]
+http://stream.livespotting.tv/windit-edge/vv126_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Potsdam - Hotel Am Luisenplatz [M3U8]
+http://stream.livespotting.tv/windit-edge/vv110_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Rostock - Apartment Living Hotel [M3U8]
+http://stream.livespotting.tv/windit-edge/vv89_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Rostock - Hotel Sportforum [M3U8]
+http://stream.livespotting.tv/windit-edge/vv119_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Saarbrucken - La Residence [M3U8]
+http://stream.livespotting.tv/windit-edge/vv68_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Sankt Peter-Ording - Beach Motel [M3U8]
+http://stream.livespotting.tv/windit-edge/vv129_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Scharbeutz - Lubecker Bucht [M3U8]
+http://stream.livespotting.tv/windit-edge/vv41_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Schwangau - Schloss Neuschwanstein [M3U8]
+http://stream.livespotting.tv/windit-edge/vv108_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Schwerin - Com In IT Solution Center [M3U8]
+http://stream.livespotting.tv/windit-edge/vv97_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",St. Anton am Arlberg [M3U8]
+http://stream.livespotting.tv/windit-edge/vv21_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Stralsund - Hotel Hafenresidenz [M3U8]
+http://stream.livespotting.tv/windit-edge/vv132_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Timmendorfer Strand [M3U8]
+http://stream.livespotting.tv/windit-edge/vv9_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Torfhaus - Harz [M3U8]
+http://stream.livespotting.tv/windit-edge/vv52_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Travemunde - Strand [M3U8]
+http://stream.livespotting.tv/windit-edge/vv54_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Tubingen - Casino am Neckar [M3U8]
+http://stream.livespotting.tv/windit-edge/vv109_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Tubingen - Heindl Internet AG [M3U8]
+http://stream.livespotting.tv/windit-edge/vv104_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Ulm - Hotel Blaubeurer Tor [M3U8]
+http://stream.livespotting.tv/windit-edge/vv66_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Warnemunde - Best Western Hotel [M3U8]
+http://stream.livespotting.tv/windit-edge/vv20_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Warnemunde - Yachthafen [M3U8]
+http://stream.livespotting.tv/windit-edge/vv4_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Weimar - HotelPension am Goethehaus [M3U8]
+http://stream.livespotting.tv/windit-edge/vv92_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Westerland - Sylt [M3U8]
+http://stream.livespotting.tv/windit-edge/vv43_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Wiek - Rugen [M3U8]
+http://stream.livespotting.tv/windit-edge/vv25_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Wolfsburg - Stadt Wolfsburg [M3U8]
+http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Wurzburg - Hotel Alter Kranen [M3U8]
+http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Braunau am Inn - Oberosterreich [M3U8]
+http://92.39.160.45:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Sonntagberg
+http://62.93.76.201:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Maria Enzersdorf - Niederosterreich
+http://77.119.243.136:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Salzburg 01
+http://213.153.61.185:8084/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Salzburg 02
+http://195.70.117.61:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Rauris - Rauriser Marktplatz
+http://195.70.107.151:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Rauris Talblick
+http://195.70.109.177:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Jerzens - Tirol - Airport
+http://83.218.163.132:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Salzburg - Berggasthof BiBerg
+http://85.199.24.194:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Uetliberg
+http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Basel-Stadt - Neubau Biozentrum
+http://131.152.126.150:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Stalder Kucher
+http://213.200.245.146:83/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 01
+http://130.223.93.252:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 02
+http://webcam2.etvj.rcv.ch:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Unknown
+http://195.176.31.70:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Schwyz
+http://83.78.117.160:90/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Plougonvelin - Bretagne [M3U8]
+http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Saint Malo - Les Thermes Marins de Saint Malo [Limited]
+http://webcam.st-malo.com/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XMFAq9t.png" group-title="BELGIUM",Mechelen - Antwerpen
+http://94.227.131.77:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio - St. Peter's Basilica
+http://93.146.249.144:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio
+http://85.33.43.238:9000/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Pisa - Toscana
+http://79.5.248.181:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Imperia - Liguria - Villaggio dei Fiori 01
+http://82.215.181.133:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Imperia - Liguria - Villaggio dei Fiori 02
+http://82.215.181.133:82/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Imperia - Liguria - Villaggio dei Fiori 03
+http://82.215.181.133:83/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Carcavelos [M3U8]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Costa Da Caparica [M3U8]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Da Ericeira [M3U8]
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Da Luz [M3U8]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Aveiro [M3U8]
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Espinho [M3U8]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Peniche [M3U8]
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Sao Pedro [M3U8]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Sao Torpes [M3U8]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Do Guincho [M3U8]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Do Norte [M3U8]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Grande [M3U8]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Leca Da Palmeira [M3U8]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Liga Moche Surfe [M3U8]
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Madeira Jardim Do Mar [M3U8]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Matosinhos [M3U8]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Ribeira [M3U8]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Santa Cruz [M3U8]
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Supertubos [M3U8]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XgUFU2n.png" group-title="BRAZIL",Rio de Janeiro - Praia de Copacabana [M3U8]
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XgUFU2n.png" group-title="BRAZIL",Rio de Janeiro - Radio FM O Dia 100.5 Webcam
+FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",Burgos
+http://37.35.189.15:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",La Laguna - Tenerife - BRT Tenerife
+http://161.72.25.11:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Saint Petersburg Ice Hockey
+http://109.167.205.106:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Karachay-Cherkessia - Zelenchukskaya Observatory
+http://83.239.123.252:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Ryazan Oblast - Vyshenski Monastyr
+http://212.26.225.115:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Sverdlovsk Oblast - Lukino-Varino
+http://46.160.244.38:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Korolyov - Moscow Oblast - Korolev Sity
+http://46.160.254.214:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Tver - Treknsvyatskaya + Radisheva
+http://213.135.85.118:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Perm Krai - Perm
+http://77.43.144.59:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Penza - Penza Oblast - Pushkina 43
+http://85.237.63.165:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Vladimir - Vladimir Oblast
+http://84.53.206.194:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Dolgoprudny Planernay
+http://87.228.103.93:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Hyb3JEY.png" group-title="BELARUS",Radio Racja
+http://live.racyja.com:85/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6OEMrFw.png" group-title="UKRAINE",Kiev
+http://31.42.168.71:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Chrzanowice - Gomunice Lodzkie
+http://91.222.109.142:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Tarnow - Malopolskie - Starodabrowska Polnoc
+http://95.174.36.75:8084/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Brno - Brno University of Technology
+http://147.229.26.166:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Vnorovy - South Moravian Region
+http://46.167.192.142:82/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Prague - Schneider + Gemsa
+http://193.85.239.148:86/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Uvaly - Stredocesky Kraj
+http://89.203.137.206:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Zlin
+http://77.48.209.214:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Baska - Moravskoslezsky Kraj
+http://217.197.149.7:88/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Velke Mezirici - Vysocina Kraj
+http://78.156.144.221:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aGhVfMd.png" group-title="SLOVAKIA",Malacky 01
+http://78.41.175.170:2000/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aGhVfMd.png" group-title="SLOVAKIA",Malacky 02
+http://78.41.175.170:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FeGQull.png" group-title="BULGARIA",Ruse
+http://212.25.48.117:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/I19bniu.png" group-title="ISRAEL",Naor Webcam
+http://212.199.69.238:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FONQn9A.png" group-title="IRAN",Esfahan
+http://188.136.237.116:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/chRXCZV.png" group-title="EGYPT",Sharm Ash Shaykh - Janub Sina
+http://41.33.141.146:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai - Skyline [M3U8]
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+
