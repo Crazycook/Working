@@ -59,3 +59,8 @@
 <thumbnail></thumbnail>
 </item>
 
+</item>
+<title>autoiptv</title>
+<link>https://playlist.autoiptv.net/normal.php</link>
+<thumbnail></thumbnail>
+</item>
