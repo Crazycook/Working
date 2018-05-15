@@ -3,67 +3,51 @@
 
 <channels>
 <channel>
-<name>Live TV</name>
-<thumbnail>http://i.imgur.com/ZD2XwP0.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Live-TV/home.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Fluxus IPTV</name>
+<thumbnail>https://3.bp.blogspot.com/-l8hZAIikGhE/Wa-XKR-x4iI/AAAAAAAAA90/aLWcwSePvcEsB5Gtk6eIxmLzuLxiUvp5ACLcBGAs/s320/FluxusIPTVBlue.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/iptv.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Music</name>
+<nameFluxus Radio</name>
 <thumbnail>http://i.imgur.com/NDZ9z4Q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Music/home.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Movies</name>
-<thumbnail>http://i.imgur.com/BOgwUAR.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Movies/home.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Fluxus Cinema</name>
+<thumbnail>https://1.bp.blogspot.com/-7wlDqDQ5ObA/WZ38Oe7C9NI/AAAAAAAAA3o/gTxmp8_Po_sOkg4AFJSyiORqp1xzCrXfwCLcBGAs/s320/FCinemaHNew.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/cinema.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Radio</name>
-<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/radio/home.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Fluxus Faith</name>
+<thumbnail>https://4.bp.blogspot.com/-Lb7hLrRu-uk/WZYw5SggX8I/AAAAAAAAA0o/t2YR9XI8xk4101lVb2w0UV5s1KKdKGz0wCLcBGAs/s320/FluxusFaithH.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/faith.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>TV Series</name>
-<thumbnail>http://i.imgur.com/VCHcpFQ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Tv-Series/home.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Fluxus CCTV</name>
+<thumbnail>https://4.bp.blogspot.com/-B_ST8QBEdFc/WZypY7po-2I/AAAAAAAAA1w/Q4znCiax19k1MDQ_9ziqz6RVJMvhMrTuwCEwYBhgL/s320/fcctvhornew.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/cctv.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
 </channel>
 
 <channel>
-<name>Webcams</name>
-<thumbnail>http://i.imgur.com/VCHcpFQ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/master/Webcams.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<name>Fluxus Lust</name>
+<thumbnail>https://3.bp.blogspot.com/-iEXS5Rp0LUM/WZ4plyRMU6I/AAAAAAAAA5Q/c4exNnCRyAsZ3JNDCIv6PCDAs3NzDDy1gCLcBGAs/s320/FluxusLustH.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/xxx.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
 <info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>Tubtub</name>
-<thumbnail>http://tubtub.com/TubTubPhaseIItempSite_files/TubTubPhaseIItempSite_7413_image002.gif</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/master/Tubtub.txt</externallink>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
-<name>Youtube</name>
-<thumbnail>http://i.imgur.com/NOpYjvH.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/master/youtube.txt</externallink>
-<fanart>http://i.imgur.com/wdS9nhB.jpg</fanart>
-<info>The Weird side of the Internet</info>
 </channel>
 
 </channels>
