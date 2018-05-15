@@ -3,17 +3,17 @@
 <channels>
 
 <channel>
-<name>alberto</name>
+<name>Bikersday lista</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/alberto.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/bikersdaylista.m3u</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
 
 <channel>
-<name>de</name>
+<name>djcarlitosIPTV</name>
 <thumbnail>http://i.imgur.com/JMb8Atb.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/de.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/djcarlitosIPTV.m3u</externallink>
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
