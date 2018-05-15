@@ -58,9 +58,4 @@
 <link>plugin://program.plexus/?mode=1&amp;url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>fluxus</title>
-<m3u>https://dl.dropboxusercontent.com/s/a4ugvxpl47zap3z/radio.m3u</m3u>
-<thumbnail></thumbnail>
-</item>
 
