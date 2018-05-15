@@ -8,4 +8,12 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channel>
+<nameFluxus Radio</name>
+<thumbnail>https://i.imgur.com/MUX8tyB.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus-TV/radio.m3u</externallink>
+<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
 </channels>
