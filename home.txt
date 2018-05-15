@@ -1,5 +1,3 @@
-<layouttype>thumbnail</layouttype>
-
 <channel>
 <name>Fluxus Faith</name>
 <thumbnail>https://i.imgur.com/cgH6xgG.png</thumbnail>
