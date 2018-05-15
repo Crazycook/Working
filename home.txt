@@ -28,14 +28,6 @@
 </channel>
 
 <channel>
-<name>Fluxus Faith</name>
-<thumbnail>https://4.bp.blogspot.com/-Lb7hLrRu-uk/WZYw5SggX8I/AAAAAAAAA0o/t2YR9XI8xk4101lVb2w0UV5s1KKdKGz0wCLcBGAs/s320/FluxusFaithH.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/faith.m3u</externallink>
-<fanart>https://3.bp.blogspot.com/-IItJ_Ki4rQE/Wszm5CN0suI/AAAAAAAADA0/eGnav96WIjM19v4X82KPEv6T4xlg5JmBACK4BGAYYCw/s1600/FluxusSkinny2.png</fanart>
-<info>DiRTYBURGER Streams</info>
-</channel>
-
-<channel>
 <name>Fluxus CCTV</name>
 <thumbnail>https://4.bp.blogspot.com/-B_ST8QBEdFc/WZypY7po-2I/AAAAAAAAA1w/Q4znCiax19k1MDQ_9ziqz6RVJMvhMrTuwCEwYBhgL/s320/fcctvhornew.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Crazycook/Working/Fluxus.tv/cctv.m3u</externallink>
