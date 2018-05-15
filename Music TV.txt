@@ -404,11 +404,13 @@
 <thumbnail>http://i.imgur.com/HwAQnHu.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+#EXTINF:0 group-title="(UK) United Kingdom",
+
 
 <item>
-<title>Kronehit</title>
-<link>http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8</link>
-<thumbnail>http://i.imgur.com/i1ggG2b.jpg</thumbnail>
+<title>KOOL RADIO | SD (UK)</title>
+<link>http://w10.streamgb.com:1935/kool/kool/playlist.m3u</link>
+<thumbnail>https://i.imgur.com/gVx6GuA.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -660,13 +662,6 @@
 </item>
 
 <item>
-<title>radioutv</title>
-<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
-<thumbnail>https://i.imgur.com/8Q8vVM3.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
 <title>PBN Music</title>
 <link>http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/yX8CKx3.png</thumbnail>
@@ -700,6 +695,15 @@
 <thumbnail>https://i.imgur.com/0TJ0OBW.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+#EXTINF:0 group-title="(SA) Saudi Arabia", | SD (SA)
+
+
+<item>
+<title>RADIO ASAL</title>
+<link>http://66.160.192.250:8080/asaltv/live/index.m3u8</link>
+<thumbnail>https://i.imgur.com/ANsiLnn.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>RADIO 105 TV</title>
@@ -726,6 +730,13 @@
 <title>Radio Musichie Luna TV Partenopeo</title>
 <link>mmsh://83.216.165.134/rltv?MSWMExt=.asf</link>
 <thumbnail>https://i.imgur.com/KPdIE5M.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>radioutv</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
+<thumbnail>https://i.imgur.com/8Q8vVM3.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
