@@ -6,7 +6,13 @@
 </item>
 
 <item>
-<title>3ABN Latino/title>
+<title>3ABN</title>
+<link>http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-3abn_multi/_definst_/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f5/3ABN_Network_Logo.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+<item>
+<title>3ABN Latino</title>
 <link>http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f5/3ABN_Network_Logo.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
@@ -97,9 +103,23 @@
 </item>
 
 <item>
+<title>Daystar</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8</link>
+<thumbnail>http://i.imgur.com/ZRfo17Z.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>DrTV</title>
 <link>http://jimmyadamsmedia.mpl.miisolutions.net:1935/jimmyadamsmedia-live-1/smil:DRTV.smil/playlist.m3u8</link>
 <thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Emmanuel TV</title>
+<link>http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8</link>
+<thumbnail>https://i.imgur.com/mSLnQji.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -233,6 +253,14 @@
 <title>Omega (Iceland)</title>
 <link>http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8</link>
 <thumbnail>http://old.omega.is/Broadcast_files/image002.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:0, tvg-logo="" group-title="Teaching",
+
+<item>
+<title>Praise Temple</title>
+<link>http://cdn.media7.truegod.tv/ptlive/smil:praisetemple.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/3bXmdZl.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
