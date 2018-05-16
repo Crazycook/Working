@@ -302,7 +302,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>PAC-12 Net. (Arizona)</title>
-<link>http://xrxs.net/video/live-p12ariz-4728.m3u8?</link>
+<link>http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8</link>
 <thumbnail>https://i.imgur.com/xNHDDG1.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -316,14 +316,14 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>PAC-12 Net. (Bay Area)</title>
-<link>http://xrxs.net/video/live-p12baya-4728.m3u8?</link>
+<link>http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8</link>
 <thumbnail>https://i.imgur.com/0nZVP7Y.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>PAC-12 Net. (Los Angeles)</title>
-<link>http://xrxs.net/video/live-p12losa-4728.m3u8?</link> 
+<link>http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8</link> 
 <thumbnail>https://i.imgur.com/5iPdi3A.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -337,21 +337,14 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>PAC-12 Net. (Moutain)</title>
-<link>http://xrxs.net/video/live-p12moun-4728.m3u8?</link>
-<thumbnail>https://i.imgur.com/96oPVY7.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>PAC-12 Net. (Moutain)</title>
-<link>http://xrxs.net/video/live-p12moun-2328.m3u8</link>
+<link>http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8</link>
 <thumbnail>https://i.imgur.com/96oPVY7.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
 <item>
 <title>PAC-12 Net. (Oregon)</title>
-<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<link>http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8</link>
 <thumbnail>https://i.imgur.com/wAGi4NP.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
@@ -365,14 +358,7 @@ bfm sports<link>http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/
 
 <item>
 <title>PAC-12 Net. (Washington)</title>
-<link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
-<thumbnail>https://i.imgur.com/WIBvu9n.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>PAC-12 Net. (Washington)</title>
-<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+<link>http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master</link>
 <thumbnail>https://i.imgur.com/WIBvu9n.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
