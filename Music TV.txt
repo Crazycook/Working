@@ -6,6 +6,20 @@
 </item>
 
 <item>
+<title>ONE BY HD</title>
+<link>http://rtmp.one.by:1300</link>
+<thumbnail>https://i.imgur.com/70ngEZF.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>ONE BY 2HD</title>
+<link>http://rtmp.one.by:230</link>
+<thumbnail>https://i.imgur.com/70ngEZF.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>1Music</title>
 <link>http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail>http://live.moldova9.com/wp-content/uploads/1-music-channel1.png</thumbnail>
