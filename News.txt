@@ -314,28 +314,6 @@
 <thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-#EXTINF:0, tvg-logo="" group-title="",
-
-<item>
-<title>Bloomberg</title>
-<link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8</link>
-<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Bloomberg</title>
-<link>http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8</link>
-<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Bloomberg</title>
-<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
-<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
 
 <item>
 <title>BBC News</title>
