@@ -472,6 +472,49 @@
 </item>
 
 <item>
+<title>MUSIC CHOICE</title>
+<link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music Choice - KIDS ONLY </title>
+<link>http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8 </link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music Choice - POP HITS </title>
+<link>http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 </link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<titleMusic Choice - DANCE EDM </title>
+<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Music Choice - HIT LIST </title>
+<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8 </link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+ 
+<item>
+<title>Music Choice - INDIE</title>
+<link>http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/CYLx5we.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+
+<item>
 <title>Radio Monte Carlo Tv</title>
 <link>rtmp://fms.105.net/live/rmc1</link>
 <thumbnail>http://i.imgur.com/gxJyOmp.png</thumbnail>
@@ -914,6 +957,21 @@
 <title>Visual Radio TV</title>
 <link>http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u</link>
 <thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>XITE BASE</title>
+<link>http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8</link>
+<thumbnail>https://i.imgur.com/nUK2yBx.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:0,
+
+<item>
+<title>XITE POP</title>
+<link>http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/YBlTBtG.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
