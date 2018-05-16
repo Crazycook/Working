@@ -1,7 +1,15 @@
 <item>
+
+
 <item>
 <title>Christianity</title>
 <link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/christianity/all.m3u8</link>
+<thumbnail>http://slideplayer.com/slide/10397769/35/images/1/Christianity.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prosperity</title>
+<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/christianity/prosperity.m3u8</link>
 <thumbnail>http://slideplayer.com/slide/10397769/35/images/1/Christianity.jpg</thumbnail>
 </item>
 
