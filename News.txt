@@ -344,6 +344,34 @@
 </item>
 
 <item>
+<title>CTV News Live Events 1</title>
+<link>http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 2</title>
+<link>=</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 3</title>
+<link>http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CTV News Live Events 4</title>
+<link>http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8</link>
+<thumbnail>https://i.imgur.com/YNLjAj9.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>Sky News</title>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
 <thumbnail>http://i.imgur.com/hUma1JP.jpg</thumbnail>
@@ -370,7 +398,13 @@
 <thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
-#EXTINF:0, tvg-logo="" group-title="",TWiT
+
+<item>
+<title>Infowars</title>
+<link>http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/master.m3u8</link>
+<thumbnail>https://i.imgur.com/5Tq9ZSK.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>TWiT</title>
