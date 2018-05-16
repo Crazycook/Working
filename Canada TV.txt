@@ -1,10 +1,37 @@
 ﻿<item>
-#EXTINF:0, group-title="Punjabi",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8 
+
+<item>
+<title>Assemblee Nationale du Quebec (French)</title>
+<link>http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 <item>
 <title>BBC Toronto</title>
 <link>http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8 </link>
 <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canadian Arab TV</title>
+<link>http://192.226.228.32:8080/hls/catv/index.m3u8 </link>
+<thumbnail>https://catvmedia.ca/wp-content/uploads/2018/01/HD.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canada Tamils TV</title>
+<link>http://live.streamjo.com:1935/cctv/live/playlist.m3u8 </link>
+<thumbnail>http://watchmobiletv.com/assets/thumbs/CANADA_TAMILS_TV.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Canal Savoir (French)</title>
+<link>http://stream.canalsavoir.tv/livestream/stream.m3u8</link>
+<thumbnail>http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
@@ -64,6 +91,20 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 </item>
 
 <item>
+<title>CBC News</title>
+<link>http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8</link>
+<thumbnail>http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>CBC News Network (Geo)</title>
+<link>https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8</link>
+<thumbnail>http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>CBC (FRE)(CAN)</title>
 <link>http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/index_1200_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/DSM5OlY.png</thumbnail>
@@ -98,6 +139,7 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
 
+
 <item>
 <title>CHCH</title>
 <link>http://52.86.189.59:1935/live/news/playlist.m3u8</link>
@@ -127,6 +169,22 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 </item>
 
 <item>
+<title>NTV Newfoundland</title>
+<link>http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8</link>
+<thumbnail>https://vignette.wikia.nocookie.net/jeopardyhistory/images/3/32/Cjon_ntv_st_john.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANADA",
+
+<item>
+<title>Tele-Quebec</title>
+<link>https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8</link>
+<thumbnail>https://ctvm.info/wp-content/uploads/2016/10/TQ-logoCorpoRGB.jpg</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
 <title>The Weather Network (Live Feed)</title>
 <link>https://bcsecurelivehls-i.akamaihd.net/hls/live/261940/1942203455001/nat/master_Layer4.m3u8</link>
 <thumbnail>http://i.imgur.com/AhUCu4Y.jpg</thumbnail>
@@ -144,19 +202,5 @@ http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 <title>The Shopping Channel</title>
 <link>http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8</link>
 <thumbnail>http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Assemblee Nationale du Quebec (French)</title>
-<link>http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png</thumbnail>
-<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
-</item>
-
-<item>
-<title>Canal Savoir (French)</title>
-<link>http://stream.canalsavoir.tv/livestream/stream.m3u8</link>
-<thumbnail>http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
