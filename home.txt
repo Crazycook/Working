@@ -11,4 +11,12 @@
 <info>DiRTYBURGER Streams</info>
 </channel>
 
+<channel>
+<name>Entertainment</name>
+<thumbnail>http://i.imgur.com/ZYIkP25.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/notanewbie-LealStream/Entertainment.txt</externallink>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+<info>DiRTYBURGER Streams</info>
+</channel>
+
 </channels>
