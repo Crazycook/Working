@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0, tvg-logo="" group-title="",Adult Swim
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Adult Swim Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Black Jesus 24/7
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Eric Andre Show 24/7
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Mr. Pickles 24/7
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Rick and Morty 24/7
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Squidbillies 24/7
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Tim and Eric 24/7
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Venture Bros. 24/7
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Williams Stream 24/7
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1, tvg-logo="" group-title="",HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Public TV
+http://cdn-11.bonus-tv.ru/publictv/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="",World Fashion International
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="",BYUTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Law & Crime
+https://ssai.ooyala.com/hls/delta/cflive-use/out/u/yanejvyjuqpw5/111827/43OWVjZTE65GskF69ZcXWykXcnScRY5u/cn/d55a880cca4b4b0d8705ae78f89c2960.m3u8
+#EXTINF:0, tvg-logo="" group-title="",SupTV
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:0, tvg-logo="" group-title="",TACH
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0, tvg-logo="" group-title="",The Shopping Channel Canada
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0, tvg-logo="" group-title="",TUFF TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Yes TV
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
+#EXTINF:0, tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="Cartoons",PBS Kids Channel
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0, tvg-logo="https://thebridgesweburn.com/wp-content/uploads/2017/04/90.jpg" group-title="Cartoons",Steven Universe 24/7
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Nature Vision
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Pursuit Channel
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="",Relax.TV
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="", NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0, tvg-logo="" group-title="", NASA TV Media Channel
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
