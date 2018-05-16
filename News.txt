@@ -280,6 +280,43 @@
 </item>
 
 <item>
+<title>Biz TV</title>
+<link>https://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/manifest.m3u8</link>
+<thumbnail>https://i.imgur.com/q1vanyE.png</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg Asia</title>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:0, tvg-logo="" group-title="",
+
+<item>
+<title>Bloomberg Australia</title>
+<link>https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg Europe</title>
+<link>https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg US</title>
+<link>https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8</link>
+<thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+#EXTINF:0, tvg-logo="" group-title="",
+
+<item>
 <title>Bloomberg</title>
 <link>http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8</link>
 <thumbnail>https://i.imgur.com/duRSe3U.gif</thumbnail>
@@ -355,6 +392,15 @@
 <thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+#EXTINF:0, tvg-logo="" group-title="",TWiT
+
+<item>
+<title>TWiT</title>
+<link>http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/anAwuxu.gif</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
+
 
 <item>
 <title>India TV</title>
