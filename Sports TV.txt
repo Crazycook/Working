@@ -32,6 +32,15 @@
 <thumbnail>https://i.imgur.com/c8Ydl2Y.png</thumbnail>
 <fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
 </item>
+#EXTINF:0, tvg-logo="https://cbsbaltimore.files.wordpress.com/2017/02/1057_os-featuredimage_628x353.jpg?w=628" group-title="Local Sports",105.7 The Fan
+http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+<item>
+<title>105.7 The Fan</title>
+<link>http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
+<item></link>
+<thumbnail>https://cbsbaltimore.files.wordpress.com/2017/02/1057_os-featuredimage_628x353.jpg?w=628</thumbnail>
+<fanart>http://i.imgur.com/Bn5H9LA.png</fanart>
+</item>
 
 <item>
 <title>Abu Dhabi Sports</title>
