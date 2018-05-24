@@ -17,4 +17,13 @@
 <fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
 <info>F4mTester Required for this section</info>
 </channel>
+
+<channel>
+<name>CCloud Atom</name>
+<thumbnail>https://koditips.com/wp-content/uploads/kodi-ccloud.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Crazycook/Working/F4mTester/ccloud-atom.txt</externallink>
+<fanart>https://i.ytimg.com/vi/RGluXczElHI/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
 </channels>
