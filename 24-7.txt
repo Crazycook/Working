@@ -1,6 +1,13 @@
 ﻿<item>
 
 <item>
+<title>CNN Live - Lava Flow Hawaii</title>
+<link>https://cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/index_Layer5.m3u8</link>
+<thumbnail>https://i.imgur.com/uFYqjmQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/tQjbbuw.jpg</fanart>
+</item>
+
+<item>
 <title>Christmas Fireplace</title>
 <link>http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8</link>
 <thumbnail>http://i.imgur.com/DSBjpDP.jpg</thumbnail>
